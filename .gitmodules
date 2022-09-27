@@ -1,0 +1,3 @@
+[submodule "themes/huguette-fabandmina"]
+	path = themes/huguette-fabandmina
+	url = https://github.com/fabandmina/hugo-theme-huguette-fabandmina
