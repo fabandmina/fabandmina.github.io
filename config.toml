@@ -1,3 +1,37 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://fabandmina.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "huguette-fabandmina"
+
+sectionPagesMenu = "main"
+
+[params]
+css = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+  identifier = 'trip'
+  name = 'Trips'
+  url = '/trip/'
+  weight = -500
+
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact/'
+  weight = -110
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About Us'
+  url = '/about/'
+  weight = -110
+
+[[menu.main]]
+  identifier = 'support'
+  name = 'Support Us'
+  url = '/support/'
+  weight = -110
