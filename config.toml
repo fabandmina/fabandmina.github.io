@@ -1,6 +1,6 @@
 baseURL = 'http://fabandmina.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 
 sectionPagesMenu = "main"
