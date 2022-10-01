@@ -1,0 +1,20 @@
+---
+title: "About Us"
+subtitle: "Fab and Mina"
+introduction: 
+date: 2022-10-01T20:33:03+02:00
+thumbnail:
+tags: bio
+---
+We are Fab and Mina!
+We met in New Zeland and have travelled a few countries together since then (New Caledonia, Okinawa, Taiwan, France...).
+We mainly use slow means of transportation. It makes our trips more fun and interesting.
+We are curious and adventurous, but what we enjoy the most is trying new food!
+
+Fab was born and raised in Noumea, New Caledonia. 
+He studied IT at university in France and Canada.
+After a few years of work in New Caledonia, in 2018 he decided to give up on having a stable job and start cycling across New Zealand, where he met Mina.
+
+Mina was born and raised in Tokyo, Japan.
+After graduating from an Architecture school in Kyoto, she worked in a local atelier several years. At the same time, she became a café barista as a side job.
+In 2016, she quit her atelier to become a full-time traveler. After visiting about 50 countries, she flew to New Zeland in order to tour the two main islands by bicycle. She met Fab on her way.
