@@ -15,7 +15,7 @@ You can help us by donating a little money via the button above. It will allow u
 
 ## Become a sponsor
 We would be happy to represent your brand if your business matches our values and interests. If you think we can be an asset for your communication strategy, please contact us via the contact form.
-We would particularly interested in receiving the following items from you:
+We would be particularly interested in receiving the following items from you:
 - 2-person tent
 - tools
 - clothing
