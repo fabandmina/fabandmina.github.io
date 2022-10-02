@@ -9,7 +9,7 @@ tags: bio
 # Thanks for your support!
 
 ## Donate
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/3m9st4-help-us-travel/widget/small/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+{{< donate >}}
 
 You can help us by donating a little money via the button above. It will allow us to treat ourselves better on the way.
 

@@ -21,3 +21,6 @@ After a few years of work in New Caledonia, in 2018 he decided to become a full-
 was born and raised in Tokyo, Japan.
 After graduating from University as an architect student, she worked at a local atelier in Kyoto. At the same time, she became a café barista as a side job.
 In 2016, she quit her atelier to become a full-time traveler. After visiting about 50 countries, she flew to New Zeland in order to tour the two main islands by bicycle. She met Fab on her way.
+
+## In the media
+{{< media >}}
