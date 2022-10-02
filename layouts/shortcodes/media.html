@@ -1,0 +1,10 @@
+<ul>
+    {{ with .Site.Params.instagram_link }}
+    <li><a href="{{- . -}}"><i class="fa-brands fa-instagram"></i> Instagram</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Params.francetvinfo_link }}
+    <li><a href="{{- . -}}"><i class="fa-regular fa-newspaper"></i> France Info</a>
+    </li>
+    {{ end }}
+</ul>
