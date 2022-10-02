@@ -10,13 +10,16 @@ sectionPagesMenu = "main"
 css = true
 instagram_link = "https://www.instagram.com/fabandmina/"
 francetvinfo_link = "http://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html?fbclid=IwAR2SR_-OBBLVUra7L8jkOvHtHwkKLXs1taky8WGmbf3ixXeQz4rO6vFZm20"
-
+banner = "https://live.staticflickr.com/65535/52397221771_6e12984b48_z.jpg"
+subtitle = "Around the world!"
 
   [params.shareButtons]
   networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]
   size = "small"
   icon = "solid"
   buttonMargin = "0.2em"
+
+
 
 [markup.goldmark.renderer]
 unsafe = true
