@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 
-copyright = "Copyright 2007-{year} Fabien TRAN VAN HUNG All rights reserved."
+copyright = "Copyright 2022-{year} Fabien TRAN VAN HUNG All rights reserved."
 sectionPagesMenu = "main"
 
 [params]
