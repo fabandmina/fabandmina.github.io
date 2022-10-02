@@ -21,6 +21,7 @@ We would be particularly interested in receiving the following items from you:
 - clothing
 - bike accessories
 - backpacks
+- telecom subscription
 
 ## Accommodate us on the way
 Sometimes, we need to stay overnight at a sheltered place. It could be a place in your garden, a corner in your garage... We would be glad to share our adventures with you around a cup of tea.
