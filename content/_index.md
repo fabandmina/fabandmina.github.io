@@ -7,7 +7,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 ---
 
 # Welcome to our web page
-## Who are we
+## Who are we?
 We are a travelling couple and this is our web page.
 We try to explore the world by using alternative means of transportation.
 For this purpose, we mainly travel by bicycle, on foot or by hitchhiking.
