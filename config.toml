@@ -10,8 +10,9 @@ sectionPagesMenu = "main"
   css = true
   instagram_link = "https://www.instagram.com/fabandmina/"
   francetvinfo_link = "http://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html?fbclid=IwAR2SR_-OBBLVUra7L8jkOvHtHwkKLXs1taky8WGmbf3ixXeQz4rO6vFZm20"
-  banner = "https://cdn.pixabay.com/photo/2016/10/04/18/19/map-of-the-world-1715049_960_720.jpg"
+  banner = "https://piskel-imgstore-b.appspot.com/img/be7f5db3-44e7-11ed-8f4b-efcdd3f462cf.gif"
   subtitle = "Around the world!"
+  logo = "https://piskel-imgstore-b.appspot.com/img/bce8f69c-44e3-11ed-92e2-efcdd3f462cf.gif"
 
   [params.shareButtons]
   networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]
