@@ -20,8 +20,6 @@ sectionPagesMenu = "main"
   icon = "solid"
   buttonMargin = "0.2em"
 
-
-
 [markup.goldmark.renderer]
   unsafe = true
 
