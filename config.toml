@@ -1,5 +1,5 @@
 #### Base parametres ####
-basepageref ='http://fabandmina.github.io/'
+baseurl ='http://fabandmina.github.io/'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 copyright = "Copyright 2022-{year} Fabien TRAN VAN HUNG All rights reserved."
@@ -20,32 +20,32 @@ disableLanguages = ['jp']
     [[languages.en.menu.main]]
       identifier = 'home'
       name = 'Home'
-      pageref ='/en'
+      pageref ='/'
       weight = 1
     [[languages.en.menu.main]]
       identifier = 'trip'
       name = 'Trips'
-      pageref ='/en/trip'
+      pageref ='/trip'
       weight = 2
     [[languages.en.menu.main]]
       identifier = 'gears'
       name = 'Gears'
-      pageref ='/en/gears'
+      pageref ='/gears'
       weight = 3
     [[languages.en.menu.main]]
       identifier = 'contact'
       name = 'Contact'
-      pageref ='/en/contact'
+      pageref ='/contact'
       weight = 4
     [[languages.en.menu.main]]
       identifier = 'about'
       name = 'About Us'
-      pageref ='/en/about'
+      pageref ='/about'
       weight = 5
     [[languages.en.menu.main]]
       identifier = 'support'
       name = 'Support Us'
-      pageref ='/en/support'
+      pageref ='/support'
       weight = 6
 
   ### French ###
@@ -57,31 +57,31 @@ disableLanguages = ['jp']
     [[languages.fr.menu.main]]
       identifier = 'home'
       name = 'Accueil'
-      pageref ='/fr'
+      pageref ='/'
       weight = 1
     [[languages.fr.menu.main]]
       identifier = 'trip'
-      pageref ='/fr/trip'
+      pageref ='/trip/'
       name = 'Voyages'
       weight = 2
     [[languages.fr.menu.main]]
       identifier = 'gears'
-      pageref ='/fr/gears'
+      pageref ='/gears'
       name = 'Équipements'
       weight = 3
     [[languages.fr.menu.main]]
       identifier = 'contact'
-      pageref ='/fr/contact'
+      pageref ='/contact'
       name = 'Contacts'
       weight = 4
     [[languages.fr.menu.main]]
       identifier = 'about'
-      pageref ='/fr/about/'
+      pageref ='/about/'
       name = 'À propos'
       weight = 5
     [[languages.fr.menu.main]]
       identifier = 'support'
-      pageref ='/fr/support'
+      pageref ='/support'
       name = 'Aidez-nous'
       weight = 6
   
@@ -90,6 +90,8 @@ disableLanguages = ['jp']
     title = "ファブトミナ"
     languageName = "🇯🇵"
     weight = 3
+
+
 
 ### Other parametres ###
 [params]
