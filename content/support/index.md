@@ -6,8 +6,6 @@ date: 2022-10-01T20:33:03+02:00
 thumbnail:
 tags: bio
 ---
-# Thanks for your support!
-
 ## Donate
 {{< donate >}}
 
@@ -25,3 +23,6 @@ We would be particularly interested in receiving the following items from you:
 
 ## Accommodate us on the way
 Sometimes, we need to stay overnight at a sheltered place. It could be a place in your garden, a corner in your garage... We would be glad to share our adventures with you around a cup of tea.
+
+# Thanks for your support!
+![Fab avatar]({{< param avatar_fabandmina>}})

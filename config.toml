@@ -13,6 +13,10 @@ sectionPagesMenu = "main"
   banner = "https://piskel-imgstore-b.appspot.com/img/be7f5db3-44e7-11ed-8f4b-efcdd3f462cf.gif"
   subtitle = "Around the world!"
   logo = "https://piskel-imgstore-b.appspot.com/img/bce8f69c-44e3-11ed-92e2-efcdd3f462cf.gif"
+  avatar_fab = "https://piskel-imgstore-b.appspot.com/img/3c6deca1-4506-11ed-9f66-df2e8d43b92e.gif"
+  avatar_mina = "https://piskel-imgstore-b.appspot.com/img/db2facdc-4505-11ed-ac5a-df2e8d43b92e.gif"
+  avatar_fabandmina = "https://piskel-imgstore-b.appspot.com/img/7d794b91-4506-11ed-bd5b-df2e8d43b92e.gif"
+
 
   [params.shareButtons]
   networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]

@@ -3,7 +3,7 @@ title: "Fab And Mina"
 subtitle: "Around the world!"
 introduction: 
 date: 2022-10-01T19:37:02+02:00
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=true&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2430338#2/12.6/81.2"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2430338#2/12.6/81.2"
 ---
 
 # Welcome to our web page
