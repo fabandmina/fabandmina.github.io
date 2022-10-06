@@ -1,10 +1,48 @@
+#### Base parametres ####
 baseURL = 'http://fabandmina.github.io/'
-languageCode = 'en-us'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
-
 copyright = "Copyright 2022-{year} Fabien TRAN VAN HUNG All rights reserved."
 sectionPagesMenu = "main"
+
+### Languages configuration ###
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
+
+disableLanguages = ['jp']
+
+[languages]
+  [languages.en]
+    title = "Fab and Mina"
+    languageName = "🇬🇧"
+    weight = 1
+  
+  [languages.fr]
+    title = "Fab et Mina"
+    languageName = "🇫🇷"
+    weight = 2
+    [[languages.fr.menu.main]]
+      url = '/trip/'
+      name = 'Voyages'
+    [[languages.fr.menu.main]]
+      url = '/gears/'
+      name = 'Équipements'
+    [[languages.fr.menu.main]]
+      url = '/contact/'
+      name = 'Contacts'
+    [[languages.fr.menu.main]]
+      url = '/about/'
+      name = 'À propos'
+    [[languages.fr.menu.main]]
+      url = '/support/'
+      name = 'Aidez-nous'
+
+  [languages.jp]
+    title = "ファブトミナ"
+    languageName = "🇯🇵"
+    weight = 3
+
+
 
 [params]
   css = true
@@ -19,10 +57,10 @@ sectionPagesMenu = "main"
 
 
   [params.shareButtons]
-  networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]
-  size = "small"
-  icon = "solid"
-  buttonMargin = "0.2em"
+    networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]
+    size = "small"
+    icon = "solid"
+    buttonMargin = "0.2em"
 
 [markup.goldmark.renderer]
   unsafe = true
