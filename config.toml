@@ -1,97 +1,121 @@
 #### Base parametres ####
-baseURL = 'http://fabandmina.github.io/'
+basepageref ='http://fabandmina.github.io/'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 copyright = "Copyright 2022-{year} Fabien TRAN VAN HUNG All rights reserved."
 sectionPagesMenu = "main"
 
 ### Languages configuration ###
-languageCode = 'en-us'
-defaultContentLanguage = 'en'
-
+defaultContentLanguage = 'fr'
 disableLanguages = ['jp']
 
 [languages]
+
+  ### English ###
   [languages.en]
+    languageCode = 'en'
     title = "Fab and Mina"
     languageName = "🇬🇧"
     weight = 1
-  
+    [[languages.en.menu.main]]
+      identifier = 'home'
+      name = 'Home'
+      pageref ='/en'
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = 'trip'
+      name = 'Trips'
+      pageref ='/en/trip'
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = 'gears'
+      name = 'Gears'
+      pageref ='/en/gears'
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = 'contact'
+      name = 'Contact'
+      pageref ='/en/contact'
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = 'about'
+      name = 'About Us'
+      pageref ='/en/about'
+      weight = 5
+    [[languages.en.menu.main]]
+      identifier = 'support'
+      name = 'Support Us'
+      pageref ='/en/support'
+      weight = 6
+
+  ### French ###
   [languages.fr]
+    languageCode = 'fr'
     title = "Fab et Mina"
     languageName = "🇫🇷"
     weight = 2
     [[languages.fr.menu.main]]
-      url = '/trip/'
+      identifier = 'home'
+      name = 'Accueil'
+      pageref ='/fr'
+      weight = 1
+    [[languages.fr.menu.main]]
+      identifier = 'trip'
+      pageref ='/fr/trip'
       name = 'Voyages'
+      weight = 2
     [[languages.fr.menu.main]]
-      url = '/gears/'
+      identifier = 'gears'
+      pageref ='/fr/gears'
       name = 'Équipements'
+      weight = 3
     [[languages.fr.menu.main]]
-      url = '/contact/'
+      identifier = 'contact'
+      pageref ='/fr/contact'
       name = 'Contacts'
+      weight = 4
     [[languages.fr.menu.main]]
-      url = '/about/'
+      identifier = 'about'
+      pageref ='/fr/about/'
       name = 'À propos'
+      weight = 5
     [[languages.fr.menu.main]]
-      url = '/support/'
+      identifier = 'support'
+      pageref ='/fr/support'
       name = 'Aidez-nous'
-
+      weight = 6
+  
+  ### Japanese ###
   [languages.jp]
     title = "ファブトミナ"
     languageName = "🇯🇵"
     weight = 3
 
-
-
+### Other parametres ###
 [params]
   css = true
+
+  ### Social media ###
   instagram_link = "https://www.instagram.com/fabandmina/"
   francetvinfo_link = "http://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html?fbclid=IwAR2SR_-OBBLVUra7L8jkOvHtHwkKLXs1taky8WGmbf3ixXeQz4rO6vFZm20"
+  
+  ### Banner & header ###
   banner = "https://piskel-imgstore-b.appspot.com/img/be7f5db3-44e7-11ed-8f4b-efcdd3f462cf.gif"
   subtitle = "Around the world!"
   logo = "https://piskel-imgstore-b.appspot.com/img/bce8f69c-44e3-11ed-92e2-efcdd3f462cf.gif"
+  
+  ### Avatars ###
   avatar_fab = "https://piskel-imgstore-b.appspot.com/img/3c6deca1-4506-11ed-9f66-df2e8d43b92e.gif"
   avatar_mina = "https://piskel-imgstore-b.appspot.com/img/db2facdc-4505-11ed-ac5a-df2e8d43b92e.gif"
   avatar_fabandmina = "https://piskel-imgstore-b.appspot.com/img/7d794b91-4506-11ed-bd5b-df2e8d43b92e.gif"
 
-
+  ### shareButtons ###
   [params.shareButtons]
     networks = [ "facebook", "twitter", "tumblr", "email", "reddit", "whatsapp", "telegram" ]
     size = "small"
     icon = "solid"
     buttonMargin = "0.2em"
 
+### Enable shortcode in .md ###
 [markup.goldmark.renderer]
   unsafe = true
-
-[menu]
-[[menu.main]]
-  identifier = 'trip'
-  name = 'Trips'
-  url = '/trip/'
-  weight = -501
-
-[[menu.main]]
-  identifier = 'gears'
-  name = 'Gears'
-  url = '/gears/'
-  weight = -500
-
-[[menu.main]]
-  identifier = 'contact'
-  name = 'Contact'
-  url = '/contact/'
-  weight = -112
-
-[[menu.main]]
-  identifier = 'about'
-  name = 'About Us'
-  url = '/about/'
-  weight = -111
-
-[[menu.main]]
-  identifier = 'support'
-  name = 'Support Us'
-  url = '/support/'
-  weight = -110
