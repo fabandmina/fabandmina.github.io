@@ -5,6 +5,7 @@ introduction: "A short paragraph of text, shown as the first paragraph of the ar
 date: {{ .Date }}
 thumbnail:
 tags: trip
+flickr_album:
 map: 
 ---
 This is the body of your article.
