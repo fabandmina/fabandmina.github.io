@@ -1,0 +1,6 @@
+{{/*  
+    Usage:
+    {{< article_date >}}  
+*/}}
+
+{{ .Page.Params.date | time.Format ":date_full" }}

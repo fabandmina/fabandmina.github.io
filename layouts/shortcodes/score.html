@@ -1,0 +1,9 @@
+{{/*  Usage:
+
+{{< score <int value> >}}  */}}
+{{/*  {{ with (.Get 0)}}  */}}
+{{ $score:= (seq (.Get 0)) }}
+{{ range $score }}⭐{{ end }}
+{{ $out_of_five:= (seq (sub 5 (.Get 0)))}}
+{{ range $out_of_five }}☆{{ end }}
+{{/*  {{ end }}  */}}
