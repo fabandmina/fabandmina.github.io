@@ -100,7 +100,8 @@ Les bao zi de Keelung
 Les bento d'un restaurant trouvé par hasard dans la zone industrielle
 
 ## {{< translate overall_feel >}}  | {{< score 5 >}}
-| **😀** | **🙁** |
+## {{< translate overall_feel >}} | {{< score 1 >}}
+| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
 |-------|-------|
 |   Le pays est vraiment sûr    |   La barrière de la langue parfois    |
 |   La nourriture                          |   Il fait chaud    |

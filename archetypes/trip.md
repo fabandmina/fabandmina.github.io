@@ -37,9 +37,9 @@ Peanuts
 #### ⭐ {{< translate mina_favourite >}}
 Fromage blanc
 
-
 ## {{< translate overall_feel >}} | {{< score 1 >}}
-| **😀** | **🙁** |
+## {{< translate overall_feel >}} | {{< score 1 >}}
+| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
 |-------|-------|
 |   item 1    |   item 1    |
 |   item 2    |   item 2    |

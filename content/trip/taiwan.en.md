@@ -100,7 +100,8 @@ Bento set from a random restaurant located in the industrial area
 
 
 ## {{< translate overall_feel >}}  | {{< score 5 >}}
-| **😀** | **🙁** |
+## {{< translate overall_feel >}} | {{< score 1 >}}
+| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
 |-------|-------|
 |   The country is really safe    |   The language barrier sometimes    |
 |   Food                          |   The temperature is high    |
