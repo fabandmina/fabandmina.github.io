@@ -8,13 +8,45 @@ tags: trip
 map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
-# {{< translate stats >}}
+# {{< translate travel_story >}}
+We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.
+
+When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a great adventure thanks to them.
+
+We discovered a great culture, a generous people, a fabulous cuisine and astonishing landscapes.
+
+Taiwan is forever in our hearts!
+# {{< translate overall_feel >}}  | {{< score 5 >}}
+| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
+|-------|-------|
+|   The country is really safe    |   The language barrier sometimes    |
+|   Food                          |   The temperature is high    |
+|   People are nice and helpful   |       |
+|   The scenery is fantastatic, especially in the mountains    |       |
+|   Cycling is easy    |       |
+
+# {{< translate in_details >}}
+## {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Bicycle, hitchiking, hiking
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 28 days
 - **{{< translate distance >}}** 1000 km
 - **{{< translate budget >}}** 1000 €
-# {{< translate in_details >}}
+
+## {{< translate crossing_the_border >}} | {{< score 5 >}}
+Since Taiwan is an island, the only possible ways to enter are:
+- by boat
+- by taking a flight
+
+We departed from Okinawa and arrived at Taipei. We did not have much choice but taking a flight.
+
+We travelled with Peach which offers a good service for a low-cost company.
+### {{< translate fab >}} 🇫🇷
+Easy peasy! 
+
+I just needed to show a valid passport and a return ticket at the border control. I was then allowed to stay 90 days inside Taiwan.
+### {{< translate Mina >}} 🇯🇵
+Pretty much the same for Japanese nationals.
 ## {{< translate road_condition >}} | {{< score 5 >}}
 The road is really good!
 
@@ -91,25 +123,12 @@ In the countryside, they might not have a vegetarian menu, but you can ask for a
 - Bubble tea
 - Peanut butter
 
-{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_food.png" alt="food" height="32" width="32" >}} 
-
 #### ⭐ {{< translate fab_favourite >}}
 Keelung's Bao Zi
 #### ⭐ {{< translate mina_favourite >}}
 Bento set from a random restaurant located in the industrial area
 
-
-## {{< translate overall_feel >}}  | {{< score 5 >}}
-## {{< translate overall_feel >}} | {{< score 1 >}}
-| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
-|-------|-------|
-|   The country is really safe    |   The language barrier sometimes    |
-|   Food                          |   The temperature is high    |
-|   People are nice and helpful   |       |
-|   The scenery is fantastatic, especially in the mountains    |       |
-|   Cycling is easy    |       |
-
-# {{< translate top_5_locations >}}
+## {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
 |   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Dramatic landscapes, natural hot springs    |
@@ -118,18 +137,5 @@ Bento set from a random restaurant located in the industrial area
 |   [Hehuanshan](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   Landscapes, beautiful hikes    |
 |   [Chishang](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   Best rice in Taiwan    |
 
-# {{< translate travel_story >}}
-We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.
 
-When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a great adventure thanks to them.
-
-We discovered a great culture, a generous people, a fabulous cuisine and astonishing landscapes.
-
-Taiwan is forever in our hearts!
-
-<!-- How to add a picture with size
-
-{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_food.png" alt="food" height="32" width="32" >}} 
-
--->
 

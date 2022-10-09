@@ -8,13 +8,45 @@ tags: trip
 map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
-# {{< translate stats >}}
+# {{< translate travel_story >}}
+Nous avons décidé de visiter Taiwan parce qu'on s'est fait des amis taiwanais en Nouvelle-Zélande. Ils nous avait invité à explorer leur pays.
+
+Quand nous sommes arrivés, nous leur avons emprunté deux vélos et avons fait le tour du pays. Nous avons eu une superbe aventure grâce à eux. 
+
+Nous avons découvert une belle culture, un peuple généreux, une cuisine fabuleuse et des paysages qui laissent sans voix.
+
+Taiwan restera dans nos coeurs pour toujours!
+# {{< translate overall_feel >}}  | {{< score 5 >}}
+| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
+|-------|-------|
+|   Le pays est vraiment sûr    |   La barrière de la langue parfois    |
+|   La nourriture                          |   Il fait chaud    |
+|   Les gens sont aimables et prêts à aider   |       |
+|   Le paysage est magnifique, surtout en montagnes    |       |
+|   Pédaler est facile    |       |
+
+# {{< translate in_details >}}
+## {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Vélos, autostop, randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 28 jours
 - **{{< translate distance >}}** 1000 km
 - **{{< translate budget >}}** 1000 €
-# {{< translate in_details >}}
+
+## {{< translate crossing_the_border >}} | {{< score 5 >}}
+Taiwan étant une île, les seuls accès possibles sont :
+- par voie maritime
+- par avion
+
+Nous sommes partis d'Okinawa pour arriver à Taipei. Nous n'avons pas eu d'autre choix que de prendre l'avion.
+
+Nous avons voyagé avec la compagnie Peach. Une très bon service pour une compagnie low-cost.
+### {{< translate fab >}} 🇫🇷
+Très facile! 
+
+La présentation d'un passeport valide et d'un billet allé-retour au poste de contrôle vous autorise à rester 90 jours.
+### {{< translate Mina >}} 🇯🇵
+Idem pour les ressortissants japonais.
 ## {{< translate road_condition >}} | {{< score 5 >}}
 La route est excellente!
 
@@ -77,7 +109,7 @@ La nourriture est délicieuse et bon marché!
 Chaque village a sa spécialité. Par exemple, nous avons visité le village de l'oignon vert. Là-bas, l'oignon vert frais se retrouvent dans tous les plats. Même dans la crême glacée!
 
 Plus sérieusement, il y a accès à la nourriture partout. Échoppes, restaurants, marchés de nuit, supermarchés... Il n'y a pas à se soucier de manquer de nourriture.
-#### {{< translate vegetarian_friendly >}} {{< score 4 >}}
+### {{< translate vegetarian_friendly >}} {{< score 4 >}}
 Le végétarisme est une pratique plutôt religieuse à Taiwan. En ville, vous trouverez plusieurs échoppes qui vous serviront de la cuisine végétarienne traditionnelle.
 
 Il y aussi une bonne poignée d'options végétariennes pour les brioches farcies (bao zi) et les raviolis.
@@ -92,24 +124,12 @@ Dans les campagnes, il se peut qu'il n'y ait pas de menu végétarien, mais vous
 - Du bubble tea
 - Du beurre de cacahuètes
 
-{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_food.png" alt="food" height="32" width="32" >}} 
-
-#### ⭐ {{< translate fab_favourite >}}
+### ⭐ {{< translate fab_favourite >}}
 Les bao zi de Keelung
-#### ⭐ {{< translate mina_favourite >}}
+### ⭐ {{< translate mina_favourite >}}
 Les bento d'un restaurant trouvé par hasard dans la zone industrielle
 
-## {{< translate overall_feel >}}  | {{< score 5 >}}
-## {{< translate overall_feel >}} | {{< score 1 >}}
-| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
-|-------|-------|
-|   Le pays est vraiment sûr    |   La barrière de la langue parfois    |
-|   La nourriture                          |   Il fait chaud    |
-|   Les gens sont aimables et prêts à aider   |       |
-|   Le paysage est magnifique, surtout en montagnes    |       |
-|   Pédaler est facile    |       |
-
-# {{< translate top_5_locations >}}
+## {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
 |   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Paysages dramatiques et sources chaudes sauvages    |
@@ -118,16 +138,3 @@ Les bento d'un restaurant trouvé par hasard dans la zone industrielle
 |   [Hehuanshan](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   Paysages, belles randonnées    |
 |   [Chishang](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   Meilleur riz de Taiwan    |
 
-# {{< translate travel_story >}}
-Nous avons décidé de visiter Taiwan parce qu'on s'est fait des amis taiwanais en Nouvelle-Zélande. Ils nous avait invité à explorer leur pays.
-
-Quand nous sommes arrivez, nous leur avons emprunté deux vélos et avons fait le tour du pays. Nous avons eu une superbe aventure grâce à eux. 
-
-Nous avons découvert une belle culture, un peuple généreux, une cuisine fabuleuse et des paysages qui laissent sans voix.
-
-Taiwan restera dans nos coeurs pour toujours!
-<!-- How to add a picture with size
-
-{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_food.png" alt="food" height="32" width="32" >}} 
-
--->
