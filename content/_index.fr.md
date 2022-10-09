@@ -20,7 +20,7 @@ If you want to check our gears, go to [gears>>]({{< link_to "gears" >}}).
 
 ## Other media
 Feel free to follow us on the other media:
-{{< media >}}
+{{< media "all" >}}
 
 ## Support us
 You can support us by:
