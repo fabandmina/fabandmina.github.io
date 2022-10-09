@@ -1,10 +1,38 @@
+{{/*  
+    Usage:
+    {{< media all >}} for all available links
+    {{< media instagram >}} for instagram link
+    {{< media flickr >}} for flickr link
+    {{< media francetvinfo >}} for francetvinfo link  
+*/}}
+
+{{ $media:= .Get 0 }}
+
 <ul>
+    {{ if (or (eq ($media) ("instagram")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.instagram_link }}
-    <li><a href="{{- . -}}"><i class="fa-brands fa-instagram"></i> Instagram</a>
+    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> Instagram</a>
+    </li>
+    {{ end }}
+    {{ end }}
+    {{ if (or (eq ($media) ("flickr")) (eq ($media) ("all"))) }}
+    {{ with .Site.Params.flickr_link }}
+    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> flickr</a>
+    </li>
+    {{ end }}
+    {{ end }}
+    {{ if (or (eq ($media) ("francetvinfo")) (eq ($media) ("all"))) }}
+    {{ with .Site.Params.francetvinfo_link }}
+    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> francetvinfo</a>
+    </li>
+    {{ end }}
+    {{ end }}
+    {{/*  {{ with .Site.Params.flickr_link }}
+    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i>Flickr</a>
     </li>
     {{ end }}
     {{ with .Site.Params.francetvinfo_link }}
-    <li><a href="{{- . -}}"><i class="fa-regular fa-newspaper"></i> France Info</a>
+    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> France Info</a>
     </li>
-    {{ end }}
+    {{ end }}  */}}
 </ul>
