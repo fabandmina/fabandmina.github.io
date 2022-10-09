@@ -15,17 +15,17 @@ map:
 - **{{< translate distance >}}**
 - **{{< translate budget >}}**
 # {{< translate in_details >}}
-## == {{< translate road_condition >}} == | {{< score 1 >}}
+## {{< translate road_condition >}} | {{< score 1 >}}
 Some comment about the road state
-## == {{< translate accommodations >}} == | {{< score 1 >}}
+## {{< translate accommodations >}} | {{< score 1 >}}
 Some comment about the accommodation
-## == {{< translate freedom_camping >}} == | {{< score 1 >}}
+## {{< translate freedom_camping >}} | {{< score 1 >}}
 Some comment about the freedom camping
-## == {{< translate facilities >}} == | {{< score 1 >}}
+## {{< translate facilities >}} | {{< score 1 >}}
 Some comment about the facilities
-## == {{< translate communication_with_the_locals >}} == | {{< score 1 >}}
+## {{< translate communication_with_the_locals >}} | {{< score 1 >}}
 Some comment about communication with the locals
-## == {{< translate food >}} == | {{< score 1 >}}
+## {{< translate food >}} | {{< score 1 >}}
 #### {{< translate vegetarian_friendly >}} {{< score 1 >}}
 ### {{< translate what_we_eat >}} 
 Some comment about the food
@@ -38,7 +38,7 @@ Peanuts
 Fromage blanc
 
 
-## == {{< translate overall_feel >}}==  | {{< score 1 >}}
+## {{< translate overall_feel >}} | {{< score 1 >}}
 | **😀** | **🙁** |
 |-------|-------|
 |   item 1    |   item 1    |
