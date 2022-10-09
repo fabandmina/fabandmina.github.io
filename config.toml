@@ -15,7 +15,7 @@ disableLanguages = ['jp']
   [languages.en]
     languageCode = 'en'
     title = "Fab and Mina"
-    languageName = "🇬🇧"
+    languageName = "🇬🇧 English"
     weight = 1
     [[languages.en.menu.main]]
       identifier = 'home'
@@ -52,7 +52,7 @@ disableLanguages = ['jp']
   [languages.fr]
     languageCode = 'fr'
     title = "Fab et Mina"
-    languageName = "🇫🇷"
+    languageName = "🇫🇷 Français"
     weight = 2
     [[languages.fr.menu.main]]
       identifier = 'home'
