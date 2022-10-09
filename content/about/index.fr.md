@@ -19,12 +19,12 @@ We are curious and adventurous, but what we enjoy the most is trying new food!
 ## Fab
 was born and raised in Noumea, New Caledonia. He studied IT at university in France and Canada. After a few years of work in New Caledonia, in 2018 he decided to become a full-time traveler and started his new journey by cycling across New Zealand, where he met Mina.
 
-![Fab avatar]({{< param avatar_fab >}}) 
+{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_fab.gif" width="256" >}}  
 
 ## Mina
 was born and raised in Tokyo, Japan. After graduating from University as an architect student, she worked at a local atelier in Kyoto. At the same time, she became a café barista as a side job. In 2016, she quit her atelier to become a full-time traveler. After visiting about 50 countries, she flew to New Zeland in order to tour the two main islands by bicycle. She met Fab on her way. 
 
-![Mina avatar]({{< param avatar_mina >}})
+{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_mina.gif" width="256" >}}
 
 ## In the media
 {{< media >}}
