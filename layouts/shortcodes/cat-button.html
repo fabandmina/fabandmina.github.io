@@ -1,0 +1,22 @@
+{{/*  
+    Usage: 
+        {{< cat-button url="https://www.gofundme.com/f/3m9st4-help-us-travel/" text="some i18n text" type="primary" align="left" >}}
+        
+        type:
+        - primary
+        - secondary
+        
+        align:
+        - left
+        - center
+        - right
+*/}}
+
+<div  {{ with (.Get "align") }}style="text-align: {{ . }};" {{ end }}>
+    <a href="{{ with (.Get "url") }}{{ . }}{{ end }}"  
+    class="cat-button 
+    {{ with (eq (.Get "type") ("primary")) }}cat-primary{{ end }} 
+    {{ with (eq (.Get "type") ("secondary")) }}cat-secondary{{ end }}" 
+    target="_blank" rel="noreferrer noopener">
+    {{ with (.Get "text") }}{{ i18n . }}{{ end }}</a>
+</div>
