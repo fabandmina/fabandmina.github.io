@@ -1,0 +1,44 @@
+{{/*  
+    Usage: 
+        {{< cta-button url="https://www.gofundme.com/f/3m9st4-help-us-travel/" text="some text" type="primary" align="left" >}}
+        
+        type:
+        - primary
+        - secondary
+        
+        align:
+        - left
+        - center
+        - right
+*/}}
+
+<div class="{{ with (.Get "text") }}container-{{ . }}{{ end }}">
+    <a href="{{ with (.Get "url") }}{{ . }}{{ end }}"  
+    class="cta-button 
+    {{ with (eq (.Get "type") ("primary")) }}cta-primary{{ end }} 
+    {{ with (eq (.Get "type") ("secondary")) }}cta-secondary{{ end }}" 
+    target="_blank" rel="noreferrer noopener">
+    {{ with (.Get "text") }}
+        {{ if eq ( i18n .) "" }}
+            {{ . }}
+        {{ else }}
+            {{ i18n . }}
+        {{ end }}    
+    {{ end }}</a>
+</div>
+
+<style>
+    .container-{{ with (.Get "text") }}{{ . }}{{ end }} {
+        {{ with (.Get "align") }}
+            text-align: {{ . }};
+        {{ end }}
+    }
+    @media only screen and (max-width: 800px) {
+        .container-{{ with (.Get "text") }}{{ . }}{{ end }} {
+            text-align: center;
+        }
+        .container-{{ with (.Get "text") }}{{ . }}{{ end }} a{
+            width: 100%;
+        }
+    }
+</style>

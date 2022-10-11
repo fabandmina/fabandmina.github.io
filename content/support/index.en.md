@@ -6,8 +6,9 @@ date: 2022-10-01T20:33:03+02:00
 thumbnail:
 tags: bio
 ---
-## Donate
-{{< donate >}}
+ 
+{{< cta-button url="https://www.gofundme.com/f/3m9st4-help-us-travel/" text="donate" type="primary" align="" >}}
+
 
 You can help us by donating a little money via the button above. It will allow us to treat ourselves better on the way.
 

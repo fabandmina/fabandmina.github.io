@@ -22,10 +22,10 @@ If you want to check our gears, go to [gears>>]({{< link_to "gears" >}}).
 Feel free to follow us on the other media:
 {{< media "all" >}}
 
-## Support us
+## Support us [>>]({{< link_to "support" >}})
 You can support us by:
-- making a donation {{< donate >}}
 - becoming a sponsor ([contact us]({{< link_to "contact" >}}))
 - accommodating us when we are on the way
+- making a donation 
 
-You can find more details [here>>]({{< link_to "support" >}}).
+{{< cta-button url="https://www.gofundme.com/f/3m9st4-help-us-travel/" text="donate" type="primary" align="right" >}}
