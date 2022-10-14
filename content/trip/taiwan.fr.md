@@ -9,7 +9,7 @@ map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
 ## {{< translate travel_story >}}
-Nous avons décidé de visiter Taiwan parce qu'on s'est fait des amis taiwanais en Nouvelle-Zélande. Ils nous avait invité à explorer leur pays.
+Nous avons décidé de visiter Taiwan parce qu'on s'est fait des amis taiwanais en Nouvelle-Zélande. Ils nous avait invités à explorer leur pays.
 
 Quand nous sommes arrivés, nous leur avons emprunté deux vélos et avons fait le tour du pays. Nous avons eu une superbe aventure grâce à eux. 
 
@@ -17,14 +17,15 @@ Nous avons découvert une belle culture, un peuple généreux, une cuisine fabul
 
 Taiwan restera dans nos coeurs pour toujours!
 ## {{< translate overall_feel >}}  {{< score 5 >}}
-| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
-|-------|-------|
-|   Le pays est vraiment sûr    |   La barrière de la langue parfois    |
-|   La nourriture                          |   Il fait chaud    |
-|   Les gens sont aimables et prêts à aider   |       |
-|   Le paysage est magnifique, surtout en montagnes    |       |
-|   Pédaler est facile    |       |
-
+### + {{< translate what_we_appreciate >}}
+- Le pays est vraiment sûr
+- La nourriture
+- Les gens sont aimables et prêts à aider
+- Le paysage est magnifique, surtout en montagnes
+- Pédaler est facile
+### - {{< translate what_we_dislike >}}
+- La barrière de la langue parfois
+- Il fait chaud
 ## {{< translate in_details >}}
 ### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Vélos, autostop, randonnée
@@ -84,19 +85,17 @@ Il y a des épiceries de proximité ouvertes 24/7 presque partout.
 
 Pour les motards et les cyclistes, il n'y a aucun souci à se faire. Vous trouverez des magasins de vélos, franchisés ou non, à tous les coins de rues.
 
-Si vous rencontrez une quelconque difficulté, n'hésitez pas à visiter le commissariat local. Les policiers peuvent parler Anglais et il vous apporteront toute l'aide nécessaire. Certains d'entre eux sont des stations de réparation de vélos officielles, et certains peuvent même héberger des voyageurs.  
+Si vous rencontrez une quelconque difficulté, n'hésitez pas à visiter le commissariat local. Les policiers peuvent parler anglais et il vous apporteront toute l'aide nécessaire. Certains d'entre eux sont des stations de réparation de vélos officielles, et d'autres peuvent même héberger des voyageurs.  
 
 ### {{< translate communication_with_the_locals >}} {{< score 4 >}}
-Si vous parler ou lire le Chinois traditionnel, tout va bien. Sinon, ce n'est pas toujours facile, mais ce n'est pas non plus insurmontable.
+Si vous pouvez parler ou lire le Chinois traditionnel, tout va bien. Sinon, ce n'est pas toujours facile, mais ce n'est pas non plus insurmontable.
 
 Les personnes qui peuvent parler anglais sont :
 - Les policiers
 - Les propriétaires/gestionnaires d'hébergements
 - Les gens de Taipei
-  
-For the rest, you will need to use your body language and/or you smartphone's translator.
 
-Pour le reste il va falloir user de votre langage corporel et/ou du votre traducteur de votre téléphone.
+Pour le reste il va falloir user de votre langage corporel et/ou du traducteur de votre téléphone.
 
 Certains taiwanais peuvent parler le japonais.
 
@@ -125,7 +124,7 @@ Dans les campagnes, il se peut qu'il n'y ait pas de menu végétarien, mais vous
 - Du beurre de cacahuètes
 
 #### ⭐ {{< translate fab_favourite >}}
-Les bao zi de Keelung
+Les [bao zi de Keelung](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
 #### ⭐ {{< translate mina_favourite >}}
 Les bento d'un restaurant trouvé par hasard dans la zone industrielle
 
@@ -133,7 +132,7 @@ Les bento d'un restaurant trouvé par hasard dans la zone industrielle
 |             |             |
 |-------------|-------------|
 |   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Paysages dramatiques et sources chaudes sauvages    |
-|   [Keelung's Bao shop](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)    |   Meilleurs bao zi de Taiwan    |
+|   [Kaohsiung](https://goo.gl/maps/EMBYHJ21c4JJm8Kb7)    |   Meilleurs bao zi de Taiwan    |
 |   [The north tip](https://goo.gl/maps/tmJxP7ZQ8gKupovS8)    |   Beau littoral, ambiance relaxante    |
 |   [Hehuanshan](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   Paysages, belles randonnées    |
 |   [Chishang](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   Meilleur riz de Taiwan    |

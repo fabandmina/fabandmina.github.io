@@ -12,13 +12,14 @@ map:
 Some story
 
 ## {{< translate overall_feel >}} flickr_album< score 1 >}}
-| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
-|-------|-------|
-|   item 1    |   item 1    |
-|   item 2    |   item 2    |
-|   item 3    |   item 3    |
-|   item 4    |   item 4    |
-|   item 5    |   item 5    |
+### + {{< translate what_we_appreciate >}}
+- item 1
+- item 2
+- item 3
+### - {{< translate what_we_dislike >}}
+- item 1
+- item 2
+- item 3
 ## {{< translate in_details >}}
 ### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}**

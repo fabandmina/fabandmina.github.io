@@ -17,14 +17,16 @@ We discovered a great culture, a generous people, a fabulous cuisine and astonis
 
 Taiwan is forever in our hearts!
 ## {{< translate overall_feel >}}  {{< score 5 >}}
-{{< translate what_we_appreciate >}} {{< translate what_we_dislike >}} |
-|-------|-------|
-|   The country is really safe    |   The language barrier sometimes    |
-|   Food                          |   The temperature is high    |
-|   People are nice and helpful   |       |
-|   The scenery is fantastatic, especially in the mountains    |       |
-|   Cycling is easy    |       |
+### + {{< translate what_we_appreciate >}}
+- The country is really safe
+- Excellent food
+- People are nice and helpful
+- The scenery is fantastatic, especially in the mountains
+- Cycling is easy
 
+### - {{< translate what_we_dislike >}}
+- The language barrier sometimes
+- The temperature is high 
 ## {{< translate in_details >}}
 ### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Bicycle, hitchiking, hiking
@@ -124,7 +126,7 @@ In the countryside, they might not have a vegetarian menu, but you can ask for a
 - Peanut butter
 
 #### ⭐ {{< translate fab_favourite >}}
-Keelung's Bao Zi
+[Keelung's Bao Zi](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
 #### ⭐ {{< translate mina_favourite >}}
 Bento set from a random restaurant located in the industrial area
 
@@ -132,7 +134,7 @@ Bento set from a random restaurant located in the industrial area
 |             |             |
 |-------------|-------------|
 |   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Dramatic landscapes, natural hot springs    |
-|   [Keelung's Bao shop](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)    |   Best Bao Zi in Taiwan    |
+|   [Kaohsiung](https://goo.gl/maps/EMBYHJ21c4JJm8Kb7)    |   Best Bao Zi in Taiwan    |
 |   [The north tip](https://goo.gl/maps/tmJxP7ZQ8gKupovS8)    |   Beautiful coastline, relaxing atmosphere    |
 |   [Hehuanshan](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   Landscapes, beautiful hikes    |
 |   [Chishang](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   Best rice in Taiwan    |
