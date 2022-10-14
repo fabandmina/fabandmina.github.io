@@ -8,10 +8,10 @@ tags: trip
 flickr_album:
 map: 
 ---
-# {{< translate travel_story >}}
+## {{< translate travel_story >}}
 Some story
 
-# {{< translate overall_feel >}} | {{< score 1 >}}
+## {{< translate overall_feel >}} flickr_album< score 1 >}}
 | {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
 |-------|-------|
 |   item 1    |   item 1    |
@@ -19,38 +19,38 @@ Some story
 |   item 3    |   item 3    |
 |   item 4    |   item 4    |
 |   item 5    |   item 5    |
-# {{< translate in_details >}}
-## {{< translate stats >}}
+## {{< translate in_details >}}
+### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}**
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 
 - **{{< translate distance >}}**
 - **{{< translate budget >}}**
 
-## {{< translate crossing_the_border >}} | {{< score 1 >}}
+### {{< translate crossing_the_border >}} flickr_album< score 1 >}}
 Some comment about crossing the border
-### Fab 🇫🇷
-### Mina 🇯🇵
-## {{< translate road_condition >}} | {{< score 1 >}}
+#### Fab 🇫🇷
+#### Mina 🇯🇵
+### {{< translate road_condition >}} flickr_album< score 1 >}}
 Some comment about the road state
-## {{< translate accommodations >}} | {{< score 1 >}}
+### {{< translate accommodations >}} flickr_album< score 1 >}}
 Some comment about the accommodation
-## {{< translate freedom_camping >}} | {{< score 1 >}}
+### {{< translate freedom_camping >}} flickr_album< score 1 >}}
 Some comment about the freedom camping
-## {{< translate facilities >}} | {{< score 1 >}}
+### {{< translate facilities >}} flickr_album< score 1 >}}
 Some comment about the facilities
-## {{< translate communication_with_the_locals >}} | {{< score 1 >}}
+### {{< translate communication_with_the_locals >}} flickr_album< score 1 >}}
 Some comment about communication with the locals
-## {{< translate food >}} | {{< score 1 >}}
-### {{< translate vegetarian_friendly >}} {{< score 1 >}}
-### {{< translate what_we_eat >}} 
+### {{< translate food >}} flickr_album< score 1 >}}
+#### {{< translate vegetarian_friendly >}} {{< score 1 >}}
+#### {{< translate what_we_eat >}} 
 Some comment about the food
 
-### ⭐ {{< translate fab_favourite >}}
+#### ⭐ {{< translate fab_favourite >}}
 Peanuts
-### ⭐ {{< translate mina_favourite >}}
+#### ⭐ {{< translate mina_favourite >}}
 Fromage blanc
-## {{< translate top_5_locations >}}
+### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
 |   location 1    |   reason    |

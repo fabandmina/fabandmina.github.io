@@ -8,7 +8,7 @@ tags: trip
 map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
-# {{< translate travel_story >}}
+## {{< translate travel_story >}}
 We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.
 
 When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a great adventure thanks to them.
@@ -16,8 +16,8 @@ When we arrived there, we borrowed two bicycles from our Taiwanese friends and w
 We discovered a great culture, a generous people, a fabulous cuisine and astonishing landscapes.
 
 Taiwan is forever in our hearts!
-# {{< translate overall_feel >}}  | {{< score 5 >}}
-| {{< translate what_we_appreciate >}} | {{< translate what_we_dislike >}} |
+## {{< translate overall_feel >}}  {{< score 5 >}}
+{{< translate what_we_appreciate >}} {{< translate what_we_dislike >}} |
 |-------|-------|
 |   The country is really safe    |   The language barrier sometimes    |
 |   Food                          |   The temperature is high    |
@@ -25,15 +25,15 @@ Taiwan is forever in our hearts!
 |   The scenery is fantastatic, especially in the mountains    |       |
 |   Cycling is easy    |       |
 
-# {{< translate in_details >}}
-## {{< translate stats >}}
+## {{< translate in_details >}}
+### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Bicycle, hitchiking, hiking
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 28 days
 - **{{< translate distance >}}** 1000 km
 - **{{< translate budget >}}** 1000 €
 
-## {{< translate crossing_the_border >}} | {{< score 5 >}}
+### {{< translate crossing_the_border >}} {{< score 5 >}}
 Since Taiwan is an island, the only possible ways to enter are:
 - by boat
 - by taking a flight
@@ -41,13 +41,13 @@ Since Taiwan is an island, the only possible ways to enter are:
 We departed from Okinawa and arrived at Taipei. We did not have much choice but taking a flight.
 
 We travelled with Peach which offers a good service for a low-cost company.
-### {{< translate fab >}} 🇫🇷
+#### {{< translate fab >}} 🇫🇷
 Easy peasy! 
 
 I just needed to show a valid passport and a return ticket at the border control. I was then allowed to stay 90 days inside Taiwan.
-### {{< translate Mina >}} 🇯🇵
+#### {{< translate Mina >}} 🇯🇵
 Pretty much the same for Japanese nationals.
-## {{< translate road_condition >}} | {{< score 5 >}}
+### {{< translate road_condition >}} {{< score 5 >}}
 The road is really good!
 
 We cycled all around the island by following the coastline most of the time.
@@ -63,13 +63,13 @@ Besides cycling, we experimented hitchhiking.
 It was not a piece of a cake since the locals are not used to this practise. If you stand on the side of the road, they would slow down thinking you need some help. We managed to get a few rides by writing our destination (in traditional Mandarin) on a big piece of cardboard.
 
 The best approach is to talk to them directly if you can.
-## {{< translate accommodations >}} | {{< score 4 >}}
+### {{< translate accommodations >}} {{< score 4 >}}
 Compared to other Asian countries, the price is above the average.
 
 However, the accommodations are always clean and the staff is helpful.
 
 Also, during the low season, it's possible to get a decent accommodation at a discounted price. Negotiation is your best friend.
-## {{< translate freedom_camping >}} | {{< score 4 >}}
+### {{< translate freedom_camping >}} {{< score 4 >}}
 Taiwan is really urban and people are not used to freedom campers.
 
 Around the city, we would ask the locals for a good spot or ask the temple managers if we can stay somewhere around.
@@ -77,7 +77,7 @@ Around the city, we would ask the locals for a good spot or ask the temple manag
 In remote places, we would stay anywhere we would consider sheltered enough, and not too anoying for the locals. 
 
 The police really don't mind you do freedom camping at random spots, but they may check on you if they think you are at risk. They might try to look for a proper accommodation for you, and give you food and hot beverages.
-## {{< translate facilities >}} | {{< score 5 >}}
+### {{< translate facilities >}} {{< score 5 >}}
 Taiwan is well equipped.
 
 There are convinient stores almost everywhere.
@@ -86,7 +86,7 @@ For bikers and cyclists, there is nothing to worry about. You can find branded o
 
 If you have any issue on the way, just go to the local police station. They can speak English, and they will provide anything you need. Some of them are official bike stations and even accommodations for travellers. 
 
-## {{< translate communication_with_the_locals >}} | {{< score 4 >}}
+### {{< translate communication_with_the_locals >}} {{< score 4 >}}
 If you can speak or read traditional Chinese, you are fine. Otherwise, it's not that easy, but not too difficult either.
 
 The people who can speak English are:
@@ -101,7 +101,7 @@ Some of them can speak or understand Japanese.
 Just forget about French. This language is absolutely useless in this part of the world.
 
 In general, the Taiwanese are really patient and they will try their best to provide help. They will not hesitate to approach you to check on you if you look lost or tired.
-## {{< translate food >}} | {{< score 5 >}}
+### {{< translate food >}} {{< score 5 >}}
 Food is cheap and delicious!
 
 Each village has their own specialties. For instance, we visited the village of spring onions. They would add fresh spring onions in every dish. We even had spring onion ice cream!
@@ -114,7 +114,7 @@ They also have also have several veggie options for the dumplings and bao.
 any veggie options for the dumplings and bao.
 
 In the countryside, they might not have a vegetarian menu, but you can ask for a plate of stir fried veggies with rice.
-### {{< translate what_we_eat >}} 
+#### {{< translate what_we_eat >}} 
 - Rice
 - Dumplings
 - Bao Zi
@@ -128,7 +128,7 @@ Keelung's Bao Zi
 #### ⭐ {{< translate mina_favourite >}}
 Bento set from a random restaurant located in the industrial area
 
-## {{< translate top_5_locations >}}
+### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
 |   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Dramatic landscapes, natural hot springs    |
