@@ -1,0 +1,57 @@
+{{/*  
+Usage:
+
+    {{< collapsible >}}
+        Some text content
+    {{< /collapsible >}}  
+*/}}
+
+
+<div class="collapsible">
+    <label class="collapsible-checkbox">
+        <input type="checkbox" name="collapse">
+        <span></span>
+        <div class="collapsible-content">
+            {{ .Inner | markdownify }}
+        </div>
+    </label>
+
+</div>
+
+
+<style>
+    .collapsible-checkbox > input[type="checkbox"] {
+        display: none;
+    }
+
+    .collapsible-checkbox span:after {
+        width: auto;
+        height: auto;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+        font-weight: bolder;
+        display: block;
+        content:"{{ i18n "read_more" }}";
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+    .collapsible-checkbox input:checked + span:after {
+        content:"{{ i18n "read_less" }}";
+    }
+
+    .collapsible .collapsible-content {
+        overflow-y: hidden;
+        height: 0;
+        transition: height 0.3s ease;
+    }
+
+    .collapsible .collapsible-checkbox > input[type="checkbox"]:checked ~ .collapsible-content {
+        height: auto;
+        overflow: visible;
+    }
+
+    .collapsible label {
+        display: block;
+    }
+</style>
