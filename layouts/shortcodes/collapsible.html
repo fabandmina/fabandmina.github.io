@@ -1,25 +1,70 @@
 {{/*  
 Usage:
 
-    {{< collapsible >}}
-        Some text content
+    {{< collapsible title 2 score=5 >}}
+        Some "text" content
     {{< /collapsible >}}  
 */}}
 
-
 <div class="collapsible">
-    <label class="collapsible-checkbox">
-        <input type="checkbox" name="collapse">
-        <span></span>
-        <div class="collapsible-content">
-            {{ .Inner | markdownify }}
-        </div>
-    </label>
-
+<label class="collapsible-checkbox">  
+{{ with (.Get 1) }} <h{{ . }}>{{ end }}
+{{ with (.Get 0) }}
+{{ if eq (i18n .) ("")}}
+{{ . }}
+{{ else }}
+{{ i18n . }}
+{{ end }}
+{{ end }}
+{{ with (.Get 1) }}            
+</h{{ . }}>
+{{ end }}
+<input type="checkbox" name="collapse">
+<span>
+</span>
+<div class="block-start"></div>
+{{ with (.Get 1) }} <h{{ . }} class="score-header">{{ end }}
+{{ with (.Get 2) }}
+<div class="block-start"></div>
+<div class="score">
+{{ $score:= (seq . ) }}{{ range $score }}⭐{{ end }}{{ $out_of_five:= (seq (sub 5 (.)))}}{{ range $out_of_five }}☆{{ end }}
+</div>
+{{ end }}
+{{ with (.Get 1) }} </h{{ . }}>{{ end }}
+<div class="collapsible-content">
+{{ .Inner | markdownify | safeHTML }}
+{{/*  {{ with .Inner }} {{ $.Page.RenderString . }} {{ end }}  */}}
+</div>
+</label>
 </div>
 
 
 <style>
+
+    .collapsible {
+        border-bottom: solid rgb(139, 139, 139) 1px;
+        padding-bottom: 1rem;
+    }
+    .collapsible .block-start {
+        display: inline;
+        white-space: pre-wrap;
+    }
+      
+      /* Create the break line */
+    .collapsible .block-start:not(:first-child):before {
+        content: "\A";
+    }
+ 
+    .score-header {
+        margin: 0 0;
+        padding: 0 0;
+    }
+
+    {{ with (.Get 1) }}
+       .collapsible h{{ . }}, .collapsible span {
+            display: inline-block;
+        }
+    {{ end }}
     .collapsible-checkbox > input[type="checkbox"] {
         display: none;
     }
@@ -29,10 +74,10 @@ Usage:
         height: auto;
         margin-bottom: 1rem;
         font-size: 1rem;
-        font-weight: bolder;
+        {{/*  font-weight: bolder;  */}}
         display: block;
         content:"{{ i18n "read_more" }}";
-        text-decoration: underline;
+        "text"-decoration: underline;
         cursor: pointer;
     }
     
