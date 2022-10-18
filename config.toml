@@ -88,7 +88,7 @@ disableLanguages = ['jp']
   ### Japanese ###
   [languages.jp]
     title = "ファブトミナ"
-    languageName = "🇯🇵"
+    languageName = "🇯🇵 日本語"
     weight = 3
 
 
