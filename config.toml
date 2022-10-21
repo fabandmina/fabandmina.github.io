@@ -7,7 +7,7 @@ sectionPagesMenu = "main"
 
 ### Languages configuration ###
 defaultContentLanguage = 'en'
-disableLanguages = ['jp']
+#disableLanguages = ['jp']
 
 [languages]
 
@@ -97,9 +97,7 @@ disableLanguages = ['jp']
 [params]
   css = true
 
-  ### Banner & header ###
-  banner_dark="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_dark.gif"
-  banner = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_light.gif"
+  ### header ###
   subtitle = "Around the world!"
   logo = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_logo.png"
   
@@ -128,6 +126,79 @@ disableLanguages = ['jp']
   [params.flickr_link]
     url = "https://www.flickr.com/photos/196589873@N03/albums"
     icon = "fa-brands fa-flickr"
+
+  ### Powered by ###
+  [params.powered_by]
+    [params.powered_by.hugo]
+      url = "https://gohugo.io/"
+      logo = "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
+
+  ### Theme color palette ###
+  [params.theme]
+    [params.theme.light]
+      banner = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_light.gif"
+      color_font_default = "#555"
+      color_body = "#f7ead3"
+      color_link = "#2525AC"
+      color_hr = "gray"
+      color_js_toggle = ""
+      color_content = "#FFF8EB"
+      color_cta_primary = "#2292F3"
+      color_cta_primary_font = "white"
+      color_cta_secondary = "white"
+      color_cta_psecondary_font = "#368BEC"
+      color_table_row = "#ddd"
+      color_table_title = "#5E5E5E"
+      color_table_title_font = "white"
+      color_table_row_highlight= "gray"
+      color_header = "#04274E"
+      color_header_font = "white"
+      color_header_highlight = "#0750A3"
+      color_logo_background = "#368BEC"
+      color_overlay = "white"
+      color_overlay_font = "black"
+      color_list_item_title_background = "#404040b4"
+      color_list_item_font = "white"
+      color_pagination_background = "#f38322"
+      color_pagination_font = "white"
+      color_share_background = "#f38322"
+      color_share_font = "white"
+      color_footer = "#404040"
+      color_footer_font = "white"
+      color_footer_separator = "gray"
+
+    [params.theme.dark] 
+      banner = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_dark.gif"
+      color_font_default = "#f5f5f5"
+      color_body = "#1A1919"
+      color_link = "#8288ce"
+      color_hr = "gray"
+      color_js_toggle = "#4e5070"
+      color_content = "#2C2C2C"
+      color_cta_primary = "#7079dd"
+      color_cta_primary_font = "white"
+      color_cta_secondary = "#494c6b"
+      color_cta_psecondary_font = "white"
+      color_table_row = "#ddd"
+      color_table_title = "#5E5E5E"
+      color_table_title_font = "white"
+      color_table_row_highlight= "black"
+      color_header = "#2C2C2C"
+      color_header_font = "white"
+      color_header_highlight = "#4e5070"
+      color_logo_background = "#55875b"
+      color_overlay = "#464545"
+      color_overlay_font = "white"
+      color_list_item_title_background = "#404040b4"
+      color_list_item_font = "white"
+      color_pagination_background = "#4e5070"
+      color_pagination_font = "white"
+      color_share_background = "#4e5070"
+      color_share_font = "white"
+      color_footer = "#1b1b1b"
+      color_footer_font = "white"
+      color_footer_separator = "gray"
+
 
 ### Enable shortcode in .md ###
 [markup.goldmark.renderer]
