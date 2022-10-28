@@ -1,0 +1,41 @@
+{{/*  
+Usage:
+
+    {{< columns 2 >}}
+        Some "text" content
+    {{< /columns >}}  
+*/}}
+
+<div class="column-article">
+{{ .Inner | markdownify | safeHTML }}
+</div>
+
+<style>
+    .column-article {
+        display: flex;
+        font-style: italic;
+        background-color: {{ .Site.Params.theme.light.color_overlay }};
+        color: {{ .Site.Params.theme.light.color_overlay_font }};
+        padding: 10px;
+        border-radius: 20px;
+        margin: 10px;
+        flex-wrap: wrap;
+    }
+
+    .column-article img {
+        {{/*  clear: both;  */}}
+        margin: 10px;
+        flex-basis: 100%;
+    }
+
+    body.dark-mode .column-article {
+        background-color: {{ .Site.Params.theme.dark.color_overlay }};
+        color: {{ .Site.Params.theme.dark.color_overlay_font }};
+    }
+
+    @media only screen and (max-width: 830px) {
+        .column-article {
+            display: block;            
+        }
+    }
+</style>
