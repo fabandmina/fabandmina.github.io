@@ -17,7 +17,7 @@ We met in New Zeland and have visited a few countries together since then.
 We mainly use slow means of transportation. It makes our trips more fun and interesting.
 We are curious and adventurous, but what we enjoy the most is trying new food!
 
-#### More about us [here >>]({{< link_to "about" >}})
+**More about us [here >>]({{< link_to "about" >}})**
 
 
 {{< add_map >}}
