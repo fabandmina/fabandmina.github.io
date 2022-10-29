@@ -22,6 +22,9 @@ We are curious and adventurous, but what we enjoy the most is trying new food!
 
 {{< add_map >}}
 
+## Our sponsors
+{{< sponsors >}}
+
 ## Let's get in touch!
 
 Fill in our contact form [**here >>.**]({{< link_to contact >}})
@@ -29,4 +32,3 @@ Fill in our contact form [**here >>.**]({{< link_to contact >}})
 
 Or DM us Instagram at [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
 
-## Our sponsors
