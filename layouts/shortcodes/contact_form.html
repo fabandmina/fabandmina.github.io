@@ -1,0 +1,97 @@
+<div id="contact-form">
+<form
+  action="https://formbold.com/s/6QNX9"
+  method="POST"
+>
+<div class="email">
+  <label>
+    <h4>{{ i18n "contact_email" }}</h4>
+    <input type="email" name="email">
+  </label>
+</div>
+<div class="message">
+  <label>
+    <h4>{{ i18n "contact_message" }}</h4>
+    <textarea name="message"></textarea>
+  </label>
+</div>
+<div class="submit-button">
+  <button type="submit">{{ i18n "contact_send" }}</button>
+</div>
+</form>
+</div>
+
+<style>
+    #contact-form {
+        display: block;
+        width: 80%;
+        align-self: center;
+        margin: 20px auto 80px auto;
+        border-radius: 10px;
+        border: solid 2px;
+        padding: 10px 50px;
+    }
+    #contact-form label, 
+    #contact-form textarea,
+    #contact-form input {
+        margin: 10px auto;
+        border-radius: 5px;
+    }
+
+    #contact-form textarea,
+    #contact-form input {
+        width: 100%;
+        padding: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 1rem;
+        color: {{ .Site.Params.theme.light.color_overlay_font }};
+        border: solid 2px {{ .Site.Params.theme.light.color_overlay_font }};
+        background-color: {{ .Site.Params.theme.light.color_overlay }};
+    }
+
+    body.dark-mode #contact-form textarea,
+    body.dark-mode #contact-form input {
+        color: {{ .Site.Params.theme.dark.color_overlay_font }};
+        border: solid 2px {{ .Site.Params.theme.dark.color_overlay_font }};
+        background-color: {{ .Site.Params.theme.dark.color_overlay }};
+    }
+
+    #contact-form input {
+        height: 2rem;
+    }
+    #contact-form textarea{
+        height: 30vh;
+    }
+    #contact-form .submit-button{
+        align-self: right;
+        justify-self: right;
+        text-align: right;
+    }
+
+    #contact-form button {
+        padding: .8rem;
+        font-size: 1.2rem;
+        border-radius: 10px;
+        color: {{ .Site.Params.theme.light.color_cta_secondary_font }};
+        border: solid 2px {{ .Site.Params.theme.light.color_cta_secondary_font }};
+        background-color: {{ .Site.Params.theme.light.color_cta_secondary }};
+    }
+    body.dark-mode #contact-form button {
+        color: {{ .Site.Params.theme.dark.color_cta_secondary_font }};
+        border: solid 2px {{ .Site.Params.theme.dark.color_cta_secondary_font }};
+        background-color: {{ .Site.Params.theme.dark.color_cta_secondary }};
+    }
+    #contact-form div {
+        margin: 30px 0;
+    }
+
+    @media only screen and (max-width: 830px) {
+        #contact-form {
+            width: 100%;
+            padding: 0px 20px;
+            border: none;
+        }
+    }
+
+</style>
