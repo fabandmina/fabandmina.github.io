@@ -32,3 +32,5 @@ Fill in our contact form [**here >>.**]({{< link_to contact >}})
 
 Or DM us Instagram at [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
 
+## Support us!
+Click on the button in the **bottom-left corner** or learn how you can help and visit [**here >>**]({{< link_to support >}}).
