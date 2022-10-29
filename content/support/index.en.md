@@ -1,7 +1,7 @@
 ---
 title: "Support Us"
 subtitle: "Help us during our trips!"
-introduction: "We give you the opportunity to be symbolicly part of our journey by supporting us. Here are a few simple ways to contribute."
+introduction: "We give you the opportunity to symbolicly be part of our journey by supporting us. Here are a few simple ways to contribute."
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
 tags: bio
