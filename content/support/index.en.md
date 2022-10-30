@@ -1,37 +1,43 @@
 ---
 title: "Support Us"
-subtitle: "Help us during our trips!"
-introduction: "We give you the opportunity to symbolicly be part of our journey by supporting us. Here are a few simple ways to contribute."
+subtitle: "Would you like to support ou journey?"
+introduction: ""
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
 tags: bio
 ---
-## Tip us
-Contribute simply from anywhere by tipping us on [Ko-fi >>](https://ko-fi.com/about).
+Thank you for your interest in supporting us!
 
-We are using this platform to allow you to make a small but impactful monetary contribution.
+You can tip us on [Ko-fi >>](https://ko-fi.com/about).
 
-Just click on the button below (or in the bottom-left corner), and follow the instructions. 
+Ko-fi is secure and easy-to-use platform to make donations.
+To use it, click on the button below, or in the bottom-left corner.
+Then select your amount and and validate it.
+The money will be transfered directly to us.
+
+
 
 #
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2292F3', 'Z8Z3FT4I2');kofiwidget2.draw();</script> 
 
 #
-**It takes less than a minute!**
+**5€ -** We can enjoy a coffee. We love coffee!
+
+**10€ -** We can get some snacking. It is our fuel.
+
+**30€ -** We can have a hot shower at a campground.
+
+**And more -** We will be able to continue our journey longer.
+
+#
+For all our supporters, we can mention them on our front page.
+Add a message to your donation with your name/nickname.
+
+
 ## Become a sponsor
 We would be happy to represent the values of your brand by advertising you on this website and along the road.
 
-As a sponsor, there are many ways to support us. Here are a few examples:
-- Sending us your top products (clothes, camping gears, bicycle accessories...)
-- Allowing us to use your services (telecommunitcation, travel insurance, accommodation...)
-- Offering us special discounts
-
-#
 Feel it could work out? Please contact us via our **[contact form >>.]({{< link_to "contact" >}})**
-
-
-## Invite us!
-Sometimes, we need to stay overnight at a sheltered place. It could be a place in your garden, a corner in your garage... We would be glad to share our adventures with you around a cup of tea as well.
 
 # Thanks for your support!
 {{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_together.gif" width="256" >}}

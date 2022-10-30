@@ -34,7 +34,10 @@ Nager en pleine nature est une de mes activités favorites. Autrement, j'appréc
 </div>
 {{< /columns >}}
 
+#
+If you have any questions, suggestions, tips-and-tricks... feel free to contact us by sending a DM on [Instagram]({{< param instagram_link.url >}}), or by completing our [contact form]({{< link_to contact >}}).
 
+We are looking forward to hearing from you.
 
 ## Follow us
 {{< media instagram >}}

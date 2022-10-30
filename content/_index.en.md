@@ -11,7 +11,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 {{< param introduction >}}
 
 #
-Our next project is to cross Eurasia by tandem bicycle from West to East. It will take about two years.
+Our next project is to cross Eurasia by tandem bicycle from West to East. It will take about two years and 25,000 km.
 
 {{< last-article >}}
 
