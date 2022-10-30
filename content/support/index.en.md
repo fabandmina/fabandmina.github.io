@@ -34,4 +34,4 @@ Feel it could work out? Please contact us via our **[contact form >>.]({{< link_
 Sometimes, we need to stay overnight at a sheltered place. It could be a place in your garden, a corner in your garage... We would be glad to share our adventures with you around a cup of tea as well.
 
 # Thanks for your support!
-![Fab avatar]({{< param avatar_fabandmina>}})
+{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_together.gif" width="256" >}}
