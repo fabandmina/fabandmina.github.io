@@ -2,7 +2,7 @@
 baseurl ='http://fabandmina.github.io/'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
-copyright = "Copyright 2022-{year} Fabien TRAN VAN HUNG All rights reserved."
+copyright = "Copyright 2022-{year} Fabien TRAN All rights reserved."
 sectionPagesMenu = "main"
 
 ### Languages configuration ###
