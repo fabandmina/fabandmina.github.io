@@ -1,35 +1,42 @@
 ---
-title: "About Us"
-subtitle: 
-introduction: 
+title: "À propos"
+subtitle: "Un couple marié sur la route."
+introduction: "Nous sommes un couple marié qui a décidé de faire du voyage un mode de vie. 
+Nous nous sommes rencontrés en Nouvelle-Zélande et avons visité quelques pays depuis. 
+Nous utilisons principalement des moyens de transports lents. Cela rend nos excursions plus fun et intéressantes.
+Nous sommes curieux et aventureux, mais ce que nous aimons par dessus tout est faire de nouvelles expériences culinaires !"
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
 tags: bio
 ---
-<!-- ![Fab avatar]({{< param avatar_fabandmina >}}) -->
-<div style="text-align:center">
-{{< figure src="/favicon.ico" width="128" >}}
-</div>
-
-## We are Fab and Mina! 
-We met in New Zeland and have travelled a few countries together since then. You can check our [trips >>.]({{< link_to "trip" >}}) We mainly use slow means of transportation. It makes our trips more fun and interesting. We are curious and adventurous, but what we enjoy the most is trying new food!
-
-<hr>
-
 ## Fab
-was born and raised in Noumea, New Caledonia. He studied IT at university in France and Canada. After a few years of work in New Caledonia, in 2018 he decided to become a full-time traveler and started his new journey by cycling across New Zealand, where he met Mina.
-
-
-<div style="text-align:center">
+{{< columns >}}
+<div style="text-align:left">
 {{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_fab.gif" width="256" >}}
 </div>
+Je suie né à Nouméa, Nouvelle-Calédonie. J'ai fait des études supérieures en informatique en France et au Canada. Après quelques années à travailler en Nouvelle-Calédonie, J'ai décidé de devenir un voyageur à temps plein. J'ai commencé ce périple par traverser la Nouvelle-Zélande en vélo, l'endroit où j'ai rencontré Mina.
+
+<hr>
+En dehors du voyage, j'aime joué au jeux vidéos rétro (ce qui m'a inspiré le visuel de ce site), gratter mon ukulele et pratiquer diverses activités en extérieur. Aussi, je suis végétarien. J'espère ainsi pouvoir fournir de bonnes recommandations à mes amis veggies. 
+
+{{< /columns >}}
+
 
 ## Mina
-was born and raised in Tokyo, Japan. After graduating from University as an architect student, she worked at a local atelier in Kyoto. At the same time, she became a café barista as a side job. In 2016, she quit her atelier to become a full-time traveler. After visiting about 50 countries, she flew to New Zeland in order to tour the two main islands by bicycle. She met Fab on her way. 
+{{< columns >}}
+Je suis née à Tokyo, Japon. À la suite de mes études d'architecte à l'université, j'ai travaillé dans un atelier d'architectes à Kyoto. Au même moment, je suis devenu barista café professionnelle par passion. Puis, j'ai quitté ma vie sédentaire pour devenir nomade. Je n'aurais jamais imaginé me marier avant de rencontrer Fab durant mon voyage en bikepacking. J'ai visité plus de 60 pays jusqu'à présent...
 
-<div style="text-align:left">
+<hr>
+Nager en pleine nature est une de mes activités favorites. Autrement, j'apprécie flâner et manger. C'est pourquoi je pense qu'être le stoker sur un tandem semi-couché est l'idéal !
+
+<div style="text-align:center">
 {{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_mina.gif" width="256" >}}
 </div>
+{{< /columns >}}
 
-## In the media
-{{< media all >}}
+## Follow us
+{{< media instagram >}}
+{{< media flickr >}}
+
+## Press articles
+{{< media francetvinfo >}}
