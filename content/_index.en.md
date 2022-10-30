@@ -9,7 +9,14 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 
 # Fab and Mina: Travel with us
 {{< param introduction >}}
+
+#
+Our next project is to cross Eurasia by tandem bicycle from West to East. It will take about two years.
+
 {{< last-article >}}
+
+
+
 
 ## Who are Fab and Mina?
 We are a married couple that made travelling their lifestyle. 

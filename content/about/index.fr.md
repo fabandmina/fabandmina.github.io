@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-subtitle: "Un couple marié sur la route."
+subtitle: "Et français et une japonaise sur la route."
 introduction: "Nous sommes un couple marié qui a décidé de faire du voyage un mode de vie. 
 Nous nous sommes rencontrés en Nouvelle-Zélande et avons visité quelques pays depuis. 
 Nous utilisons principalement des moyens de transports lents. Cela rend nos excursions plus fun et intéressantes.
@@ -33,6 +33,8 @@ Nager en pleine nature est une de mes activités favorites. Autrement, j'appréc
 {{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_mina.gif" width="256" >}}
 </div>
 {{< /columns >}}
+
+
 
 ## Follow us
 {{< media instagram >}}
