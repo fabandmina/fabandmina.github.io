@@ -36,7 +36,6 @@ Basically, it means that the captain has an upright position, whereas the stoker
 | Model         | Pino Tour 2021                                                     |
 | Dealer        | [Cyclable Marseille](https://marseille-velodrome.cyclable.com/)    |
 | Size          | 184-245  cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
-| Price         | ~ 8000€    |
 
 ## Specs
 
