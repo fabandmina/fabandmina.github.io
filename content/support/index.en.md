@@ -12,7 +12,7 @@ You can tip us on [Ko-fi >>](https://ko-fi.com/about).
 
 Ko-fi is secure and easy-to-use platform to make donations.
 To use it, click on the button below, or in the bottom-left corner.
-Then select your amount and and validate it.
+Then select your amount and validate it.
 The money will be transfered directly to us.
 
 
