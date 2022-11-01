@@ -1,0 +1,23 @@
+{{ with $.Site.Params.portrait_fabandmina }}
+<div class="portrait">
+<img src="{{ . }}">
+</div>
+{{ end }}
+
+<style>
+    .portrait, .portrait img {
+        height: 170px;
+        width: 170px;
+        border-radius: 100px;
+        object-fit: cover;
+        float: left;
+        clear: both;
+        margin-right: 10px;
+    }
+    @media only screen and (max-width: 830px) {
+        .portrait, .portrait img {
+            float: none;
+            margin: 0 auto 20px auto;
+        }
+      }
+</style>

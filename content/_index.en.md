@@ -21,6 +21,7 @@ Our next project is to cross Eurasia by tandem bicycle from Portugal to Japan. I
 
 
 ## Who are Fab and Mina?
+{{< portrait >}}
 We are a married couple that made travelling their lifestyle. 
 We met in New Zeland and have visited a few countries together since then. 
 We mainly use slow means of transportation. It makes our trips more fun and interesting.
