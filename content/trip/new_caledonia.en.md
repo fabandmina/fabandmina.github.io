@@ -46,10 +46,10 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 
 <h3>{{< translate stats >}}</h3>
 
-<li><b>{{< translate way_of_travelling >}}</b>Mainly bicycle</li>
+<li><b>{{< translate way_of_travelling >}}</b> Mainly bicycle</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
 <li><b>{{< translate duration >}}</b> 23 days</li>
-<li><b>{{< translate distance >}}</b> 1250 km</li>
+<li><b>{{< translate distance >}}</b> 1,250 km</li>
 
 {{< collapsible "crossing_the_border" 3 4 >}}
 
