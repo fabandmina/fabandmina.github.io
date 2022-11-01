@@ -8,10 +8,12 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 ---
 
 # Fab and Mina: Travel with us
-{{< param introduction >}}
+Welcome!
 
+{{< param introduction >}}
+We are happy to share our experience with you. Hopefully it will give you new ideas that will make a positive impact in your life, and inspire you to take up on new challenges. 
 #
-Our next project is to cross Eurasia by tandem bicycle from West to East. It will take about two years and 25,000 km.
+Our next project is to cross Eurasia by tandem bicycle from Portugal to Japan. It will take about two years and 25,000 km.
 
 {{< last-article >}}
 
