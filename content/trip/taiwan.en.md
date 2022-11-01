@@ -148,8 +148,7 @@ Each village has their own specialties. For instance, we visited the village of 
 More seriously, food is accessible everywhere. Shops, restaurants, night markets, supermarkets... You really don't need to carry much food if you stick to the official cycle route. For the mountain part, you will probably need to carry food for a couple days.
 
 <h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
-
-Vegetarism is a religious practise in Taiwan. Around the city, you can find many shops that serve traditional vegetarian food.
+Vegetarism is a religious practise in Taiwan. Around the city, you can find many shops that serve traditional vegetarian food. If you need to find one of these shops, look for "素食" ("Sùshí").
 
 They also have several veggie options for the dumplings and bao.
 
