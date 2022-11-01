@@ -71,7 +71,7 @@ The West coast is a little bit more busy. Between Nouméa and Bourail, it can be
 {{< /collapsible >}}
 
 {{< collapsible "accommodations" 3 3 >}}
-We have no idea about the hotels since we never used them. We mainly used the official campgrounds.
+We have no idea about the hotels since we never used them. We mainly used the official campgrounds where prices would range between 1000 ~ 2000 XPF (8 ~ 17€) for one tent per night.
 Most of them have only minimum facilities. 
 But the experience of freedom is real. You can forage food, make a fire, have a bathe in nature... but remember to ask the locals first! 
 {{< /collapsible >}}
@@ -99,6 +99,9 @@ In the countryside, people are used to grow and eat their own food. Also, huntin
 Mina really enjoyed the seafood from our blue lagoon.
 
 If I have a suggestion, carrying a short machete is convenient for foraging fruits from the wild.
+
+Restaurants are particularly expensive, more than Paris actually. Most of the time the quality doesn't follow. 
+In general expect the goods to be more expensive than France because they are imported.
 
 <h4>{{< translate vegetarian_friendly >}} {{< score 2 >}}</h4>
 Let's face it, the vegetarian diet is not pouplar in New Caledonia. You need to explain what is a vegetarian diet and sometimes you even to specify that bacon and fishes are not acceptable options.
