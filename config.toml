@@ -90,7 +90,36 @@ defaultContentLanguage = 'en'
     title = "ファブトミナ"
     languageName = "🇯🇵 日本語"
     weight = 3
-
+    [[languages.ja.menu.main]]
+      identifier = 'home'
+      name = 'Accueil'
+      pageref ='/'
+      weight = 1
+    [[languages.ja.menu.main]]
+      identifier = 'trip'
+      pageref ='/trip/'
+      name = 'Voyages'
+      weight = 2
+    [[languages.ja.menu.main]]
+      identifier = 'gears'
+      pageref ='/gears'
+      name = 'Équipements'
+      weight = 3
+    [[languages.ja.menu.main]]
+      identifier = 'contact'
+      pageref ='/contact'
+      name = 'Contacts'
+      weight = 4
+    [[languages.ja.menu.main]]
+      identifier = 'about'
+      pageref ='/about'
+      name = 'À propos'
+      weight = 5
+    [[languages.ja.menu.main]]
+      identifier = 'support'
+      pageref ='/support'
+      name = 'Aidez-nous'
+      weight = 6
 
 
 ### Other parametres ###
