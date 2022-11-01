@@ -3,9 +3,9 @@ title: "New Caledonia"
 subtitle: "Discover Fab's island home!"
 introduction: "Have a relaxing trip in the closest place to heaven."
 date: 2019-11-28
-thumbnail: ""
+thumbnail: "https://live.staticflickr.com/65535/52411048481_1622b653ef_c.jpg"
 tags: trip
-flickr_album: "https://www.flickr.com/photos/196589873@N03/52411048481/in/album-72177720302710352/"
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302710352"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/-20.910/166.926"
 ---
 {{< collapsible "travel_story" 2 >}}
