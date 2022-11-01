@@ -5,6 +5,8 @@ introduction: "A short paragraph of text, shown as the first paragraph of the ar
 date: 2022-10-06T17:01:08+02:00
 thumbnail:
 tags: gears
+draft: true
+
 ---
 This is the body of your article.
 
