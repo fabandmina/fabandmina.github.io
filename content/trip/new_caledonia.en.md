@@ -1,6 +1,6 @@
 ---
 title: "New Caledonia"
-subtitle: "Discover Fab's island home!"
+subtitle: " Discover Fab's island home! "
 introduction: "Have a relaxing trip in the closest place to heaven."
 date: 2019-11-28
 thumbnail: "https://live.staticflickr.com/65535/52411048481_1622b653ef_c.jpg"

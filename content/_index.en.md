@@ -1,6 +1,6 @@
 ---
 title: "Home"
-subtitle: "Fab and Mina: Travel with us"
+subtitle: " Travel with us "
 introduction: "Explore the world with us! Visit this beautiful planet
             with a minimal carbon footprint. Let's travel by bicycle and on foot (and sometimes hitchhiking)."
 date: 2022-10-01T19:37:02+02:00

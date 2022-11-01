@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-subtitle: "A French and a Japanese on the road."
+subtitle: " A French and a Japanese on the road. "
 introduction: "We are married couple that made travelling their lifestyle. 
 We met in New Zeland and have visited a few countries together since then. 
 We mainly use slow means of transportation. It makes our trips more fun and interesting.
