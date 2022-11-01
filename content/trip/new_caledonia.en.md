@@ -73,7 +73,7 @@ The West coast is a little bit more busy. Between Nouméa and Bourail, it can be
 {{< collapsible "accommodations" 3 3 >}}
 We have no idea about the hotels since we never used them. We mainly used the official campgrounds where prices would range between 1000 ~ 2000 XPF (8 ~ 17€) for one tent per night.
 Most of them have only minimum facilities. 
-But the experience of freedom is real. You can forage food, make a fire, have a bathe in nature... but remember to ask the locals first! 
+But the experience of freedom is real. You can forage food, make a fire, have a bathe in nature... but remember to ask the owner first! 
 {{< /collapsible >}}
 
 {{< collapsible "freedom_camping" 3 1 >}}
