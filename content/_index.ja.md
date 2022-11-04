@@ -28,7 +28,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 
 {{< add_map >}}
 
-## Our sponsors
+## スポンサー
 {{< sponsors >}}
 
 ## Let's get in touch!

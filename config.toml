@@ -92,18 +92,18 @@ defaultContentLanguage = 'en'
     weight = 3
     [[languages.ja.menu.main]]
       identifier = 'home'
-      name = 'ホーム'
+      name = 'Home'
       pageref ='/'
       weight = 1
     [[languages.ja.menu.main]]
       identifier = 'trip'
       pageref ='/trip/'
-      name = '旅行記'
+      name = '冒険記'
       weight = 2
     [[languages.ja.menu.main]]
       identifier = 'gears'
       pageref ='/gears'
-      name = '道具'
+      name = '装備'
       weight = 3
     [[languages.ja.menu.main]]
       identifier = 'contact'
