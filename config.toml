@@ -10,7 +10,7 @@ defaultContentLanguage = 'en'
 #disableLanguages = ['ja']
 [taxonomies]
   category = 'categories'
-  blog = 'blog'
+  blog = 'blogs'
   tag = 'tags'
 
 [languages]
@@ -27,21 +27,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.en.menu.main]]
-      identifier = 'blog'
-      name = 'Blog'
-      pageref ='/blog'
+      identifier = 'blogs'
+      name = 'blogs'
+      pageref ='/blogs'
       weight = 2
     [[languages.en.menu.main]]
       identifier = 'trip'
       name = 'Trips'
-      pageref ='/blog/trip'
-      parent = 'blog'
+      pageref ='/blogs/trip'
+      parent = 'blogs'
       weight = 2
     [[languages.en.menu.main]]
       identifier = 'gears'
       name = 'Gears'
-      pageref ='/blog/gears'
-      parent = 'blog'
+      pageref ='/blogs/gears'
+      parent = 'blogs'
       weight = 3
     [[languages.en.menu.main]]
       identifier = 'contact'
@@ -71,21 +71,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.fr.menu.main]]
-      identifier = 'blog'
-      name = 'Blog'
-      pageref ='/blog'
+      identifier = 'blogs'
+      name = 'blogs'
+      pageref ='/blogs'
       weight = 2
     [[languages.fr.menu.main]]
       identifier = 'trip'
-      pageref ='/blog/trip/'
+      pageref ='/blogs/trip/'
       name = 'Voyages'
-      parent = 'blog'
+      parent = 'blogs'
       weight = 2
     [[languages.fr.menu.main]]
       identifier = 'gears'
-      pageref ='/blog/gears'
+      pageref ='/blogs/gears'
       name = 'Équipements'
-      parent = 'blog'
+      parent = 'blogs'
       weight = 3
     [[languages.fr.menu.main]]
       identifier = 'contact'
@@ -114,21 +114,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.ja.menu.main]]
-      identifier = 'blog'
-      name = 'Blog'
-      pageref ='/blog'
+      identifier = 'blogs'
+      name = 'ブログ'
+      pageref ='/blogs'
       weight = 2
     [[languages.ja.menu.main]]
       identifier = 'trip'
-      pageref ='/blog/trip/'
+      pageref ='/blogs/trip/'
       name = '冒険記'
-      parent = 'blog'
+      parent = 'blogs'
       weight = 2
     [[languages.ja.menu.main]]
       identifier = 'gears'
-      pageref ='/blog/gears'
+      pageref ='/blogs/gears'
       name = '装備'
-      parent = 'blog'
+      parent = 'blogs'
       weight = 3
     [[languages.ja.menu.main]]
       identifier = 'contact'

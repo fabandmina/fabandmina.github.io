@@ -23,7 +23,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 私達は、旅をしながら暮らしている夫婦です。
 ニュージーランドで出会って以来、一緒に色んな国を訪れています。人力移動での旅行が私達にとっては面白いので、ゆっくりのんびり旅しています。好奇心・冒険心旺盛な2人ですが、1番好きなことは新しい食べ物に出会うことです！
 
-**More about us [here >>]({{< link_to "about" >}})**
+**詳しいプロフィールを[見る >>]({{< link_to "about" >}})**
 
 
 {{< add_map >}}
@@ -31,10 +31,10 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 ## スポンサー
 {{< sponsors >}}
 
-## Let's get in touch!
+## 連絡を取ろう！
 
 もし何かご質問, ご提案, 旅のヒントやおすすめ等ありましたら、 [インスタグラムのDM]({{< param instagram_link.url >}})か[コンタクトフォーム]({{< link_to contact >}})からお気軽にお問い合わせ下さい。
 
 皆さまからのご連絡をお待ちしております。
-## Support us!
-Click on the button in the **bottom-left corner** or learn how you can help and visit [**here >>**]({{< link_to support >}}).
+## {{< translate "support_us" >}}
+左下にある**応援ボタン**をクリックするか、[**こちら**]({{< link_to support >}})からサポート方法をご確認下さい。
