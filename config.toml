@@ -8,6 +8,10 @@ sectionPagesMenu = "main"
 ### Languages configuration ###
 defaultContentLanguage = 'en'
 #disableLanguages = ['ja']
+[taxonomies]
+  category = 'categories'
+  blog = 'blog'
+  tag = 'tags'
 
 [languages]
 
@@ -23,14 +27,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.en.menu.main]]
+      identifier = 'blog'
+      name = 'Blog'
+      pageref ='/blog'
+      weight = 2
+    [[languages.en.menu.main]]
       identifier = 'trip'
       name = 'Trips'
-      pageref ='/trip'
+      pageref ='/blog/trip'
+      parent = 'blog'
       weight = 2
     [[languages.en.menu.main]]
       identifier = 'gears'
       name = 'Gears'
-      pageref ='/gears'
+      pageref ='/blog/gears'
+      parent = 'blog'
       weight = 3
     [[languages.en.menu.main]]
       identifier = 'contact'
@@ -60,14 +71,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.fr.menu.main]]
+      identifier = 'blog'
+      name = 'Blog'
+      pageref ='/blog'
+      weight = 2
+    [[languages.fr.menu.main]]
       identifier = 'trip'
-      pageref ='/trip/'
+      pageref ='/blog/trip/'
       name = 'Voyages'
+      parent = 'blog'
       weight = 2
     [[languages.fr.menu.main]]
       identifier = 'gears'
-      pageref ='/gears'
+      pageref ='/blog/gears'
       name = 'Équipements'
+      parent = 'blog'
       weight = 3
     [[languages.fr.menu.main]]
       identifier = 'contact'
@@ -96,14 +114,21 @@ defaultContentLanguage = 'en'
       pageref ='/'
       weight = 1
     [[languages.ja.menu.main]]
+      identifier = 'blog'
+      name = 'Blog'
+      pageref ='/blog'
+      weight = 2
+    [[languages.ja.menu.main]]
       identifier = 'trip'
-      pageref ='/trip/'
+      pageref ='/blog/trip/'
       name = '冒険記'
+      parent = 'blog'
       weight = 2
     [[languages.ja.menu.main]]
       identifier = 'gears'
-      pageref ='/gears'
+      pageref ='/blog/gears'
       name = '装備'
+      parent = 'blog'
       weight = 3
     [[languages.ja.menu.main]]
       identifier = 'contact'

@@ -4,7 +4,7 @@ subtitle: " Hase Pino tandem "
 introduction: "A semi-recumbent tandem bicycle made by Hase."
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52399270281_c9af84444d_o.jpg"
-tags: gears
+blog: gears
 ---
 
 ## Why this bicycle?
