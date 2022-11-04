@@ -8,23 +8,22 @@
 
 {{ $media:= .Get 0 }}
 
-<ul>
+
     {{ if (or (eq ($media) ("instagram")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.instagram_link }}
-    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> Instagram</a>
-    </li>
+<a href="{{- .url -}}"><i class="{{- .icon -}}"></i> Instagram</a>
+
     {{ end }}
     {{ end }}
     {{ if (or (eq ($media) ("flickr")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.flickr_link }}
-    <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> flickr</a>
-    </li>
+<a href="{{- .url -}}"><i class="{{- .icon -}}"></i> flickr</a>
+
     {{ end }}
     {{ end }}
     {{ if (or (eq ($media) ("francetvinfo")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.francetvinfo_link }}
-    <li>July 2020 - <a href="{{- .url -}}">France TV Info</a>
-    </li>
+<a href="{{- .url -}}">France TV Info</a>
     {{ end }}
     {{ end }}
     {{/*  {{ with .Site.Params.flickr_link }}
@@ -35,4 +34,3 @@
     <li><a href="{{- .url -}}"><i class="{{- .icon -}}"></i> France Info</a>
     </li>
     {{ end }}  */}}
-</ul>
