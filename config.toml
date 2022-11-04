@@ -113,7 +113,7 @@ defaultContentLanguage = 'en'
     [[languages.ja.menu.main]]
       identifier = 'about'
       pageref ='/about'
-      name = '自己紹介'
+      name = 'About us'
       weight = 5
     [[languages.ja.menu.main]]
       identifier = 'support'
