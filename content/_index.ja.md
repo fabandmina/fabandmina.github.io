@@ -1,5 +1,5 @@
 ---
-title: "ホーム"
+title: "Home"
 subtitle: "Fab and Mina: Travel with us"
 introduction: "さあ、私達と一緒に世界を探検しよう！自転車や徒歩(時にはヒッチハイク)といった、なるべく二酸化炭素排出量の少ない移動方法で、この美しい星を旅しましょう。"
 date: 2022-10-01T19:37:02+02:00
