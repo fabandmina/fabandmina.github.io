@@ -37,8 +37,8 @@ If you have any questions, suggestions, tips-and-tricks... feel free to contact 
 We are looking forward to hearing from you.
 
 ## Follow us
-{{< media instagram >}}
-{{< media flickr >}}
+- {{< media instagram >}}
+- {{< media flickr >}}
 
 ## Press articles
-{{< media francetvinfo >}}
+- July 2020 - {{< media francetvinfo >}}
