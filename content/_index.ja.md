@@ -41,4 +41,4 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 
 ## メディア掲載
 - 2020年7月 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
-- 2020年8月 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)
+- 2019年8月 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)
