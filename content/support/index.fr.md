@@ -14,7 +14,7 @@ Nous utilisons cette plateforme pour vous permettre de faire un petit, mais impo
 Vous n'avez qu'à cliquer sur le bouton ci-dessous (ou celui dans le coin inférieur gauche), et suivre les instructions. 
 
 #
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2292F3', 'Z8Z3FT4I2');kofiwidget2.draw();</script> 
+{{< ko-fi_button >}} 
 
 #
 **Cela prend moins d'une minute !**

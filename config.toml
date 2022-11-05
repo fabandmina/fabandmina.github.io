@@ -36,13 +36,13 @@ defaultContentLanguage = 'en'
       name = 'Trips'
       pageref ='/blogs/trip'
       parent = 'blogs'
-      weight = 2
+      weight = 3
     [[languages.en.menu.main]]
       identifier = 'gears'
       name = 'Gears'
       pageref ='/blogs/gears'
       parent = 'blogs'
-      weight = 3
+      weight = 2
     [[languages.en.menu.main]]
       identifier = 'contact'
       name = 'Contact'
@@ -80,13 +80,13 @@ defaultContentLanguage = 'en'
       pageref ='/blogs/trip/'
       name = 'Voyages'
       parent = 'blogs'
-      weight = 2
+      weight = 3
     [[languages.fr.menu.main]]
       identifier = 'gears'
       pageref ='/blogs/gears'
       name = 'Équipements'
       parent = 'blogs'
-      weight = 3
+      weight = 2
     [[languages.fr.menu.main]]
       identifier = 'contact'
       pageref ='/contact'
@@ -123,13 +123,13 @@ defaultContentLanguage = 'en'
       pageref ='/blogs/trip/'
       name = '冒険記'
       parent = 'blogs'
-      weight = 2
+      weight = 3
     [[languages.ja.menu.main]]
       identifier = 'gears'
       pageref ='/blogs/gears'
       name = '装備'
       parent = 'blogs'
-      weight = 3
+      weight = 2
     [[languages.ja.menu.main]]
       identifier = 'contact'
       pageref ='/contact'

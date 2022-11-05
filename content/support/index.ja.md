@@ -1,6 +1,6 @@
 ---
 title: "support_us"
-subtitle: "私たちのプロジェクトを応援しませんか？"
+subtitle: "私達のプロジェクトを応援しませんか？"
 introduction: ""
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
@@ -15,10 +15,10 @@ Ko-fiとは、安全にカード等を使って、支援したい人に投げ銭
 
 
 #
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2292F3', 'Z8Z3FT4I2');kofiwidget2.draw();</script> 
+{{< ko-fi_button >}} 
 
 #
-**5€ -** コーヒーを奢る。私たちはコーヒーが大好きです！
+**5€ -** コーヒーを奢る。私達はコーヒーが大好きです！
 
 **10€ -** 軽食を奢る。食物は人力旅のガソリンです！
 

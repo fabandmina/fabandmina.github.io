@@ -18,7 +18,7 @@ The money will be transfered directly to us.
 
 
 #
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2292F3', 'Z8Z3FT4I2');kofiwidget2.draw();</script> 
+{{< ko-fi_button >}} 
 
 #
 **5€ -** We can enjoy a coffee. We love coffee!
