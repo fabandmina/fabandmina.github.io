@@ -44,4 +44,5 @@ We are looking forward to hearing from you.
 {{< media flickr >}}
 
 ## Press articles
-{{< media francetvinfo >}}
+- July 2020 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
+- June 2019 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)

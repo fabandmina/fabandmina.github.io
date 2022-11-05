@@ -44,3 +44,7 @@ Or DM us Instagram at [**fabandmina <i class="{{< param instagram_link.icon >}}"
 
 ## Support us!
 Click on the button in the **bottom-left corner** or learn how you can help and visit [**here >>**]({{< link_to support >}}).
+
+## Press articles
+- July 2020 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
+- June 2019 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)
