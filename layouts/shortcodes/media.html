@@ -11,19 +11,19 @@
 
     {{ if (or (eq ($media) ("instagram")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.instagram_link }}
-<a href="{{- .url -}}"><i class="{{- .icon -}}"></i> Instagram</a>
+<a href="{{- .url -}}" target="_blank" rel="noopener"><i class="{{- .icon -}}"></i> Instagram</a>
 
     {{ end }}
     {{ end }}
     {{ if (or (eq ($media) ("flickr")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.flickr_link }}
-<a href="{{- .url -}}"><i class="{{- .icon -}}"></i> flickr</a>
+<a href="{{- .url -}}" target="_blank" rel="noopener"><i class="{{- .icon -}}"></i> flickr</a>
 
     {{ end }}
     {{ end }}
     {{ if (or (eq ($media) ("francetvinfo")) (eq ($media) ("all"))) }}
     {{ with .Site.Params.francetvinfo_link }}
-<a href="{{- .url -}}">France TV Info</a>
+<a href="{{- .url -}}" target="_blank" rel="noopener">France TV Info</a>
     {{ end }}
     {{ end }}
     {{/*  {{ with .Site.Params.flickr_link }}
