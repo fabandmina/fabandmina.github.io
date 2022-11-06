@@ -7,7 +7,7 @@ Nous utilisons principalement des moyens de transports lents. Cela rend nos excu
 Nous sommes curieux et aventureux, mais ce que nous aimons par dessus tout est faire de nouvelles expériences culinaires !"
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
-tags: bio
+
 ---
 ## Fab
 {{< columns >}}

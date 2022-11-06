@@ -4,14 +4,14 @@ subtitle: " Bike friendly, amazing people, amazing food "
 introduction: "A great place between Mainland China and Japan for a relaxing cycle tour."
 date: 2020-02-05T19:37:02+02:00
 thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
-blogs: trip
+tags: trip
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795"
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
 {{< collapsible "travel_story" 2 >}}
 We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.
 
-When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a great adventure thanks to them.
+When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a good adventure thanks to them.
 
 We discovered a great culture, a generous people, a fabulous cuisine and astonishing landscapes.
 

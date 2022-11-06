@@ -3,8 +3,8 @@ title: "Taiwan"
 subtitle: "Vélos et bubble tea à Taiwan"
 introduction: "Un magnifique coin à entre la Chine continentale et le Japon pour un tour en vélo sans stress."
 date: 2020-01-25T19:37:02+02:00
-thumbnail: "https://live.staticflickr.com/65535/52397221771_14f19a3b23_k.jpg"
-blogs: trip
+thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
+tags: trip
 map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---

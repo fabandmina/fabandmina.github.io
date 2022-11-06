@@ -4,7 +4,7 @@ subtitle: "私達のプロジェクトを応援しませんか？"
 introduction: ""
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
-tags: bio
+
 ---
 ご関心をお寄せいただき本当にありがとうございます。
 

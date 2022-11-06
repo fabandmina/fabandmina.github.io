@@ -4,7 +4,7 @@ subtitle: "Would you like to support our journey?"
 introduction: ""
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
-tags: bio
+
 ---
 Thank you for your interest in supporting us!
 

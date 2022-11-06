@@ -4,7 +4,7 @@ subtitle: "Soutenez-nous durant nos aventures !"
 introduction: "Nous vous donnons l'opportunité de faire symboliquement parti de notre périple. Vous trouverez ici quelques moyens pour contribuer en toute simplicité."
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
-tags: bio
+
 ---
 ## Offrez-nous un pourboire
 Contribuer simplement en nous laissant un pourboire sur [Ko-fi >>](https://ko-fi.com/about).

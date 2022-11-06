@@ -7,7 +7,7 @@ We mainly use slow means of transportation. It makes our trips more fun and inte
 We are curious and adventurous, but what we enjoy the most is trying new food!"
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
-tags: bio
+
 ---
 ## Fab
 {{< columns >}}

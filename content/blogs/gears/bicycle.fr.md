@@ -1,10 +1,10 @@
 ---
 title: "Bicycle"
-subtitle: " Hase Pino tandem "
+subtitle: "Pino Hase Tandem"
 introduction: "A semi-recumbent tandem bicycle made by Hase."
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52399270281_c9af84444d_o.jpg"
-blogs: gears
+tags: gears
 ---
 
 ## Why this bicycle?
@@ -19,22 +19,25 @@ Basically, it means that the captain has an upright position, whereas the stoker
 ### Great features
 - The frame design allows both riders to have a panoramic view while pedaling.
 - Talking to each other is even easier.
-- The tandem is highly adjustable. 
+- The tandem is highly adjustable with only a few tools. 
 - The ride is smooth for both cyclists, even on rough terrains, thanks to the front shock.
 - The stoker's crankset has a freewheel. 
 
 ### Things to improve
-- Manoeuvering the handlebar requires a little bit of practise.
+- Manoeuvering the handlebar requires a little bit of adaptation.
 - Many parts are proprietary or Hase Pino specific.
 - It's pricey.
 
-{{< collapsible "in_details" 2 >}}
-|         -      |               -              |
+## Main information
+
+|               |                             |
 |--------------------|---------------------------------------------------------------|
 | Vendor        | [Hase Bikes](https://hasebikes.com)                                |
 | Model         | Pino Tour 2021                                                     |
+| Dealer        | [Cyclable Marseille](https://marseille-velodrome.cyclable.com/)    |
 | Size          | 184-245  cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
 
+## Specs
 
 | Elements              | Description                            |
 |--------------------|---------------------------------------------------------------|
@@ -51,4 +54,3 @@ Basically, it means that the captain has an upright position, whereas the stoker
 | Bottom rack        | Hase Pino Lowrider                                            |
 | Lightning system   | Lighting system: B+M IQ-X, Top Lite Flat Brake Plus           |
 | Mudguards          | fender SKS                                                    |
-{{< /collapsible >}}

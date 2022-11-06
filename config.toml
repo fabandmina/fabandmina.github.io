@@ -4,60 +4,61 @@ title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 copyright = "Copyright 2022-{year} Fabien TRAN All rights reserved."
 sectionPagesMenu = "main"
+paginate = 10
+
+### Enable shortcode in .md ###
+[markup.goldmark.renderer]
+  unsafe = true
+
+### Menu configuration ###
+[menu]
+    [[menu.main]]
+      identifier = 'home'
+      name = 'Home'
+      pageref ='/'
+      weight = 1
+    [[menu.main]]
+      identifier = 'blogs'
+      name = 'blogs'
+      pageref ='/blogs'
+      weight = 2
+    [[menu.main]]
+      identifier = 'trip'
+      name = 'trip'
+      pageref ='/blogs/trip'
+      parent = 'blogs'
+      weight = 3
+    [[menu.main]]
+      identifier = 'gears'
+      name = 'gears'
+      pageref ='/blogs/gears'
+      parent = 'blogs'
+      weight = 2
+    [[menu.main]]
+      identifier = 'contact'
+      name = 'contact'
+      pageref ='/contact'
+      weight = 4
+    [[menu.main]]
+      identifier = 'about'
+      name = 'about_us'
+      pageref ='/about'
+      weight = 5
+    [[menu.main]]
+      identifier = 'support'
+      name = 'support_Us'
+      pageref ='/support'
+      weight = 6
 
 ### Languages configuration ###
 defaultContentLanguage = 'en'
-#disableLanguages = ['ja']
-[taxonomies]
-  category = 'categories'
-  blog = 'blogs'
-  tag = 'tags'
-
 [languages]
-
   ### English ###
   [languages.en]
     languageCode = 'en'
     title = "Fab and Mina"
     languageName = "🇬🇧 English"
     weight = 1
-    [[languages.en.menu.main]]
-      identifier = 'home'
-      name = 'Home'
-      pageref ='/'
-      weight = 1
-    [[languages.en.menu.main]]
-      identifier = 'blogs'
-      name = 'blogs'
-      pageref ='/blogs'
-      weight = 2
-    [[languages.en.menu.main]]
-      identifier = 'trip'
-      name = 'Trips'
-      pageref ='/blogs/trip'
-      parent = 'blogs'
-      weight = 3
-    [[languages.en.menu.main]]
-      identifier = 'gears'
-      name = 'Gears'
-      pageref ='/blogs/gears'
-      parent = 'blogs'
-      weight = 2
-    [[languages.en.menu.main]]
-      identifier = 'contact'
-      name = 'Contact'
-      pageref ='/contact'
-      weight = 4
-    [[languages.en.menu.main]]
-      identifier = 'about'
-      name = 'About Us'
-      pageref ='/about'
-      weight = 5
-    [[languages.en.menu.main]]
-      identifier = 'support'
-      name = 'Support Us'
-      pageref ='/support'
-      weight = 6
 
   ### French ###
   [languages.fr]
@@ -65,87 +66,13 @@ defaultContentLanguage = 'en'
     title = "Fab et Mina"
     languageName = "🇫🇷 Français"
     weight = 2
-    [[languages.fr.menu.main]]
-      identifier = 'home'
-      name = 'Accueil'
-      pageref ='/'
-      weight = 1
-    [[languages.fr.menu.main]]
-      identifier = 'blogs'
-      name = 'blogs'
-      pageref ='/blogs'
-      weight = 2
-    [[languages.fr.menu.main]]
-      identifier = 'trip'
-      pageref ='/blogs/trip/'
-      name = 'Voyages'
-      parent = 'blogs'
-      weight = 3
-    [[languages.fr.menu.main]]
-      identifier = 'gears'
-      pageref ='/blogs/gears'
-      name = 'Équipements'
-      parent = 'blogs'
-      weight = 2
-    [[languages.fr.menu.main]]
-      identifier = 'contact'
-      pageref ='/contact'
-      name = 'Contacts'
-      weight = 4
-    [[languages.fr.menu.main]]
-      identifier = 'about'
-      pageref ='/about'
-      name = 'À propos'
-      weight = 5
-    [[languages.fr.menu.main]]
-      identifier = 'support'
-      pageref ='/support'
-      name = 'Aidez-nous'
-      weight = 6
   
   ### Japanese ###
   [languages.ja]
     title = "ファブトミナ"
     languageName = "🇯🇵 日本語"
     weight = 3
-    [[languages.ja.menu.main]]
-      identifier = 'home'
-      name = 'Home'
-      pageref ='/'
-      weight = 1
-    [[languages.ja.menu.main]]
-      identifier = 'blogs'
-      name = 'ブログ'
-      pageref ='/blogs'
-      weight = 2
-    [[languages.ja.menu.main]]
-      identifier = 'trip'
-      pageref ='/blogs/trip/'
-      name = '冒険記'
-      parent = 'blogs'
-      weight = 3
-    [[languages.ja.menu.main]]
-      identifier = 'gears'
-      pageref ='/blogs/gears'
-      name = '装備'
-      parent = 'blogs'
-      weight = 2
-    [[languages.ja.menu.main]]
-      identifier = 'contact'
-      pageref ='/contact'
-      name = 'コンタクト'
-      weight = 4
-    [[languages.ja.menu.main]]
-      identifier = 'about'
-      pageref ='/about'
-      name = 'About us'
-      weight = 5
-    [[languages.ja.menu.main]]
-      identifier = 'support'
-      pageref ='/support'
-      name = 'サポート'
-      weight = 6
-
+  
 
 ### Other parametres ###
 [params]
@@ -164,6 +91,9 @@ defaultContentLanguage = 'en'
   
   ### Icons ###
   icon_food = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_food.png"
+
+  ### Blog tags for rendering ###
+  blog_pages = ["trip", "gears"]
 
   ### shareButtons ###
   [params.shareButtons]
@@ -271,6 +201,4 @@ defaultContentLanguage = 'en'
       color_footer_separator = "gray"
 
 
-### Enable shortcode in .md ###
-[markup.goldmark.renderer]
-  unsafe = true
+
