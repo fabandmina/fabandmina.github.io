@@ -1,5 +1,5 @@
 ---
-title: "Taiwan"
+title: "台湾"
 subtitle: " Bike friendly, amazing people, amazing food "
 introduction: "A great place between Mainland China and Japan for a relaxing cycle tour."
 date: 2020-02-05T19:37:02+02:00
