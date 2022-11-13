@@ -16,7 +16,6 @@ thumbnail:
 </div>
 Je suie né à Nouméa, Nouvelle-Calédonie. J'ai fait des études supérieures en informatique en France et au Canada. Après quelques années à travailler en Nouvelle-Calédonie, J'ai décidé de devenir un voyageur à temps plein. J'ai commencé ce périple par traverser la Nouvelle-Zélande en vélo, l'endroit où j'ai rencontré Mina.
 
-<hr>
 En dehors du voyage, j'aime joué au jeux vidéos rétro (ce qui m'a inspiré le visuel de ce site), gratter mon ukulele et pratiquer diverses activités en extérieur. Aussi, je suis végétarien. J'espère ainsi pouvoir fournir de bonnes recommandations à mes amis veggies. 
 
 {{< /columns >}}
@@ -26,7 +25,6 @@ En dehors du voyage, j'aime joué au jeux vidéos rétro (ce qui m'a inspiré le
 {{< columns >}}
 Je suis née à Tokyo, Japon. À la suite de mes études d'architecte à l'université, j'ai travaillé dans un atelier d'architectes à Kyoto. Au même moment, je suis devenu barista café professionnelle par passion. Puis, j'ai quitté ma vie sédentaire pour devenir nomade. Je n'aurais jamais imaginé me marier avant de rencontrer Fab durant mon voyage en bikepacking. J'ai visité plus de 60 pays jusqu'à présent...
 
-<hr>
 Nager en pleine nature est une de mes activités favorites. Autrement, j'apprécie flâner et manger. C'est pourquoi je pense qu'être le stoker sur un tandem semi-couché est l'idéal !
 
 <div style="text-align:center">
@@ -35,14 +33,14 @@ Nager en pleine nature est une de mes activités favorites. Autrement, j'appréc
 {{< /columns >}}
 
 #
-If you have any questions, suggestions, tips-and-tricks... feel free to contact us by sending a DM on [Instagram]({{< param instagram_link.url >}}), or by completing our [contact form]({{< link_to contact >}}).
+Si vous avez des questions, recommandations, trucs et astuces... Contactez nous par MD sur [Instagram]({{< param instagram_link.url >}}), ou en complétant le formulaire suivant : [contact form]({{< link_to contact >}}).
 
-We are looking forward to hearing from you.
+Nous avons hâte de lire vos messages!
 
-## Follow us
+## Suivez-nous 
 {{< media instagram >}}
 {{< media flickr >}}
 
-## Press articles
-- July 2020 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
-- June 2019 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)
+## Articles de presse
+- Juillet 2020 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
+- Juin 2019 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-selle-nouvelles-aventures-721516.html)
