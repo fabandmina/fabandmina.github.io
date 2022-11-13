@@ -1,7 +1,7 @@
 ---
-title: "New Caledonia"
-subtitle: " Discover Fab's island home! "
-introduction: "Have a relaxing trip in the closest place to heaven."
+title: "Nouvelle-Calédonie"
+subtitle: " À la découverte de l'île de Fab! "
+introduction: "Relaxez-vous au cours d'un voyage sur l'île la plus proche du paradis. "
 date: 2019-11-28
 thumbnail: "https://live.staticflickr.com/65535/52471343530_a7f29255a4_c.jpg"
 tags: trip
@@ -9,36 +9,40 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302710
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/-20.910/166.926"
 ---
 {{< collapsible "travel_story" 2 >}}
-Now it's time to explore my island home together!
+Il est maintenant temps d'explorer mon île ensembles!
 
-I had already travelled my country by car, but it was a first time to do it by bicycle.
-This is a great way to explore the island that offers a more authentic experience.
-You get to interact with the locals, discover hidden places and have fresh local tropical fruits.
 
-There was a sad part during this trip that I feel important to share though. We cycled during the summer season. That year, it was especially dry.
+J'avais déjà parcouru mon pays en voiture, mais le faire en vélo était une première pour moi.
+C'est un excellent moyen de visiter l'île tout en offrant une expérience plus authentique.
+Cela vous permet d'interagir avec les locaux, découvrir des lieux cachés et vous délecter de fruits tropicaux.
+
+
+Il y avait cependant une ombre qui est venue obscurcir ce tableau idyllique. Et je pense que ce sujet me tient à coeur.
+Nous avons pédalé durant l'été. Cette année-là fût particulièrement sèche.
+
 Everyday we would ride across bush fires, tap water was cut because of the drought and in some areas, the firemen did not have enough water to fight against the fire.
+Il n'y pas eu un jour sans que l'on traverse des feux de brousse. L'eau était coupée à cause de la sécheresse et cela a compliqué le travail des pompiers, à court d'eau pour maîtriser les incendies.
 
-There was no restrictions for the peole living in the capital city and thoses staying at the hotels. 
-The most impacted people were the ones that were living in the bush and whose lives relied on subsistence agriculture.
+Il n'y avait pas de restrictions pour les gens vivant dans la capitale et pour les hôtels. Ceux qui ont été les plus impactés sont les personnes vivant en brousse et se reposant sut l'agriculture vivrière.
 
-Climate change is an actual issue for us, people of the Pacific, and we need to remember how impactful our way of living can make a difference.
+Le changement climatique est une problématique tangible pour nous, habitants du Pacifique, et nous devons nous rappeler que notre style de vie peut faire la différence.
 
-We don't pretend to be perfect either, but we do believe that the way we travel helps with reducing our carbon footprint.
+Nous ne prétendons pas être parfait non plus, mais nous croyons que nôtre façon de voyager permet de réduire notre empreinte carbone.
 {{< /collapsible >}}
 
 {{< collapsible "overall_feel" 2 4 >}}
 <h3>{{< translate what_we_appreciate >}}</h3>
 
-- Beautiful untamed nature
-- Laid back atmosphere
-- Having fruits from the trees everyday
-- People are nice and friendly
+- Belle nature sauvage
+- Ambiance détendue 
+- Manger des fruits frais cueillis sur l'arbre
+- Les gens sont sympas et accueillants 
   
 <h3>{{< translate what_we_dislike >}}</h3>
 
-- English is not spoken
-- The temperature is high
-- The countryside is not well-developped, so make sure to double-check your gears before leaving Nouméa
+- On ne parle pas l'anglais 
+- Il fait chaud
+- La brousse est peu développée, donc assurez-vous d'avoir vérifié votre équipement avant de quitter Nouméa
 
 {{< /collapsible >}}
 
@@ -46,20 +50,20 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 
 <h3>{{< translate stats >}}</h3>
 
-<li><b>{{< translate way_of_travelling >}}</b> Mainly bicycle</li>
+<li><b>{{< translate way_of_travelling >}}</b> Vélo</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 23 days</li>
+<li><b>{{< translate duration >}}</b> 23 jours</li>
 <li><b>{{< translate distance >}}</b> 1,250 km</li>
 
 {{< collapsible "crossing_the_border" 3 4 >}}
 
-You can only enter New Caledonia by plane. It can be expensive because it is far from most of the continents.
+On ne peut qu'entrer en Nouvelle-Calédonie par avion. Cela peut être cher étant donné que l'île est éloignée de la plupart des continents.
 
 <h4>{{< translate fab >}} 🇫🇷</h4>
-For French nationals, it's like a domestic travel. Just bring your passport. ID cards will not allow you to pass the borders.
+Pour les ressortissants français, c'est comme un vol domestique. N'oubliez de prendre votre passeport. La carte d'identité seule ne vous permettra pas de passer les frontières.
 
 <h4>{{< translate Mina >}} 🇯🇵</h4>
-As a Japanese, you are allowed to stay three months when you enter the country, without requesting a visa. The New Caldonian border officers are used to Japanese visitors.
+En tant que ressortissant japonais, vous pouvez rester trois mois dans le pays sans faire de demande de visa au préalable. Les agents aux frontières calédoniennes sont habitués aux visiteurs japonais.
 
 {{< /collapsible >}}
 

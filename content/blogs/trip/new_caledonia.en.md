@@ -21,7 +21,7 @@ Everyday we would ride across bush fires, tap water was cut because of the droug
 There was no restrictions for the peole living in the capital city and thoses staying at the hotels. 
 The most impacted people were the ones that were living in the bush and whose lives relied on subsistence agriculture.
 
-Climate change is an actual issue for us, people of the Pacific, and we need to remember how impactful our way of living can make a difference.
+Climate change is an actual issue for us, people of the Pacific, and we need to remember our way of living can make a difference.
 
 We don't pretend to be perfect either, but we do believe that the way we travel helps with reducing our carbon footprint.
 {{< /collapsible >}}
