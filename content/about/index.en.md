@@ -23,7 +23,7 @@ Besides travelling, I enjoy playing retro video games (that inspired me for this
 
 ## Mina
 {{< columns >}}
-I was born in Tokyo, Japan. After graduating from University as an architect student, I worked at a local atelier in Kyoto. At the same time, I became a café barista as a hobby. I quit my settled life to become a nomad. I had never imagined to marry someone until I met Fab during my bikepacking trip. I have visited over 60 countries so far...
+I was born in Tokyo, Japan. After graduating from University as an architecture student, I worked at a local atelier in Kyoto. At the same time, I became a café barista as a hobby. I quit my settled life to become a nomad. I had never imagined to marry someone until I met Fab during my bikepacking trip. I have visited over 60 countries so far...
 
 Swimming in nature is one of my favourite activities. Otherwise I really enjoy chilling and eating. That's why I think being the stoker on a semi-recumbent tandem bicycle is the perfect fit!
 
