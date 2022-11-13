@@ -1,15 +1,20 @@
 ---
 title: "Aidez-nous"
 subtitle: "Soutenez-nous durant nos aventures !"
-introduction: "Nous vous donnons l'opportunité de faire symboliquement parti de notre périple. Vous trouverez ici quelques moyens pour contribuer en toute simplicité."
+introduction: ""
 date: 2022-10-01T20:33:03+02:00
 thumbnail:
 
 ---
-## Offrez-nous un pourboire
-Contribuer simplement en nous laissant un pourboire sur [Ko-fi >>](https://ko-fi.com/about).
+Thank you for your interest in supporting us!
 
-Nous utilisons cette plateforme pour vous permettre de faire un petit, mais important, geste pécunier.
+Laissez-nous un pourboire sur [Ko-fi >>](https://ko-fi.com/about).
+
+Ko-fi est une plateforme de financement participatif sécurisée et facile d'utilisation.
+
+Pour nous envoyer un don, cliquez sur le bouton ci-dessous ou sur le bouton dans le coin inférieur droit.
+
+Votre participation nous sera envoyé directement.
 
 Vous n'avez qu'à cliquer sur le bouton ci-dessous (ou celui dans le coin inférieur gauche), et suivre les instructions. 
 
@@ -17,21 +22,24 @@ Vous n'avez qu'à cliquer sur le bouton ci-dessous (ou celui dans le coin infér
 {{< ko-fi_button >}} 
 
 #
-**Cela prend moins d'une minute !**
-## Devenez notre sponsor
-Nous serions ravis de représenter les valeurs de votre marque en en faisant la promotion sur ce site ou au cours de nos traversées.
+**5€ -** Avec ce montant nous pouvons apprécier un bon café. On adore le café !
 
-En tant que sponsor, il y a plus d'une façon de nous soutenir. En voici quelques unes :
-- Nous envoyer le meilleur de vos produits (vêtements, matériel de camping, accessoires de véols...)
-- Nous faire bénéficier de vos services (télécommunications, assurance de voyage, hébergement...)
-- Nous offrir des réductions spéciales
+**10€ -** Avec ce montant nous pouvons nous prendre un casse-croûte. C'est notre essence.
+
+**30€ -** Avec ce montant nous pouvons prendre une douche et une nuit de camping.
+
+**Et plus -** Nous pourrons continuer notre périple un peu plus longtemps.
+
+#
+Pour tous nos donateurs, nous pouvons les mentionner sur notre page d'accueil.
+Pour cela, ajoutez en commentaire de votre participation votre nom/pseudonyme.
+
+## Devenez notre sponsor
+Nous serions ravis de représenter les valeurs de votre marque en en faisant la promotion sur notre site et au cours de notre aventure.
 
 #
 Intéressé ? Vous pouvez nous contacter en remplissant ce **[formulaire de contact >>.]({{< link_to "contact" >}})**
 
 
-## Invitez nous !
-Parfois, nous avons besoint d'un coin pour passer la nuit à l'abri. Cela peut être un coin de jardin, une place dans votre garage... Nous serions également content de partager nos aventures autour d'une tasse de thé.
-
 # Merci pour votre soutien !
-![Fab avatar]({{< param avatar_fabandmina>}})
+{{< figure src="https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_together.gif" width="256" >}}
