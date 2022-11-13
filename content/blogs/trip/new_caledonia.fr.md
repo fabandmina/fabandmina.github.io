@@ -20,7 +20,6 @@ Cela vous permet d'interagir avec les locaux, découvrir des lieux cachés et vo
 Il y avait cependant une ombre qui est venue obscurcir ce tableau idyllique. Et je pense que ce sujet me tient à coeur.
 Nous avons pédalé durant l'été. Cette année-là fût particulièrement sèche.
 
-Everyday we would ride across bush fires, tap water was cut because of the drought and in some areas, the firemen did not have enough water to fight against the fire.
 Il n'y pas eu un jour sans que l'on traverse des feux de brousse. L'eau était coupée à cause de la sécheresse et cela a compliqué le travail des pompiers, à court d'eau pour maîtriser les incendies.
 
 Il n'y avait pas de restrictions pour les gens vivant dans la capitale et pour les hôtels. Ceux qui ont été les plus impactés sont les personnes vivant en brousse et se reposant sut l'agriculture vivrière.

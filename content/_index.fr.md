@@ -10,9 +10,10 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 Bienvenue !
 {{< param introduction >}}
 
-We are happy to share our experience with you. Hopefully it will give you new ideas that will make a positive impact in your life, and inspire you to take up on new challenges. 
+
+Nous sommes heureux de partager notre expérience avec vous. Nous espérons que cela vous donnera des idées qui auront un impact positif dans votre vie, et qui vous inspireront pour relever de nouveaux défis.
 #
-Our next project is to cross Eurasia by tandem bicycle from Portugal to Japan. It will take about two years and 25,000 km.
+Notre prochain projet sera de traverser l'Eurasie en tandem, du Portugal au Japon. Cela nous prendra environ 2 ans et 25 000 km.
 
 {{< last-article >}}
 
