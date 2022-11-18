@@ -1,7 +1,7 @@
 ---
 title: "台湾"
-subtitle: " Bike friendly, amazing people, amazing food "
-introduction: "A great place between Mainland China and Japan for a relaxing cycle tour."
+subtitle: " 素敵な人と美食づくしの自転車大国 "
+introduction: "中国本土と日本の間に浮かぶ、自転車旅に最適な場所"
 date: 2020-02-05T19:37:02+02:00
 thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
 tags: trip
@@ -9,28 +9,28 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
 ---
 {{< collapsible "travel_story" 2 >}}
-We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.
+ニュージーランド滞在中に沢山の台湾人の友人ができ、ありがたいことに私達を招待してくれたので、台湾を旅することにしました。
 
-When we arrived there, we borrowed two bicycles from our Taiwanese friends and we toured the whole country. We had a great adventure thanks to them.
+台湾到着後、友人から自転車を２台借り、全国サイクリングツアーを開始！お陰様で、私達は素晴らし冒険をすることができました。
 
-We discovered a great culture, a generous people, a fabulous cuisine and astonishing landscapes.
+多様な文化，寛大な国民性，バラエティ富かな台湾グルメ，風光明媚な風景などなど。
 
-Taiwan is forever in our hearts!
+台湾は、私達の心の中で永遠に輝き続けます。
 {{< /collapsible >}}
 
 {{< collapsible "overall_feel" 2 5 >}}
 <h3>{{< translate what_we_appreciate >}}</h3>
 
-- The country is really safe
-- Excellent food
-- People are nice and helpful
-- The scenery is fantastatic, especially in the mountains
-- Cycling is easy
+- 安心
+- 安全
+- 素晴らしい食文化
+- 優しくて親切な人々
+- 美しい風景(特に山岳部は絶景！)
 
 <h3>{{< translate what_we_dislike >}}</h3>
 
-- The language barrier sometimes
-- The temperature is high
+- 言語の壁が少しある
+- 高い気温
   
 {{< /collapsible >}}
 
@@ -38,140 +38,130 @@ Taiwan is forever in our hearts!
 
 <h3>{{< translate stats >}}</h3>
 <ul>
-<li><b>{{< translate way_of_travelling >}}</b> Mainly bicycle</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li>
-<li><b>{{< translate duration >}}</b>  31 days</li>
-<li><b>{{< translate distance >}}</b> 1290 km</li>
+<li><b>{{< translate way_of_travelling >}}</b> 主に自転車</li>
+<li><b>{{< translate starting_date >}} </b>2020年2月５日</li>
+<li><b>{{< translate duration >}}</b>  31日間</li>
+<li><b>{{< translate distance >}}</b> 1,290km km</li>
 </ul>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
 
-Since Taiwan is an island, the only possible ways to enter are:
-- by boat
-- by taking a flight
+台湾は島国のため、以下の方法でしか入国できません。
+- 船 ( フェリー )
+- 飛行機
 
-We departed from Okinawa, Japan, and arrived at Taipei. We did not have much choice but taking a flight.
+日本からは飛行機を使う他手段が無かったので、沖縄から台北まで、LCCにも関わらず良いサービスを提供してくれるPeach(ピーチ)を利用しました。
 
-We travelled with Peach which offers a good service for a low-cost company.
 <h4>{{< translate fab >}} 🇫🇷</h4>
-Easy peasy! 
+有効なパスポートと帰りのチケットを提示するのみ。ビザなしで90日間の滞在が許可されました。
 
-I just needed to show a valid passport and a return ticket at the border control. I was then allowed to stay 90 days inside Taiwan.
 <h4>{{< translate Mina >}} 🇯🇵</h4>
-Pretty much the same for Japanese nationals.
+ビザなしで90日滞在可。パスポートを提示するのみ。
 
 {{< /collapsible >}}
 
 {{< collapsible "road_condition" 3 5 >}}
-The road is really good!
+本当にサイクリングしやすい道です！
 
-We cycled all around the island by following the coastline most of the time.
+私達は、最北端や最南端といったいくつかの地域と山岳部(自転車乗りとは端へ上へと行きたがる者……。)も探索したかったので完走はしませんでしたが、環島１号線(環島：ワンダ)と呼ばれる台湾を一周するサイクリングロードがあります。道中ほとんどが自転車又は二輪車の専用道路なので、ストレスのない安全な走行が可能です。
 
-Otherwise, there is the Cycle Route n°1, also called "環島" ("huan-dao") which means "round island". We didn't follow it completely though, because we wanted to explore a few specific remote regions (north and south extremities, mountains...). However, it is a shorter and stress-free route.
+二輪車専用レーンがない道路や混んでいる状況においても、車の運転手は常に私達に安全なスペースを確保してくれました。
 
-The road was sealed all the way and about 70% of our route was a special lane shared by cyclists and motorcycles.
+台湾は恐らく、アジアで一番二輪車に優しい国なのではないかと思います。
 
-On busy streets or highways, drivers would always make room so we could ride safely on the side.
-
-Taiwan has probably the safest roads for the 2-wheelers in Asia.
-
-Besides cycling, we experimented hitchhiking. 
-
-It was not a piece of a cake since the locals are not used to this practise. If you stand on the side of the road, they would slow down thinking you need some help. We managed to get a few rides by writing our destination (in traditional Mandarin) on a big piece of cardboard.
-
-The best approach is to talk to them directly if you can.
+自転車で台湾を一周した後、ヒッチハイク旅も試してみました。台湾の人はヒッチハイクという文化に慣れていない様で、私達が道端に立っていると、何か助けが必要だと思い車の速度を落として様子を伺ったり、車から声をかけてくださいました。車を捕まえるために、目的地を段ボール等に大きく漢字で書き示すと良いです。もし可能なら、地元の人に自ら話しかけ交渉するのが一番だと思います。
 
 {{< /collapsible >}}
 
 {{< collapsible "accommodations" 3 4 >}}
-The price for one night at a cheap hotel is between 800 ~ 1000 NTD (25 ~ 30€).
+安宿の価格帯は、1泊1部屋800〜1,000NTD ( 3,500〜4,500円 ) くらいでした。私達は2人なので、ホステル(バックパッカー)に泊まるよりホテルに泊まった方が安かったです。
 
-For two people it's actually more economical than a night in a backpackers.
+もしも近くに宿泊施設がない場合、お寺の責任者や地元の人に尋ねて、お寺に宿泊することも可能です。ただ、こういった宿泊施設は基本的には、巡礼をしている人向けなので、観光客用の宿ではないことを覚えておいてください。
 
-If there's not any accommodation around your location, it's possible to stay at some temples. You need to contact the temple's manager or ask the locals.
-Please remember that the temples stays are mainly intended for pilgrims. These are not touristic accommodations.
-
-In the end, we only have a limited experience of 8 days in accommodations.
+結果的に、私達は台湾滞在中に8日間しか宿泊施設を利用しなかったので、この項目に関してあまり経験値がありません。
 
 {{< /collapsible >}}
 
 {{< collapsible "freedom_camping" 3 4 >}}
 
-Taiwan is really urban and people are not used to freedom campers.
+台湾はとても都会的で、野宿する人はあまりいないようです。
 
-Around the city, we would ask the locals for a good spot for pitching our tent. Most of the time, they would recommend to go to the nearest elementery school yard, which somehow has an official campground.
+都市で地元の人に、『この辺りにどこかテントを張れる場所はありますか？』と聞くと、ナゼか小学校を勧められます。台湾で、小学校は無料キャンプ場の様です。(謎の外国人が学校で野宿してても特別驚かない台湾の小学生。謎のシステム！笑)
 
-In remote places, we would stay anywhere we would consider sheltered enough, and not too anoying for the locals. 
+田舎では、地元の人の迷惑にならない様な場所なら、野宿し放題でした。
 
-The police really don't mind you do freedom camping at random spots, but they may check on you if they think you are at risk. They might try to look for a proper accommodation for you, and give you food and hot beverages.
+警察官も私達がどんな変な場所にテントを張っていようと、見つけたところで特段気にする様子はありませんでした。何か怪しいと思ったらチェックするか、宿泊施設を紹介するか、食べ物や温かい飲み物を提供してくれることさえあります。
+
 
 {{< /collapsible >}}
 
 {{< collapsible "facilities" 3 5 >}}
 
-Taiwan is well equipped.
+とても整備されています。
 
-There are convinient stores almost everywhere. There, you can find:
-- Toilets
-- ATM machines
-- Eat-in corner
-- Plugs
-- Free Wi-Fi
+日本と同じくそこかしこにコンビニがあり、以下のものを見つけられます。
+- トイレ
+- ATM
+- イートインコーナー
+- コンセント
+- 無料Wi-Fi
 
-For cyclists and bikepackers, there is nothing to worry about. You can find branded or private bike shops around every corner.
+また、自転車屋さん(ブランド店，個人店)も道中多く見つけられるので、サイクリストは自転車整備やアクシデント時の心配をそこまで心配する必要はないと思います。
 
-At the visitors centers, the staff cannot speak English. So, if you have any issue on the way or need information, just go to the local police station. They can speak English, and they will provide anything you need (including driking water and snacking) for free. Some of them are official bike stations.
+観光案内所のスタッフは英語を喋れる人が居ないので、もし何かローカルな情報が欲しい場合、交番(警察署)に行くことをおすすめします。警察官は英語が話せ、私達の質問に答えてくれるだけでなく、飲物やお菓子も提供してくれました。環島１号線沿いにあるいくつかの交番は公式のバイクステーションです。
+
 
 {{< /collapsible >}}
 
 {{< collapsible "communication_with_the_locals" 3 4 >}}
 
-If you can speak or read traditional Chinese, you are fine. Otherwise, it's not that easy, but not too difficult either.
+中国語を話せるか読める場合、苦労しません。私達は中国語を知りませんが、漢字からなんとなく意味を想像し、地元の人と筆談も交えてコミュニケーションをとりました。
 
-The people who can speak English are:
-- The police
-- The accommodations' owners/managers
-- Taipei people
+台湾で英語の話せる人
+- 警察官
+- 宿泊施設のオーナーやマネージャー
+- 台北に住む人
   
-For the rest, you will need to use your body language and/or your smartphone's translator.
+それ以外は、ボディランゲージや翻訳アプリを使う必要がありそうです。
 
-In general, the Taiwanese are really patient and they will try their best to help. They will not hesitate to approach you to check on you if you look lost or tired.
+基本的に、台湾の人はとても辛抱強く、私達が何を伝えたいのか理解しようとしてくれます。彼らは、旅人が疲れている様に見えたり困っている様に見えたら、決して放っておきません。
 
 {{< /collapsible >}}
 
 {{< collapsible "food" 3 5 >}}
 
-Food is delicious!
+本当に美味しかった！
 
-Each village has their own specialties. For instance, we visited the village of spring onions. They would add fresh spring onions in every dish. We even had spring onion ice cream!
+ローカルフード(郷土料理)がどこへ行ってもあり、例えば長葱が有名な村を訪れた際、その地域では全ての料理にネギが使われており、アイスクリームにも新鮮なネギが加えられていました！
 
-More seriously, food is accessible everywhere. Shops, restaurants, night markets, supermarkets... You really don't need to carry much food if you stick to the official cycle route. For the mountain part, you will probably need to carry food for a couple days.
+もう少し実用的な話をすると、商店，レストラン，ナイトマーケット，スーパーやコンビニなど、いたる所で食べ物を見つけられるので、サイクリングロードに沿って旅をする場合、食べ物の心配をする必要はありません。山岳部はあまり栄えてないので、商店やレストランがあっても、営業時間がまちまちなので、数日分の食料を運んだほうが安全だと思います。
 
 <h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
-Vegetarism is a religious practise in Taiwan. Around the city, you can find many shops that serve traditional vegetarian food. If you need to find one of these shops, look for "素食" ("Sùshí").
+宗教的な理由で、ベジタリアン食は台湾で昔からある文化です。街で『素食』と書かれているレストランや屋台がそれです。
 
-They also have several veggie options for the dumplings and bao.
+普通のお店でも、餃子や肉まんのベジタリアンオプションを簡単に見つける事ができます。
 
-In the countryside, they might not have a vegetarian menu, but they can always accommodate you.
+田舎だとそういった食事を見つけにくいですが、お店の人に自分はベジタリアンだと伝えると、嫌な顔せず対応してくれます。
+
 
 <h4>{{< translate what_we_eat >}}</h4> 
 
-- Rice
-- Noodles
-- Dumplings
-- Bao Zi
-- Tropical fruits
-- Bento
-- Bubble tea
-- Peanut butter
+- お米
+- 麺類
+- 餃子
+- 肉まん(具材のバラエティが豊富)
+- トロピカルフルーツ
+- 弁当(木箱に詰められている)
+- タピオカティ
+- Pピーナッツバター
 
 <h4>⭐{{< translate fab_favourite >}}</h4>
 
-[Keelung's Bao Zi](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
+[基隆で偶然見つけた肉まん屋さん](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
 
 <h4>⭐{{< translate mina_favourite >}}</h4>
 
-Bento set from a random restaurant located in the industrial area. Unfortunately, we cannot provide a link or address to that place because it does not exist on google maps.
+工業地帯で偶然みつけたお店の、信じられない美味しさとボリュームの定食！ですが、地図上に存在していないので、残念なことにリンクを載せられません。。
 
 {{< /collapsible >}}
 {{< /collapsible >}}
@@ -180,11 +170,11 @@ Bento set from a random restaurant located in the industrial area. Unfortunately
 
 |             |             |
 |-------------|-------------|
-|   [Taroko Gorge](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   Dramatic landscapes, natural hot springs    |
-|   [Hehuanshan](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   Landscapes, beautiful hikes    |
-|   [Zhibenzhen](https://goo.gl/maps/KSZYzYwbira1jhEXA)    |   Hot springs near Taitung    |
-|   [The North tip](https://goo.gl/maps/tmJxP7ZQ8gKupovS8)    |   Beautiful coastline, relaxing atmosphere    |
-|   [Chishang](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   Best rice in Taiwan    |
+|   [太魯閣峡谷](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   台湾随一の絶景と天然温泉    |
+|   [合歓山](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   雄大な景色と素晴らしいハイキング    |
+|   [知本温泉](https://goo.gl/maps/KSZYzYwbira1jhEXA)    |   台東近くの温泉街    |
+|   [台湾の北端エリア](https://goo.gl/maps/tmJxP7ZQ8gKupovS8)    |   美しい海岸線とゆったりした雰囲気    |
+|   [池上](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   台湾で一番おいしいお米の産地！    |
 
 
 
