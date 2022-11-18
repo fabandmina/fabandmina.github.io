@@ -38,8 +38,8 @@ Si vous avez des questions, recommandations, trucs et astuces... Contactez nous 
 Nous avons hâte de lire vos messages!
 
 ## Suivez-nous 
-{{< media instagram >}}
-{{< media flickr >}}
+- {{< media instagram >}}
+- {{< media flickr >}}
 
 ## Articles de presse
 - Juillet 2020 - [francetvinfo](https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html)
