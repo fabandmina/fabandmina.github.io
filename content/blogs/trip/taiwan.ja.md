@@ -1,12 +1,12 @@
 ---
-title: "台湾"
+title: 台湾
 subtitle: " 素敵な人と美食づくしの自転車大国 "
-introduction: "中国本土と日本の間に浮かぶ、自転車旅に最適な場所"
+introduction: 中国本土と日本の間に浮かぶ、自転車旅に最適な場所
 date: 2020-02-05T19:37:02+02:00
-thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
+thumbnail: https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg
 tags: trip
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795"
-flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
+flickr_album: https://www.flickr.com/photos/196589873@N03/albums/72177720302559908
+map: //umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795
 ---
 {{< collapsible "travel_story" 2 >}}
 ニュージーランド滞在中に沢山の台湾人の友人ができ、ありがたいことに私達を招待してくれたので、台湾を旅することにしました。
@@ -19,19 +19,20 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 {{< /collapsible >}}
 
 {{< collapsible "overall_feel" 2 5 >}}
+
 <h3>{{< translate what_we_appreciate >}}</h3>
 
-- 安心
-- 安全
-- 素晴らしい食文化
-- 優しくて親切な人々
-- 美しい風景(特に山岳部は絶景！)
+* 安心
+* 安全
+* 素晴らしい食文化
+* 優しくて親切な人々
+* 美しい風景(特に山岳部は絶景！)
 
 <h3>{{< translate what_we_dislike >}}</h3>
 
-- 言語の壁が少しある
-- 高い気温
-  
+* 言語の壁が少しある
+* 高い気温
+
 {{< /collapsible >}}
 
 {{< collapsible "in_details" 2 >}}
@@ -41,14 +42,15 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 <li><b>{{< translate way_of_travelling >}}</b> 主に自転車</li>
 <li><b>{{< translate starting_date >}} </b>2020年2月５日</li>
 <li><b>{{< translate duration >}}</b>  31日間</li>
-<li><b>{{< translate distance >}}</b> 1,290km km</li>
+<li><b>{{< translate distance >}}</b> 1,290km</li>
 </ul>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
 
 台湾は島国のため、以下の方法でしか入国できません。
-- 船 ( フェリー )
-- 飛行機
+
+* 船 ( フェリー )
+* 飛行機
 
 日本からは飛行機を使う他手段が無かったので、沖縄から台北まで、LCCにも関わらず良いサービスを提供してくれるPeach(ピーチ)を利用しました。
 
@@ -76,7 +78,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 {{< collapsible "accommodations" 3 4 >}}
 安宿の価格帯は、1泊1部屋800〜1,000NTD ( 3,500〜4,500円 ) くらいでした。私達は2人なので、ホステル(バックパッカー)に泊まるよりホテルに泊まった方が安かったです。
 
-もしも近くに宿泊施設がない場合、お寺の責任者や地元の人に尋ねて、お寺に宿泊することも可能です。ただ、こういった宿泊施設は基本的には、巡礼をしている人向けなので、観光客用の宿ではないことを覚えておいてください。
+もしも近くに宿泊施設がない場合、お寺の責任者や地元の人に尋ねて、お寺に宿泊することも可能です。ただ、こういった宿泊施設は基本的には、巡礼をしている人向けで、観光客用の宿ではないことを覚えておいてください。
 
 結果的に、私達は台湾滞在中に8日間しか宿泊施設を利用しなかったので、この項目に関してあまり経験値がありません。
 
@@ -92,7 +94,6 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 
 警察官も私達がどんな変な場所にテントを張っていようと、見つけたところで特段気にする様子はありませんでした。何か怪しいと思ったらチェックするか、宿泊施設を紹介するか、食べ物や温かい飲み物を提供してくれることさえあります。
 
-
 {{< /collapsible >}}
 
 {{< collapsible "facilities" 3 5 >}}
@@ -100,16 +101,16 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 とても整備されています。
 
 日本と同じくそこかしこにコンビニがあり、以下のものを見つけられます。
-- トイレ
-- ATM
-- イートインコーナー
-- コンセント
-- 無料Wi-Fi
 
-また、自転車屋さん(ブランド店，個人店)も道中多く見つけられるので、サイクリストは自転車整備やアクシデント時の心配をそこまで心配する必要はないと思います。
+* トイレ
+* ATM
+* イートインコーナー
+* コンセント
+* 無料Wi-Fi
+
+また、自転車屋さん(ブランド店，個人店)も道中多く見つけられるので、サイクリストは自転車整備やアクシデント時の心配をそこまでする必要はないと思います。
 
 観光案内所のスタッフは英語を喋れる人が居ないので、もし何かローカルな情報が欲しい場合、交番(警察署)に行くことをおすすめします。警察官は英語が話せ、私達の質問に答えてくれるだけでなく、飲物やお菓子も提供してくれました。環島１号線沿いにあるいくつかの交番は公式のバイクステーションです。
-
 
 {{< /collapsible >}}
 
@@ -118,10 +119,11 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 中国語を話せるか読める場合、苦労しません。私達は中国語を知りませんが、漢字からなんとなく意味を想像し、地元の人と筆談も交えてコミュニケーションをとりました。
 
 台湾で英語の話せる人
-- 警察官
-- 宿泊施設のオーナーやマネージャー
-- 台北に住む人
-  
+
+* 警察官
+* 宿泊施設のオーナーやマネージャー
+* 台北に住む人
+
 それ以外は、ボディランゲージや翻訳アプリを使う必要がありそうです。
 
 基本的に、台湾の人はとても辛抱強く、私達が何を伝えたいのか理解しようとしてくれます。彼らは、旅人が疲れている様に見えたり困っている様に見えたら、決して放っておきません。
@@ -143,17 +145,16 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 
 田舎だとそういった食事を見つけにくいですが、お店の人に自分はベジタリアンだと伝えると、嫌な顔せず対応してくれます。
 
-
 <h4>{{< translate what_we_eat >}}</h4> 
 
-- お米
-- 麺類
-- 餃子
-- 肉まん(具材のバラエティが豊富)
-- トロピカルフルーツ
-- 弁当(木箱に詰められている)
-- タピオカティ
-- Pピーナッツバター
+* お米
+* 麺類
+* 餃子
+* 肉まん(具材のバラエティが豊富)
+* トロピカルフルーツ
+* 弁当(木箱に詰められている)
+* タピオカティ
+* ピーナッツバター
 
 <h4>⭐{{< translate fab_favourite >}}</h4>
 
@@ -168,13 +169,10 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 
 <h3>{{< translate top_5_locations >}}</h3>
 
-|             |             |
-|-------------|-------------|
-|   [太魯閣峡谷](https://goo.gl/maps/M5SDWP2woECw1MoG9)    |   台湾随一の絶景と天然温泉    |
-|   [合歓山](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)    |   雄大な景色と素晴らしいハイキング    |
-|   [知本温泉](https://goo.gl/maps/KSZYzYwbira1jhEXA)    |   台東近くの温泉街    |
-|   [台湾の北端エリア](https://goo.gl/maps/tmJxP7ZQ8gKupovS8)    |   美しい海岸線とゆったりした雰囲気    |
-|   [池上](https://goo.gl/maps/88d75GTkRBFKZwcG6)    |   台湾で一番おいしいお米の産地！    |
-
-
-
+|                                                   |                  |
+| ------------------------------------------------- | ---------------- |
+| [太魯閣峡谷](https://goo.gl/maps/M5SDWP2woECw1MoG9)    | 台湾随一の絶景と天然温泉     |
+| [合歓山](https://goo.gl/maps/PGcc5C9WDZgAHAvc7)      | 雄大な景色と素晴らしいハイキング |
+| [知本温泉](https://goo.gl/maps/KSZYzYwbira1jhEXA)     | 台東近くの温泉街         |
+| [台湾の北端エリア](https://goo.gl/maps/tmJxP7ZQ8gKupovS8) | 美しい海岸線とゆったりした雰囲気 |
+| [池上](https://goo.gl/maps/88d75GTkRBFKZwcG6)       | 台湾で一番おいしいお米の産地！  |
