@@ -13,8 +13,13 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+      - { label: 'Description', name: 'introduction', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Thumbnail URL', name: 'thumbnail', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list', allow_add: false, default: ["trips"] }
+      - { label: 'Flickr album URL', name: 'flickr_album', widget: 'string' }
+      - { label: 'Map URL', name: 'map', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'gears'
     label: 'Gears'
@@ -25,6 +30,11 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+      - { label: 'Description', name: 'introduction', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Thumbnail URL', name: 'thumbnail', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list', allow_add: false, default: ["gears"] }
+      - { label: 'Flickr album URL', name: 'flickr_album', widget: 'string' }
+      - { label: 'Map URL', name: 'map', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
