@@ -4,9 +4,21 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blogs'
+  - name: 'trips'
+    label: 'Trips'
+    folder: 'content/blogs/trip'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'gears'
+    label: 'Gears'
+    folder: 'content/blogs/gears'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
