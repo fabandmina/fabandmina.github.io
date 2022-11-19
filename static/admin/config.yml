@@ -20,8 +20,8 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list', allow_add: false, default: ["trips"] }
       - { label: 'Flickr album URL', name: 'flickr_album', widget: 'string' }
       - { label: 'Map URL', name: 'map', widget: 'string' }
+      - { label: 'Is draft', name: 'draft', widget: 'boolean' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Body', name: 'body', widget: 'markdown', default: false }
   - name: 'gears'
     label: 'Gears'
     folder: 'content/blogs/gears'
