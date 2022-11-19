@@ -129,7 +129,7 @@ Angel shrimps. They were the best shrimps I have ever had!
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [Yate's Dam](https://goo.gl/maps/zCazadT6QQQ7qoGv9)   |   Scenary and the crystal clear blue pond    |
+|   [Yate's Dam](https://goo.gl/maps/zCazadT6QQQ7qoGv9)   |   scenery and the crystal clear blue pond    |
 |   [The North road between Ouega and Arama through the dry wetlands ](https://goo.gl/maps/XxuzT2Sg4XKyaUcc7)   |   Difficult but unseen landscapes    |
 |   [The heart of Voh](https://goo.gl/maps/QpfKfEjXfissDF8s7)    |   Easy hike until the viewpoint to see the heart-shaped mangrove     |
 |   [Farino](https://goo.gl/maps/LDhFzo3jkwoN9GQL7)    |   Beautiful national park where you can see cagous (endemic birds)    |
