@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Routes of Santiago de Compostela - FRANCE"
 subtitle: "A Subtitle"
 introduction: "A short paragraph of text, shown as the first paragraph of the article, and on list pages."
-date: {{ .Date }}
+date: 2022-11-23T16:12:33+01:00
 thumbnail:
 tags: trip
 flickr_album:
