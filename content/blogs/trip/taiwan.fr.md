@@ -43,7 +43,6 @@ Taiwan restera dans nos coeurs pour toujours!
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
 <li><b>{{< translate duration >}}</b> 28 jours</li>
 <li><b>{{< translate distance >}}</b> 1000 km</li>
-<li><b>{{< translate budget >}}</b> 1000 €</li>
 </ul>
 
 {{< collapsible "crossing_the_border" 3 5 >}}

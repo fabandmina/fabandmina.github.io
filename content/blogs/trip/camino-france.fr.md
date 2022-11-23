@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "camino_france"
 subtitle: "A Subtitle"
 introduction: "A short paragraph of text, shown as the first paragraph of the article, and on list pages."
-date: {{ .Date }}
+date: 2022-11-23T16:12:33+01:00
 thumbnail:
 tags: trip
 flickr_album:
@@ -35,6 +35,7 @@ Some story
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
 <li><b>{{< translate duration >}}</b> 28 jours</li>
 <li><b>{{< translate distance >}}</b> 1000 km</li>
+<li><b>{{< translate budget >}}</b> 1000 €</li>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
 
