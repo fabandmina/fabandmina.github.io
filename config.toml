@@ -6,6 +6,11 @@ copyright = "Copyright 2022-{year} Fabien TRAN All rights reserved."
 sectionPagesMenu = "main"
 paginate = 10
 
+### Netlify integration ###
+[build.environment]
+  HUGO_ENV = "production"
+  HUGO_VERSION = "0.92.2"
+
 ### Enable shortcode in .md ###
 [markup.goldmark.renderer]
   unsafe = true
