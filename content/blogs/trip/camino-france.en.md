@@ -1,6 +1,6 @@
 ---
 title: "camino_france"
-subtitle: " Follow the steps of the early pilgrims "
+subtitle: " Follow the steps of the early pilgrims on the Routes of Camino de Compostela."
 introduction: "A long walk that will heal your soul"
 date: 2021-07-14T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52518424392_540ae080c8_c.jpg"
