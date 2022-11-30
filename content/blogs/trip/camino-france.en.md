@@ -43,23 +43,47 @@ The walk through the dramatic landscapes, the farm animals, and the historical v
 <li><b>{{< translate distance >}}</b> 730 km</li>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
+We entered Europe by plane.
+At that time, we had to go through the covid checks. But travelling in France was fine.
+We then took a train from Lyon until Le Puy-En-Velay, the starting point.
 
-Some comment about crossing the border
 <h4>{{< translate fab >}} 🇫🇷</h4>
+As a French national, you can of course stay as long as you want in France.
+
 <h4>{{< translate Mina >}} 🇯🇵</h4>
+Mina had a working holiday visa which allowed her to stay inside the Schengen area for one year.
+
+Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
 
 {{< /collapsible >}}
 
 {{< collapsible "road_condition" 3 5 >}}
-Some comment about the road state
+It's a popular hike, so the path is well marked and well maintained.
+If you stick to the official route, you will find yourself zigzagging left and right, up and down.
+If you decide to take shortcuts, you might miss several charming sceneries though.
+Regarding the crowd, it's only busy at the beginning and towards Saint-Jean-Pied-de-Port.
+Nevertheless, even though the path condition is rather good, we would recommend to wear proper hiking shoes for their durability and comfort.
+Mina first decided to use trail-running shoes, but regretted it as she had to changed them on the way. 
+
 {{< /collapsible >}}
 
 {{< collapsible "accommodations" 3 4 >}}
-Some comment about the accommodation
+There are plenty of lovely accommodations along the way.
+It's better to book them as soon as possible to make sure you'll have a warm bed for the night.
+But, we would never make a reservation for a place to stay because we wanted to follow the flow of this trip.
+
+Additionally, carrying a tent can be useful as many owners allow to pitch tent in their gardens for about 5€ per person and per night.
+
+Alternatively, you can stay at *donativos* in exchange of a donation left at your discretion. You cannot book them, though, and you will need to arrive early if you wish to find a vacant bed.
+
+In the end, we only have a limited experience of 2 nights on campgrounds and 1 night in a *donativo*.
 {{< /collapsible >}}
 
 {{< collapsible "freedom_camping" 3 5 >}}
-Some comment about the freedom camping
+On the French part of Camino de Compostela, freedom camping is a common practice.
+It's not unusual to share your spot with other campers. 
+The locals are used to us, freedom campers. Sometimes, you can even find an ideal spot for freedom camping that has a few facilities (benches, bathrooms, plugs...) in the vicinity of the footpath.
+If you'd like to pitch your tent on an empty field, make sure there won't be any farming activity (animals, vehicles...) the following morning.  
 {{< /collapsible >}}
 
 {{< collapsible "facilities" 3 5 >}}
