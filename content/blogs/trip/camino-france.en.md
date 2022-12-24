@@ -39,7 +39,7 @@ The walk through the dramatic landscapes, the farm animals, and the historical v
 
 <li><b>{{< translate way_of_travelling >}}</b> Walking</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 39 jours</li>
+<li><b>{{< translate duration >}}</b> 39 days</li>
 <li><b>{{< translate distance >}}</b> 730 km</li>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
