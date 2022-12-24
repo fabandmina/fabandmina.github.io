@@ -87,18 +87,53 @@ If you'd like to pitch your tent on an empty field, make sure there won't be any
 {{< /collapsible >}}
 
 {{< collapsible "facilities" 3 5 >}}
-Some comment about the facilities
+In the French part, you will cross villages and towns every 5~10km.
+Most of the time, you'll be able to find at least a drinking water tap and/or a tiny shop such as a bakery or a café.
+Otherwise, pharmacies and supermarkets can be found at the main checkpoints.
+If you'd like to get fresher products, local markets are usually open in the morning.
+Although it's not uncommon to find public restrooms, you will likely need to bring your own toilet paper and hand soap.
+Additionally, there are many resting areas for the pilgrims on the way where you'll be able to find snacks, fruits, and beverages in exchange of a donation.
+
+In short, it's easy to refill your supplies on the way. You won't need to carry much food. Just mind Sundays, as almost every business is closed.
+
 {{< /collapsible >}}
 
 {{< collapsible "communication_with_the_locals" 3 4 >}}
-Some comment about communication with the locals
+The locals are really welcoming and helpful with the pilgrims.
+Some of them were former pilgrims and can provide good tips for completing your journey.
+The road feels safe, but keep watching your stuff at all time, as you would anywhere in Europe.
+The locals won't shy out from a chat with you, even though their main language is French. Since most of them are quite aged, communicating in English will not always possible.
 {{< /collapsible >}}
 
 {{< collapsible "food" 3 4 >}}
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+In general, we don't visit restaurants because in France, the service takes a long time and it's fairly common to stay 2 hours at the restaurant.
+We usually prefer to have a light meal at a café/bakery or prepare our own food.
 
+France has excellent local produces and products. It's a good opportunity to try their regional cheeses, wine and seasonal fruits.
+Anyway, you'll probably share these delicacies with the other pilgrims.
+In summer, the typical French pilgrim's diet includes wine, ham, baguette, cheese and one melon.
+
+Foraging fruits on the way is possible. Some fruit trees, such as apple and pear trees, were planted especially for the pilgrims.
+Otherwise, the countryside provides wild fruits and berries. But avoid foraging too close to a village since those plants are often considered as weed and may contain pesticides and other harmful chemicals.
+
+One last thing, we don't appreciate French coffee as it tastes too weak and watery for us.
+<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+French cuisine is not vegetarian. The countryside is no exception.
+If you decide to have a meal at a café or restaurant, the choice is limited to the tomatoes and mozzarella or 3-cheese paninis. These options are quite tasty thanks to the fancy cheese inside, though.
+Here, wheat and diary products are staple food.
 <h4>{{< translate what_we_eat >}}</h4> 
-Some comment about the food
+
+- Oats
+- Baguettes
+- Honey
+- Tapenade
+- Cheese
+- Croissants and pains au chocolat
+- Quiches
+- Paninis
+- Wild berries
+- Melons
+
 
 <h4>⭐{{< translate fab_favourite >}}</h4>
 
