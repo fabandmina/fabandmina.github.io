@@ -18,15 +18,16 @@ We were excited to visit a different country while still following Camino de San
 
 At first, we considered walking the North coast of Spain via the Camino del Norte. But in the end, we decided to take the Camino Frances as we knew at the time of this trip, fewer people than usual would actually walk it, thanks to the Covid crisis.
 
-Santiago is the official finish line for the pilgrimage, but we wanted to walk that extra distance until Fisterra, the "end of the world" according to the first pilgrims.
+Santiago is the official finish line for the pilgrimage, but we wanted to walk that extra distance until Fisterra, the "End of the World" according to the first pilgrims.
 
 
 To wrap it up, towards the end of this trip, we realized that achieving this pilgrimage was more a mental challenge than a physical one.
-For example, we experienced a great difficulty to walk between Santiago and Fisterra as we had felt that Santiago was the official finish line.
+For example, we experienced a great difficulty to walk between Santiago and Fisterra as we felt that Santiago marked the end of our journey.
 
 Anyway, if you keep making one step after the other, you will eventually reach your destination.
 If we could do it, you can also make it.
-The way has been paved by those who achieved it before, and we wish you to follow our steps as well.
+
+The way has been paved by those who achieved it before, and we wish you to follow their steps as well.
 
 Ultreïa!
 
@@ -84,12 +85,12 @@ Expect to walk 10~15km in average to reach the next town.
 Regarding the weather, it was hot and dry until we entered Galicia.
 From there, it was rainy and windy most of the time.
 
-Funny thing is, it resembles the French Finisterre as both share the same weather, same geography and same celtic culture.
+Funny thing is, it resembles the French Finisterre as both share the same weather, same geography and same Celtic culture.
 
 {{< /collapsible >}}
 
 {{< collapsible "accommodations" 3 4 >}}
-We have little exeperience as we only stayed at normal accommotions three times.
+We have little experience as we only stayed at normal accommodations three times.
 But according to the other pilgrims, most of them are full-booked quickly. 
 They had to plan their journey ahead, and make reservations for every day.
 
