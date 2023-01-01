@@ -116,7 +116,7 @@ Most of the locals can speak French and the Corsican dialect.
 They were really helpful and will gladly tell you about the Corsican culture if requested.
 We asked them many times for tips and advice, such as the best restaurant or the tastiest local specialty around.
 
-As a proof if their friendliness, one night we were camping near the beach, a local brought us a blanket in case we would feel too cold. We thought it was a really thoughtful gesture from that person.
+As a proof of their friendliness, one night we were camping near the beach, a local brought us a blanket in case we would feel too cold. We thought it was a really thoughtful gesture from that person.
 {{< /collapsible >}}
 
 {{< collapsible "food" 3 4 >}}
