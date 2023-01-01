@@ -6,7 +6,8 @@ date: 2022-11-23T16:12:33+01:00
 thumbnail:
 tags: trip
 flickr_album:
-map: 
+map:
+draft: true 
 ---
 {{< collapsible "travel_story" 2 >}}
 Some story
