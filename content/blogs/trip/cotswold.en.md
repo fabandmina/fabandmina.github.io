@@ -49,21 +49,30 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 <li><b>{{< translate distance >}}</b> 164 km</li>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
-Plane, easy
+We took a low-cost flight from Marseille to Stansted Airport.
+Arrived at the British airport, we had to pass through the automatic gate system which was only a matter of a few minutes.
+We didn't have to provide any information about the reasons of our trip.
 
 <h4>{{< translate fab >}} 🇫🇷</h4>
-As a French national, you just need to present your ID card or your passport.
+You just need to present your passport at the gates and you'll be allowed to stay six months as a visitor.
 
 <h4>{{< translate Mina >}} 🇯🇵</h4>
-Mina had a long-stay visa for France which allowed her to stay inside the Schengen area. Corsica is part of France, i.e. part of the Schengen area.
-
-Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
+Same as above, plus you are also allowed to study. 
+Going to the UK is the easiest solution for resetting a Schengen visa.
 
 {{< /collapsible >}}
 
 {{< collapsible "road_condition" 3 5 >}}
-Footpaths
-7 days too short
+The UK has strong laws that protect the public footpaths.
+Consequently, the footpaths are in great conditions and easy to follow.
+It is not necessary to bring any specific hiking gear and, although touristic maps for the Cotswold Way can be purchased, it's possible to only follow the landmarks without using them.
+You will sometimes get through private properties, but since it's the law, the owners are required to make the paths accessible to the pedestrians.
+Thus, it is common to walk across farmlands, golf courses or even private backyards.
+At first, we felt we were invading people's places, but we got used to it.
+While crossing the golf fields, mind the players and the balls' trajectories. The players are nice but can be a little bit too much focused on the game to notice you.
+
+We took seven days to complete the Cotswold Way from Chipping Campden to Bath, but we had to rush it.
+We would recommend to do it in 10 days for a more enjoyable hike.
 
 
 
@@ -71,51 +80,85 @@ Footpaths
 
 {{< collapsible "accommodations" 3 4 >}}
 We only stayed one night in a hotel towards the end of our walk, so we don't have much to say here.
-Price, No budget accommodations
+We noticed that they weren't any cheap accommodations on the way.
+The few times we tried to call for booking a room, we couldn't reach anybody or we would be told that the business is no long running.
+We guess that the local tourism took a toll following the covid crisis.
 
 {{< /collapsible >}}
 
 {{< collapsible "freedom_camping" 3 5 >}}
-Easy
+Freedom camping felt easy  and safe on the Cotswold Way.
+It was not too busy so we could pitch our tent near the main path every time.
+We didn't feel we were bothering the locals or the animals too much.
+However, we usually prefer to find a sheltered place to pitch our tent, but we couldn't find any on the way.
+Fortunately, the weather was rather good and without any heavy rains.
 {{< /collapsible >}}
 
 {{< collapsible "facilities" 3 4 >}}
-Only a few water taps
-Clean
-Shops Opening hours are limited
+Everyday, we would pass at least one village where we would be able to do our groceries.
+
+Regarding the water supply, it's possible to find water taps for the hikers, but not everywhere.
+We had to ask the locals to refill our bottles.
+
+Also, the shops' schedules are really limited, so it's better to visit them early in the day.
+We often miss the restaurants opening hours, but we got saved by the pubs which are open all day long.
+
+For short breaks, the Cotswold Way offers a lot of picnic tables and benches with scenic views on the shire.
+
+Last thing, carrying cash is not necessary as the credit card is accepted pretty much everywhere.
 
 {{< /collapsible >}}
 
 {{< collapsible "communication_with_the_locals" 3 5 >}}
-Great
+The locals were utterly friendly and speak English, of course!
+They seemed to be really proud of their respective regions and would gladly share additional information about the surroundings.
+Hikers are welcome and we could find our way easily, thanks to the help we were provided.
+
 {{< /collapsible >}}
 
-{{< collapsible "food" 3 5 >}}
-Great
+{{< collapsible "food" 3 4 >}}
+On the Cotswold Way, we mainly had light meals we would purchase at the grocery store.
+
+But, during the rest of our trip, we could experience the local food better and it was great!
+The English cuisine matched our preferences in terms of flavours and tastes.
+The only reason we scored it 4/5 is because we don't think what we had was healthy.
+
+Otherwise, restaurants offer a great service with excellent food that has been influenced by a lot of different cultures.
+We especially enjoyed the Indian restaurants which were the best we have tried so far.
+
+Overall, we think that, compared to France, the UK has tastier food for similar prices. 
+
 
 <h4>{{< translate vegetarian_friendly >}} {{< score 5 >}}</h4>
-Great
+It's great news for us, veggie and vegan people. 
+The country is totally inclusive regarding the different existing diets.
+There is always at least one option for us, even the countryside. 
+It is made visible to the customer thanks to obvious marks on menu that would indicate wether the dish would suit your diet or not.
+
+Special mention for the "Vish & Chips" which is a vegan version of the national fish & chips, made of banana blossoms and potatoes.
 <h4>{{< translate what_we_eat >}}</h4> 
 
-- Baguettes
-- Eggs
-- Brocciu
-- Mozzarella
-- Brocciu-based pesto
-- Canestrelli
-- Pizza
-- Coffee
-- Oranges
+- Hummus
+- Fish and chips
+- Bagels
+- Savoury pies
+- Indian cuisine
+- Chinese cuisine
+- Yorkshire tea
+- Posh coffee
+- Scones
+- Short bread biscuits
 
 
 
 <h4>⭐{{< translate fab_favourite >}}</h4>
 
-Brocciu: local fresh sheep cheese made during autumns, winters and springs.
+Maybe the best Indian cuisine in the world.
 
 <h4>⭐{{< translate mina_favourite >}}</h4>
 
-Corsican chicken eggs.
+Cream tea, which is served inside a teapot with scones, clotted cream and jam. 
+Interestingly, tea is always to be had with milk. 
 
 {{< /collapsible >}}
 {{< /collapsible >}}
