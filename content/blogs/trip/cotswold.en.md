@@ -29,7 +29,7 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 {{< collapsible "overall_feel" 2 5 >}}
 <h3>{{< translate what_we_appreciate >}}</h3>
 
-- Landscapes
+- Beautiful landscapes
 - Well-maintained footpaths 
 - Cute villages
   
@@ -43,7 +43,7 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 
 <h3>{{< translate stats >}}</h3>
 
-<li><b>{{< translate way_of_travelling >}}</b> Hiking</li>
+<li><b>{{< translate way_of_travelling >}}</b> Walking</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
 <li><b>{{< translate duration >}}</b> 7 days</li>
 <li><b>{{< translate distance >}}</b> 164 km</li>
