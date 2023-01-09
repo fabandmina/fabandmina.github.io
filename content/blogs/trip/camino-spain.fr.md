@@ -1,13 +1,13 @@
 ---
 title: "camino_spain"
-subtitle: "A Subtitle"
-introduction: "A short paragraph of text, shown as the first paragraph of the article, and on list pages."
-date: 2022-11-23T16:12:33+01:00
-thumbnail:
+subtitle: " Suivez les pas des premiers pèlerins sur les Chemins de Compostelle, via francés."
+introduction: "Une longue marche qui guérira soignera votre âme."
+date: 2021-08-23T16:12:33+01:00
+thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
 tags: trip
-flickr_album:
-map:
-draft: true 
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693117"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
+draft: false 
 ---
 {{< collapsible "travel_story" 2 >}}
 Some story
