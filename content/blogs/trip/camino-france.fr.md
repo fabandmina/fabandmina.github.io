@@ -74,7 +74,7 @@ Au final, nous n'avons qu'une expérience limitée de deux nuits en camping et u
 
 {{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 4 >}}
+{{< collapsible "freedom_camping" 3 5 >}}
 
 Sur la partie française du Chemin de Compostelle, le camping sauvage est une pratique courante. Il n'est pas rare de partager votre emplacement avec d'autres campeurs. Les locaux sont habitués aux pèlerins adeptes du bivouac. Parfois, on peut même trouver une place de bivouac idéale qui dispose de quelques équipements (bancs, sanitaires, prises…) à proximité du sentier. Si vous souhaitez planter votre tente sur un terrain vide, assurez-vous qu'il n'y aura pas d'activité agricole (animaux, véhicules…) au petit matin.
 
@@ -90,11 +90,13 @@ En bref, il est facile de recharger vos vivres en cours de route. Vous n'aurez d
 
 {{< collapsible "communication_with_the_locals" 3 4 >}}
 
-Les habitants sont vraiment accueillants et serviables avec les pèlerins. Certains d'entre eux étaient d'anciens pèlerins et peuvent vous fournir de bons conseils pour mener à bien votre voyage. La route semble sûre, mais continuez à surveiller vos affaires à tout moment, comme vous le feriez n'importe où en Europe. Les habitants n'hésiteront pas à discuter avec vous, même si leur langue principale est le français. 
+Les habitants sont vraiment accueillants et serviables avec les pèlerins. Certains d'entre eux étaient d'anciens pèlerins et peuvent vous fournir de bons conseils pour mener à bien votre voyage. La route semble sûre, mais continuez à surveiller vos affaires à tout moment, comme vous le feriez n'importe où en Europe. Les habitants n'hésiteront pas à discuter avec vous, même si leur langue principale est le français.
+
+Mina n'étant pas francophone, nous prenons en compte la facilité à s'exprimer en anglais avec les locaux. Dans notre cas, cela n'est pas toujours évident sur les routes de française.
 
 {{< /collapsible >}}
 
-{{< collapsible "food" 3 5 >}}
+{{< collapsible "food" 3 4 >}}
 
 En général, on ne va pas au restaurant car en France, le service est long et il est assez courant d'y rester 2 heures. Nous préférons généralement prendre un repas léger dans un café/boulangerie ou préparer notre propre nourriture.
 
@@ -104,7 +106,7 @@ Il est possible de récolter des fruits sur le chemin. Certains arbres fruitiers
 
 Une dernière chose, nous n'apprécions pas le café français car il a un goût trop faible et aqueux pour nous.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
+<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
 
 La cuisine française n'est pas végétarienne. La campagne ne fait pas exception. Si vous décidez de prendre un repas dans un café ou un restaurant, le choix se limite aux paninis tomates et mozzarella ou 3 fromages. Ces options sont assez savoureuses grâce au fromage de qualité utilisé, cependant. Ici, le blé et les produits laitiers sont des aliments de base.
 
