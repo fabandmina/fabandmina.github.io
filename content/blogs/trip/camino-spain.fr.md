@@ -10,21 +10,37 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 draft: false 
 ---
 {{< collapsible "travel_story" 2 >}}
-Some story
-{{< /collapsible >}}
+Cet article est la suite du pèlerinage commencé en France. Si vous ne l'avez pas encore lu, vous pouvez le consulter en détail [ici >>]({{< link_to "camino-france" >}}).
+
+Dans cet article, nous nous concentrons sur notre voyage de Saint-Jean-Pied-de-Port, en France, à Fisterra en Espagne.
+
+Nous étions ravis de visiter un pays différent tout en suivant le Camino de Santiago.
+
+Au début, nous avions envisagé de marcher sur la côte nord de l'Espagne via le Camino del Norte. Mais au final, nous avons décidé d'emprunter le Camino Frances car nous savions qu'au moment de ce voyage, le chemin serait moins fréquenté à cause de la crise du Covid.
+
+Saint-Jacques est la ligne d'arrivée officielle du pèlerinage, mais nous voulions prolonger ce pélerinage jusqu'à Finisterre, le « bout du monde » selon les premiers pèlerins.
+
+Pour conclure, vers la fin de ce voyage, nous avons réalisé qu'accomplir ce pèlerinage était plus un défi mental que physique. Par exemple, nous avons eu beaucoup de mal à marcher entre Santiago et Fisterra car nous sentions que Santiago marquait la fin de notre périple.
+
+Quoi qu'il en soit, si vous continuez à faire un pas après l'autre, vous finirez par atteindre votre destination. Si nous avons pu le faire, vous aussi vous le pouvez.
+
+La voie a été tracée par ceux qui y sont parvenus auparavant, et nous vous souhaitons de pouvoir suivre leurs pas également.
+
+Ultreïa !{{< /collapsible >}}
 
 {{< collapsible "overall_feel" 2 5 >}}
 <h3>{{< translate what_we_appreciate >}}</h3>
 
-- item 1
-- item 2
-- item 3
+- Les pèlerins venant du monde entier
+- Ambiance chaleureuse envers les pèlerins
+- Installations propres
   
 <h3>{{< translate what_we_dislike >}}</h3>
 
-- item 1
-- item 2
-- item 3
+- Pause nationale entre 14h00 et 16h00, appelée "siesta"
+- Les robinets d'eau publics pour les pèlerins ont été enlevés ou coupés
+- Des pèlerins étrangers nous prenant en photo sans nous demander notre permission
+- La partie espagnole était beaucoup plus touristique
 
 {{< /collapsible >}}
 
@@ -32,50 +48,114 @@ Some story
 
 <h3>{{< translate stats >}}</h3>
 
-<li><b>{{< translate way_of_travelling >}}</b> Vélos, autostop, randonnée</li>
+<li><b>{{< translate way_of_travelling >}}</b> Randonnée</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 28 jours</li>
-<li><b>{{< translate distance >}}</b> 1000 km</li>
-<li><b>{{< translate budget >}}</b> 1000 €</li>
+<li><b>{{< translate duration >}}</b> 41 jours</li>
+<li><b>{{< translate distance >}}</b> 890 km</li>
 
 {{< collapsible "crossing_the_border" 3 5 >}}
 
-Some comment about crossing the border
+Franchir la frontière entre la France et l'Espagne consistait à monter et descendre les Pyrénées. Il n'y avait pas de démarcation claire, donc nous ne pouvons dire avec certitude quand nous avons réellement passé la frontière officielle. Nous ne l'avons réalisé qu'à l'entrée de Roncevaux, la première ville du Camino espagnol.
+
+A cette époque, nous étions censés nous faire tester pour le Covid, mais il n'y avait pas de contrôleurs auxalentours de la frontière.
+
 <h4>{{< translate fab >}} 🇫🇷</h4>
+
+En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez en Espagne.
+
 <h4>{{< translate Mina >}} 🇯🇵</h4>
+
+Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace Schengen pendant un an.
+
+Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours sur 6 mois à l'intérieur de l'espace Schengen.
 
 {{< /collapsible >}}
 
 {{< collapsible "road_condition" 3 5 >}}
-Some comment about the road state
+
+La route est toujours bien entretenue. Comparé à la partie française, c'est beaucoup plus fréquenté, surtout à l'approche de Santiago. Nous pouvions sentir sur notre chemin que l'économie des villes reposait principalement sur les pèlerins. De plus, comme l'Espagne est un territoire plus large, la distance entre chaque village est plus grande. Attendez-vous à marcher 10 à 15 km en moyenne pour atteindre la prochaine ville.
+
+Concernant le temps, il faisait chaud et sec jusqu'à notre entrée en Galice. À partir de là, c'était pluvieux et venteux la plupart du temps.
+
+Ce qui est drôle, c'est que la Finisterre espagnole ressemble au Finisterre français car les deux partagent le même climat, la même géographie et la même culture celtique.
+
 {{< /collapsible >}}
 
 {{< collapsible "accommodations" 3 4 >}}
-Some comment about the accommodation
+
+Nous avons peu d'expérience car nous n'avons séjourné que trois fois dans des hébergements normaux. Mais selon les autres pèlerins, la plupart d'entre eux sont vite complets. Ils devaient planifier leur voyage à l'avance et faire des réservations pour chaque jour.
+
+Alternativement, vous pouvez choisir de séjourner dans un donativo (hébergement basé sur des dons) ou dans une albergue publique (auberge) gérée par le conseil local. Dans les deux cas, ils n'acceptent pas les réservations. Il faut arriver avant la siesta (14h00~16h00) pour pouvoir avoir un lit. Nous avons pu voir de nombreux pèlerins faire la queue plusieurs heures avant l'enregistrement.
+
+Quoi qu'il en soit, vous pouvez vous attendre à des installations vraiment propres où que vous décidiez de séjourner en Espagne.
+
 {{< /collapsible >}}
 
 {{< collapsible "freedom_camping" 3 4 >}}
-Some comment about the freedom camping
+
+Le camping sauvage n'est pas aussi facile et populaire qu'il l'était en France, mais il est toujours possible de le faire. Même si les habitants ne s'en souciaient pas vraiment, ils ne s'attendaient pas non plus à voir des gens bivouaquer. On essayait de trouver un bon endroit un peu en dehors des villages si possible. Si vous plantez votre tente près du chemin principal, vous pourriez être réveillé par les autres pèlerins, car ils ont tendance à commencer leur marche avant le lever du soleil. En général, ils ne sont pas bruyants, mais ils utilisent des lampes frontales lumineuses et peuvent potentiellement perturber votre sommeil.
+
+Un autre conseil que nous devrions vous donner est de faire attention aux arroseurs automatiques. Les Espagnols semblent vraiment aimer le jardinage et ils ont tendance à les utiliser partout. Nous nous sommes levés plusieurs fois car notre tente était soudainement mouillée à 3 heures du matin.
+
 {{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
-Some comment about the facilities
+{{< collapsible "facilities" 3 4 >}}
+
+Comme nous l'avons mentionné plus tôt, nous avons dû parcourir de plus longues distances entre chaque village. De plus, tous les villages n'avaient pas de magasins ou d'équipements publics, tels que des toilettes, des robinets d'eau ou des bancs…
+
+Cependant, chaque fois que vous pouvez les trouver, ils sont en bon état. Restez quand même attentif à l'horaire de la sieste.
+
+Il est bon de savoir que chaque supermarché a un coin toilettes où il est possible de remplir ses bouteilles d'eau. Nous avons apprécié de pouvoir y trouver des produits frais à un prix moins élevé qu'en France.
+
+Concernant l'eau potable, il était effectivement difficile d'y avoir accès. Il semble que tous les robinets d'eau publics du Camino aient été supprimés (exprès ?). On peut en trouver en service à quelques centaines de mètres du chemin principal, dans les grandes villes.
+
+Sinon, il est plus simple de demander aux locaux de remplir vos bouteilles avec la phrase suivante : « Necessito agua, por favor ». À tous les hispanophones, veuillez nous pardonner notre mauvaise prononciation.
+
 {{< /collapsible >}}
 
 {{< collapsible "communication_with_the_locals" 3 4 >}}
-Some comment about communication with the locals
+
+Les Espagnols parlent principalement l'espagnol. Nous ne parlions pas espagnol tous les deux, donc c'était un peu difficile au début. J'ai dû utiliser des mots français car cela se rapproche plus à la langue espagnoles.
+
+Même si les Espagnols sont serviables et amicaux, leur façon de communiquer peut sembler agressive. Nous avons dû nous y habituer. Si vous parlez fort, ils vous comprendront mieux, d'une manière ou d'une autre.
+
+Quelque chose que nous avons remarqué, c'est que les Espagnols sont des gens très actifs, surtout entre 19h00 et 22h00. Les habitants se feront un plaisir de discuter avec vous tout en faisant leurs longues promenades dans ce laps de temps.
+
 {{< /collapsible >}}
 
 {{< collapsible "food" 3 5 >}}
-<h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
+
+Mina a eu du mal à digérer le poivron espagnol. Puisqu'il s'agit d'un ingrédient central de la cuisine espagnole, nous avons dû éviter 90% des plats préparés locaux. De plus, je suis végétarien et les plats espagnols comprennent beaucoup de viande et de poisson.
+
+Notre seule option restante était la "tortilla de patata", l'omelette espagnole aux pommes de terre, que nous mangions tous les jours.
+
+Espérons que si vous décidez de visiter ce pays, vous pourrez mieux apprécier ses spécialités locales.
+
+Sinon, nous avons pu trouver de nombreux fruits et légumes frais pour une bonne affaire. Nous avons particulièrement apprécié les pastèques.
+
+<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+
+Comme en France, le régime végétarien ne fait pas partie de la culture espagnole. Cependant, nous avons pu préparer nos propres repas facilement avec les produits locaux. Mention spéciale à l'huile d'olive locale qui était la meilleure que nous ayons jamais eue jusqu'à présent.
 
 <h4>{{< translate what_we_eat >}}</h4> 
-Some comment about the food
+
+- Arroz (riz local)
+- Tomates
+- Pastèques
+- Tortilla de patata
+- Huile d'olive
+- Chocolat
+- Biscuits digestifs
+- Gaspacho
+- Kéfir
 
 <h4>⭐{{< translate fab_favourite >}}</h4>
-Peanuts
+
+Pastèques fraîches
+
 <h4>⭐{{< translate mina_favourite >}}</h4>
-Fromage blanc
+
+Chocolat chaud avec des churros
 
 {{< /collapsible >}}
 {{< /collapsible >}}
@@ -83,9 +163,9 @@ Fromage blanc
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   location 1    |   reason    |
-|   location 2    |   reason    |
-|   location 3    |   reason    |
-|   location 4    |   reason    |
-|   location 5    |   reason    |
+|   [Santiago de Compostela](https://goo.gl/maps/CuEFTBwv5bcyBhwZ9)    |   La ligne d'arrivée officielle pour tous les pèlerins    |
+|   [Zariquiegui](https://goo.gl/maps/3jYf1H4us8KPHWwL9)    |   Calme et belle vue sur la vallée arride    |
+|   [Irache](https://goo.gl/maps/oU6jz67GSb7WM6CZ7)    |   Robinet de vin gratuit    |
+|   [La Casa de los Dioses](https://goo.gl/maps/3SZCLmzkz5J3GnAW6)    |   Camp géré par des bénévoles où vous pourrez trouver de la nourriture, des abris et des autres pèlerins    |
+|   [Fisterra](https://goo.gl/maps/4vqornucBQCS1uvJ7)    |   La véritable fin de Camino the Santiago pour nous   |
 
