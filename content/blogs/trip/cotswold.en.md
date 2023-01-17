@@ -68,7 +68,7 @@ Consequently, the footpaths are in great conditions and easy to follow.
 It is not necessary to bring any specific hiking gear and, although touristic maps for the Cotswold Way can be purchased, it's possible to only follow the landmarks without using them.
 You will sometimes get through private properties, but since it's the law, the owners are required to make the paths accessible to the pedestrians.
 Thus, it is common to walk across farmlands, golf courses or even private backyards.
-At first, we felt we were invading people's places, but we got used to it.
+At first, we felt we were trespassing people's places, but we got used to it.
 While crossing the golf fields, mind the players and the balls' trajectories. The players are nice but can be a little bit too much focused on the game to notice you.
 
 We took seven days to complete the Cotswold Way from Chipping Campden to Bath, but we had to rush it.
@@ -81,8 +81,8 @@ We would recommend to do it in 10 days for a more enjoyable hike.
 {{< collapsible "accommodations" 3 4 >}}
 We only stayed one night in a hotel towards the end of our walk, so we don't have much to say here.
 We noticed that they weren't any cheap accommodations on the way.
-The few times we tried to call for booking a room, we couldn't reach anybody or we would be told that the business is no long running.
-We guess that the local tourism took a toll following the covid crisis.
+The few times we tried to call for booking a room, we couldn't reach anybody or we would be told that the business is no longer running.
+We guess that the covid crisis took a toll on the local tourism.
 
 {{< /collapsible >}}
 
@@ -132,7 +132,7 @@ Overall, we think that, compared to France, the UK has tastier food for similar 
 <h4>{{< translate vegetarian_friendly >}} {{< score 5 >}}</h4>
 It's great news for us, veggie and vegan people. 
 The country is totally inclusive regarding the different existing diets.
-There is always at least one option for us, even the countryside. 
+There is always at least one option for us, even in the countryside. 
 It is made visible to the customer thanks to obvious marks on menu that would indicate wether the dish would suit your diet or not.
 
 Special mention for the "Vish & Chips" which is a vegan version of the national fish & chips, made of banana blossoms and potatoes.
