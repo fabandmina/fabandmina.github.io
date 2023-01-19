@@ -48,7 +48,7 @@ It takes about 13 hours to cross the Mediterranean sea.
 The vessel was well equipped and we could have a comfortable travel.
 There was a special place for parking our bicycle on board, where ropes and pads where provided to attach the bike.
 
-From Marseille, the staff insisted that we took a shuttle and store the bicycle inside the luggage compartment. We didn't think it was a good idea but they left us with no choice. Actually, if you don't check-in at the pedestrian gates but go directly to the gates for the car-drivers, you'll be able to cycle your way directly until the ferry, and with much less hassle.
+From Marseille, the staff insisted that we took a shuttle and stored the bicycle inside the luggage compartment. We didn't think it was a good idea but they left us with no choice. Actually, if you don't check-in at the pedestrian gates but go directly to the gates for the car-drivers, you'll be able to cycle your way directly until the ferry, and with much less hassle.
 
 <h4>{{< translate fab >}} 🇫🇷</h4>
 As a French national, you just need to present your ID card or your passport.
@@ -168,7 +168,7 @@ Corsican chicken eggs.
 |-------------|-------------|
 |   [Guitera-les-Bains](https://goo.gl/maps/ShunZYuMU5pAKTk68)    |   Free natural hot spring bath    |
 |   [Cap Corse](https://goo.gl/maps/JBAjgbTwHbSxU77AA)    |   Never ending dramatic landscapes     |
-|   [Bonifacio](https://goo.gl/maps/ziXBoSM1pKU3GBEd8)    |   Historic citadel built surrounded by gorgeous Mediterranean fjords, with a legendary view on precipitous cliffs   |
+|   [Bonifacio](https://goo.gl/maps/ziXBoSM1pKU3GBEd8)    |   Historic citadel surrounded by gorgeous Mediterranean fjords, with a legendary view on precipitous cliffs   |
 |   [Roccapina](https://goo.gl/maps/Tr4GDisKMJTPQ9o76)    |   Viewpoint on the magnificent Corsican coast    |
 |   [Bonaparte's House](https://goo.gl/maps/Uaa4posUfLHkx1uT6)    |   History museum built inside Napoleon's family house (if you are into Napoleon)    |
 
