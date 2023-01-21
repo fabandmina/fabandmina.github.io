@@ -6,7 +6,7 @@ date: 2020-02-05T19:37:02+02:00
 thumbnail: https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg
 tags: trip
 flickr_album: https://www.flickr.com/photos/196589873@N03/albums/72177720302559908
-map: //umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795
+map: //umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=false&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false#6/23.906/119.795
 ---
 {{< collapsible "travel_story" 2 >}}
 ニュージーランド滞在中に沢山の台湾人の友人ができ、ありがたいことに私達を招待してくれたので、台湾を旅することにしました。
