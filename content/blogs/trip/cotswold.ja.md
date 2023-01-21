@@ -6,7 +6,7 @@ date: 2022-06-25T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52614605925_c555ffa47a_k.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720305084918"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=false&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false&datalayers=2576498%2C2576499#8/51.671/-2.137"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2576498%2C2576499#8/51.671/-2.137"
 ---
 {{< collapsible "travel_story" 2 >}}
 当初、イギリスを訪れることにしたのは便宜上の選択でした。
