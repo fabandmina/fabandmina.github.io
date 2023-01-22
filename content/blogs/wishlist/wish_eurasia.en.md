@@ -3,7 +3,7 @@ title: wish_eurasia
 subtitle: " Going back to Japan by land."
 introduction: "Our planned route from West to East through Eurasia."
 date: 2023-01-01T16:12:33+01:00
-thumbnail: "https://github.com/fabandmina/piskel-projects/blob/main/fabandmina/render/fabandmina_eurasia_map.jpg"
+thumbnail: "https://raw.githubusercontent.com/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_eurasia_map.jpg"
 tags: wishlist
 flickr_album:
 map: "//umap.openstreetmap.fr/en/map/eurasia_859999?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
