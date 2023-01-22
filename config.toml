@@ -111,10 +111,10 @@ defaultContentLanguage = 'en'
     buttonMargin = "0.2em"
 
   ### Sponsors ###
-  # [[params.sponsors]]
-  # name = "test1"
-  # url = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_logo.png"
-  # logo = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_logo.png"
+  [[params.sponsors]]
+  name = "montbell"
+  url = "https://www.montbell.com"
+  logo = "https://www.montbell.jp/faq/images/montbell_120x90.png"
   # [[params.sponsors]]
   # name = "test2"
   # url = "test"
