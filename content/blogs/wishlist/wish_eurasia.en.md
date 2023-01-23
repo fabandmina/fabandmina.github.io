@@ -40,30 +40,30 @@ Which today represents our best opportunity to check this achievement from our b
 # The Plan
 |   From  |   To     |   Route   |   Comment  |
 |-------------|-------------|--------------|------------|
-|   Marseille (France)      |   Cape Roca (Portugal)    |   Eurovélo 8   |   Our starting point  |
-|   Cape Roca (Portugal)    |   Muxia (Spain)           |   Eurovélo 1 + Camino Norte   |     |
-|   Muxia (Spain)           |   Bordeaux (France)       |   Eurovélo 1 + Canal Entre-Deux-Mers   |     |
-|   Bordeaux (France)       |   Sète  (France)          |   Eurovélo 8   |     |
-|   Sète  (France)          |   Genova  (Italy)         |   Eurovélo 8   |     |
-|   Genova  (Italy)         |   Sardinia  (Italy)       |   Ferry  |     |
-|   Sardinia  (Italy)       |   Sicily (Italy)          |   Ferry   |     |
-|   Sicily (Italy)          |   Venice (Italy)          |   Accross the country   |     |
-|   Venice (Italy)          |   Athens (Greece)         |   Eurovélo 8   |     |
-|   Athens (Greece)         |   Crete Island (Greece)   |   Ferry  |     |
-|   Crete Island (Greece)   |   Kusadasi (Turkey)       |   Ferry  |    |
-|   Kusadasi (Turkey)       |   Trabzon (Turkey)        |   Along the South Coast  |    |
-|   Trabzon (Turkey)        |   Tbilisi (Georgia)       |   Across the country  |     |
-|   Tbilisi (Georgia)       |   Baku (Azerbaijan)       |   Across the country  |     |
-|   Baku (Azerbaijan)       |   Ashgabat (Turkmenistan) |   Across Iran or by ferry through the Caspian Sea  |  Denpending on the situation in Iran   |
-|   Ashgabat (Turkmenistan) |   Samarkand (Uzbekistan)  |   Across the country  |     |
-|   Samarkand (Uzbekistan)  |   Dushanbe (Tajikistan)   |   Across the country  |     |
-|   Dushanbe (Tajikistan)   |   Bishkek (Kyrgyzstan)    |   Pamir Highway  |     |
-|   Bishkek (Kyrgyzstan)    |   Urumqi (China)          |   Across the country  |     |
-|   Urumqi (China)          |   Ulaanbaatar (Mongolia)  |   Across the country  |     |
-|   Ulaanbaatar (Mongolia)  |   Beijing (China)         |   Across the country  |     |
-|   Beijing (China)         |   Chinese East Coast      |   Across the country  |     |
-|   Chinese East Coast      |   Incheon (South Korea)   |   Ferry  |     |
-|   Incheon (South Korea)   |   Busan (South Korea)     |   Across the country  |     |
-|   Busan (South Korea)     |   Fukuoka (Japan)         |   Ferry  |     |
-|   Fukuoka (Japan)         |   Tokyo (Japan)           |   Across the country  |  Finish line   |
+|   Marseille <label title="{{< translate 'France' >}}">🇫🇷</label>      |   Cape Roca <label title="{{< translate 'Portugal' >}}">🇵🇹</label>    |   Eurovélo 8   |   Our starting point  |
+|   Cape Roca <label title="{{< translate 'Portugal' >}}">🇵🇹</label>    |   Muxia <label title="{{< translate 'Spain' >}}">🇪🇸</label>           |   Eurovélo 1 + Camino Norte   |     |
+|   Muxia <label title="{{< translate 'Spain' >}}">🇪🇸</label>           |   Bordeaux <label title="{{< translate 'France' >}}">🇫🇷</label>       |   Eurovélo 1 + Canal Entre-Deux-Mers   |     |
+|   Bordeaux <label title="{{< translate 'France' >}}">🇫🇷</label>       |   Sète  <label title="{{< translate 'France' >}}">🇫🇷</label>          |   Eurovélo 8   |     |
+|   Sète  <label title="{{< translate 'France' >}}">🇫🇷</label>          |   Genova  <label title="{{< translate 'Italy' >}}">🇮🇹</label>         |   Eurovélo 8   |     |
+|   Genova  <label title="{{< translate 'Italy' >}}">🇮🇹</label>         |   Sardinia  <label title="{{< translate 'Italy' >}}">🇮🇹</label>       |   Ferry  |     |
+|   Sardinia  <label title="{{< translate 'Italy' >}}">🇮🇹</label>       |   Sicily <label title="{{< translate 'Italy' >}}">🇮🇹</label>          |   Ferry   |     |
+|   Sicily <label title="{{< translate 'Italy' >}}">🇮🇹</label>          |   Venice <label title="{{< translate 'Italy' >}}">🇮🇹</label>          |   Accross the country   |     |
+|   Venice <label title="{{< translate 'Italy' >}}">🇮🇹</label>          |   Athens <label title="{{< translate 'Greece' >}}">🇬🇷</label>         |   Eurovélo 8   |     |
+|   Athens <label title="{{< translate 'Greece' >}}">🇬🇷</label>         |   Crete Island <label title="{{< translate 'Greece' >}}">🇬🇷</label>   |   Ferry  |     |
+|   Crete Island <label title="{{< translate 'Greece' >}}">🇬🇷</label>   |   Kusadasi <label title="{{< translate 'Turkey' >}}">🇹🇷</label>       |   Ferry  |    |
+|   Kusadasi <label title="{{< translate 'Turkey' >}}">🇹🇷</label>       |   Trabzon <label title="{{< translate 'Turkey' >}}">🇹🇷</label>        |   Along the South Coast  |    |
+|   Trabzon <label title="{{< translate 'Turkey' >}}">🇹🇷</label>        |   Tbilisi <label title="{{< translate 'Georgia' >}}">🇬🇪</label>       |   Across the country  |     |
+|   Tbilisi <label title="{{< translate 'Georgia' >}}">🇬🇪</label>       |   Baku <label title="{{< translate 'Azerbaijan' >}}">🇦🇿</label>       |   Across the country  |     |
+|   Baku <label title="{{< translate 'Azerbaijan' >}}">🇦🇿</label>       |   Ashgabat <label title="{{< translate 'Turkmenistan' >}}">🇹🇲</label> |   Across Iran or by ferry through the Caspian Sea  |  Denpending on the situation in Iran   |
+|   Ashgabat <label title="{{< translate 'Turkmenistan' >}}">🇹🇲</label> |   Samarkand <label title="{{< translate 'Uzbekistan' >}}">🇺🇿</label>  |   Across the country  |     |
+|   Samarkand <label title="{{< translate 'Uzbekistan' >}}">🇺🇿</label>  |   Dushanbe <label title="{{< translate 'Tajikistan' >}}">🇹🇯</label>   |   Across the country  |     |
+|   Dushanbe <label title="{{< translate 'Tajikistan' >}}">🇹🇯</label>   |   Bishkek <label title="{{< translate 'Kyrgyzstan' >}}">🇰🇬</label>    |   Pamir Highway  |     |
+|   Bishkek <label title="{{< translate 'Kyrgyzstan' >}}">🇰🇬</label>    |   Urumqi <label title="{{< translate 'China' >}}">🇨🇳</label>          |   Across the country  |     |
+|   Urumqi <label title="{{< translate 'China' >}}">🇨🇳</label>          |   Ulaanbaatar <label title="{{< translate 'Mongolia' >}}">🇲🇳</label>  |   Across the country  |     |
+|   Ulaanbaatar <label title="{{< translate 'Mongolia' >}}">🇲🇳</label>  |   Beijing <label title="{{< translate 'China' >}}">🇨🇳</label>         |   Across the country  |     |
+|   Beijing <label title="{{< translate 'China' >}}">🇨🇳</label>         |   East Coast <label title="{{< translate 'China' >}}">🇨🇳</label>      |   Across the country  |     |
+|   East Coast <label title="{{< translate 'China' >}}">🇨🇳</label>      |   Incheon <label title="{{< translate 'South Korea' >}}">🇰🇷</label>   |   Ferry  |     |
+|   Incheon <label title="{{< translate 'South Korea' >}}">🇰🇷</label>   |   Busan <label title="{{< translate 'South Korea' >}}">🇰🇷</label>     |   Across the country  |     |
+|   Busan <label title="{{< translate 'South Korea' >}}">🇰🇷</label>     |   Fukuoka <label title="{{< translate 'Japan' >}}">🇯🇵</label>         |   Ferry  |     |
+|   Fukuoka <label title="{{< translate 'Japan' >}}">🇯🇵</label>         |   Tokyo <label title="{{< translate 'Japan' >}}">🇯🇵</label>           |   Across the country  |  Finish line   |
 
