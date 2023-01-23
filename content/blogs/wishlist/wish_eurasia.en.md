@@ -38,32 +38,33 @@ Unfortunately, the covid crisis lead us to France, our current location at the t
 Which today represents our best opportunity to check this achievement from our bucket list and eventually reach Japan.
 
 ## The Plan
-|   From  |   To     |   Route   |   Comment  |
-|-------------|-------------|--------------|------------|
-|   Marseille <label title="{{< translate France >}}">🇫🇷</label>      |   Cape Roca <label title="{{< translate Portugal >}}">🇵🇹</label>    |   Eurovélo 8   |   Our starting point  |
-|   Cape Roca <label title="{{< translate Portugal >}}">🇵🇹</label>    |   Muxia <label title="{{< translate Spain >}}">🇪🇸</label>           |   Eurovélo 1 + Camino Norte   |     |
-|   Muxia <label title="{{< translate Spain >}}">🇪🇸</label>           |   Bordeaux <label title="{{< translate France >}}">🇫🇷</label>       |   Eurovélo 1 + Canal Entre-Deux-Mers   |     |
-|   Bordeaux <label title="{{< translate France >}}">🇫🇷</label>       |   Sète  <label title="{{< translate France >}}">🇫🇷</label>          |   Eurovélo 8   |     |
-|   Sète  <label title="{{< translate France >}}">🇫🇷</label>          |   Genova  <label title="{{< translate Italy >}}">🇮🇹</label>         |   Eurovélo 8   |     |
-|   Genova  <label title="{{< translate Italy >}}">🇮🇹</label>         |   Sardinia  <label title="{{< translate Italy >}}">🇮🇹</label>       |   Ferry  |     |
-|   Sardinia  <label title="{{< translate Italy >}}">🇮🇹</label>       |   Sicily <label title="{{< translate Italy >}}">🇮🇹</label>          |   Ferry   |     |
-|   Sicily <label title="{{< translate Italy >}}">🇮🇹</label>          |   Venice <label title="{{< translate Italy >}}">🇮🇹</label>          |   Accross the country   |     |
-|   Venice <label title="{{< translate Italy >}}">🇮🇹</label>          |   Athens <label title="{{< translate Greece >}}">🇬🇷</label>         |   Eurovélo 8   |     |
-|   Athens <label title="{{< translate Greece >}}">🇬🇷</label>         |   Crete Island <label title="{{< translate Greece >}}">🇬🇷</label>   |   Ferry  |     |
-|   Crete Island <label title="{{< translate Greece >}}">🇬🇷</label>   |   Kusadasi <label title="{{< translate Turkey >}}">🇹🇷</label>       |   Ferry  |    |
-|   Kusadasi <label title="{{< translate Turkey >}}">🇹🇷</label>       |   Trabzon <label title="{{< translate Turkey >}}">🇹🇷</label>        |   Along the South Coast  |    |
-|   Trabzon <label title="{{< translate Turkey >}}">🇹🇷</label>        |   Tbilisi <label title="{{< translate Georgia >}}">🇬🇪</label>       |   Across the country  |     |
-|   Tbilisi <label title="{{< translate Georgia >}}">🇬🇪</label>       |   Baku <label title="{{< translate Azerbaijan >}}">🇦🇿</label>       |   Across the country  |     |
-|   Baku <label title="{{< translate Azerbaijan >}}">🇦🇿</label>       |   Ashgabat <label title="{{< translate Turkmenistan >}}">🇹🇲</label> |   Across Iran or by ferry through the Caspian Sea  |  Depending on the situation in Iran   |
-|   Ashgabat <label title="{{< translate Turkmenistan >}}">🇹🇲</label> |   Samarkand <label title="{{< translate Uzbekistan >}}">🇺🇿</label>  |   Across the country  |     |
-|   Samarkand <label title="{{< translate Uzbekistan >}}">🇺🇿</label>  |   Dushanbe <label title="{{< translate Tajikistan >}}">🇹🇯</label>   |   Across the country  |     |
-|   Dushanbe <label title="{{< translate Tajikistan >}}">🇹🇯</label>   |   Bishkek <label title="{{< translate Kyrgyzstan >}}">🇰🇬</label>    |   Pamir Highway  |     |
-|   Bishkek <label title="{{< translate Kyrgyzstan >}}">🇰🇬</label>    |   Urumqi <label title="{{< translate China >}}">🇨🇳</label>          |   Across the country  |     |
-|   Urumqi <label title="{{< translate China >}}">🇨🇳</label>          |   Ulaanbaatar <label title="{{< translate Mongolia >}}">🇲🇳</label>  |   Across the country  |     |
-|   Ulaanbaatar <label title="{{< translate Mongolia >}}">🇲🇳</label>  |   Beijing <label title="{{< translate China >}}">🇨🇳</label>         |   Across the country  |     |
-|   Beijing <label title="{{< translate China >}}">🇨🇳</label>         |   East Coast <label title="{{< translate China >}}">🇨🇳</label>      |   Across the country  |     |
-|   East Coast <label title="{{< translate China >}}">🇨🇳</label>      |   Incheon <label title="{{< translate South Korea >}}">🇰🇷</label>   |   Ferry  |     |
-|   Incheon <label title="{{< translate South Korea >}}">🇰🇷</label>   |   Busan <label title="{{< translate South Korea >}}">🇰🇷</label>     |   Across the country  |     |
-|   Busan <label title="{{< translate South Korea >}}">🇰🇷</label>     |   Fukuoka <label title="{{< translate Japan >}}">🇯🇵</label>         |   Ferry  |     |
-|   Fukuoka <label title="{{< translate Japan >}}">🇯🇵</label>         |   Tokyo <label title="{{< translate Japan >}}">🇯🇵</label>           |   Across the country  |  Finish line   |
+|   From  |   To     |  Cumulative distance | Comment |
+|--------|--------|--------|--------|
+|   Marseille <label title="{{< translate France >}}">🇫🇷</label>      |   Cape Roca <label title="{{< translate Portugal >}}">🇵🇹</label>    |  2,700 km  |  Towards the westernmost tip of Eurasia via EuroVelo 8  |
+|   Cape Roca <label title="{{< translate Portugal >}}">🇵🇹</label>    |   Muxia <label title="{{< translate Spain >}}">🇪🇸</label>           |  3,860 km  |  EuroVelo 1 |
+|   Muxia <label title="{{< translate Spain >}}">🇪🇸</label>           |   Bordeaux <label title="{{< translate France >}}">🇫🇷</label>       |  5,160 km |  First big maintenance for Pino  |
+|   Bordeaux <label title="{{< translate France >}}">🇫🇷</label>       |   Sète  <label title="{{< translate France >}}">🇫🇷</label>          |  5,910 km  |  Along Canal des Deux-Mers, should be easy |
+|   Sète  <label title="{{< translate France >}}">🇫🇷</label>          |   Genoa  <label title="{{< translate Italy >}}">🇮🇹</label>          |  6,340 km  |  EuroVelo 8 again |
+|   Genoa  <label title="{{< translate Italy >}}">🇮🇹</label>          |   Sardinia  <label title="{{< translate Italy >}}">🇮🇹</label>       |  7,040 km |  Ferry  |
+|   Sardinia  <label title="{{< translate Italy >}}">🇮🇹</label>       |   Sicily <label title="{{< translate Italy >}}">🇮🇹</label>          |  7,040 km  |  Ferry  |
+|   Sicily <label title="{{< translate Italy >}}">🇮🇹</label>          |   Venice <label title="{{< translate Italy >}}">🇮🇹</label>          |  8,470 km  |  Across Italy  | 
+|   Venice <label title="{{< translate Italy >}}">🇮🇹</label>          |   Athens <label title="{{< translate Greece >}}">🇬🇷</label>         |  10,860 km  |  End of EuroVelo 8 | 
+|   Athens <label title="{{< translate Greece >}}">🇬🇷</label>         |   Crete Island <label title="{{< translate Greece >}}">🇬🇷</label>   |  11,860 km  |  Island Hoping in winter  | 
+|   Crete Island <label title="{{< translate Greece >}}">🇬🇷</label>   |   Kuşadası <label title="{{< translate Turkey >}}">🇹🇷</label>       |  11,860 km  |  Bye-Bye Europe and hello Asia!  | 
+|   Kuşadası <label title="{{< translate Turkey >}}">🇹🇷</label>       |   Trabzon <label title="{{< translate Turkey >}}">🇹🇷</label>        |  14,460 km  |  Along the Mediterranean Sea and towards the Black Sea  | 
+|   Trabzon <label title="{{< translate Turkey >}}">🇹🇷</label>        |   Tbilisi <label title="{{< translate Georgia >}}">🇬🇪</label>       |  15,070 km  |  We might stay around for a little time to apply for visas  | 
+|   Tbilisi <label title="{{< translate Georgia >}}">🇬🇪</label>       |   Baku <label title="{{< translate Azerbaijan >}}">🇦🇿</label>       |  15,670 km  |    | 
+|   Baku <label title="{{< translate Azerbaijan >}}">🇦🇿</label>       |   Teheran <label title="{{< translate Turkmenistan >}}">🇮🇷</label>  |  16, 510 km  |  Hopefully we can travel in Iran  |
+|   Teheran <label title="{{< translate Azerbaijan >}}">🇮🇷</label>    |   Ashgabat <label title="{{< translate Turkmenistan >}}">🇹🇲</label> |  17,510 km  |    | 
+|   Ashgabat <label title="{{< translate Turkmenistan >}}">🇹🇲</label> |   Samarkand <label title="{{< translate Uzbekistan >}}">🇺🇿</label>  |  18,650 km  |  We need to cross Turkmenistan in 5 days  | 
+|   Samarkand <label title="{{< translate Uzbekistan >}}">🇺🇿</label>  |   Dushanbe <label title="{{< translate Tajikistan >}}">🇹🇯</label>   |  19,150 km  |    | 
+|   Dushanbe <label title="{{< translate Tajikistan >}}">🇹🇯</label>   |   Bishkek <label title="{{< translate Kyrgyzstan >}}">🇰🇬</label>    |  21,180 km  |  Pamir Highway  | 
+|   Bishkek <label title="{{< translate Kyrgyzstan >}}">🇰🇬</label>    |   Khorgas <label title="{{< translate China >}}">🇨🇳</label>         |  21,960 km  |  Hopefully we can enter China  | 
+|   Khorgas <label title="{{< translate China >}}">🇨🇳</label>         |   Ulaanbaatar <label title="{{< translate Mongolia >}}">🇲🇳</label>  |  24,960 km  |  Maybe we will rent a horse   | 
+|   Ulaanbaatar <label title="{{< translate Mongolia >}}">🇲🇳</label>  |   Beijing <label title="{{< translate China >}}">🇨🇳</label>         |  26,450 km  |  Must be cold  | 
+|   Beijing <label title="{{< translate China >}}">🇨🇳</label>         |   East Coast <label title="{{< translate China >}}">🇨🇳</label>      |  26,750 km  |    | 
+|   East Coast <label title="{{< translate China >}}">🇨🇳</label>      |   Incheon <label title="{{< translate South Korea >}}">🇰🇷</label>   |  26,750 km  |  Ferry  | 
+|   Incheon <label title="{{< translate South Korea >}}">🇰🇷</label>   |   Busan <label title="{{< translate South Korea >}}">🇰🇷</label>     |  27,300 km  |  The 4 Rivers Path  | 
+|   Busan <label title="{{< translate South Korea >}}">🇰🇷</label>     |   Fukuoka <label title="{{< translate Japan >}}">🇯🇵</label>         |  27,300km  |  Ferry  | 
+|   Fukuoka <label title="{{< translate Japan >}}">🇯🇵</label>         |   Tokyo <label title="{{< translate Japan >}}">🇯🇵</label>           |  28,700 km  |  GOAL!  | 
 
