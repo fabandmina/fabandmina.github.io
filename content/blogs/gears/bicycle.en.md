@@ -5,7 +5,14 @@ introduction: "A semi-recumbent tandem bicycle made by Hase."
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52399270281_c9af84444d_o.jpg"
 tags: gears
+draft: true
 ---
+
+## The Bicycle
+The Hase Pino is a German-made semi-recumbent tandem bicycle.
+In other words, it means that the captain lead the ride from the rear seat with an upright position, whereas the stoker is sat at the front with an adjustable recumbent position.
+
+We are using the 2021 "Tour" model, which includes a Rohloff drivetrain. 
 
 ## Why this bicycle?
 Our first plan was to use a classic tandem for our next long-distance tours.
@@ -13,8 +20,18 @@ One day, we decided to rent one and we realized that there was a lot of drawback
 One the major issues was that the stoker's view was halved by the captain's back.
 Which we thought was less than ideal for travelling, although we could communicate more easily.
 
-That's about when we learnt about the Hase Pino tandem, a semi-recumbent tandem.
-Basically, it means that the captain has an upright position, whereas the stoker is more or less laid back at the front. 
+That's about when we learnt about the Hase Pino tandem. A couple hours of test-drive convinced us to make it our new partner for crossing Eurasia.
+Although we are happy to use it now, how will it perform in the harshest conditions of a 28,000km ride across the Eurasian continent?
+
+## Maneuverability
+
+## Maintenance
+
+## Accessories
+
+
+## 
+
 
 ### Great features
 - The frame design allows both riders to have a panoramic view while pedaling.
@@ -27,6 +44,13 @@ Basically, it means that the captain has an upright position, whereas the stoker
 - Manoeuvering the handlebar requires a little bit of practise.
 - Many parts are proprietary or Hase Pino specific.
 - It's pricey.
+
+
+
+
+## Conclusion
+The Pino is a great bike, but it also has a few flaws that can be detrimental for long-distance touring. Even though we are using it ourselves,
+we cannot absolutely recommend it to everyone.
 
 {{< collapsible "in_details" 2 >}}
 |         -      |               -              |
