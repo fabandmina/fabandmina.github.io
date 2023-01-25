@@ -111,10 +111,10 @@ defaultContentLanguage = 'en'
     buttonMargin = "0.2em"
 
   ### Sponsors ###
-  [[params.sponsors]]
-  name = "montbell"
-  url = "https://www.montbell.com"
-  logo = "https://www.montbell.jp/faq/images/montbell_120x90.png"
+  # [[params.sponsors]]
+  # name = "montbell"
+  # url = "https://www.montbell.com"
+  # logo = "https://www.montbell.jp/faq/images/montbell_120x90.png"
   # [[params.sponsors]]
   # name = "test2"
   # url = "test"
