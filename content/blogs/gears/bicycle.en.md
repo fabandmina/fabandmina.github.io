@@ -1,6 +1,6 @@
 ---
 title: "Bicycle"
-subtitle: " A German-made half tandem bicycle."
+subtitle: " A German-made semi-recumbent tandem bicycle."
 introduction: 'Hase Pino Allround 2021 on this picture.'
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52648835781_c8895a3c58_k.jpg"
@@ -8,8 +8,8 @@ tags: gears
 ---
 
 ## The Bicycle
-The Hase Pino is a German-made half tandem bicycle.
-In other words, it means that the captain lead the ride from the rear seat with an upright position, whereas the stoker is sat at the front with an adjustable recumbent position.
+The Hase Pino is a German-made semi-recumbent tandem bicycle.
+In other words, it means that the captain leads the ride from the rear seat with an upright position, whereas the stoker is sat at the front with an adjustable recumbent position.
 
 We are using the 2021 "Tour" model, which includes a Rohloff drivetrain. 
 
@@ -41,7 +41,7 @@ There are many official dealers, but not everyone has enough experience for serv
 However we love it!
 Having an open forward view for both cyclists brings us phenomenal travel experiences while maintaining a smooth communication.
 Plus, the independent free wheeling system does not require as much synchronization.
-All in all, riding a half recumbent tandem is a real delight for us.
+All in all, riding a semi-recumbent tandem is a real delight for us.
 
 We still have much to learn about this bike's mechanics to make it until Japan. 
 Hopefully, we will get confidence alongside experience. 
@@ -62,15 +62,17 @@ Thank you very much for your cooperation!
 - Some parts are proprietary or Hase Pino specific.
 - Climbing up hills can be tougher.
 - Difficult to find a bike shop for a proper servicing.
-- Not many locations on the frame for bottles cages.
+- Not many locations on the frame for bottle cages.
 
+## Specs
 
-{{< collapsible "Specs" 2 >}}
-|         -      |               -              |
+|         General Information                                                        |
 |--------------------|---------------------------------------------------------------|
 | Vendor        | [Hase Bikes](https://hasebikes.com)                                |
 | Model         | Pino Tour 2021                                                     |
-| Size          | 184-245  cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
+| Size          | 184-245 cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
+| Weight        | 30 kg                                                              |
+
 
 
 | Elements              | Description                            |
@@ -88,4 +90,3 @@ Thank you very much for your cooperation!
 | Bottom rack        | Hase Pino Lowrider                                            |
 | Lightning system   | Lighting system: B+M IQ-X, Top Lite Flat Brake Plus           |
 | Mudguards          | fender SKS                                                    |
-{{< /collapsible >}}
