@@ -49,7 +49,7 @@ Ultreïa! (ウルトレイア！)
 
 <h3>{{< translate stats >}}</h3>
 
-<li><b>{{< translate way_of_travelling >}}</b> 旅の移動手段 徒歩</li>
+<li><b>{{< translate way_of_travelling >}}</b> 徒歩</li>
 <li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
 <li><b>{{< translate duration >}}</b> 41日間</li>
 <li><b>{{< translate distance >}}</b> 890 km</li>
