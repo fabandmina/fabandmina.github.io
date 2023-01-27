@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
 ---
 {{< collapsible "travel_story" 2 >}}
-この記事は、フランスから始まった巡礼の続編です。まだフランス編を読んでいない場合は、[こちら]を先にどうぞ({{< link_to "camino-france" >}})。
+この記事は、フランスから始まった巡礼の続編です。まだフランス編を読んでいない場合は、[こちら]({{< link_to "camino-france" >}})を先にどうぞ。
 
 ここでは、フランスのサン・ジャン・ピエ・ド・ポ－(Saint Jean Pied de Port)からスペインのフィステ－ラ(Fisterra)への旅に焦点を当てています。
 
