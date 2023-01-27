@@ -21,14 +21,14 @@ One of the major issues was that the stoker's view was greatly reduced by the ca
 We thought it was less than ideal for travelling.
 Second, a classic tandem requires perfect synchronization between the captain and the stoker. 
 After two days of riding this tandem, it felt more frustrating than enjoyable. 
-As seasoned bike-tourers, we found it labourious to adapt each other's quirks and habits on the saddle. 
+As seasoned bike-tourers, we found it labourious to adapt to each other's quirks and habits on the saddle. 
 No wonder why some may say that tandems are "couple killers".
 
 That's about when we learnt about the Hase Pino tandem. A couple hours of test-drive convinced us to make it our new partner for life.
 Although we are happy to use it now, how will it perform in the harshest conditions of a 28,000km ride across the Eurasian continent?
 
 ## Our impressions on Pino
-At the time of writing, we have done 500 km on the roads of [Corsica]({{< link_to "corsica" >}}). 
+At the time of writing, we have done 500 km on the roads of [Corsica.]({{< link_to "corsica" >}}) 
 It's not much yet, but we will give our current impressions on riding a Pino bike.
 We will write a second review later, after we reach the 10,000 km goal with this buddy, for better hindsight.
 
@@ -78,7 +78,7 @@ Thank you very much for your cooperation!
 | Elements              | Description                            |
 |--------------------|---------------------------------------------------------------|
 | Frame              | 6061 aluminium frame telescoping                              |
-| Drive train        | 14-speed Rohloff Speedhubcompatible for 12 mm thru axle frame |
+| Drive train        | 14-speed Rohloff Speedhub compatible for 12 mm thru axle frame |
 | Shifters           | Rohloff Speedhub Twist Shifter                                |
 | Rear wheel         | Schürmann 559-25, 36 spokes 2,0 - 1,8 - 2,0                   |
 | Front wheel        | Schürmann Downhill 407-25, 32 spokes, 173mm one side, 175mm the other  |
