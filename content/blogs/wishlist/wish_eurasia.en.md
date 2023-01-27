@@ -20,10 +20,10 @@ Jokes aside, our rules will be:
 - Enjoy Life!
 
 ### The Stats
-<li><b>{{< translate way_of_travelling >}}</b> Cycling and occasionnally ferries</li>
+<li><b>{{< translate way_of_travelling >}}</b> Cycling and occasionally ferries</li>
 <li><b>{{< translate starting_date >}} </b>1 May 2023</li> 
 <li><b>{{< translate duration >}}</b> 1 year and 8 months</li>
-<li><b>{{< translate distance >}}</b> 28 000 km</li>
+<li><b>{{< translate distance >}}</b> 28,000 km</li>
 
 ## The Motivation
 The first and foremost reason is because we want to.
