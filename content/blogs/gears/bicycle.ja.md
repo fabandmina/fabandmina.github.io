@@ -1,46 +1,64 @@
 ---
-title: "Bicycle"
-subtitle: " Hase Pino tandem "
-introduction: "A semi-recumbent tandem bicycle made by Hase."
+title: "bicycle"
+subtitle: " ドイツ製のセミリカンベントタンデム自転車"
+introduction: 'この写真はハセ ピノ オールラウンド 2021(Hase Pino Allround)'
 date: 2022-10-02T16:36:59+02:00
-thumbnail: "https://live.staticflickr.com/65535/52399270281_c9af84444d_o.jpg"
+thumbnail: "https://live.staticflickr.com/65535/52648835781_c8895a3c58_k.jpg"
 tags: gears
-draft: true
 ---
 
-## Why this bicycle?
-Our first plan was to use a classic tandem for our next long-distance tours.
-One day, we decided to rent one and we realized that there was a lot of drawbacks compared to a standard bicycle.
-One the major issues was that the stoker's view was halved by the captain's back.
-Which we thought was less than ideal for travelling, although we could communicate more easily.
+## この自転車について
+ハセピノはドイツ製のセミリカンベントタンデム自転車です。これは、キャプテンは後部座席にいわゆる普通に乗車しライドの主導権を握り、ストーカーは前方の調整可能なリカンベントシートに寝転がって乗車します。
 
-That's about when we learnt about the Hase Pino tandem, a semi-recumbent tandem.
-Basically, it means that the captain has an upright position, whereas the stoker is more or less laid back at the front. 
+私達はローロフ(Rohloff)使用の、ツアー(Tour) 2021 モデルを使用しています。
 
-### Great features
-- The frame design allows both riders to have a panoramic view while pedaling.
-- Talking to each other is even easier.
-- The tandem is highly adjustable. 
-- The ride is smooth for both cyclists, even on rough terrains, thanks to the front shock.
-- The stoker's crankset has a freewheel. 
+## 背景
+自転車旅を2人で楽しむようになってから、私達はタンデム自転車に関心を持ち始めました。当初、キャプテンが前，ストーカーが後ろに座る、いわゆるクラシックなタンデム自転車の購入を検討していました。ある日、実際に購入する前にタンデム自転車に試乗してみようと思いレンタルしてみたところ、期待していた優れた点より遥かに大きな欠点を発見しました。
 
-### Things to improve
-- Manoeuvering the handlebar requires a little bit of practise.
-- Many parts are proprietary or Hase Pino specific.
-- It's pricey.
+重大な問題の1つが、ストーカーの視界がほぼキャプテンの背中で遮られる点。これは旅を楽しむのに理想的ではないと思いました。
 
-{{< collapsible "in_details" 2 >}}
-|         -      |               -              |
+2つ目は、2人は常にシンクロして自転車を漕がなければならない点。私達にはそれぞれベダリングの好みや癖があり、慣れたら問題ないのかもしれませんが、2日程度の試乗でこれをすり合わせるのは難しく、楽しい気持ちよりもイライラしました。タンデム自転車が別名「カップルキラー」と呼ばれている理由に納得しました。
+
+このような経験から、私達はこのハセ ピノに辿り着きました。数時間の試乗の後、このちょっと変わったタンデムを私達の人生の新しいパートナーとすることを確信しました。今のところ何も問題はありませんが、ユーラシア大陸横断中の過酷な条件下で約28,000km無事に走行できるのか？どう機能するのか？誰も知りません。
+
+## レビュー
+執筆時点では、まだ[コルシカ島]({{< link_to "corsica" >}})を500km走行したのみなので、この自転車をレビューできる材料が少ないです。なので、今後10,000km走行後にでもまた再度レビューしたいと思っていますが、とりあえず現時点での印象を述べます。
+
+正直なところ、これは購入前からわかっていた事ですが、この自転車は僻地も訪れるような長旅には向いてないと思います。実際、この特殊な自転車はメンテナンスが難しいです。多くの部品は簡単に手に入るアイテムではなく、サービスに特定のサイズと形状の工具が必要です。技術文書も顧客には提供されないので、自分達で手探りでサービスしなければなりません。多くの公式ディーラーがありますが、誰もがこの自転車を修理するのに(少なくともフランスでは)十分な経験と知識を持っている訳ではありません。
+
+ですが、私達はこの自転車が大好きです！両方のサイクリストが開けた視界を持つことは、スムーズなコミュニケーションが取れる点も加え、私達に驚異的な旅行体験をもたらしました。さらに、独立したフリーホイールシステムは、それほどペダリングのシンクロを必要としません。総合的に、このセミリカンベントタンデムに乗ることは、私達にとって本当の喜びです。
+日本にたどり着くまで、この自転車について学ぶべきことがまだまだ沢山あります。旅中に、多くの経験と自信が得られることを願っています。私達は前へ、前へとペダルを踏むことを楽しみにしています。
+
+ちなみに、私達の相棒の名前はムッシュ・ピノ(Monsieur Pino)です。どうぞよろしくお願いします。
+
+### 長所
+- 両方のライダーが同じ前方の視界を持っている
+- お互いの頭が近くにあるので会話がしやすい(大声を出す必要がない)
+- 独立したフリーホイールシステム搭載
+- フレームは伸縮式で、ソロ自転車と同等サイズまで縮めることが可能
+- 全身体的特徴に対応できる
+
+### 短所
+- 個々のライダーに対しあらゆる調節が可能だが、多くの工具を必要とする
+- いくつかの部品がHase社オリジナル
+- 一番軽いギアでも登れない傾斜がある
+- 特殊な自転車なため、自転車屋で適切なサービスを受けられない
+- タボ穴がない
+## スペック
+
+|         General Information                                                        |
 |--------------------|---------------------------------------------------------------|
 | Vendor        | [Hase Bikes](https://hasebikes.com)                                |
 | Model         | Pino Tour 2021                                                     |
-| Size          | 184-245  cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
+| Size          | 184-245 cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
+| Weight        | 30 kg                                                              |
+
 
 
 | Elements              | Description                            |
 |--------------------|---------------------------------------------------------------|
 | Frame              | 6061 aluminium frame telescoping                              |
-| Drive train        | 14-speed Rohloff Speedhubcompatible for 12 mm thru axle frame |
+| Drive train        | 14-speed Rohloff Speedhub compatible for 12 mm thru axle frame |
 | Shifters           | Rohloff Speedhub Twist Shifter                                |
 | Rear wheel         | Schürmann 559-25, 36 spokes 2,0 - 1,8 - 2,0                   |
 | Front wheel        | Schürmann Downhill 407-25, 32 spokes, 173mm one side, 175mm the other  |
@@ -52,4 +70,3 @@ Basically, it means that the captain has an upright position, whereas the stoker
 | Bottom rack        | Hase Pino Lowrider                                            |
 | Lightning system   | Lighting system: B+M IQ-X, Top Lite Flat Brake Plus           |
 | Mudguards          | fender SKS                                                    |
-{{< /collapsible >}}

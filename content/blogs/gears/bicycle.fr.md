@@ -1,5 +1,5 @@
 ---
-title: "Bicycle"
+title: "bicycle"
 subtitle: " Un tandem semi-couché de fabrication allemande."
 introduction: 'Tandem Hase Pino Allround 2021 sur la photo.'
 date: 2022-10-02T16:36:59+02:00
