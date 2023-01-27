@@ -13,7 +13,7 @@ Bienvenue !
 
 Nous sommes heureux de partager notre expérience avec vous. Nous espérons que cela vous donnera des idées qui auront un impact positif dans votre vie, et qui vous inspireront pour relever de nouveaux défis.
 #
-Notre prochain projet sera de traverser l'Eurasie en tandem, du Portugal au Japon. Cela nous prendra environ 2 ans et 25 000 km.
+Notre prochain projet sera de traverser l'Eurasie en tandem, du Portugal au Japon. Cela nous prendra environ 2 ans et 28 000 km.
 
 {{< last-article >}}
 
