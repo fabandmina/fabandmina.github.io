@@ -1,5 +1,5 @@
 #### Base parametres ####
-baseurl ='http://fabandmina.github.io/'
+baseurl ='https://fabandmina.github.io/'
 title = 'Fab and Mina'
 theme = "huguette-fabandmina"
 copyright = "Copyright 2022-{year} Fabien TRAN All rights reserved."
@@ -130,7 +130,7 @@ defaultContentLanguage = 'en'
     url = "https://www.instagram.com/fabandmina/"
     icon = "fa-brands fa-instagram"
   [params.francetvinfo_link] 
-    url = "http://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html?fbclid=IwAR2SR_-OBBLVUra7L8jkOvHtHwkKLXs1taky8WGmbf3ixXeQz4rO6vFZm20"
+    url = "https://la1ere.francetvinfo.fr/nouvellecaledonie/caledoniens-ailleurs-fabien-nomade-suspens-850376.html?fbclid=IwAR2SR_-OBBLVUra7L8jkOvHtHwkKLXs1taky8WGmbf3ixXeQz4rO6vFZm20"
     icon = "fa-regular fa-newspaper"
   [params.flickr_link]
     url = "https://www.flickr.com/photos/196589873@N03/albums"
