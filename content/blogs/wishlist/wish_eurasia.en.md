@@ -21,7 +21,7 @@ Jokes aside, our rules will be:
 
 ### The Stats
 - <b>{{< translate way_of_travelling >}}</b> Cycling and occasionally ferries
-- <b>{{< translate starting_date >}} </b>1 May 2023
+- <b>{{< translate starting_date >}} </b> May 2023
 - <b>{{< translate duration >}}</b> 1 year and 8 months
 - <b>{{< translate distance >}}</b> 28,000 km
 

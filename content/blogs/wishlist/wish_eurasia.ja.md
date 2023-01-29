@@ -22,7 +22,7 @@ draft: false
 
 ### 統計
 - <b>{{< translate way_of_travelling >}}</b> 自転車とたまに船
-- <b>{{< translate starting_date >}} </b>2023年5月1日
+- <b>{{< translate starting_date >}} </b>2023年5月
 - <b>{{< translate duration >}}</b> 1年8ヶ月
 - <b>{{< translate distance >}}</b> 28,000 km
 

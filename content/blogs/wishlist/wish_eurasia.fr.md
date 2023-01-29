@@ -19,7 +19,7 @@ Cette année 2023  nous traverserons l'Eurasie d'Ouest en Est. "Et alors ?"  me 
 
 ### Les Stats
 <b>{{< translate way_of_travelling >}}</b> Vélo et occasionnellement ferries
-<b>{{< translate starting_date >}} </b>1 Mai 2023 
+<b>{{< translate starting_date >}} </b> Mai 2023 
 <b>{{< translate duration >}}</b> 1 an et 8 mois
 <b>{{< translate distance >}}</b> 28 000 km
 
