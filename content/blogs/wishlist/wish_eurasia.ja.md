@@ -21,10 +21,10 @@ draft: false
 - 人生を楽しむ！
 
 ### 統計
-<li><b>{{< translate way_of_travelling >}}</b> 自転車とたまに船</li>
-<li><b>{{< translate starting_date >}} </b>2023年5月1日</li> 
-<li><b>{{< translate duration >}}</b> 1年8ヶ月</li>
-<li><b>{{< translate distance >}}</b> 28,000 km</li>
+- <b>{{< translate way_of_travelling >}}</b> 自転車とたまに船
+- <b>{{< translate starting_date >}} </b>2023年5月1日
+- <b>{{< translate duration >}}</b> 1年8ヶ月
+- <b>{{< translate distance >}}</b> 28,000 km
 
 ## 動機
 何よりもまず、私達はこの夢を実現させたいからです。この星での滞在は限られているので、私達は好きなことをし、自転車で色々な場所を訪れ発見するのが大好きです。サイクリングは、その欠点をはるかに上回る多くの良い点があります。私達にとって自転車は探検と速度のバランスが丁度良い乗り物です。言い換えると、そこそこの距離を移動しながら周囲を好きなだけ楽しむことができます。

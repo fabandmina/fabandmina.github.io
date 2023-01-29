@@ -18,10 +18,10 @@ Cette année 2023  nous traverserons l'Eurasie d'Ouest en Est. "Et alors ?"  me 
 - Profiter de la vie!
 
 ### Les Stats
-<li><b>{{< translate way_of_travelling >}}</b> Vélo et occasionnellement ferries</li>
-<li><b>{{< translate starting_date >}} </b>1 Mai 2023</li> 
-<li><b>{{< translate duration >}}</b> 1 an et 8 mois</li>
-<li><b>{{< translate distance >}}</b> 28 000 km</li>
+<b>{{< translate way_of_travelling >}}</b> Vélo et occasionnellement ferries
+<b>{{< translate starting_date >}} </b>1 Mai 2023 
+<b>{{< translate duration >}}</b> 1 an et 8 mois
+<b>{{< translate distance >}}</b> 28 000 km
 
 ## Notre Motivation
 La première et principale raison est que nous voulons le faire. Notre séjour sur cette planète est limité  alors nous faisons les choses que nous aimons  et nous aimons découvrir les lieux à vélo. Le vélo a une longue liste d'avantages qui surmonte ses inconvénients. Mais pour nous  c'est le juste milieu entre l'exploration et la vitesse. En d'autres termes  vous profitez des environs tout en cumulant des kilomètres.
