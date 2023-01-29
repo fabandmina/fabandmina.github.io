@@ -71,6 +71,7 @@ We hiked the following paths:
 - Artemis Trail
 - Atalante Trail
 - Nature Trail to Kakopetria 
+
 They were all properly marked and well maintained.
 
 Between the cities we took different coaches. They were not too expensive and service several towns. The main difficult is to get the up-to-date schedule. We recommend to ask directly the I-site or the bus company directly. Also, plan to arrive a little bit early at the stop, because the buses fills in quickly and you cannot make a reservation. Plus, the drivers tend to follow the time schedule really precisely.
@@ -114,7 +115,7 @@ The local diet is 100% Mediterranean, of course, and it suits our tastes very mu
 
 From the supermarkets, we found local tomatoes and cucumbers, and from the trees, we found lemons.
 
-The most popular street food is gyros, the local kebab sandwich. And it tastes fabulous thanks the fresh ingredients and the typical halloumi and feta cheeses.
+The most popular street food is gyros, the local kebab sandwich. And it tastes fabulous thanks to the fresh ingredients and the typical halloumi and feta cheeses.
 
 If you feel more like going to the restaurant, we would recommend to order mezze. Mezze is a full course menu that includes a numerous sets of local dishes. Each dish does not look copious, but all combined, it will make you full for the rest of the day.
 In the North part, we found an excellent Turkish restaurant that we included in our [{{< translate top_5_locations >}}](#hahahugoshortcode-s3-hbhb).
@@ -136,7 +137,7 @@ It's a vegetarian paradise! The traditional diet is already low on meat. Plus, e
 - Halloumi
 - Tahin (sesame paste)
 - Bean soup
-- Turkish pizza
+- Pide (Turkish pizza)
 - Ayran (yogurt drink)
 - Coffee and coffee
 
@@ -148,7 +149,7 @@ It's a vegetarian paradise! The traditional diet is already low on meat. Plus, e
 
 <h4>⭐{{< translate mina_favourite >}}</h4>
 
-Frappé without ice and without sugar. Normally Mina does not like instant coffee, but she enjoyed this version more than Freddo.
+Frappé without ice and without sugar. Normally Mina does not like instant coffee, but she enjoyed this version more than the Freddo.
 
 {{< /collapsible >}}
 {{< /collapsible >}}
