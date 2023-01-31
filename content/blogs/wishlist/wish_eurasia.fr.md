@@ -7,7 +7,8 @@ thumbnail: "https://raw.githubusercontent.com/fabandmina/piskel-projects/main/fa
 tags: wishlist
 flickr_album:
 map: "//umap.openstreetmap.fr/en/map/eurasia_859999?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
-draft: false 
+draft: false
+author: fab 
 ---
 
 ## Le Voyage
