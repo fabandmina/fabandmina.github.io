@@ -7,6 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52518424392_540ae080c8_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720303923005"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#7/44.3/2.5338"
+author: mina
 ---
 {{< collapsible "travel_story" 2 >}}
 新型コロナウイルスに伴う各国の入国規制により、不本意な1年以上の遠距離恋愛の後、私達はフランスで再会する決心をしました。これは、私達が長年やりたいと思っていた夢の１つ『フランスのル・ピュイ・アン・ヴァレ(Le-Puy-En-Velay)からスペインのサンティアゴ・デ・コンポステーラ(Santiago de Compostela)まで歩く』を実現させる良い機会でした。

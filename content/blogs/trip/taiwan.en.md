@@ -7,6 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
 tags: trip
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795"
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
+author: fab
 ---
 {{< collapsible "travel_story" 2 >}}
 We decided to visit Taiwan because we had made many taiwanese friends in New Zealand. They had invited us to explore their place.

@@ -7,6 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52470410167_93711aab60_c.jpg"
 tags: trip
 map:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559908"
+author: fab
 ---
 <!-- ## {{< translate travel_story >}} -->
 {{< collapsible "travel_story" 2 >}}

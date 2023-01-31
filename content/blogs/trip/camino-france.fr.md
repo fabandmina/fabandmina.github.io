@@ -7,7 +7,8 @@ thumbnail: "https://live.staticflickr.com/65535/52518424392_540ae080c8_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720303923005"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#7/44.3/2.5338"
-draft: false 
+draft: false
+author: fab
 ---
 {{< collapsible "travel_story" 2 >}}
 Après plus d'un an de relation à distance forcée par les restrictions covid, Mina et moi avons décidé de nous réunir en France. C'était une bonne occasion de réaliser l'un des éléments de notre longue liste de choses à faire : parcourir le Chemin de Saint-Jacques depuis le point de départ officiel français au Puy-En-Velay, jusqu'à Saint-Jacques-de-Compostelle en Espagne.

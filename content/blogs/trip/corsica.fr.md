@@ -7,6 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52597660562_f8537dd425_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304863991"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2568114#7/42.2610/9.2972"
+author: fab
 ---
 {{< collapsible "travel_story" 2 >}}
 Nous venons de recevoir notre tout nouveau [vélo tandem semi-couché]({{< link_to "bicycle" >}}) du magasin de vélos et nous avions hâte de l'essayer dès que possible.
