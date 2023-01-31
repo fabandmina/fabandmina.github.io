@@ -5,6 +5,7 @@ introduction: 'Tandem Hase Pino Allround 2021 sur la photo.'
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52648835781_c8895a3c58_k.jpg"
 tags: gears
+author: fab
 ---
 
 ## Le Vélo

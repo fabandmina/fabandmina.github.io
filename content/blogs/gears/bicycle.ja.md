@@ -5,6 +5,7 @@ introduction: 'この写真はハセ ピノ オールラウンド 2021(Hase Pino
 date: 2022-10-02T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52648835781_c8895a3c58_k.jpg"
 tags: gears
+author: mina
 ---
 
 ## この自転車について
