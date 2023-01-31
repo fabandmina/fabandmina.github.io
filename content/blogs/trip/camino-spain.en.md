@@ -69,7 +69,7 @@ At that time, we were supposed to get tested for the Covid, but there was not an
 <h4>{{< translate fab >}} 🇫🇷</h4>
 As a French national, you can of course stay as long as you want in Spain.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Mina had a working holiday visa which allowed her to stay inside the Schengen area for one year.
 
 Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.

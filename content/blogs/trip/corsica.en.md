@@ -54,7 +54,7 @@ From Marseille, the staff insisted that we took a shuttle and stored the bicycle
 <h4>{{< translate fab >}} 🇫🇷</h4>
 As a French national, you just need to present your ID card or your passport.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Mina had a long-stay visa for France which allowed her to stay inside the Schengen area. Corsica is part of France, i.e. part of the Schengen area.
 
 Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.

@@ -57,7 +57,7 @@ We didn't have to provide any information about the reasons of our trip.
 <h4>{{< translate fab >}} 🇫🇷</h4>
 You just need to present your passport at the gates and you'll be allowed to stay six months as a visitor.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Same as above, plus you are also allowed to study. 
 Going to the UK is the easiest solution for resetting a Schengen visa.
 

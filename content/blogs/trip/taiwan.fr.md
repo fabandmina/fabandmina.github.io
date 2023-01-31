@@ -62,7 +62,7 @@ Très facile!
 
 La présentation d'un passeport valide et d'un billet allé-retour au poste de contrôle vous autorise à rester 90 jours.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 
 Idem pour les ressortissants japonais.
 

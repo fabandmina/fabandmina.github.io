@@ -58,7 +58,7 @@ author: mina
 <h4>{{< translate fab >}} 🇫🇷</h4>
 有効なパスポートと帰りのチケットを提示するのみ。ビザなしで90日間の滞在が許可されました。
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 ビザなしで90日滞在可。パスポートを提示するのみ。
 
 {{< /collapsible >}}

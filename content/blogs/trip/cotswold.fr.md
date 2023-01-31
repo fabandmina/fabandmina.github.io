@@ -50,7 +50,7 @@ Nous avons pris un vol low-cost de Marseille à l'aéroport de Stansted. Arrivé
 <h4>{{< translate fab >}} 🇫🇷</h4>
 Il vous suffit de présenter votre passeport aux portes et vous serez autorisés à rester six mois en tant que visiteurs.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Comme ci-dessus, plus vous êtes également autorisé à étudier. Se rendre au Royaume-Uni est la solution la plus simple pour réinitialiser un visa Schengen.
 
 {{< /collapsible >}}

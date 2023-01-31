@@ -51,7 +51,7 @@ Depuis Marseille, le personnel a insisté pour que nous prenions une navette et 
 <h4>{{< translate fab >}} 🇫🇷</h4>
 En tant que ressortissant français, il vous suffit de présenter votre carte d'identité ou votre passeport.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Mina avait un visa de long séjour pour la France qui lui permettait de rester à l'intérieur de l'espace Schengen. La Corse fait partie de la France, c'est-à-dire de l'espace Schengen.
 
 Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours sur 6 mois à l'intérieur de l'espace Schengen.

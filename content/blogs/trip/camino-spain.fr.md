@@ -63,7 +63,7 @@ A cette époque, nous étions censés nous faire tester pour le Covid, mais il n
 
 En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez en Espagne.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 
 Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace Schengen pendant un an.
 

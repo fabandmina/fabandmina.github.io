@@ -59,7 +59,7 @@ You can only enter New Caledonia by plane. It can be expensive because it is far
 <h4>{{< translate fab >}} 🇫🇷</h4>
 For French nationals, it's like a domestic travel. Just bring your passport. ID cards will not allow you to pass the borders.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 As a Japanese, you are allowed to stay three months when you enter the country, without requesting a visa. The New Caldonian border officers are used to Japanese visitors.
 
 {{< /collapsible >}}

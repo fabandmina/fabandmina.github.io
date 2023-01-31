@@ -53,7 +53,7 @@ Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace S
 
 Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours tous les 6 mois à l'intérieur de l'espace Schengen.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 
 {{< /collapsible >}}
 

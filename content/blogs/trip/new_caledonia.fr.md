@@ -62,7 +62,7 @@ On ne peut qu'entrer en Nouvelle-Calédonie par avion. Cela peut être cher éta
 <h4>{{< translate fab >}} 🇫🇷</h4>
 Pour les ressortissants français, c'est comme un vol domestique. N'oubliez de prendre votre passeport. La carte d'identité seule ne vous permettra pas de passer les frontières.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 En tant que ressortissant japonais, vous pouvez rester trois mois dans le pays sans faire de demande de visa au préalable. Les agents aux frontières calédoniennes sont habitués aux visiteurs japonais.
 
 {{< /collapsible >}}

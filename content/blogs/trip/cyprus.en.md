@@ -57,7 +57,7 @@ Practically, it is not difficult to cross it on foot, but the easiest place for 
 <h4>{{< translate fab >}} 🇫🇷</h4>
 As a French national, you just need to present your ID card or your passport for entering the South part. But if you want to cross the *Green Line*, you should bring your passport.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Japanese passports' holders can stay 3 months as a visitor.
 
 {{< /collapsible >}}

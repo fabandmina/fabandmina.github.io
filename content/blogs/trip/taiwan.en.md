@@ -58,7 +58,7 @@ We travelled with Peach which offers a good service for a low-cost company.
 Easy peasy! 
 
 I just needed to show a valid passport and a return ticket at the border control. I was then allowed to stay 90 days inside Taiwan.
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Pretty much the same for Japanese nationals.
 
 {{< /collapsible >}}

@@ -54,7 +54,7 @@ Chypre est également tristement célèbre pour sa Ligne verte, une frontière p
 <h4>{{< translate fab >}} 🇫🇷</h4>
 En tant que ressortissant français, il vous suffit de présenter votre carte d'identité ou votre passeport pour entrer dans la partie Sud. Mais si vous voulez traverser la *ligne verte*, vous devez apporter votre passeport.
 
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 Les détenteurs de passeports japonais peuvent rester 3 mois en tant que visiteurs.
 
 {{< /collapsible >}}

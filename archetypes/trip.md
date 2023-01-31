@@ -40,7 +40,7 @@ Some story
 
 Some comment about crossing the border
 <h4>{{< translate fab >}} 🇫🇷</h4>
-<h4>{{< translate Mina >}} 🇯🇵</h4>
+<h4>{{< translate mina >}} 🇯🇵</h4>
 
 {{< /collapsible >}}
 
