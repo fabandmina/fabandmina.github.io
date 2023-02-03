@@ -10,7 +10,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 draft: false
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 Après plus d'un an de relation à distance forcée par les restrictions covid, Mina et moi avons décidé de nous réunir en France. C'était une bonne occasion de réaliser l'un des éléments de notre longue liste de choses à faire : parcourir le Chemin de Saint-Jacques depuis le point de départ officiel français au Puy-En-Velay, jusqu'à Saint-Jacques-de-Compostelle en Espagne.
 
 Dans cet article, nous nous concentrons sur la partie française de ce pèlerinage.
@@ -18,52 +18,55 @@ Dans cet article, nous nous concentrons sur la partie française de ce pèlerina
 Nous ne sommes pas des religieux, mais ce pèlerinage de renommée mondiale figurait sur notre liste de choses à faire. De plus, c'était l'année du Jubilé de Saint-Jacques-de-Compostelle. Cela se produit lorsque le 25 juillet tombe un dimanche. Pour cette occasion spéciale, il est possible de visiter la salle où sont entreposés les ossements de saint Jacques.
 
 La promenade à travers les paysages spectaculaires, les animaux de la ferme et les villages historiques a été comme une brise rafraîchissante dans nos vies, en particulier pendant la crise du covid.
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - Les balises sont faciles à suivre
 - Ambiance chaleureuse envers les pèlerins
 - Villages mignons et authentiques
 - Le bivouac en liberté est super facile
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - Le dimanche, tout est fermé alors prévoyez vos repas à l'avance
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Randonnée</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 39 days</li>
-<li><b>{{< translate distance >}}</b> 730 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Randonnée
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 39 days
+- **{{< translate distance >}}** 730 km
+
+## {{< translate "in_details" >}}
 
 Nous sommes entrés en Europe par avion. A cette époque, nous devions nous faire tester pour le covid. Pour la France, les contrôles n'étaient pas fréquents. Nous avons ensuite pris un train depuis Lyon jusqu'au Puy-En-Velay, notre point de départ.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 
 Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace Schengen pendant un an.
 
 Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours tous les 6 mois à l'intérieur de l'espace Schengen.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 
 C'est une randonnée populaire, donc le chemin est bien balisé et bien entretenu. Si vous vous en tenez à l'itinéraire officiel, vous vous retrouverez à zigzaguer de gauche et à droite et traverser nombreuses montées et descentes. Si vous décidez de prendre des raccourcis, vous risquez de manquer quelques scènes charmantes. Concernant l'affluence, elle est au plus forte au départ et vers Saint-Jean-Pied-de-Port. Néanmoins, même si l'état du chemin est plutôt bon, nous vous recommandons de porter des chaussures de randonnée appropriées pour leur durabilité et leur confort. Mina a d'abord décidé d'utiliser des chaussures de trail, mais l'a regretté car elle a dû les changer en cours de route.
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 
 Il y a beaucoup d'hébergements sympas le long du chemin. Mieux vaut les réserver le plus tôt possible pour être sûr d'avoir un lit bien au chaud pour la nuit. Nous n'avons cependant jamais pris le temps de réserver car nous voulions nous arrêter quand bon nous semblait.
 
@@ -73,31 +76,35 @@ Alternativement, vous pouvez séjourner en donativos en échange d'un don laiss�
 
 Au final, nous n'avons qu'une expérience limitée de deux nuits en camping et une nuit en donativo.
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 
 Sur la partie française du Chemin de Compostelle, le camping sauvage est une pratique courante. Il n'est pas rare de partager votre emplacement avec d'autres campeurs. Les locaux sont habitués aux pèlerins adeptes du bivouac. Parfois, on peut même trouver une place de bivouac idéale qui dispose de quelques équipements (bancs, sanitaires, prises…) à proximité du sentier. Si vous souhaitez planter votre tente sur un terrain vide, assurez-vous qu'il n'y aura pas d'activité agricole (animaux, véhicules…) au petit matin.
 
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 
 Dans la partie française, vous traverserez des villages et des villes tous les 5~10km. La plupart du temps, vous pourrez trouver au moins un robinet d'eau potable et/ou un petit magasin comme une boulangerie ou un café. Sinon, des pharmacies et des supermarchés se trouvent aux principaux points de contrôle. Si vous souhaitez vous procurer des produits plus frais, les marchés locaux sont généralement ouverts le matin. Bien qu'il ne soit pas rare de trouver des toilettes publiques, vous devrez probablement apporter votre propre papier hygiénique et votre savon pour les mains. De plus, il existe de nombreuses aires de repos pour les pèlerins sur le chemin où vous pourrez trouver des collations, des fruits et des boissons en échange d'un don.
 
 En bref, il est facile de recharger vos vivres en cours de route. Vous n'aurez donc pas besoin de transporter beaucoup de nourriture. Faites attention au dimanche, car presque tous les commerces sont fermées ce jour-ci.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 
 Les habitants sont vraiment accueillants et serviables avec les pèlerins. Certains d'entre eux étaient d'anciens pèlerins et peuvent vous fournir de bons conseils pour mener à bien votre voyage. La route semble sûre, mais continuez à surveiller vos affaires à tout moment, comme vous le feriez n'importe où en Europe. Les habitants n'hésiteront pas à discuter avec vous, même si leur langue principale est le français.
 
 Mina n'étant pas francophone, nous prenons en compte la facilité à s'exprimer en anglais avec les locaux. Dans notre cas, cela n'est pas toujours évident sur les routes de française.
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 
 En général, on ne va pas au restaurant car en France, le service est long et il est assez courant d'y rester 2 heures. Nous préférons généralement prendre un repas léger dans un café/boulangerie ou préparer notre propre nourriture.
 
@@ -107,11 +114,11 @@ Il est possible de récolter des fruits sur le chemin. Certains arbres fruitiers
 
 Une dernière chose, nous n'apprécions pas le café français car il a un goût trop faible et aqueux pour nous.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 
 La cuisine française n'est pas végétarienne. La campagne ne fait pas exception. Si vous décidez de prendre un repas dans un café ou un restaurant, le choix se limite aux paninis tomates et mozzarella ou 3 fromages. Ces options sont assez savoureuses grâce au fromage de qualité utilisé, cependant. Ici, le blé et les produits laitiers sont des aliments de base.
 
-<h4>{{< translate what_we_eat >}}</h4>
+#### {{< translate what_we_eat >}}
 
 - Flocon d'avoine
 - Baguettes de pain
@@ -124,16 +131,16 @@ La cuisine française n'est pas végétarienne. La campagne ne fait pas exceptio
 - Baies sauvages
 - Melons
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 [Melons de Lectoure](https://goo.gl/maps/KDRpq8CxQgm6ag9D6)
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 [Chocolatines de Conques](https://goo.gl/maps/av6svjhdUAqhVrmc6)
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

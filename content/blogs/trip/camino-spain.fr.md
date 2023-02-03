@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 Cet article est la suite du pèlerinage commencé en France. Si vous ne l'avez pas encore lu, vous pouvez le consulter en détail [ici >>]({{< link_to "camino-france" >}}).
 
 Dans cet article, nous nous concentrons sur notre voyage de Saint-Jean-Pied-de-Port, en France, à Fisterra en Espagne.
@@ -26,52 +26,54 @@ Quoi qu'il en soit, si vous continuez à faire un pas après l'autre, vous finir
 
 La voie a été tracée par ceux qui y sont parvenus auparavant, et nous vous souhaitons de pouvoir suivre leurs pas également.
 
-Ultreïa !{{< /collapsible >}}
+Ultreïa !
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - Les pèlerins venant du monde entier
 - Ambiance chaleureuse envers les pèlerins
 - Installations propres
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - Pause nationale entre 14h00 et 16h00, appelée "siesta"
 - Les robinets d'eau publics pour les pèlerins ont été enlevés ou coupés
 - Des pèlerins étrangers nous prenant en photo sans nous demander notre permission
 - La partie espagnole était beaucoup plus touristique
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Randonnée</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 41 jours</li>
-<li><b>{{< translate distance >}}</b> 890 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Randonnée
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 41 jours
+- **{{< translate distance >}}** 890 km
+
+## {{< translate "in_details" >}}
 
 Franchir la frontière entre la France et l'Espagne consistait à monter et descendre les Pyrénées. Il n'y avait pas de démarcation claire, donc nous ne pouvons dire avec certitude quand nous avons réellement passé la frontière officielle. Nous ne l'avons réalisé qu'à l'entrée de Roncevaux, la première ville du Camino espagnol.
 
 A cette époque, nous étions censés nous faire tester pour le Covid, mais il n'y avait pas de contrôleurs auxalentours de la frontière.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 
 En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez en Espagne.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 
 Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace Schengen pendant un an.
 
 Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours sur 6 mois à l'intérieur de l'espace Schengen.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 
 La route est toujours bien entretenue. Comparé à la partie française, c'est beaucoup plus fréquenté, surtout à l'approche de Santiago. Nous pouvions sentir sur notre chemin que l'économie des villes reposait principalement sur les pèlerins. De plus, comme l'Espagne est un territoire plus large, la distance entre chaque village est plus grande. Attendez-vous à marcher 10 à 15 km en moyenne pour atteindre la prochaine ville.
 
@@ -79,9 +81,10 @@ Concernant le temps, il faisait chaud et sec jusqu'à notre entrée en Galice. �
 
 Ce qui est drôle, c'est que la Finisterre espagnole ressemble au Finisterre français car les deux partagent le même climat, la même géographie et la même culture celtique.
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 
 Nous avons peu d'expérience car nous n'avons séjourné que trois fois dans des hébergements normaux. Mais selon les autres pèlerins, la plupart d'entre eux sont vite complets. Ils devaient planifier leur voyage à l'avance et faire des réservations pour chaque jour.
 
@@ -89,17 +92,19 @@ Alternativement, vous pouvez choisir de séjourner dans un donativo (hébergemen
 
 Quoi qu'il en soit, vous pouvez vous attendre à des installations vraiment propres où que vous décidiez de séjourner en Espagne.
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 4 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 4 >}}
 
 Le camping sauvage n'est pas aussi facile et populaire qu'il l'était en France, mais il est toujours possible de le faire. Même si les habitants ne s'en souciaient pas vraiment, ils ne s'attendaient pas non plus à voir des gens bivouaquer. On essayait de trouver un bon endroit un peu en dehors des villages si possible. Si vous plantez votre tente près du chemin principal, vous pourriez être réveillé par les autres pèlerins, car ils ont tendance à commencer leur marche avant le lever du soleil. En général, ils ne sont pas bruyants, mais ils utilisent des lampes frontales lumineuses et peuvent potentiellement perturber votre sommeil.
 
 Un autre conseil que nous devrions vous donner est de faire attention aux arroseurs automatiques. Les Espagnols semblent vraiment aimer le jardinage et ils ont tendance à les utiliser partout. Nous nous sommes levés plusieurs fois car notre tente était soudainement mouillée à 3 heures du matin.
 
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 4 >}}
+
+### {{< translate "facilities" >}}
+{{< score 4 >}}
 
 Comme nous l'avons mentionné plus tôt, nous avons dû parcourir de plus longues distances entre chaque village. De plus, tous les villages n'avaient pas de magasins ou d'équipements publics, tels que des toilettes, des robinets d'eau ou des bancs…
 
@@ -111,9 +116,10 @@ Concernant l'eau potable, il était effectivement difficile d'y avoir accès. Il
 
 Sinon, il est plus simple de demander aux locaux de remplir vos bouteilles avec la phrase suivante : « Necessito agua, por favor ». À tous les hispanophones, veuillez nous pardonner notre mauvaise prononciation.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 
 Les Espagnols parlent principalement l'espagnol. Nous ne parlions pas espagnol tous les deux, donc c'était un peu difficile au début. J'ai dû utiliser des mots français car cela se rapproche plus à la langue espagnoles.
 
@@ -121,9 +127,10 @@ Même si les Espagnols sont serviables et amicaux, leur façon de communiquer pe
 
 Quelque chose que nous avons remarqué, c'est que les Espagnols sont des gens très actifs, surtout entre 19h00 et 22h00. Les habitants se feront un plaisir de discuter avec vous tout en faisant leurs longues promenades dans ce laps de temps.
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 5 >}}
+
+### {{< translate "food" >}}
+{{< score 5 >}}
 
 Mina a eu du mal à digérer le poivron espagnol. Puisqu'il s'agit d'un ingrédient central de la cuisine espagnole, nous avons dû éviter 90% des plats préparés locaux. De plus, je suis végétarien et les plats espagnols comprennent beaucoup de viande et de poisson.
 
@@ -133,11 +140,11 @@ Espérons que si vous décidez de visiter ce pays, vous pourrez mieux apprécier
 
 Sinon, nous avons pu trouver de nombreux fruits et légumes frais pour une bonne affaire. Nous avons particulièrement apprécié les pastèques.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 
 Comme en France, le régime végétarien ne fait pas partie de la culture espagnole. Cependant, nous avons pu préparer nos propres repas facilement avec les produits locaux. Mention spéciale à l'huile d'olive locale qui était la meilleure que nous ayons jamais eue jusqu'à présent.
 
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Arroz (riz local)
 - Tomates
@@ -149,16 +156,16 @@ Comme en France, le régime végétarien ne fait pas partie de la culture espagn
 - Gaspacho
 - Kéfir
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 Pastèques fraîches
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Chocolat chaud avec des churros
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

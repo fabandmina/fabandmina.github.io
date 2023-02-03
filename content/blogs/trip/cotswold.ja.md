@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720305084
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2576498%2C2576499#8/51.671/-2.137"
 author: mina
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 当初、イギリスを訪れることにしたのは便宜上の選択でした。
 
 私達は新婚旅行に出かけるための2週間の休暇があり、それと同時期に、私の長期滞在ビザ(シェンゲン圏)の失効日が近づいており、簡易的にビザを延長したかったという背景があります。
@@ -22,42 +22,44 @@ author: mina
 
 この2週間でいくつかの場所を訪れましたが、この記事では主にコッツウォルズウェイに焦点を当て綴ります。
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - 美しい景色
 - よく整備された遊歩道
 - 可愛らしい村々
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - 特になし
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> 徒歩</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 7日間</li>
-<li><b>{{< translate distance >}}</b> 164 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** 徒歩
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 7日間
+- **{{< translate distance >}}** 164 km
+
+## {{< translate "in_details" >}}
 マルセイユからスタンステッド空港までLCCで行きました。イギリスの空港に到着後、自動ゲートを通過する必要がありましたが、パスポートをスキャンするのみで、旅行の理由等についての情報を提供する必要はありませんでした。
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 入国ゲートでパスポートを提示するだけで、ビジターとしてビザなし6ヶ月間滞在可能。
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 上記と同じ＋勉強(留学)も6ヶ月間可能。イギリスを訪れるのは、長期シェンゲンビザをビジタービザ(3ヶ月間)にリセットする最も簡単な解決策だと思います。
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 イギリスには、公共の歩道を保護する強い法律があります。なので、フットパスはどれもとても良く整備されており簡単に辿ることができます。何か特別なハイキング用品を必要としません。
 
 コッツウォルズウェイの地図も販売されていますが、専用マップなしでもマーク(どんぐり)を辿って行けば問題ありません。
@@ -68,20 +70,23 @@ author: mina
 
 
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 最終日前日にホテルで1泊しただけなので、この項目についてあまり言えることはありません。少なくとも、コッツウォルズウェイ上にある宿泊施設は割と値段設定が高い(1泊1部屋£100が最安？)ということはお伝えできます。また、部屋を予約するために宿泊施設に何度か電話をかけましたが、連絡がつかない又はホテルの営業を辞めたと伝えられたことがありました。コロナ危機が地元の観光業に打撃を与えたためかと私達は考えました。
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 コッツウォルズウェイで野宿をすることはそれほど難しくなく、身の危険を感じることもありませんでした。どこも割と閑散としていたので、毎回フットパスのすぐ近くにテントを張ることができました。それでも、私達は地元の方や動物に迷惑をかけているとは感じませんでした。
 
 私達は基本的に、少し守られた場所(例えば東屋など)にテントを張ることを好みますが、この道中ではそういったキャンプスポットを一度も見つけられませんでした。幸いなことに、天気はイギリスにしてはかなり良く、大雨はありませんでした。
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 4 >}}
+
+### {{< translate "facilities" >}}
+{{< score 4 >}}
 一日に少なくとも1回は、食料品を買えるようなお店のある町を通り過ぎたので、1日分以上の食料を持つ必要はないと思います。
 
 飲み水に関しては、時たまハイカーのために設置されたウォータータップを見つけることができましたが、どこにでもある訳ではありませんでした。そのため、私達は地元の人に水筒に水を補充してくれるよう頼まなければなりませんでした。
@@ -92,14 +97,16 @@ author: mina
 
 最後に、クレジットカードはほとんどどこでも使えるので、現金を持つ必要はありません。(私達は結局、現金なしでイギリス旅を無事終えました。)
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 5 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 5 >}}
 地元の方々は本当にフレンドリーで、もちろん英語を話します！彼らは地元を心から誇りに思っているようで、周辺に関する追加情報をよく教えてくれました。ハイカーは歓迎され、私達が何度か道に迷った際も、地元の方の助けのおかげで、簡単に正しいフットパスを見つけることができました。
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 コッツウォルズウェイハイキング中は、主にスーパーマーケットで購入した軽食を食べました。(既にお伝えの通り、レストランの営業時間に毎回間に合わなかったため)
 
 しかし、旅行の残りの間に、私達は地元の食べ物を多く体験することができ、それは素晴らしかったです！イギリス料理は、私達の好みと一致しました。私達がこの項目を星4 / 5とした唯一の理由は、私達がこの旅中に食べた物が健康的だったとは思わないからです。笑
@@ -109,11 +116,11 @@ author: mina
 全体的に、フランスと比較して、英国は同様の価格帯でより良い食，サービスを持っていると思います。
 
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 5 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 5 >}}
 これは私たち、ベジタリアンとビーガンの人にとって素晴らしいニュースです。この国は、様々なダイエットに関してひと通りそろえています。田舎においても、私たちに少なくとも1つの選択肢があります。どの料理があなたのダイエットに合っているかどうかを示すわかりやすいマークのおかげで、メニューから簡単に自分に適した料理を見つける事ができます。
 
 バナナの花とジャガイモで作られた国民食フィッシュ&チップスのヴィーガンバージョンである「ヴィッシュ&チップス」(Vish & Chips)を1度は試してみて下さい。
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - フムス
 - フィッシュ&チップス
@@ -128,18 +135,18 @@ author: mina
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 多分、世界で最高のインド料理。
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 スコーン，クロテッドクリーム，ジャムとティーポットで提供される紅茶のセットであるクリームティー。
 
 興味深いことに、この国のお茶はいつも牛乳と一緒です。
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304863
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2568114#7/42.2610/9.2972"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 We just received our brand new [semi-recumbent tandem bicycle]({{< link_to "bicycle" >}}) from the bike shop and we were looking forward to trying it as soon as possible.
 
 We had heard positive travel stories about Corsica from our mates, and at the time of this trip, we were staying in Marseille, which is one ferry away from the island.
@@ -18,32 +18,33 @@ It made sense to us that Corsica would make a superb playground as it would offe
 
 Notice that we chose to visit Corsica in winter as we thought there would be fewer tourists and the atmosphere would be more laid-back, while experiencing comfortable temperatures. We could confirm our intuition as we saw lots of touristic facilities, fortunately empty in this season.
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - Landscapes
 - Bike-friendly drivers
 - Favorable weather, especially in winter
 - Exotic culture, different from the French mainland
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - The traditional diet is mainly based on pork
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Bikepacking</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 14 days</li>
-<li><b>{{< translate distance >}}</b> 500 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Bikepacking
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 14 days
+- **{{< translate distance >}}** 500 km
+
+## {{< translate "in_details" >}}
 We took the ferry from Marseille to Bastia.
 It takes about 13 hours to cross the Mediterranean sea.
 The vessel was well equipped and we could have a comfortable travel.
@@ -51,17 +52,18 @@ There was a special place for parking our bicycle on board, where ropes and pads
 
 From Marseille, the staff insisted that we took a shuttle and stored the bicycle inside the luggage compartment. We didn't think it was a good idea but they left us with no choice. Actually, if you don't check-in at the pedestrian gates but go directly to the gates for the car-drivers, you'll be able to cycle your way directly until the ferry, and with much less hassle.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 As a French national, you just need to present your ID card or your passport.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 Mina had a long-stay visa for France which allowed her to stay inside the Schengen area. Corsica is part of France, i.e. part of the Schengen area.
 
 Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 4 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 4 >}}
 There is an official cycle route called "Grande Traversée 20", a.k.a GT20, that starts in "Cap Corse" (North cape) and that crosses the island through its length until Bonifacio.
 We intended to follow it at first, but had to re-route because of the harsh conditions that winter brings on the road.
 Instead, after arriving in Bastia by ferry, we cycled all around the "Cap Corse" following the coastline. We then came back to Bastia and headed South via the the highway, until Bonifacio.
@@ -77,23 +79,26 @@ Expect to climb up many hills on the way. We had to push our bike a few times as
 
 
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 5 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 5 >}}
 We only stayed one night in a budget hotel at the end of our trip in Ajaccio, so we don't have much to say here.
 We noticed on the way that many accommodations were closed because of the winter season though.
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 We did freedom camping almost everyday.
 Since it was winter, most of the shops were closed, and we would use the empty facilities as one-night shelters near the towns.
 Otherwise, we would camp on the beach or near ruins.
 The locals didn't mind much, but it might have been because it was winter and there wasn't any tourists around.
 
 Don't leave any food or rubbish outside your tent. Farm and wild animals are free-roaming and might damage your belongings while foraging, although they are not aggressive.
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 Corsica is well equipped. The facilities are clean and well maintained.
 You can find supermarkets pretty much everywhere except in the "Cap Corse", where the local shops where closed in winter.
 We noticed that pizzerias were popular even though we couldn't try them much in this season.
@@ -110,17 +115,19 @@ In this case, you can ask the locals and they will likely provide you water.
 We only had to stop at a bike shop once for checking our tyres' pressure. 
 You can find them at least in the main towns, which are never to far from your current location.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 5 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 5 >}}
 Most of the locals can speak French and the Corsican dialect.
 They were really helpful and will gladly tell you about the Corsican culture if requested.
 We asked them many times for tips and advice, such as the best restaurant or the tastiest local specialty around.
 
 As a proof of their friendliness, one night we were camping near the beach, a local brought us a blanket in case we would feel too cold. We thought it was a really thoughtful gesture from that person.
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 Corsican cuisine is heavily based on goat cheese (brocciu) and pork delicatessen. 
 It's not normally part of our diet, but Mina had the opportunity try homemade sausages and she enjoyed it.
 
@@ -135,11 +142,11 @@ Beverage-wise, the Corsican coffee tastes more similar to the Italian brew, than
 
 Last but no least, pizzas seem to also be part of their culture. There were heaps of pizzerias on the way, but we couldn't try any of them as they were closed for winter. We only ate them once we were in Ajaccio and they were top notch.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 Since pork-based delicatessen is the local specialty, it's not easy to find vegetarian food in the smaller shops.
 At the restaurant, pizzas seem to be the safer choice.
 Otherwise, pesto is also part of their specialties, although it contains brocciu, a ricotta-like cheese.
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Baguettes
 - Eggs
@@ -153,16 +160,16 @@ Otherwise, pesto is also part of their specialties, although it contains brocciu
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 Brocciu: local fresh sheep cheese made during autumns, winters and springs.
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Corsican chicken eggs.
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

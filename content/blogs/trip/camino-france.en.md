@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720303923
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#7/44.3/2.5338"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 After more than one year of long distance relationship forced by the covid restrictions, Mina and I decided to reunite in France. It was a good opportunity to achieve one of the items on our long bucket list: hiking the Route of St James from the official French starting point in Le-Puy-En-Velay, until Santiago de Compostela in Spain.
 
 In this article, we are focusing on the French part of this pilgrimage.
@@ -18,47 +18,49 @@ We are not religious people, but that worldwide famous pilgrimage was on our buc
 
 The walk through the dramatic landscapes, the farm animals, and the historical villages felt like a refreshing breeze to our lives, especially during the covid crisis.
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - Waymarks are easy to follow
 - Welcoming atmosphere towards the pilgrims
 - Cute and authentic villages
 - Freedom camping is super easy
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - On Sundays, everything is closed so plan your meals ahead
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Walking</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 39 days</li>
-<li><b>{{< translate distance >}}</b> 730 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Walking
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 39 days
+- **{{< translate distance >}}** 730 km
+
+## {{< translate "in_details" >}}
 We entered Europe by plane.
 At that time, we had to go through the covid checks. But travelling in France was fine.
 We then took a train from Lyon until Le Puy-En-Velay, the starting point.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 As a French national, you can of course stay as long as you want in France.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 Mina had a working holiday visa which allowed her to stay inside the Schengen area for one year.
 
 Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 It's a popular hike, so the path is well marked and well maintained.
 If you stick to the official route, you will find yourself zigzagging left and right, up and down.
 If you decide to take shortcuts, you might miss several charming sceneries though.
@@ -66,9 +68,10 @@ Regarding the crowd, it's only busy at the beginning and towards Saint-Jean-Pied
 Nevertheless, even though the path condition is rather good, we would recommend to wear proper hiking shoes for their durability and comfort.
 Mina first decided to use trail-running shoes, but regretted it as she had to changed them on the way. 
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 There are plenty of lovely accommodations along the way.
 It's better to book them as soon as possible to make sure you'll have a warm bed for the night.
 But, we would never make a reservation for a place to stay because we wanted to follow the flow of this trip.
@@ -78,16 +81,18 @@ Additionally, carrying a tent can be useful as many owners allow to pitch tent i
 Alternatively, you can stay at *donativos* in exchange of a donation left at your discretion. You cannot book them, though, and you will need to arrive early if you wish to find a vacant bed.
 
 In the end, we only have a limited experience of 2 nights on campgrounds and 1 night in a *donativo*.
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 On the French part of Camino de Compostela, freedom camping is a common practice.
 It's not unusual to share your spot with other campers. 
 The locals are used to us, freedom campers. Sometimes, you can even find an ideal spot for freedom camping that has a few facilities (benches, bathrooms, plugs...) in the vicinity of the footpath.
 If you'd like to pitch your tent on an empty field, make sure there won't be any farming activity (animals, vehicles...) the following morning.  
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 In the French part, you will cross villages and towns every 5~10km.
 Most of the time, you'll be able to find at least a drinking water tap and/or a tiny shop such as a bakery or a café.
 Otherwise, pharmacies and supermarkets can be found at the main checkpoints.
@@ -97,16 +102,18 @@ Additionally, there are many resting areas for the pilgrims on the way where you
 
 In short, it's easy to refill your supplies on the way. You won't need to carry much food. Just mind Sundays, as almost every business is closed.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 The locals are really welcoming and helpful with the pilgrims.
 Some of them were former pilgrims and can provide good tips for completing your journey.
 The road feels safe, but keep watching your stuff at all time, as you would anywhere in Europe.
 The locals won't shy out from a chat with you, even though their main language is French. Since most of them are quite aged, communicating in English will not always possible.
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 In general, we don't visit restaurants because in France, the service takes a long time and it's fairly common to stay 2 hours at the restaurant.
 We usually prefer to have a light meal at a café/bakery or prepare our own food.
 
@@ -118,11 +125,11 @@ Foraging fruits on the way is possible. Some fruit trees, such as apple and pear
 Otherwise, the countryside provides wild fruits and berries. But avoid foraging too close to a village since those plants are often considered as weed and may contain pesticides and other harmful chemicals.
 
 One last thing, we don't appreciate French coffee as it tastes too weak and watery for us.
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 French cuisine is not vegetarian. The countryside is no exception.
 If you decide to have a meal at a café or restaurant, the choice is limited to the tomatoes and mozzarella or 3-cheese paninis. These options are quite tasty thanks to the fancy cheese inside, though.
 Here, wheat and diary products are staple food.
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Oats
 - Baguettes
@@ -136,16 +143,16 @@ Here, wheat and diary products are staple food.
 - Melons
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 [Lectoure's](https://goo.gl/maps/KDRpq8CxQgm6ag9D6) melons
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 [Conques's](https://goo.gl/maps/av6svjhdUAqhVrmc6) chocolatine/pain au chocolat
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720305084
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2576498%2C2576499#8/51.671/-2.137"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 Visiter le Royaume-Uni était, au début, un choix de commodité.
 
 Nous devions trouver une destination pour passer notre lune de miel, Mina a dû réinitialiser son visa Schengen et nous ne pouvions nous permettre que deux semaines de vacances. Finalement, ce que le pays avait à offrir nous a pris au dépourvu et nous avons estimé que ces deux semaines étaient trop courtes.
@@ -20,60 +20,65 @@ La planification de ce voyage s'est avérée un peu plus difficile que prévu. E
 
 Dans l'ensemble, visiter ce pays a été une belle expérience. Nous sommes passés par un tas d'endroits, mais cet article se concentrera principalement sur le Cotswold Way.
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - De beaux paysages
 - Sentiers bien entretenus
 - Jolis villages
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - Rien en particulier
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Randonnée</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 7 jours</li>
-<li><b>{{< translate distance >}}</b> 164 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Randonnée
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 7 jours
+- **{{< translate distance >}}** 164 km
+
+## {{< translate "in_details" >}}
 Nous avons pris un vol low-cost de Marseille à l'aéroport de Stansted. Arrivés à l'aéroport britannique, nous avons dû passer par le système de porte automatique qui n'a duré que quelques minutes. Nous n'avons pas eu à fournir d'informations sur les raisons de notre voyage.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 Il vous suffit de présenter votre passeport aux portes et vous serez autorisés à rester six mois en tant que visiteurs.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 Comme ci-dessus, plus vous êtes également autorisé à étudier. Se rendre au Royaume-Uni est la solution la plus simple pour réinitialiser un visa Schengen.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 Le Royaume-Uni a des lois strictes qui protègent les sentiers publics. Par conséquent, les sentiers sont en excellent état et faciles à suivre. Il n'est pas nécessaire d'apporter d'équipement de randonnée spécifique et, bien que des cartes touristiques pour le Cotswold Way puissent être achetées, il est possible de suivre uniquement le balisage. Vous traverserez parfois des propriétés privées, mais comme c'est la loi, les propriétaires sont tenus de rendre les sentiers accessibles aux piétons. Ainsi, il est courant de traverser à pied des terres agricoles, des terrains de golf ou même des arrière-cours privées. Au début, on avait l'impression de traverser illégalement les propriétés privées, mais on s'y est vite habitué. En traversant les terrains de golf, faites attention aux joueurs et aux trajectoires des balles. Les joueurs sont sympas mais peuvent être un peu trop concentrés sur le jeu pour vous remarquer.
 
 Nous avons mis sept jours pour terminer le Cotswold Way de Chipping Campden à Bath, mais nous avons dû nous dépêcher. Nous vous recommandons de le faire en 10 jours pour une randonnée plus agréable.
 
 
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 Nous ne sommes restés qu'une nuit dans un hôtel vers la fin de notre promenade, nous n'avons donc pas grand-chose à dire ici. Nous avons remarqué qu'il n'y avait pas d'hébergement bon marché sur le chemin. Les quelques fois où nous avons essayé d'appeler pour réserver une chambre, nous n'avons pu joindre personne ou on nous a dit que l'entreprise avait fermé. On devine que le covid a fait des ravages au niveau du tourisme local.
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 Le bivouac sauvage semblait facile et sûr sur le Cotswold Way. Il n'y avait pas trop de monde, nous pouvions donc planter notre tente près du chemin principal à chaque fois. Nous n'avions pas l'impression de trop déranger les habitants ou les animaux. Bien que nous préférons généralement trouver un endroit abrité pour planter notre tente, nous n'en avons pas trouvé en cours de route. Heureusement, le temps était plutôt clément et sans fortes pluies.
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 4 >}}
+
+### {{< translate "facilities" >}}
+{{< score 4 >}}
 Chaque jour, nous croisions au moins un village où nous avons pu faire nos courses.
 
 Concernant l'approvisionnement en eau, il est possible de trouver des points d'eau pour les randonneurs, mais pas partout. Nous avons dû demander aux locaux de remplir nos bouteilles.
@@ -84,14 +89,16 @@ Pour de courtes pauses, le Cotswold Way propose de nombreuses tables de pique-ni
 
 Dernière chose, il n'est pas nécessaire d'avoir de l'argent liquide sur soi car la carte de crédit est acceptée un peu partout.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 5 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 5 >}}
 Les habitants étaient tout à fait sympathiques et parlent anglais, bien sûr ! Ils semblaient vraiment fiers de leurs régions respectives et partageaient volontiers des informations supplémentaires sur les environs. Les randonneurs sont les bienvenus et nous avons pu nous repérer facilement grâce à l'aide qui nous a été apportée.
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 Sur le Cotswold Way, nous avions principalement des repas légers que nous achetions à l'épicerie.
 
 Mais, pendant le reste de notre voyage, nous avons pu mieux découvrir la nourriture locale et c'était génial ! La cuisine anglaise correspondait à nos préférences en termes de saveurs et de goûts. La seule raison pour laquelle nous l'avons noté 4/5 est que nous ne pensons pas que ce que nous avions était sain.
@@ -101,11 +108,11 @@ Sinon, les restaurants offrent un excellent service avec une excellente cuisine 
 Dans l'ensemble, nous pensons que, par rapport à la France, le Royaume-Uni a une nourriture plus savoureuse pour des prix similaires.
 
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 5 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 5 >}}
 C'est une excellente nouvelle pour nous, les végétariens et végétaliens. Le pays est totalement inclusif concernant les différents régimes alimentaires existants. Il y a toujours au moins une option pour nous, même à la campagne. cette option est rendue visible au client grâce à des îcones sur le menu qui indiqueent si le plat conviend ou non à votre régime alimentaire.
 
 Mention spéciale pour le « Vish & Chips » qui est une version vegan du fish & chips national, à base de fleurs de bananier et de pommes de terre.
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Hoummous
 - Poisson et frites
@@ -120,16 +127,16 @@ Mention spéciale pour le « Vish & Chips » qui est une version vegan du fish &
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 Peut-être la meilleure cuisine indienne du monde.
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Thé servi dans une théière avec des scones, de la crème caillée et de la confiture. Fait intéressant, le thé doit toujours être pris avec du lait.
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

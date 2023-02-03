@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
 author: mina
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 この記事は、フランスから始まった巡礼の続編です。まだフランス編を読んでいない場合は、[こちら]({{< link_to "camino-france" >}})を先にどうぞ。
 
 ここでは、フランスのサン・ジャン・ピエ・ド・ポ－(Saint Jean Pied de Port)からスペインのフィステ－ラ(Fisterra)への旅に焦点を当てています。
@@ -28,56 +28,59 @@ author: mina
 
 Ultreïa! (ウルトレイア！)
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 4 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 4 >}}
+### {{< translate what_we_appreciate >}}
 
 - 世界中から集まった巡礼者
 - 巡礼者歓迎ムード
 - 清潔な施設
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - 14〜16時の間の全国的休憩時間(シエスタ)
 - 巡礼者のための水道が除去・断水されていた
 - 無断で私達の写真を撮り続ける他の巡礼者
 - この巡礼路はかなり観光化されている
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> 徒歩</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 41日間</li>
-<li><b>{{< translate distance >}}</b> 890 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** 徒歩
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 41日間
+- **{{< translate distance >}}** 890 km
+
+## {{< translate "in_details" >}}
 フランスとスペインの国境を越えるには、標高差約1,200mのピレネー山脈を登り降りしました。明確な境界線がなかったので、実際にいつ国境を通過したのかはわかりませんでした。スペイン内カミーノ最初の町、ロンセバレス(Roncesvalles)に到着した時、私達は初めてスペインに入国したことに気付きました。
 
 当時、スペイン入国者は新型コロナウイルスのチェックを国境付近で受ける決まりでしたが、この国境にはそれをコントロールする警察官が居ませんでした。
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 フランス国民として、もちろんスペインに好きなだけ滞在できます。
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 ワーキングホリデービザを持っていたので、シェンゲン圏に1年間滞在することができました。
 
 そうでなければ、日本のパスポート保持者はシェンゲン圏内に6ヶ月間で合計90日間ビザなし滞在可能。
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 道はよく整備され維持されています。フランスパートと比較して、特にサンティアゴに近づくにつれ、はるかに巡礼者が多く混んでいます。私達は、巡礼中に通過する町の経済が、主に巡礼者に依存していると感じました。また、スペインは領土が広く、各村間の距離が長いです。次の町まで、平均10〜15km歩くことを覚悟して下さい。
 
 天気に関して、最初のパートは暑くて乾燥していました。その後ガリシア(Galicia)に入ってからは、ほぼ毎日雨が降り続き風もありました。面白いことに、どちらも同じ天気・地理・ケルト文化を共有しているフランスのフィニステレ(Finisterre)に似ています。
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 宿泊施設は3回利用したのみなので、あまりこの項目に関する経験がありません。しかし、他の巡礼者によると、宿の予約はすぐに埋まるようです。そのため多くの巡礼者は、事前に旅の計画を綿密にし、スタートする時には、最終日まで既に宿の予約を全日していました。
 
 他には、ドナティーボ(寄付に基づく宿泊施設)または公営のアルベルゲ(巡礼宿)に滞在することもでき、こちらは事前予約は受け付けていません。そのため、確実にベッドを手に入れるには、シエスタ（だいたい14〜16時）の前にそこに着く必要があります。チェックイン時間の何時間も前に多くの巡礼者が宿の前に並んでいるのを、私達は何度も目撃しました。
@@ -85,17 +88,19 @@ Ultreïa! (ウルトレイア！)
 何にせよ、スペインの宿泊施設はどこも本当に清潔な施設が期待できます。
 
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 4 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 4 >}}
 野宿をする事はフランス国内ほど簡単ではなく、またやっている人も少なかったですが、できます。
 地元の人々はあまり私達を気にしていませんでしたが、フリーダムキャンパーを見かけるとは思っていなかったと思います。出来れば、村から少し離れた野宿スポットを見つけたほうがいいです。(宿オーナーはあまりいい顔はせず、自分の宿に泊まるよう営業してくる場合がある。)また、巡礼路付近にテントを張ると、日の出前にハイクを始める多くの巡礼者によって、目を覚ます可能性があります。基本的に彼らはそれほど騒がしくありませんが、明るいヘッドランプと規則的な足音が、あなたの睡眠を妨げる可能性があります。
 
 私達がこれからスペインで野宿をしようと考える人にすべきアドバイスは、テントを張る前に周辺のスプリンクラーをチェックすることです。スペイン人はガーデニングが本当に好きなようで、どこにでもスプリンクラー(飛行距離未知数)が設置されています。午前3時にテントが突然水で攻撃される経験を私達は何度か得ました。
  
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 4 >}}
+
+### {{< translate "facilities" >}}
+{{< score 4 >}}
 既に述べたとおり、各村間は平均10〜15km離れています。更に、通過する全ての村にお店やトイレ，水道，ベンチなどの公共施設があるわけではありません。
 
 しかし、これらの施設を見つけることができた時はいつでも、とても整った状態なのは良いことでした。ですが、シエスタのスケジュールに注意してください。公共トイレも例外ではありません。
@@ -107,27 +112,29 @@ Ultreïa! (ウルトレイア！)
 水道水を闇雲に探すよりも、地元の人に『水が必要です』(Necessito agua, por favor＝ネセシート アクア プレファボール) といって自分の水筒を渡すほうが簡単です。このフレーズがちゃんとしたスペイン語なのかは知りませんが、何度も通じました。
 
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 スペイン人は主にスペイン語を話します。私達は二人ともスペイン語を話せないので、最初の頃は少し大変でした。英語よりも、スペイン語に近いフランス語の単語を(ちょっとスペイン風発音にして)使いました。
 
 スペイン人はとても親切でフレンドリーですが、彼らのコミュニケーション方法は攻撃的だと感じるかもしれません。私達はこれに慣れるのに少し時間が必要でした。あなたがより大声で話すと、スペイン人は何故かあなたをより理解するでしょう。
 
 私達が気付いたもう1つの事は、特に19〜22時の間、スペイン人はかなり活動的だという点です。地元の人々は、この時間帯に長い散歩をしながら、私たち旅行者との会話を楽しみます。
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 3 >}}
+
+### {{< translate "food" >}}
+{{< score 3 >}}
 私の身体は何故か、スペイン産パプリカを消化できませんでした。パプリカはスペイン料理の中心的食材なので、地元の調理済み食品の約90%を避けなければなりませんでした。さらに、Fabはベジタリアンで、スペイン料理には肉や魚がたくさん含まれています。
 
 こんな私達に残された唯一の選択肢は、「ポテトオムレツ」(tortilla de patata＝トルティーヤ・デ・パタータ)でした。ほぼ毎日ランチはこれでした。もしあなたがこの国を訪れることに決めたら、地元の特産品を私達よりも楽しむことができることを願っています。
 
 オムレツ以外では、私達は安い価格でその土地の新鮮な果物や野菜を見つけることができ、特にスイカを堪能しました。
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 フランス同様、ベジタリアン食はスペイン文化の一部ではありません。ですが、私達は地元の農産物で簡単に食事を準備することができました。また、スペインのオリーブオイルは最高だということを言及させて下さい。
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - アロス(地元の米)
 - トマト
@@ -141,16 +148,16 @@ Ultreïa! (ウルトレイア！)
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 新鮮なスイカ
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 ホットチョコレートとチュロスのコンボ
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

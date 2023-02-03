@@ -10,7 +10,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302559
 author: fab
 ---
 <!-- ## {{< translate travel_story >}} -->
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 Nous avons décidé de visiter Taiwan parce qu'on s'est fait des amis taiwanais en Nouvelle-Zélande. Ils nous avait invités à explorer leur pays.
 
 Quand nous sommes arrivés, nous leur avons emprunté deux vélos et avons fait le tour du pays. Nous avons eu une superbe aventure grâce à eux. 
@@ -18,10 +18,11 @@ Quand nous sommes arrivés, nous leur avons emprunté deux vélos et avons fait 
 Nous avons découvert une belle culture, un peuple généreux, une cuisine fabuleuse et des paysages qui laissent sans voix.
 
 Taiwan restera dans nos coeurs pour toujours!
-{{< /collapsible >}}
-{{< collapsible "overall_feel" 2 5 >}}
 
-<h3>{{< translate what_we_appreciate >}}</h3>
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+
+### {{< translate what_we_appreciate >}}
 
 - Le pays est vraiment sûr
 - La nourriture
@@ -29,24 +30,24 @@ Taiwan restera dans nos coeurs pour toujours!
 - Le paysage est magnifique, surtout en montagnes
 - Pédaler est facile
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - La barrière de la langue parfois
 - Il fait chaud
 
-{{< /collapsible >}}
-<!-- <h2>{{< translate in_details >}}</h2> -->
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+<!-- <h2>{{< translate in_details >}}</h2> -->
+## {{< translate "in_details" >}}
+
+### {{< translate stats >}}
 <ul>
-<li><b>{{< translate way_of_travelling >}}</b> Vélos, autostop, randonnée</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 28 jours</li>
-<li><b>{{< translate distance >}}</b> 1000 km</li>
+- **{{< translate way_of_travelling >}}** Vélos, autostop, randonnée
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 28 jours
+- **{{< translate distance >}}** 1000 km
 </ul>
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+## {{< translate "in_details" >}}
 
 Taiwan étant une île, les seuls accès possibles sont :
 - par voie maritime
@@ -56,20 +57,21 @@ Nous sommes partis d'Okinawa pour arriver à Taipei. Nous n'avons pas eu d'autre
 
 Nous avons voyagé avec la compagnie Peach. Une très bon service pour une compagnie low-cost.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 
 Très facile! 
 
 La présentation d'un passeport valide et d'un billet allé-retour au poste de contrôle vous autorise à rester 90 jours.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 
 Idem pour les ressortissants japonais.
 
-{{< /collapsible >}}
 
-<!-- <h3>{{< translate road_condition >}} {{< score 5 >}}</h3> -->
-{{< collapsible "road_condition" 3 5 >}}
+
+<!-- ### {{< translate road_condition >}} {{< score 5 >}} -->
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 
 La route est excellente!
 
@@ -87,20 +89,22 @@ En plus du vélo, nous avons tenté l'autostop.
 
 La meilleurs approche est de leur demander directement si la situation le permet.
 
-{{< /collapsible >}}
 
-<!-- <h3>{{< translate accommodations >}} {{< score 4 >}}</h3> -->
-{{< collapsible "accommodations" 3 4 >}}
+
+<!-- ### {{< translate accommodations >}} {{< score 4 >}} -->
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 
 Comparé aux autre pays asiatiques, les prix sont au-dessus de la moyenne.
 
 Cependant, les hébergements sont toujours propres et le personnel est à votre écoute.
 
 Aussi, durant la basse saison, il est possible d'avoir quelque chose de très correct à un prix au rabais. La négociation est alors votre meilleur ami.
-{{< /collapsible>}}
 
-<!-- <h3>{{< translate freedom_camping >}} {{< score 4 >}}</h3> -->
-{{< collapsible "freedom_camping" 3 4 >}}
+
+<!-- ### {{< translate freedom_camping >}} {{< score 4 >}} -->
+### {{< translate "freedom_camping" >}}
+{{< score 4 >}}
 
 Taiwan est très urbain et les locaux ne sont pas habitués au bivouac.
 
@@ -110,10 +114,11 @@ Dans les endroits reculés, on bivouaque là où on peut trouver de quoi s'abrit
 
 La police ne se préocupe pas du tout des bivouaqueurs sauvages, mais il arrive qu'il viennet vérifier que vous n'êtes pas en danger. Il se peut qu'ils essayent de vous trouver un hébergement pour la nuit, et ils vous donneront à manger et des boissons chaudes.
 
-{{< /collapsible>}}
 
-<!-- <h3>{{< translate facilities >}} {{< score 5 >}}</h3> -->
-{{< collapsible "facilities" 3 5 >}}
+
+<!-- ### {{< translate facilities >}} {{< score 5 >}} -->
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 
 Taiwan est très bien équipée.
 
@@ -123,10 +128,11 @@ Pour les motards et les cyclistes, il n'y a aucun souci à se faire. Vous trouve
 
 Si vous rencontrez une quelconque difficulté, n'hésitez pas à visiter le commissariat local. Les policiers peuvent parler anglais et il vous apporteront toute l'aide nécessaire. Certains d'entre eux sont des stations de réparation de vélos officielles, et d'autres peuvent même héberger des voyageurs.  
 
-{{< /collapsible >}}
 
-<!-- <h3>{{< translate communication_with_the_locals >}} {{< score 4 >}}</h3> -->
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+<!-- ### {{< translate communication_with_the_locals >}} {{< score 4 >}} -->
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 
 Si vous pouvez parler ou lire le Chinois traditionnel, tout va bien. Sinon, ce n'est pas toujours facile, mais ce n'est pas non plus insurmontable.
 
@@ -143,10 +149,11 @@ Oubliez le français. Cette langue est complètement inutile dans cette partie d
 
 En général, les taiwanais sont vraiment patients et feront de leur mieux pour vous venir en aide. Ils n'hésitent pas à vous approcher pour être sûrs que tout va bien lorsque vous paraissez fatigués ou déroutés.
 
-{{< /collapsible >}}
 
-<!-- <h3>{{< translate food >}} {{< score 5 >}}</h3> -->
-{{< collapsible "food" 3 5 >}}
+
+<!-- ### {{< translate food >}} {{< score 5 >}} -->
+### {{< translate "food" >}}
+{{< score 5 >}}
 
 La nourriture est délicieuse et bon marché!
 
@@ -154,7 +161,7 @@ Chaque village a sa spécialité. Par exemple, nous avons visité le village de 
 
 Plus sérieusement, il y a accès à la nourriture partout. Échoppes, restaurants, marchés de nuit, supermarchés... Il n'y a pas à se soucier de manquer de nourriture.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 4 >}}
 
 Le végétarisme est une pratique plutôt religieuse à Taiwan. En ville, vous trouverez plusieurs échoppes qui vous serviront de la cuisine végétarienne traditionnelle.
 
@@ -162,7 +169,7 @@ Il y aussi une bonne poignée d'options végétariennes pour les brioches farcie
 
 Dans les campagnes, il se peut qu'il n'y ait pas de menu végétarien, mais vous pouvez demander un plat de légumes sautés avec un bol de riz.
 
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Du riz
 - Des raviolis
@@ -172,17 +179,17 @@ Dans les campagnes, il se peut qu'il n'y ait pas de menu végétarien, mais vous
 - Du bubble tea
 - Du beurre de cacahuètes
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 Les [bao zi de Keelung](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Les bento d'un restaurant trouvé par hasard dans la zone industrielle
-{{< /collapsible >}}
-{{< /collapsible >}}
 
-<h3>{{< translate top_5_locations >}}</h3>
+
+
+### {{< translate top_5_locations >}}
 
 |             |             |
 |-------------|-------------|

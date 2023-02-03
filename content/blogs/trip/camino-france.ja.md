@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720303923
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#7/44.3/2.5338"
 author: mina
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 新型コロナウイルスに伴う各国の入国規制により、不本意な1年以上の遠距離恋愛の後、私達はフランスで再会する決心をしました。これは、私達が長年やりたいと思っていた夢の１つ『フランスのル・ピュイ・アン・ヴァレ(Le-Puy-En-Velay)からスペインのサンティアゴ・デ・コンポステーラ(Santiago de Compostela)まで歩く』を実現させる良い機会でした。
 
 この記事では、フランス国内の巡礼路 ル・ピュイの道(Le Chemin du Puy)に焦点を当てています。
@@ -18,54 +18,57 @@ author: mina
 
 心を揺さぶる風景，動物たち，歴史的な村々を楽しみながら歩くことは、特にコロナ危機で世界が混沌としていた時期、私達の人生にさわやかな風がふくのを感じました。
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - マーク(目印)がしっかりされている
 - フレンドリーで平和な空気
 - 本当に人が生活している可愛い村
 - 野宿をすることはとても簡単
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - 日曜日は全てのお店が閉まっているので、事前に食事の計画をする必要がある
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> 徒歩</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 39日間</li>
-<li><b>{{< translate distance >}}</b> 730 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** 徒歩
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 39日間
+- **{{< translate distance >}}** 730 km
+
+## {{< translate "in_details" >}}
 私達は飛行機でヨーロッパに行きました。この時、新型コロナウイルスに関するチェック(ワクチンパスポート又は陰性証明書の提示)を受けなければなりませんでしたが、フランス国内旅行中にそういったコントロールはありませんでした。その後、リヨンからスタート地であるル・ピュイ・アン・ヴァレまで電車を利用しました。
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 フランス国民として、もちろんフランスに好きなだけ滞在可能
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 ワーキングホリデービザを持っていたので、シェンゲン圏に1年間滞在することができました。
 
 そうでなければ、日本のパスポート保持者はシェンゲン圏内に6ヶ月間で合計90日間ビザなし滞在可能
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 人気のあるハイキングルートなので、道はよくマーク・維持されています。公式ルートに従うと、左右、上下にかなりジグザグしていることに気づくでしょう。だからと言って近道することにした場合、いくつかの絶景を見逃すかもしれません。
 
 他の巡礼者に関しては、最初と最後のサン・ジャン・ピエ・ド・ポル(Saint-Jean-Pied-de-Port)付近50kmほどは特に多くいた印象です。それ以外の区間は他のハイカーも少なくのんびり歩きやすかったです。
 
 巡礼路の状態はかなり良いですが、耐久性と快適さのために適切なハイキングシューズ(又は登山靴)を履くことをお勧めします。私は最初、トレイルランニングシューズを使っていましたが、途中で交換しなければならなくなったので後悔しました。(500km程までは問題なかったです。)
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 道中、素敵な宿泊施設がたくさんあります。夜、確実に暖かいベッドで休みたい場合は、できるだけ早く宿を予約することをお勧めします。夏の巡礼ハイシーズンは、すぐ満室になるそうです。私達は旅の流れに身を任せたかったので、宿を事前に予約することはしませんでした。
 
 殆どの宿に、1泊約 €5 / 人で庭にテントを張るオプションがあったので、テントを持参していた私達には都合が良かったです。
@@ -74,13 +77,15 @@ author: mina
 
 結局、私達はキャンプ2泊、ドナティーボで1泊の限られた経験しかありません。
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 少なくともル・ピュイの道上では、野宿をする事は一般的です。あなたのキャンプサイトを他のキャンパーとシェアすることは珍しくありません。地元の人々は私たち、フリーダムキャンパーに慣れています。たまに、巡礼路の近くに東屋付ベンチ，トイレ，コンセントetcがある野宿に理想的な場所を見つけることもできます。空き地にテントを張りたい場合は、翌朝に農業活動(動物や専用車両など)がないことを確認したほうが安全です。
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 ル・ピュイの道では、5〜10kmごとに村や町を横断します。ほとんどの場合、少なくとも飲める水の蛇口やパン屋，カフェなどの小さなお店を見つけることができます。より規模の大きい町の場合、薬局やスーパーマーケットもあります。新鮮な食べ物を手に入れたい場合は、地元の市場(マルシェ)がおすすめですが、基本的に営業は午前中のみです。
 
 公衆トイレを見つけることは珍しくありませんが、トイレットペーパーとハンドソープを持参する必要があるでしょう。
@@ -90,15 +95,17 @@ author: mina
 要するに、途中で物資を補充するのは簡単です。あまり物を多く運ぶ必要はありませんが、ほぼ全てのお店が閉まる日曜日は注意して下さい。
 
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 地元の人々は巡礼者を本当に歓迎し、とても親切です。その内何名かは巡礼経験者なので、あなたの旅を完了するための良いヒントをくれるでしょう。巡礼路は安全だと感じますが、ヨーロッパのどこでもそうであるように、常に自分の持ち物には気を配ってください。
 
 地元の人々は、主な言語がフランス語であるにもかかわらず、あなたと話すことをためらいません。彼らのほとんどは高齢なので、英語でのコミュニケーションは難しいです。
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 一般的に、フランスではサービスに時間がかかり、例えばランチのためにレストランに2時間以上滞在するのは普通です。そのため、私達はカフェかパン屋で軽食をとるか、自分達で食事を準備することを好みます。
 
 フランスには素晴らしい地元の農産物・製品があります。これは、地域のチーズ,ワイン,季節の果物等を試す良い機会です。フランス人はとてもフレンドリーなので、おそらくこれらの特産品をあなたとシェアするでしょう。夏の典型的なフランス人巡礼者の軽食は、ワイン，ハム，フランスパン，チーズ、メロン1玉です。
@@ -107,9 +114,9 @@ author: mina
 
 最後に、フランスのコーヒーは薄く水っぽいので、私達はカフェを楽しめませんでした。
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 フランス料理はベジタリアンとはかけ離れています。田舎も例外ではありません。カフェやレストランで食事をする場合、選択肢はトマトとモッツァレラチーズ又は三種のチーズパニーニのみです。しかし、これらのオプションは、地元の高品質なチーズのおかげでとても美味しいです。ここでは、小麦と乳製品が主食です。
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - オーツ
 - フランスパン
@@ -123,16 +130,16 @@ author: mina
 - メロン
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 [レクトー ](https://goo.gl/maps/KDRpq8CxQgm6ag9D6) のメロン
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 [コンク](https://goo.gl/maps/av6svjhdUAqhVrmc6) のショコラティン(パン・オ・ショコラ)
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

@@ -9,7 +9,7 @@ flickr_album: https://www.flickr.com/photos/196589873@N03/albums/721777203025599
 map: //umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#6/23.906/119.795
 author: mina
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 ニュージーランド滞在中に沢山の台湾人の友人ができ、ありがたいことに私達を招待してくれたので、台湾を旅することにしました。
 
 台湾到着後、友人から自転車を２台借り、全国サイクリングツアーを開始！お陰様で、私達は素晴らし冒険をすることができました。
@@ -17,11 +17,12 @@ author: mina
 多様な文化，寛大な国民性，バラエティ富かな台湾グルメ，風光明媚な風景などなど。
 
 台湾は、私達の心の中で永遠に輝き続けます。
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
 
-<h3>{{< translate what_we_appreciate >}}</h3>
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+
+### {{< translate what_we_appreciate >}}
 
 * 安心
 * 安全
@@ -29,24 +30,24 @@ author: mina
 * 優しくて親切な人々
 * 美しい風景(特に山岳部は絶景！)
 
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 * 言語の壁が少しある
 * 高い気温
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
+
+### {{< translate stats >}}
 <ul>
-<li><b>{{< translate way_of_travelling >}}</b> 主に自転車</li>
-<li><b>{{< translate starting_date >}} </b>2020年2月５日</li>
-<li><b>{{< translate duration >}}</b>  31日間</li>
-<li><b>{{< translate distance >}}</b> 1,290km</li>
+- **{{< translate way_of_travelling >}}** 主に自転車
+- **{{< translate starting_date >}}** 2020年2月５日
+- **{{< translate duration >}}**  31日間
+- **{{< translate distance >}}** 1,290km
 </ul>
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+## {{< translate "in_details" >}}
 
 台湾は島国のため、以下の方法でしか入国できません。
 
@@ -55,15 +56,16 @@ author: mina
 
 日本からは飛行機を使う他手段が無かったので、沖縄から台北まで、LCCにも関わらず良いサービスを提供してくれるPeach(ピーチ)を利用しました。
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 有効なパスポートと帰りのチケットを提示するのみ。ビザなしで90日間の滞在が許可されました。
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 ビザなしで90日滞在可。パスポートを提示するのみ。
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 本当にサイクリングしやすい道です！
 
 私達は、最北端や最南端といったいくつかの地域と山岳部(自転車乗りとは端へ上へと行きたがる者……。)も探索したかったので完走はしませんでしたが、環島１号線(環島：ワンダ)と呼ばれる台湾を一周するサイクリングロードがあります。道中ほとんどが自転車又は二輪車の専用道路なので、ストレスのない安全な走行が可能です。
@@ -74,18 +76,20 @@ author: mina
 
 自転車で台湾を一周した後、ヒッチハイク旅も試してみました。台湾の人はヒッチハイクという文化に慣れていない様で、私達が道端に立っていると、何か助けが必要だと思い車の速度を落として様子を伺ったり、車から声をかけてくださいました。車を捕まえるために、目的地を段ボール等に大きく漢字で書き示すと良いです。もし可能なら、地元の人に自ら話しかけ交渉するのが一番だと思います。
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 安宿の価格帯は、1泊1部屋800〜1,000NTD ( 3,500〜4,500円 ) くらいでした。私達は2人なので、ホステル(バックパッカー)に泊まるよりホテルに泊まった方が安かったです。
 
 もしも近くに宿泊施設がない場合、お寺の責任者や地元の人に尋ねて、お寺に宿泊することも可能です。ただ、こういった宿泊施設は基本的には、巡礼をしている人向けで、観光客用の宿ではないことを覚えておいてください。
 
 結果的に、私達は台湾滞在中に8日間しか宿泊施設を利用しなかったので、この項目に関してあまり経験値がありません。
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 4 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 4 >}}
 
 台湾はとても都会的で、野宿する人はあまりいないようです。
 
@@ -95,9 +99,10 @@ author: mina
 
 警察官も私達がどんな変な場所にテントを張っていようと、見つけたところで特段気にする様子はありませんでした。何か怪しいと思ったらチェックするか、宿泊施設を紹介するか、食べ物や温かい飲み物を提供してくれることさえあります。
 
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 
 とても整備されています。
 
@@ -113,9 +118,10 @@ author: mina
 
 観光案内所のスタッフは英語を喋れる人が居ないので、もし何かローカルな情報が欲しい場合、交番(警察署)に行くことをおすすめします。警察官は英語が話せ、私達の質問に答えてくれるだけでなく、飲物やお菓子も提供してくれました。環島１号線沿いにあるいくつかの交番は公式のバイクステーションです。
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 
 中国語を話せるか読める場合、苦労しません。私達は中国語を知りませんが、漢字からなんとなく意味を想像し、地元の人と筆談も交えてコミュニケーションをとりました。
 
@@ -129,9 +135,10 @@ author: mina
 
 基本的に、台湾の人はとても辛抱強く、私達が何を伝えたいのか理解しようとしてくれます。彼らは、旅人が疲れている様に見えたり困っている様に見えたら、決して放っておきません。
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 5 >}}
+
+### {{< translate "food" >}}
+{{< score 5 >}}
 
 本当に美味しかった！
 
@@ -139,14 +146,14 @@ author: mina
 
 もう少し実用的な話をすると、商店，レストラン，ナイトマーケット，スーパーやコンビニなど、いたる所で食べ物を見つけられるので、サイクリングロードに沿って旅をする場合、食べ物の心配をする必要はありません。山岳部はあまり栄えてないので、商店やレストランがあっても、営業時間がまちまちなので、数日分の食料を運んだほうが安全だと思います。
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 4 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 4 >}}
 宗教的な理由で、ベジタリアン食は台湾で昔からある文化です。街で『素食』と書かれているレストランや屋台がそれです。
 
 普通のお店でも、餃子や肉まんのベジタリアンオプションを簡単に見つける事ができます。
 
 田舎だとそういった食事を見つけにくいですが、お店の人に自分はベジタリアンだと伝えると、嫌な顔せず対応してくれます。
 
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 * お米
 * 麺類
@@ -157,18 +164,18 @@ author: mina
 * タピオカティ
 * ピーナッツバター
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 [基隆で偶然見つけた肉まん屋さん](https://goo.gl/maps/sxUQzr7ZK7NveCEK6)
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 工業地帯で偶然みつけたお店の、信じられない美味しさとボリュームの定食！ですが、地図上に存在していないので、残念なことにリンクを載せられません。。
 
-{{< /collapsible >}}
-{{< /collapsible >}}
 
-<h3>{{< translate top_5_locations >}}</h3>
+
+
+### {{< translate top_5_locations >}}
 
 |                                                   |                  |
 | ------------------------------------------------- | ---------------- |

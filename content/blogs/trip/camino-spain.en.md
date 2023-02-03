@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 This article is the sequel of the pilgrimage that started in France. 
 If you haven't read it yet, you can check it in details [here >>]({{< link_to "camino-france" >}}).
 
@@ -32,51 +32,53 @@ The way has been paved by those who achieved it before, and we wish you to follo
 
 Ultreïa!
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 4 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 4 >}}
+### {{< translate what_we_appreciate >}}
 
 - The pilgrims came from all over the world
 - Welcoming atmosphere towards the pilgrims
 - Clean facilities
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - National break time between 14:00 and 16:00, called siesta
 - Public water taps for the pilgrims were removed or cut off
 - Foreign pilgrims taking pictures of us without asking for our permission
 - The Spanish part felt much more touristic 
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> Walking</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 41 days</li>
-<li><b>{{< translate distance >}}</b> 890 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}** Walking
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 41 days
+- **{{< translate distance >}}** 890 km
+
+## {{< translate "in_details" >}}
 Crossing the border between France and Spain consisted in climbing up and down the Pyrenees.
 There wasn't any clear demarcation, so we didn't know exactly when we actually passed the official border.
 We only realized it as we entered Roncevalles, the first town on the Spanish Camino.
 
 At that time, we were supposed to get tested for the Covid, but there was not any controllers around the border.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 As a French national, you can of course stay as long as you want in Spain.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 Mina had a working holiday visa which allowed her to stay inside the Schengen area for one year.
 
 Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 The road is still well-maintained.
 Compared to the French part, it's way busier, especially as you approach Santiago.
 We could feel on our way that the towns' economy relied mainly on the pilgrims.
@@ -88,9 +90,10 @@ From there, it was rainy and windy most of the time.
 
 Funny thing is, it resembles the French Finisterre as both share the same weather, same geography and same Celtic culture.
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 4 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 4 >}}
 We have little experience as we only stayed at normal accommodations three times.
 But according to the other pilgrims, most of them are full-booked quickly. 
 They had to plan their journey ahead, and make reservations for every day.
@@ -102,9 +105,10 @@ We could witness many pilgrims queuing many hours before the check-in time.
 Anyway, you can expect really clean facilities wherever you decide to stay in Spain.
 
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 4 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 4 >}}
 Freedom camping is not as easy and popular as it was in France, but it is still possible to do it.
 Even though the locals didn't really care much, they didn't expect to see freedom campers either.
 We would try to find a good spot a little bit further from the villages if possible.
@@ -113,9 +117,10 @@ In general, they are not noisy, but they would use bright head torches and can p
 
 Another tip we should give you is to mind the sprinklers. The Spanish seem to really enjoy gardening, and they tend to use them everywhere. We got up a few times because of our tent getting suddenly wet at 3:00 AM.
  
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 4 >}}
+
+### {{< translate "facilities" >}}
+{{< score 4 >}}
 As we mentioned earlier, we had to walk longer distances between each village.
 Additionally, not every village had shops or public facilities, such as toilets, water taps or benches...
 
@@ -129,9 +134,10 @@ Regarding the drinking water, it was actually difficult to access it. It seems t
 Otherwise, it's easier to ask the locals to refill your bottles with the following sentence: "Necessito agua, por favor". To all Spanish speakers, please forgive us our mispronunciation.
 
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 4 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 4 >}}
 Spanish mainly speak Spanish.
 We both cannot speak Spanish so it was a little bit difficult at first.
 I had to use French words as it sounds more similar to Spanish ears.
@@ -141,9 +147,10 @@ If you speak loudly, they will understand you better, somehow.
 
 Something we noticed is that Spanish are really active people, especially between 7:00 PM and 10:00 PM. The locals will happily chat with you while doing their long walks within this time frame.
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 3 >}}
+
+### {{< translate "food" >}}
+{{< score 3 >}}
 Mina had some trouble digesting the Spanish paprika.
 Since it is a central ingredient in the Spanish cuisine, we had to avoid 90% of the local prepared food.
 Plus, I'm vegetarian and the Spanish dishes include a lot of meat and fishes.
@@ -155,11 +162,11 @@ Hopefully, if you decide to visit this country, you will be able to enjoy the lo
 Otherwise, we could find many fresh fruits and vegetables for a bargain.
 We especially enjoyed the watermelons.
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 Like in France, the vegetarian diet is not part of the Spanish culture. 
 However, we could prepare our own meals easily with the local produces.
 Special mention to the local olive oil that was the best one we've ever had so far. 
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Arroz (local rice)
 - Tomatoes
@@ -173,16 +180,16 @@ Special mention to the local olive oil that was the best one we've ever had so f
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 Fresh Watermelons
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Hot chocolate with churros
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |

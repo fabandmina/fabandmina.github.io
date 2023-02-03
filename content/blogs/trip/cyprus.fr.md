@@ -9,7 +9,7 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720305588
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2568117#8/35.0615/33.2007"
 author: fab
 ---
-{{< collapsible "travel_story" 2 >}}
+## {{< translate "travel_story" >}}
 Celui-ci était un court voyage dans la région méditerranéenne. Nous ne pouvions nous permettre que 8 jours de voyage et nous voulions profiter d'une destination relaxante avec un temps chaud, avant l'arrivée de l'hiver.
 
 Nous avons choisi Chypre car l'île était facile d'accès depuis Marseille, notre emplacement actuel.
@@ -17,10 +17,11 @@ Nous avons choisi Chypre car l'île était facile d'accès depuis Marseille, not
 Notre plan comprenait quelques jours de randonnée et un peu de visites dans les grandes villes.
 
 Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magnifiques à la cuisine locale, rien ne nous a déçu. A un moment donné, on a même considéré Chypre comme potentiel pied-à-terre en Europe.
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - La culture du café
 - Climat confortable
@@ -28,38 +29,39 @@ Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magn
 - Nourriture délicieuse
 - Montagnes et bords de mer
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - C'était trop court
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
+
+### {{< translate stats >}}
 <ul>
-<li><b>{{< translate way_of_travelling >}}</b> Randonnée et transports publics</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 8 jours</li>
-<li><b>{{< translate distance >}}</b> 30 km (randonnée)</li>
+- **{{< translate way_of_travelling >}}** Randonnée et transports publics
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}** 8 jours
+- **{{< translate distance >}}** 30 km (randonnée)
 </ul>
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+## {{< translate "in_details" >}}
 Nous avons pris un vol direct de Marseille, France, à Paphos, Chypre.
 
 Même si Chypre ne fait pas encore partie de l'espace Schengen, ce n'est pas différent que de voyager dans n'importe quel autre pays européen, tant que votre port d'arrivée se trouve dans la partie sud.
 
 Chypre est également tristement célèbre pour sa Ligne verte, une frontière physique qui divise le pays en deux pour des raisons historiques. Pratiquement, il n'est pas difficile de la traverser à pied, mais l'endroit le plus facile pour le faire est à Nicosie. La seule exigence est un passeport valide.
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 En tant que ressortissant français, il vous suffit de présenter votre carte d'identité ou votre passeport pour entrer dans la partie Sud. Mais si vous voulez traverser la *ligne verte*, vous devez apporter votre passeport.
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 Les détenteurs de passeports japonais peuvent rester 3 mois en tant que visiteurs.
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 5 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 5 >}}
 Nous n'avons pas parcouru de longues distance à pied et nous n'avons utilisé les transports en commun que pour faire la liaison entre les différentes villes. Le peu que nous avons vécu était satisfaisant.
 
 Nous avons parcouru les chemins suivants :
@@ -73,19 +75,22 @@ Ils étaient tous correctement marqués et bien entretenus.
 
 Entre les villes, nous avons pris différents bus. Ils n'étaient pas trop chers et desservaient plusieurs villes. La principale difficulté est d'obtenir les horaires de départs et arrivées à jour. Nous vous recommandons de vous renseigner directement auprès de l'office du tourisme ou de la compagnie de bus directement. Aussi, prévoyez d'arriver un peu en avance à l'arrêt, car les bus se remplissent vite et vous ne pouvez pas faire de réservation. De plus, les chauffeurs ont tendance à suivre très précisément les horaires.
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 5 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 5 >}}
 Nous avons visité Chypre en novembre, hors saison. Par conséquent, nous avons pu trouver des hôtels vraiment abordables avec de bonnes installations. Mais on sent que dans le nord de Nicosie les hôtels étaient de moins bonne qualité pour le même prix qu'à Paphos par exemple.
 
 Au total, nous ne sommes restés que deux nuits dans des hôtels, notre avis est donc basé sur une expérience limitée.
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 C'était facile de faire du bivouac en novembre. L'endroit est vraiment calme et nous avons planté notre tente sur la plage déserte ou dans des endroits reculés. Bien sûr, il faisait un peu froid en montagne, mais au niveau de la mer, c'était agréable.
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 Bon en général, également propre et bien entretenu.
 
 Nous avons trouvé tout ce que nous trouverions dans n'importe quel pays européen, notamment :
@@ -99,15 +104,17 @@ Nous avons trouvé tout ce que nous trouverions dans n'importe quel pays europé
 
 Mention spéciale au personnel des offices du tourisme qui nous ont fourni d'excellentes informations et des cartes détaillées pour explorer le pays.
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 5 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 5 >}}
 Dans la partie sud, presque tout le monde peut parler un anglais excellent. Dans le Nord, l'anglais n'était cependant pas aussi répandu. Heureusement, Mina parlait un peu le turc.
 
 Quoi qu'il en soit, dans les deux cas, les locaux vous accueilleront chaleureusement et essaieront de faire de leur mieux pour faciliter la communication.
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 5 >}}
+
+### {{< translate "food" >}}
+{{< score 5 >}}
 Le régime alimentaire local est 100% méditerranéen, bien sûr, et il correspond parfaitement à nos goûts !
 
 Dans les supermarchés, nous avons trouvé des tomates et des concombres locaux, et dans les arbres, nous avons trouvé des citrons.
@@ -123,9 +130,9 @@ Enfin et surtout, Chypre est également connue sous le nom de "l'île du café",
 - Freddo Espresso : expresso mélangé avec de la glace
 - Freddo Capuccino : identique à la version expresso mais avec du lait fouetté
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 5 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 5 >}}
 C'est un paradis végétarien ! Le régime alimentaire traditionnel est pauvre en viande. De plus, chaque magasin aura plusieurs options à choisir. Tout a un goût frais et délicieux.
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - Gyros (kebab)
 - Hummus
@@ -140,16 +147,16 @@ C'est un paradis végétarien ! Le régime alimentaire traditionnel est pauvre e
 
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 [Café chypriote](https://www.gcharalambous.com/).
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 Frappé sans glace et sans sucre. Normalement, Mina n'aime pas le café instantané, mais elle a plus apprécié cette version que le Freddo.
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |
