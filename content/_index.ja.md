@@ -20,10 +20,8 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 
 
 ## Who are Fab and Mina?
-私達は、旅をしながら暮らしている夫婦です。
-ニュージーランドで出会って以来、一緒に色んな国を訪れています。人力移動での旅行が私達にとっては面白いので、ゆっくりのんびり旅しています。好奇心・冒険心旺盛な2人ですが、1番好きなことは新しい食べ物に出会うことです！
+{{< bio portrait="https://live.staticflickr.com/65535/52471245870_197a3f957a_c.jpg" name="fab_mina" bio="about_fab_mina">}}
 
-**詳しいプロフィールを[見る >>]({{< link_to "about" >}})**
 
 
 {{< add_map >}}

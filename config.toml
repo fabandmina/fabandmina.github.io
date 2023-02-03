@@ -152,7 +152,8 @@ defaultContentLanguage = 'en'
     [params.theme.light]
       banner = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_light.gif"
       color_font_default = "#555"
-      color_body = "#f7ead3"
+      # color_body = "#f7ead3"
+      color_body = "#FFF8EB"
       color_link = "#2525AC"
       color_hr = "gray"
       color_js_toggle = ""
@@ -187,7 +188,8 @@ defaultContentLanguage = 'en'
     [params.theme.dark] 
       banner = "https://media.githubusercontent.com/media/fabandmina/piskel-projects/main/fabandmina/render/fabandmina_banner_dark.gif"
       color_font_default = "#f5f5f5"
-      color_body = "#1A1919"
+      # color_body = "#1A1919"
+      color_body = "#2C2C2C"
       color_link = "#8288ce"
       color_hr = "gray"
       color_js_toggle = "#4e5070"

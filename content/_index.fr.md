@@ -18,13 +18,8 @@ Cliquez [ici >>]({{< link_to "wish_eurasia" >}}) pour en savoir plus.
 {{< last-article >}}
 
 ## Qui sont Fab et Mina ?
-{{< portrait >}}
-Nous sommes un couple marié qui a décidé de faire du voyage un mode de vie. 
-Nous nous sommes rencontrés en Nouvelle-Zélande et avons visité quelques pays depuis. 
-Nous utilisons principalement des moyens de transports lents. Cela rend nos excursions plus fun et intéressantes.
-Nous sommes curieux et aventureux, mais ce que nous aimons par dessus tout est faire de nouvelles expériences culinaires !
+{{< bio portrait="https://live.staticflickr.com/65535/52471245870_197a3f957a_c.jpg" name="fab_mina" bio="about_fab_mina">}}
 
-**Pour mieux nous connaître, c'est [ici >>]({{< link_to "about" >}})**
 
 
 {{< add_map >}}
