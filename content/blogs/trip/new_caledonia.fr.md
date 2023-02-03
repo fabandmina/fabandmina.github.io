@@ -56,8 +56,7 @@ Nous ne prétendons pas être parfait non plus, mais nous croyons que nôtre fa�
 - **{{< translate duration >}}** 23 jours
 - **{{< translate distance >}}** 1,250 km
 
-## {{< translate "in_details" >}}
-
+### {{< translate "crossing_the_border" >}}
 On ne peut qu'entrer en Nouvelle-Calédonie par avion. Cela peut être cher étant donné que l'île est éloignée de la plupart des continents.
 
 #### {{< translate fab >}} 🇫🇷

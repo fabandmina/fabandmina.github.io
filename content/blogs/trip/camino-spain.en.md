@@ -60,8 +60,7 @@ Ultreïa!
 - **{{< translate duration >}}** 41 days
 - **{{< translate distance >}}** 890 km
 
-## {{< translate "in_details" >}}
-Crossing the border between France and Spain consisted in climbing up and down the Pyrenees.
+### {{< translate "crossing_the_border" >}}Crossing the border between France and Spain consisted in climbing up and down the Pyrenees.
 There wasn't any clear demarcation, so we didn't know exactly when we actually passed the official border.
 We only realized it as we entered Roncevalles, the first town on the Spanish Camino.
 

@@ -47,8 +47,7 @@ author: mina
 - **{{< translate distance >}}** 1,290km
 </ul>
 
-## {{< translate "in_details" >}}
-
+### {{< translate "crossing_the_border" >}}
 台湾は島国のため、以下の方法でしか入国できません。
 
 * 船 ( フェリー )

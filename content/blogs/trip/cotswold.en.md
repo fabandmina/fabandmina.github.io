@@ -50,8 +50,7 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 - **{{< translate duration >}}** 7 days
 - **{{< translate distance >}}** 164 km
 
-## {{< translate "in_details" >}}
-We took a low-cost flight from Marseille to Stansted Airport.
+### {{< translate "crossing_the_border" >}}We took a low-cost flight from Marseille to Stansted Airport.
 Arrived at the British airport, we had to pass through the automatic gate system which was only a matter of a few minutes.
 We didn't have to provide any information about the reasons of our trip.
 

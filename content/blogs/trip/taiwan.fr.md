@@ -47,8 +47,7 @@ Taiwan restera dans nos coeurs pour toujours!
 - **{{< translate distance >}}** 1000 km
 </ul>
 
-## {{< translate "in_details" >}}
-
+### {{< translate "crossing_the_border" >}}
 Taiwan étant une île, les seuls accès possibles sont :
 - par voie maritime
 - par avion

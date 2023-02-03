@@ -45,8 +45,7 @@ Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magn
 - **{{< translate distance >}}** 30 km (randonnée)
 </ul>
 
-## {{< translate "in_details" >}}
-Nous avons pris un vol direct de Marseille, France, à Paphos, Chypre.
+### {{< translate "crossing_the_border" >}}Nous avons pris un vol direct de Marseille, France, à Paphos, Chypre.
 
 Même si Chypre ne fait pas encore partie de l'espace Schengen, ce n'est pas différent que de voyager dans n'importe quel autre pays européen, tant que votre port d'arrivée se trouve dans la partie sud.
 

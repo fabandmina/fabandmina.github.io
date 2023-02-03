@@ -47,8 +47,7 @@ At some point, we even considered Cyprus as a pied-à-terre in Europe.
 - **{{< translate distance >}}** 30 km (hiking)
 </ul>
 
-## {{< translate "in_details" >}}
-We took a direct flight from Marseille, France, to Paphos, Cyprus.
+### {{< translate "crossing_the_border" >}}We took a direct flight from Marseille, France, to Paphos, Cyprus.
 
 Even though Cyprus is not yet part of the Schengen area, it's not any different from travelling to any other European country, as long as your arrival port is inside the South part.
 

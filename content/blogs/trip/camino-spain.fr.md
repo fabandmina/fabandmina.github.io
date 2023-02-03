@@ -54,8 +54,7 @@ Ultreïa !
 - **{{< translate duration >}}** 41 jours
 - **{{< translate distance >}}** 890 km
 
-## {{< translate "in_details" >}}
-
+### {{< translate "crossing_the_border" >}}
 Franchir la frontière entre la France et l'Espagne consistait à monter et descendre les Pyrénées. Il n'y avait pas de démarcation claire, donc nous ne pouvons dire avec certitude quand nous avons réellement passé la frontière officielle. Nous ne l'avons réalisé qu'à l'entrée de Roncevaux, la première ville du Camino espagnol.
 
 A cette époque, nous étions censés nous faire tester pour le Covid, mais il n'y avait pas de contrôleurs auxalentours de la frontière.

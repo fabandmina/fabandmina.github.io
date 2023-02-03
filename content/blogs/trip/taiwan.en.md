@@ -46,8 +46,7 @@ Taiwan is forever in our hearts!
 - **{{< translate distance >}}** 1290 km
 </ul>
 
-## {{< translate "in_details" >}}
-
+### {{< translate "crossing_the_border" >}}
 Since Taiwan is an island, the only possible ways to enter are:
 - by boat
 - by taking a flight
