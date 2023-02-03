@@ -39,12 +39,12 @@ Taiwan is forever in our hearts!
 ## {{< translate "in_details" >}}
 
 #### {{< translate stats >}}
-<ul>
+
 - **{{< translate way_of_travelling >}}** Mainly bicycle
 - **{{< translate starting_date >}}** {{< article_date >}}
 - **{{< translate duration >}}**  31 days
 - **{{< translate distance >}}** 1290 km
-</ul>
+
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}

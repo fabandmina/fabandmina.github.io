@@ -40,12 +40,12 @@ Taiwan restera dans nos coeurs pour toujours!
 ## {{< translate "in_details" >}}
 
 #### {{< translate stats >}}
-<ul>
+
 - **{{< translate way_of_travelling >}}** Vélos, autostop, randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 28 jours
 - **{{< translate distance >}}** 1000 km
-</ul>
+
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}

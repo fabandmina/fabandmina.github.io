@@ -40,12 +40,12 @@ author: mina
 ## {{< translate "in_details" >}}
 
 #### {{< translate stats >}}
-<ul>
+
 - **{{< translate way_of_travelling >}}** 主に自転車
 - **{{< translate starting_date >}}** 2020年2月５日
 - **{{< translate duration >}}**  31日間
 - **{{< translate distance >}}** 1,290km
-</ul>
+
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
