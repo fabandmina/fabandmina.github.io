@@ -1,0 +1,40 @@
+<div id="toc-container">
+<div id="mascott">
+    <img src="{{ $.Site.Params.avatar_fabandmina }}" alt="{{ i18n "fab_mina" }}">
+</div>
+<div id="toc">{{ .Page.TableOfContents}}</div>
+</div>
+
+<style>
+    #toc-container {
+        display: flex;
+    }
+    #mascott {
+        display: none;
+        width: 50%;
+        align-content: flex-start;
+        margin-top: auto;
+    }
+    #toc {
+        padding: 10px;
+        background-color: rgba(255, 255, 255, .5);
+        border: solid 1.5px {{ .Site.Params.theme.light.color_overlay_font }};
+        padding: 20px;
+        border-radius: 10px;
+    }
+    #toc ul, #toc li {
+        display: block;
+    }
+    #toc li {
+        font-weight: bold;
+        padding: 5px;
+    }
+    #toc li li {
+        font-weight: normal;
+    }
+    @media only screen and (max-width: 830px) {
+        #toc {
+        width: 100%;
+        }
+    }
+</style>

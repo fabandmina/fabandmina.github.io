@@ -9,7 +9,8 @@ flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304863
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2568114#7/42.2610/9.2972"
 author: mina
 ---
-{{< collapsible "travel_story" 2 >}}
+{{< toc >}}
+## {{< translate "travel_story" >}} 
 私達は、注文していた[セミリカンベントタンデム自転車]({{< link_to "bicycle" >}})を自転車屋からちょうど受け取ったばかりで、できるだけ早く試してみるのを楽しみにしていました。
 
 多くの友人からコルシカ島についての良い旅行話を聞いていましたし、この旅行の時点で、私達はコルシカ島からフェリーが毎日運航している街、マルセイユに住んでいました。
@@ -20,32 +21,34 @@ author: mina
 結果、ローシーズンは閉鎖している観光施設(ホテル，キャンプ場，レストラン,観光案内所etc.)を道中そこかしこに発見したので、私達の予想は正しかったと確認することができました。
 
 
-{{< /collapsible >}}
 
-{{< collapsible "overall_feel" 2 5 >}}
-<h3>{{< translate what_we_appreciate >}}</h3>
+
+## {{< translate "overall_feel" >}} 
+{{< score 5 >}}
+### {{< translate what_we_appreciate >}}
 
 - 圧倒的なスケールの自然
 - 自転車に優しいドライバー
 - 快適な気候
 - フランス本土とは異なるエキゾチックな文化
   
-<h3>{{< translate what_we_dislike >}}</h3>
+### {{< translate what_we_dislike >}}
 
 - 伝統的な食事は主に豚肉を使う点
 
-{{< /collapsible >}}
 
-{{< collapsible "in_details" 2 >}}
 
-<h3>{{< translate stats >}}</h3>
+## {{< translate "in_details" >}}
 
-<li><b>{{< translate way_of_travelling >}}</b> バイクパッキング</li>
-<li><b>{{< translate starting_date >}} </b>{{< article_date >}}</li> 
-<li><b>{{< translate duration >}}</b> 14日間</li>
-<li><b>{{< translate distance >}}</b> 500 km</li>
+### {{< translate stats >}}
 
-{{< collapsible "crossing_the_border" 3 5 >}}
+- **{{< translate way_of_travelling >}}**  バイクパッキング
+- **{{< translate starting_date >}}** {{< article_date >}} 
+- **{{< translate duration >}}**  14日間
+- **{{< translate distance >}}**  500 km
+
+### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
 私たちはマルセイユ(Marseille)からバスティア(Bastia)までフェリーに乗りました。地中海を横断するのに約13時間かかりました。船は設備が整っており、快適な船旅となりました。フェリー内には自転車専用の駐輪場があり、自転車を固定するためのロープと、壁と自転車の間に挟むためのパッドも用意されていました。
 
 ただ、マルセイユから乗船時、船会社のスタッフはチェックインカウンターからフェリーまで、他の乗船客と共にシャトルバスに乗るよう私達に指示しました。タンデム自転車をバスの荷物室に押し込みたくありませんでしたが、彼らは私達に他の選択肢を残しませんでした。自転車のバス輪行を避けたい方は、歩行者ゲートでチェックインせず、車の運転手ゲートに直接行く事をおすすめします。
@@ -53,17 +56,18 @@ author: mina
 私達も最初は自動車のチェックインゲートに行きたかったのですが、船会社から自転車は歩行者ゲートに行くよう強く言われたので従いましたが、まさかシャトルバスに乗り込むとは知らず、初日から真新しい自転車に傷をつくり少し悲しい思いをしました。
 
 
-<h4>{{< translate fab >}} 🇫🇷</h4>
+#### {{< translate fab >}} 🇫🇷
 フランス国民として、IDカードまたはパスポートを乗船時に提示するのみ
 
-<h4>{{< translate mina >}} 🇯🇵</h4>
+#### {{< translate mina >}} 🇯🇵
 私はフランスの長期滞在ビザを持っていたので、上記と同じ。
 
 そうでなければ、日本のパスポート保持者は6ヶ月間で合計90日間シェンゲン圏内にビザなしで滞在することができます。
 
-{{< /collapsible >}}
 
-{{< collapsible "road_condition" 3 4 >}}
+
+### {{< translate "road_condition" >}}
+{{< score 4 >}}
 『グランド・トラヴェルセ20』(Grande Traversée 20)別名GT20と呼ばれる公式のサイクリングルートがあり、これは「キャップ・コルス」(Cap Corse＝北岬)から始まり、ボニファシオまで島を縦断するコースです。
 
 私達は当初、このGT20を完走したいと考えましたが、冬季が途中道路にもたらす厳しい条件(積雪)のためにルートを変更しなければなりませんでした。代わりに、フェリーでバスティアに到着後、まず海岸線に沿ってキャップコルスをサイクリングしました。その後、再びバスティアに戻り、ボニファシオまで高速道路を経由して東海岸を南に向かいました。そこから、温かいお風呂に入りたかったので、天然温泉があると噂のギテラ(Guitera-les-Bains)を経由しアジャクシオ(Ajaccio)まで島の西側を北上し旅を終えました。
@@ -77,25 +81,28 @@ author: mina
 コルシカ島では、道中何度も坂道を登る(登ったら降る)ことを覚悟してください。私達は荷を積んだタンデムに乗っていたこともあり、度々自転車を降り、押さなければなりませんでしたが、普通の自転車でのサイクリングだったら、そこまで苦痛ではない傾斜のはずです。
 
 
-{{< /collapsible >}}
 
-{{< collapsible "accommodations" 3 5 >}}
+
+### {{< translate "accommodations" >}}
+{{< score 5 >}}
 アジャクシオにて、旅の終わりに安ホテルに1泊したのみなので、この項目で言うことはあまりありません。
 
 しかし、私達は旅の途中で、冬季のために多くの宿泊施設が休業していることに気づきました。
 
-{{< /collapsible >}}
 
-{{< collapsible "freedom_camping" 3 5 >}}
+
+### {{< translate "freedom_camping" >}}
+{{< score 5 >}}
 私達はほぼ毎日野宿をしました。冬だったので、ほとんどのお店は閉まっており、そういった空の施設を一晩の避難所として(強風時は特に)使用しました。それ以外では、ビーチや廃墟の近くでキャンプをしました。
 
 地元の人々は私達を気にしませんでしたが、それはローシーズンで他に旅行者がまったくいなかったからかもしれません。
 
 農場や野生動物は島内を自由に歩き回っており、攻撃的ではありませんが、もしかすると持ち物を傷つける可能性が考えられるので、テントの外に食べ物やゴミを置かないことをオススメします。(コルシカ島ではないですが、私達は一度就寝中にテントの前室に置いていたトレッキングシューズをイノシシか何かに食いちぎられた&一足持って行かれたことがあるので、それ以来万全の対策をするようになりました。)
 
-{{< /collapsible >}}
 
-{{< collapsible "facilities" 3 5 >}}
+
+### {{< translate "facilities" >}}
+{{< score 5 >}}
 コルシカ島は設備が整っている島です。どの施設も清潔で手入れが行き届いていました。(フランスとは大違い！)
 北岬では地元のお店が冬季は軒並み閉まっていましたが、それ以外の地域では、ほとんどどこでもスーパーマーケットを見つけることができました。また、私達はあまり試すことができませんでしたが、コルシカ島ではピザが人気だということに気づきました。
 
@@ -107,17 +114,19 @@ author: mina
 
 私達は一度、タイヤの圧力をチェックするために、自転車屋に立ち寄らなければなりませんでしたが、現在地から決して遠くない主要な町で簡単に見つけることができました。
 
-{{< /collapsible >}}
 
-{{< collapsible "communication_with_the_locals" 3 5 >}}
+
+### {{< translate "communication_with_the_locals" >}}
+{{< score 5 >}}
 ほとんどの人はフランス語とコルシカの方言を話します。彼らは本当に優しく、リクエストがあればコルシカの文化について喜んで教えてくれます。私達は、最高のレストランや地域の最もおいしい名物など、彼らにヒントやアドバイスを何度も尋ねました。
 
 彼らの親しみやすさの証拠として、ある夜、私達がビーチの近くで野宿をしていた時、地元の人が念の為にと毛布を持ってきてくれました。私達は大丈夫だったので断りましたが、これはとても思いやりのある気の利いた行動だと思いました。
 (私達はコルシカ滞在中、英語を話す機会がなかったので、地元の人とどのくらい英語でコミュニケーションを取れるかは不明)
 
-{{< /collapsible >}}
 
-{{< collapsible "food" 3 4 >}}
+
+### {{< translate "food" >}}
+{{< score 4 >}}
 コルシカ料理は、ヤギのチーズ(ブルッチュ)と豚肉加工品に大きく基づいています。
 これは私達の普段の食事ではありませんが、ベジタリアンではない私(Mina)は自家製ソーセージを食す機会があり、美味しかったです。
 
@@ -129,12 +138,12 @@ author: mina
 
 最後になりましたが、ピザも彼らの食文化の一部のようです。途中でピッツェリアを数多く見かけましたが、冬の間はどこも閉まっていたので、残念ながら試すことができませんでした。結局、アジャクシオ滞在中に一度食べただけでしたが、それは一流でした。
 
-<h4>{{< translate vegetarian_friendly >}} {{< score 3 >}}</h4>
+#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 豚肉ベースの食品は地元の名物なので、小さなお店でベジタリアン料理を見つけるのは簡単ではありません。レストランでは、ピザの方が安全な選択のようです。そうでなければ、ペスト(バジルペースト)も彼らの特産品のようで、リコッタチーズのようなブルッチュで作られています。
 
 クッキーなどにも豚の油が使われている場合が多々あるので、気をつけて下さい。
 
-<h4>{{< translate what_we_eat >}}</h4> 
+#### {{< translate what_we_eat >}} 
 
 - フランスパン
 - 卵
@@ -147,16 +156,16 @@ author: mina
 - オレンジ
 
 
-<h4>⭐{{< translate fab_favourite >}}</h4>
+#### ⭐{{< translate fab_favourite >}}
 
 ブルッチュ：秋，冬，春に作られた地元の新鮮な羊チーズ
 
-<h4>⭐{{< translate mina_favourite >}}</h4>
+#### ⭐{{< translate mina_favourite >}}
 
 コルシカ鶏の卵
 
-{{< /collapsible >}}
-{{< /collapsible >}}
+
+
 
 ### {{< translate top_5_locations >}}
 |             |             |
