@@ -47,7 +47,7 @@ author: mina
 - **{{< translate duration >}}** 23日間
 - **{{< translate distance >}}** 1,250 km
 
-## {{< translate "in_details" >}} 4 >}}
+## {{< translate "in_details" >}}
 
 ニューカレドニアへ行く方法は飛行機のみです。ほとんどの大陸から遠く離れているため、高額になりがちです。
 

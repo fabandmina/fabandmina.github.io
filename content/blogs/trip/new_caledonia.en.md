@@ -53,7 +53,7 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 - **{{< translate duration >}}** 23 days
 - **{{< translate distance >}}** 1,250 km
 
-## {{< translate "in_details" >}} 4 >}}
+## {{< translate "in_details" >}}
 
 You can only enter New Caledonia by plane. It can be expensive because it is far from most of the continents.
 
