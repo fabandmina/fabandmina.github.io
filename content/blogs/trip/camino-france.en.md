@@ -22,14 +22,14 @@ The walk through the dramatic landscapes, the farm animals, and the historical v
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Waymarks are easy to follow
 - Welcoming atmosphere towards the pilgrims
 - Cute and authentic villages
 - Freedom camping is super easy
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - On Sundays, everything is closed so plan your meals ahead
 
@@ -37,7 +37,7 @@ The walk through the dramatic landscapes, the farm animals, and the historical v
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Walking
 - **{{< translate starting_date >}}** {{< article_date >}} 

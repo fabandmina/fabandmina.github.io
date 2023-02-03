@@ -22,7 +22,7 @@ Taiwan restera dans nos coeurs pour toujours!
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Le pays est vraiment sûr
 - La nourriture
@@ -30,7 +30,7 @@ Taiwan restera dans nos coeurs pour toujours!
 - Le paysage est magnifique, surtout en montagnes
 - Pédaler est facile
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - La barrière de la langue parfois
 - Il fait chaud
@@ -39,7 +39,7 @@ Taiwan restera dans nos coeurs pour toujours!
 <!-- <h2>{{< translate in_details >}}</h2> -->
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 <ul>
 - **{{< translate way_of_travelling >}}** Vélos, autostop, randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 

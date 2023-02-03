@@ -11,7 +11,7 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 
 {{< param introduction >}}
 私達の経験をこのホームページでシェアできることを嬉しく思います。この場があなたに新しいアイディアやプラスの風をもたらし、何かに挑戦するきっかけや後押しになりましたら幸いです。
-#
+
 私達の次のプロジェクトは、ユーラシア大陸をポルトガルから日本までタンデム自転車で約2年かけて横断することです。総走行距離は約28,000kmの計画です。
 [もっと見る >>]({{< link_to "wish_eurasia" >}})。
 {{< last-article >}}

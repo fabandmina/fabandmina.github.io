@@ -29,13 +29,13 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Beautiful landscapes
 - Well-maintained footpaths 
 - Cute villages
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - Nothing in particular
 
@@ -43,7 +43,7 @@ Overall, visiting this country was a lovely experience. We passed through a bunc
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Walking
 - **{{< translate starting_date >}}** {{< article_date >}} 

@@ -22,14 +22,14 @@ author: mina
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - マーク(目印)がしっかりされている
 - フレンドリーで平和な空気
 - 本当に人が生活している可愛い村
 - 野宿をすることはとても簡単
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - 日曜日は全てのお店が閉まっているので、事前に食事の計画をする必要がある
 
@@ -37,7 +37,7 @@ author: mina
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** 徒歩
 - **{{< translate starting_date >}}** {{< article_date >}} 

@@ -32,14 +32,14 @@ Nous ne prétendons pas être parfait non plus, mais nous croyons que nôtre fa�
 
 ## {{< translate "overall_feel" >}} 
 {{< score 4 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Belle nature sauvage
 - Ambiance détendue 
 - Manger des fruits frais cueillis sur l'arbre
 - Les gens sont sympas et accueillants 
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - On ne parle pas l'anglais 
 - Il fait chaud
@@ -49,7 +49,7 @@ Nous ne prétendons pas être parfait non plus, mais nous croyons que nôtre fa�
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Vélo
 - **{{< translate starting_date >}}** {{< article_date >}} 

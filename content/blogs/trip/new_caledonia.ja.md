@@ -23,14 +23,14 @@ author: mina
 
 ## {{< translate "overall_feel" >}} 
 {{< score 4 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - 手つかずの豊かな大自然
 - のんびりした雰囲気
 - 樹から直接フルーツを毎日収穫できる
 - 優しくてフレンドリーな人々
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - 英語が通じない
 - 高い気温(夏は暑い)
@@ -40,7 +40,7 @@ author: mina
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** 自転車
 - **{{< translate starting_date >}}** {{< article_date >}} 

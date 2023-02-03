@@ -22,14 +22,14 @@ Notice that we chose to visit Corsica in winter as we thought there would be few
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Landscapes
 - Bike-friendly drivers
 - Favorable weather, especially in winter
 - Exotic culture, different from the French mainland
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - The traditional diet is mainly based on pork
 
@@ -37,7 +37,7 @@ Notice that we chose to visit Corsica in winter as we thought there would be few
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Bikepacking
 - **{{< translate starting_date >}}** {{< article_date >}} 

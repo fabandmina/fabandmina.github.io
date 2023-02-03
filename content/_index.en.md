@@ -12,7 +12,7 @@ Welcome!
 
 {{< param introduction >}}
 We are happy to share our experience with you. Hopefully it will give you new ideas that will make a positive impact in your life, and inspire you to take up on new challenges. 
-#
+
 Our next project is to cross Eurasia by tandem bicycle from Portugal to Japan. It will take about two years and 28,000 km.
 Check it out [here >>]({{< link_to "wish_eurasia" >}}).
 {{< last-article >}}

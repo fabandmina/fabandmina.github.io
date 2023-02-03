@@ -29,14 +29,14 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 
 ## {{< translate "overall_feel" >}} 
 {{< score 4 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Beautiful untamed nature
 - Laid back atmosphere
 - Having fruits from the trees everyday
 - People are nice and friendly
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - English is not spoken
 - The temperature is high
@@ -46,7 +46,7 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Mainly bicycle
 - **{{< translate starting_date >}}** {{< article_date >}} 

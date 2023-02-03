@@ -24,13 +24,13 @@ Dans l'ensemble, visiter ce pays a été une belle expérience. Nous sommes pass
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - De beaux paysages
 - Sentiers bien entretenus
 - Jolis villages
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - Rien en particulier
 
@@ -38,7 +38,7 @@ Dans l'ensemble, visiter ce pays a été une belle expérience. Nous sommes pass
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 

@@ -23,7 +23,7 @@ At some point, we even considered Cyprus as a pied-à-terre in Europe.
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - The culture of coffee
 - Comfortable weather
@@ -31,7 +31,7 @@ At some point, we even considered Cyprus as a pied-à-terre in Europe.
 - Delicious food
 - Mountains and seasides
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - It was too short
 
@@ -39,13 +39,11 @@ At some point, we even considered Cyprus as a pied-à-terre in Europe.
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
-<ul>
+#### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Hiking and public transports
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 8 days
 - **{{< translate distance >}}** 30 km (hiking)
-</ul>
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}

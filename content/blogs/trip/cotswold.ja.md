@@ -26,13 +26,13 @@ author: mina
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - 美しい景色
 - よく整備された遊歩道
 - 可愛らしい村々
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - 特になし
 
@@ -40,7 +40,7 @@ author: mina
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** 徒歩
 - **{{< translate starting_date >}}** {{< article_date >}} 

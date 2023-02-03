@@ -21,7 +21,7 @@ Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magn
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - La culture du café
 - Climat confortable
@@ -29,7 +29,7 @@ Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magn
 - Nourriture délicieuse
 - Montagnes et bords de mer
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - C'était trop court
 
@@ -37,13 +37,11 @@ Nous avons été enchantés par ce que l'île avait à offrir. Des paysages magn
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
-<ul>
+#### {{< translate stats >}}
 - **{{< translate way_of_travelling >}}** Randonnée et transports publics
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 8 jours
 - **{{< translate distance >}}** 30 km (randonnée)
-</ul>
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}

@@ -22,14 +22,14 @@ Notez que nous avons choisi de visiter la Corse en hiver car nous pensions qu'il
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Paysages
 - Conducteurs respectueux des vélos
 - Météo favorable, surtout en hiver
 - Culture exotique, différente de la France métropolitaine
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - L'alimentation traditionnelle est principalement basée sur le porc
 
@@ -37,7 +37,7 @@ Notez que nous avons choisi de visiter la Corse en hiver car nous pensions qu'il
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Cyclo-randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 

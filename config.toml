@@ -183,6 +183,7 @@ defaultContentLanguage = 'en'
       color_footer_separator = "gray"
       color_breadcrumb_hue = "17"
       color_breadcrumb_font = "white"
+      color_h2 = "#ddd"
 
 
     [params.theme.dark] 
@@ -219,6 +220,7 @@ defaultContentLanguage = 'en'
       color_footer_separator = "gray"
       color_breadcrumb_hue = "236"
       color_breadcrumb_font = "white"
+      color_h2 = "#4e5070"
 
 
 

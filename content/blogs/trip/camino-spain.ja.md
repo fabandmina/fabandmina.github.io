@@ -32,13 +32,13 @@ Ultreïa! (ウルトレイア！)
 
 ## {{< translate "overall_feel" >}} 
 {{< score 4 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - 世界中から集まった巡礼者
 - 巡礼者歓迎ムード
 - 清潔な施設
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - 14〜16時の間の全国的休憩時間(シエスタ)
 - 巡礼者のための水道が除去・断水されていた
@@ -49,7 +49,7 @@ Ultreïa! (ウルトレイア！)
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** 徒歩
 - **{{< translate starting_date >}}** {{< article_date >}} 

@@ -21,7 +21,7 @@ Taiwan is forever in our hearts!
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - The country is really safe
 - Excellent food
@@ -29,7 +29,7 @@ Taiwan is forever in our hearts!
 - The scenery is fantastatic, especially in the mountains
 - Cycling is easy
 
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - The language barrier sometimes
 - The temperature is high
@@ -38,7 +38,7 @@ Taiwan is forever in our hearts!
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 <ul>
 - **{{< translate way_of_travelling >}}** Mainly bicycle
 - **{{< translate starting_date >}}** {{< article_date >}}

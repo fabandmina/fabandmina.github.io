@@ -24,14 +24,14 @@ author: mina
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - 圧倒的なスケールの自然
 - 自転車に優しいドライバー
 - 快適な気候
 - フランス本土とは異なるエキゾチックな文化
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - 伝統的な食事は主に豚肉を使う点
 
@@ -39,7 +39,7 @@ author: mina
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}**  バイクパッキング
 - **{{< translate starting_date >}}** {{< article_date >}} 

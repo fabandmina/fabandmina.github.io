@@ -36,13 +36,13 @@ Ultreïa!
 
 ## {{< translate "overall_feel" >}} 
 {{< score 4 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - The pilgrims came from all over the world
 - Welcoming atmosphere towards the pilgrims
 - Clean facilities
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - National break time between 14:00 and 16:00, called siesta
 - Public water taps for the pilgrims were removed or cut off
@@ -53,7 +53,7 @@ Ultreïa!
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Walking
 - **{{< translate starting_date >}}** {{< article_date >}} 

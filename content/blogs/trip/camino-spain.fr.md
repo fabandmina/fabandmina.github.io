@@ -30,13 +30,13 @@ Ultreïa !
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Les pèlerins venant du monde entier
 - Ambiance chaleureuse envers les pèlerins
 - Installations propres
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - Pause nationale entre 14h00 et 16h00, appelée "siesta"
 - Les robinets d'eau publics pour les pèlerins ont été enlevés ou coupés
@@ -47,7 +47,7 @@ Ultreïa !
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 

@@ -22,14 +22,14 @@ La promenade à travers les paysages spectaculaires, les animaux de la ferme et 
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 - Les balises sont faciles à suivre
 - Ambiance chaleureuse envers les pèlerins
 - Villages mignons et authentiques
 - Le bivouac en liberté est super facile
   
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 - Le dimanche, tout est fermé alors prévoyez vos repas à l'avance
 
@@ -37,7 +37,7 @@ La promenade à travers les paysages spectaculaires, les animaux de la ferme et 
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Randonnée
 - **{{< translate starting_date >}}** {{< article_date >}} 

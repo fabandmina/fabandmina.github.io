@@ -22,7 +22,7 @@ author: mina
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 
-### {{< translate what_we_appreciate >}}
+#### {{< translate what_we_appreciate >}}
 
 * 安心
 * 安全
@@ -30,7 +30,7 @@ author: mina
 * 優しくて親切な人々
 * 美しい風景(特に山岳部は絶景！)
 
-### {{< translate what_we_dislike >}}
+#### {{< translate what_we_dislike >}}
 
 * 言語の壁が少しある
 * 高い気温
@@ -39,7 +39,7 @@ author: mina
 
 ## {{< translate "in_details" >}}
 
-### {{< translate stats >}}
+#### {{< translate stats >}}
 <ul>
 - **{{< translate way_of_travelling >}}** 主に自転車
 - **{{< translate starting_date >}}** 2020年2月５日
