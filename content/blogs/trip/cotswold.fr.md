@@ -45,7 +45,9 @@ Dans l'ensemble, visiter ce pays a été une belle expérience. Nous sommes pass
 - **{{< translate duration >}}** 7 jours
 - **{{< translate distance >}}** 164 km
 
-### {{< translate "crossing_the_border" >}}Nous avons pris un vol low-cost de Marseille à l'aéroport de Stansted. Arrivés à l'aéroport britannique, nous avons dû passer par le système de porte automatique qui n'a duré que quelques minutes. Nous n'avons pas eu à fournir d'informations sur les raisons de notre voyage.
+### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+Nous avons pris un vol low-cost de Marseille à l'aéroport de Stansted. Arrivés à l'aéroport britannique, nous avons dû passer par le système de porte automatique qui n'a duré que quelques minutes. Nous n'avons pas eu à fournir d'informations sur les raisons de notre voyage.
 
 #### {{< translate fab >}} 🇫🇷
 Il vous suffit de présenter votre passeport aux portes et vous serez autorisés à rester six mois en tant que visiteurs.

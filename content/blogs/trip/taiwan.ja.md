@@ -48,6 +48,8 @@ author: mina
 </ul>
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 台湾は島国のため、以下の方法でしか入国できません。
 
 * 船 ( フェリー )

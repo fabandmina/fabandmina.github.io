@@ -47,6 +47,8 @@ Taiwan is forever in our hearts!
 </ul>
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 Since Taiwan is an island, the only possible ways to enter are:
 - by boat
 - by taking a flight

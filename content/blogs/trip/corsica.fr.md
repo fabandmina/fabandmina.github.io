@@ -44,7 +44,9 @@ Notez que nous avons choisi de visiter la Corse en hiver car nous pensions qu'il
 - **{{< translate duration >}}** 14 jours
 - **{{< translate distance >}}** 500 km
 
-### {{< translate "crossing_the_border" >}}Nous avons pris le ferry de Marseille à Bastia. Il faut environ 13 heures pour traverser la mer Méditerranée. Le navire était bien équipé et nous pouvions voyager confortablement. Il y avait un endroit spécial pour garer notre vélo à bord, où des cordes et des coussinets étaient fournis pour attacher le vélo.
+### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+Nous avons pris le ferry de Marseille à Bastia. Il faut environ 13 heures pour traverser la mer Méditerranée. Le navire était bien équipé et nous pouvions voyager confortablement. Il y avait un endroit spécial pour garer notre vélo à bord, où des cordes et des coussinets étaient fournis pour attacher le vélo.
 
 Depuis Marseille, le personnel a insisté pour que nous prenions une navette et rangions le vélo à l'intérieur du coffre à bagages. Nous ne pensions pas que c'était une bonne idée, mais ils ne nous ont pas laissé le choix. En fait, si vous ne vous enregistrez pas aux portes piétonnes mais que vous vous dirigez directement vers les portes pour les automobilistes, vous pourrez vous rendre directement à vélo jusqu'au ferry, et avec beaucoup moins de tracas.
 

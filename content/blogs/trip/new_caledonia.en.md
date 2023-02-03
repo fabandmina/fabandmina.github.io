@@ -54,6 +54,8 @@ We don't pretend to be perfect either, but we do believe that the way we travel 
 - **{{< translate distance >}}** 1,250 km
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 You can only enter New Caledonia by plane. It can be expensive because it is far from most of the continents.
 
 #### {{< translate fab >}} 🇫🇷

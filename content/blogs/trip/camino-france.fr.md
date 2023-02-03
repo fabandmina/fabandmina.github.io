@@ -45,6 +45,8 @@ La promenade à travers les paysages spectaculaires, les animaux de la ferme et 
 - **{{< translate distance >}}** 730 km
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 Nous sommes entrés en Europe par avion. A cette époque, nous devions nous faire tester pour le covid. Pour la France, les contrôles n'étaient pas fréquents. Nous avons ensuite pris un train depuis Lyon jusqu'au Puy-En-Velay, notre point de départ.
 
 #### {{< translate fab >}} 🇫🇷

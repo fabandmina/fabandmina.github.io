@@ -48,6 +48,8 @@ Taiwan restera dans nos coeurs pour toujours!
 </ul>
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 Taiwan étant une île, les seuls accès possibles sont :
 - par voie maritime
 - par avion

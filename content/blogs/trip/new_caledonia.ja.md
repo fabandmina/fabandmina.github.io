@@ -48,6 +48,8 @@ author: mina
 - **{{< translate distance >}}** 1,250 km
 
 ### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+
 ニューカレドニアへ行く方法は飛行機のみです。ほとんどの大陸から遠く離れているため、高額になりがちです。
 
 #### {{< translate fab >}} 🇫🇷

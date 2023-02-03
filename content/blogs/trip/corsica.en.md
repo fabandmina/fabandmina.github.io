@@ -44,7 +44,9 @@ Notice that we chose to visit Corsica in winter as we thought there would be few
 - **{{< translate duration >}}** 14 days
 - **{{< translate distance >}}** 500 km
 
-### {{< translate "crossing_the_border" >}}We took the ferry from Marseille to Bastia.
+### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+We took the ferry from Marseille to Bastia.
 It takes about 13 hours to cross the Mediterranean sea.
 The vessel was well equipped and we could have a comfortable travel.
 There was a special place for parking our bicycle on board, where ropes and pads where provided to attach the bike.

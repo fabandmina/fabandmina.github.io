@@ -44,7 +44,9 @@ The walk through the dramatic landscapes, the farm animals, and the historical v
 - **{{< translate duration >}}** 39 days
 - **{{< translate distance >}}** 730 km
 
-### {{< translate "crossing_the_border" >}}We entered Europe by plane.
+### {{< translate "crossing_the_border" >}}
+{{< score 5 >}}
+We entered Europe by plane.
 At that time, we had to go through the covid checks. But travelling in France was fine.
 We then took a train from Lyon until Le Puy-En-Velay, the starting point.
 
