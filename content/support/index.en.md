@@ -17,10 +17,13 @@ The money will be transfered directly to us.
 
 
 
-#
+<br>
+
 {{< ko-fi_button >}} 
 
-#
+<br>
+<br>
+
 **5€ -** We can enjoy a coffee. We love coffee!
 
 **10€ -** We can get some snacking. It is our fuel.

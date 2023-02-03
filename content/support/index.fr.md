@@ -18,10 +18,13 @@ Votre participation nous sera envoyé directement.
 
 Vous n'avez qu'à cliquer sur le bouton ci-dessous (ou celui dans le coin inférieur gauche), et suivre les instructions. 
 
-#
+<br>
+
 {{< ko-fi_button >}} 
 
-#
+<br>
+<br>
+
 **5€ -** Avec ce montant nous pouvons apprécier un bon café. On adore le café !
 
 **10€ -** Avec ce montant nous pouvons nous prendre un casse-croûte. C'est notre essence.
