@@ -173,6 +173,7 @@ Corsican chicken eggs.
 
 
 ### {{< translate top_5_locations >}}
+
 |             |             |
 |-------------|-------------|
 |   [Guitera-les-Bains](https://goo.gl/maps/ShunZYuMU5pAKTk68)    |   Free natural hot spring bath    |
