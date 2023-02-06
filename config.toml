@@ -42,20 +42,25 @@ paginate = 10
       parent = 'blogs'
       weight = 4
     [[menu.main]]
+      identifier = 'photos'
+      name = 'photos'
+      pageref ='/photos'
+      weight = 4
+    [[menu.main]]
       identifier = 'contact'
       name = 'contact'
       pageref ='/contact'
-      weight = 4
+      weight = 5
     [[menu.main]]
       identifier = 'about'
       name = 'about_us'
       pageref ='/about'
-      weight = 5
+      weight = 6
     [[menu.main]]
       identifier = 'support'
       name = 'support_Us'
       pageref ='/support'
-      weight = 6
+      weight = 7
 
 ### Languages configuration ###
 defaultContentLanguage = 'en'
