@@ -41,11 +41,11 @@ paginate = 10
       pageref ='/blogs/wishlist'
       parent = 'blogs'
       weight = 4
-    [[menu.main]]
-      identifier = 'photos'
-      name = 'photos'
-      pageref ='/photos'
-      weight = 4
+    # [[menu.main]]
+    #   identifier = 'photos'
+    #   name = 'photos'
+    #   pageref ='/photos'
+    #   weight = 4
     [[menu.main]]
       identifier = 'contact'
       name = 'contact'
