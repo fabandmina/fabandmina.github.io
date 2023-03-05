@@ -5,7 +5,7 @@ theme = "huguette-fabandmina"
 copyright = "Copyright 2022-{year} Fabien TRAN All rights reserved."
 sectionPagesMenu = "main"
 paginate = 10
-
+enableRobotsTXT = true
 
 ### Enable shortcode in .md ###
 [markup.goldmark.renderer]
