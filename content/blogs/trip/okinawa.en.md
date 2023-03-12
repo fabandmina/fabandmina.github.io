@@ -63,7 +63,9 @@ As a popular tourist destination, Okinawa offers a range of accommodations to su
 
 ### {{< translate "freedom_camping" >}}
 {{< score 5 >}}
-Please note that our experience of freedom camping in Okinawa was during winter, and the information provided here may not be applicable if you plan to visit during a different season. Nonetheless, we found that freedom camping was not difficult to arrange. In urban areas, we stayed close to parks and road stations, which typically provide shelter and public bathroom facilities. Road stations, or "michi no eki", are particularly convenient for overnight stays, as they offer a range of amenities. In more remote areas, we pitched our tent near beaches or community centers. Community centers are well-equipped for a one-night stay, but it's important to seek permission from the locals beforehand. Please be aware that communicating with locals may be challenging if you do not speak Japanese. When choosing a camping location, we recommend avoiding bushy areas as there may be poisonous snakes hidden there.
+Please note that our experience of freedom camping in Okinawa was during winter, and the information provided here may not be applicable if you plan to visit during a different season. Nonetheless, we found that freedom camping was not difficult to arrange. In urban areas, we stayed close to parks and road stations, which typically provide shelter and public bathroom facilities. Road stations, or "michi no eki", are particularly convenient for overnight stays, as they offer a range of amenities. 
+
+In more remote areas, we pitched our tent near beaches or community centers. Community centers are well-equipped for a one-night stay, but it's important to seek permission from the locals beforehand. Please be aware that communicating with locals may be challenging if you do not speak Japanese. When choosing a camping location, we recommend avoiding bushy areas as there may be poisonous snakes hidden there.
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
