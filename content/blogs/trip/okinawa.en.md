@@ -42,7 +42,7 @@ Our journey was an unforgettable one, one that will forever hold a place in our 
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 4 >}}
-We flew from Tokyo to Nara via a low-cost carrier before connecting to various islands via ferries and domestic flights. Please note that weather conditions can be unpredictable and may affect transport schedules. Additionally, some ferry companies may not offer online booking options, so it is advisable to visit their offices on the day of departure.
+We flew from Tokyo to Naha via a low-cost carrier before connecting to various islands via ferries and domestic flights. Please note that weather conditions can be unpredictable and may affect transport schedules. Additionally, some ferry companies may not offer online booking options, so it is advisable to visit their offices on the day of departure.
 
 #### {{< translate fab >}} 🇫🇷
 French passports' holders can stay 90 days as a visitor in Japan (Okinawan islands included)
