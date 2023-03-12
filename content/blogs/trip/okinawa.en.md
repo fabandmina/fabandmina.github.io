@@ -80,12 +80,14 @@ While the locals predominantly speak Japanese, you may hear variations in dialec
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
+Okinawa boasts a distinctive cuisine that sets it apart from the specialties of the rest of Japan. It showcases notable influences from the United States and Eastern Asia. Throughout our stay, we frequented local shops to order our meals, and we were consistently satisfied. The portions were generously sized, especially compared to the typical Japanese serving sizes.
 
+In remote areas, locating grocery stores can be challenging. Instead, locals often rely on cooperative shops that offer a limited selection of high-quality products and produce. We made an effort to limit our purchases from these cooperatives to avoid depleting the food village's stocks.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-Since pork-based delicatessen is the local specialty, it's not easy to find vegetarian food in the smaller shops.
-At the restaurant, pizzas seem to be the safer choice.
-Otherwise, pesto is also part of their specialties, although it contains brocciu, a ricotta-like cheese.
+The cuisine of Okinawa heavily features pork-based dishes, which can make it challenging to find vegetarian options in local shops and restaurants. Even seemingly innocuous items like biscuits may contain pork grease, so it's crucial to carefully review the list of ingredients before making a purchase.
+
+One of Okinawa's distinctive specialties is black sugar, or "kokutou," which involves using cow bones in the sugar processing. However, for vegetarians, there are plenty of other options to enjoy, such as the local tofu and readily available root vegetables.
 #### {{< translate what_we_eat >}} 
 
 - Peanuts & soy tofu
