@@ -10,135 +10,77 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 author: fab
 ---
 ## {{< translate "travel_story" >}}
-We just received our brand new [semi-recumbent tandem bicycle]({{< link_to "bicycle" >}}) from the bike shop and we were looking forward to trying it as soon as possible.
+Exploring the sunken monument of Yonaguni had been a long-awaited adventure on our bucket list. We had planned this trip at the beginning of our relationship, while we were still in New Zealand. Our plan consisted of island-hopping through the Okinawan islands until we reached our final destination. We routed our journey across Okinawa's main island, Kumejima, Tonaki, Ishigaki, and finally Yonaguni.
 
-We had heard positive travel stories about Corsica from our mates, and at the time of this trip, we were staying in Marseille, which is one ferry away from the island.
+To prepare for this unique experience, we had to consider a few extra precautions. The Yonaguni monument is a massive rock formation located about 30 meters deep under the sea, with strong currents. Despite its ancient city-like shape, it is unclear whether it was built by our ancestors between 2000 and 3000 years ago. If it were, it would be Japan's Atlantis city.
 
-It made sense to us that Corsica would make a superb playground as it would offer a warm climate, acceptable road conditions and fantastic sceneries.
+My partner, Mina, was already a confirmed scuba diver and ready to dive. As for me, I had to start from the bottom and earn two levels on my scuba diving license in just a couple of months. Fortunately, I was able to complete this achievement in New Caledonia, where the weather was ideal for diving.
 
-Notice that we chose to visit Corsica in winter as we thought there would be fewer tourists and the atmosphere would be more laid-back, while experiencing comfortable temperatures. We could confirm our intuition as we saw lots of touristic facilities, fortunately empty in this season.
+Our journey was an unforgettable one, one that will forever hold a place in our hearts. For the Okinawan islands left a lasting mark on us, and the memories we made were like precious pearls, to be cherished for eternity.
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
 - Landscapes
-- Bike-friendly drivers
-- Favorable weather, especially in winter
-- Exotic culture, different from the French mainland
+- Laid back atmosphere
+- Exotic culture, different from the Japanese mainland
   
 #### {{< translate what_we_dislike >}}
 
-- The traditional diet is mainly based on pork
-
+- Poisonous snakes in the bushes
+- Unstable weather
 
 
 ## {{< translate "in_details" >}}
 
 #### {{< translate stats >}}
 
-- **{{< translate way_of_travelling >}}** Walking
+- **{{< translate way_of_travelling >}}** Walking and public transports
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 21 days
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 4 >}}
-We took the ferry from Marseille to Bastia.
-It takes about 13 hours to cross the Mediterranean sea.
-The vessel was well equipped and we could have a comfortable travel.
-There was a special place for parking our bicycle on board, where ropes and pads where provided to attach the bike.
-
-From Marseille, the staff insisted that we took a shuttle and stored the bicycle inside the luggage compartment. We didn't think it was a good idea but they left us with no choice. Actually, if you don't check-in at the pedestrian gates but go directly to the gates for the car-drivers, you'll be able to cycle your way directly until the ferry, and with much less hassle.
+We flew from Tokyo to Nara via a low-cost carrier before connecting to various islands via ferries and domestic flights. Please note that weather conditions can be unpredictable and may affect transport schedules. Additionally, some ferry companies may not offer online booking options, so it is advisable to visit their offices on the day of departure.
 
 #### {{< translate fab >}} 🇫🇷
-As a French national, you just need to present your ID card or your passport.
+French passports' holders can stay 90 days as a visitor in Japan (Okinawan islands included)
 
 #### {{< translate mina >}} 🇯🇵
-Mina had a long-stay visa for France which allowed her to stay inside the Schengen area. Corsica is part of France, i.e. part of the Schengen area.
-
-Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
-
+As a Japanese national, you just need to present your passport for entering Japan.
+For domestic flights, it is not even required.
 
 
 ### {{< translate "road_condition" >}}
 {{< score 5 >}}
-There is an official cycle route called "Grande Traversée 20", a.k.a GT20, that starts in "Cap Corse" (North cape) and that crosses the island through its length until Bonifacio.
-We intended to follow it at first, but had to re-route because of the harsh conditions that winter brings on the road.
-Instead, after arriving in Bastia by ferry, we cycled all around the "Cap Corse" following the coastline. We then came back to Bastia and headed South via the the highway, until Bonifacio.
-From there we rode towards Ajaccio by making a stopover at Guitera-les-Bains, as wanted to have a hot bath there.
-
-In general, the road condition is adequate and drivers will gently pass you safely. Especially on the GT20 sections, which included the "Cap Corse" and a short part of our itinerary around Bonifacio.
-
-However, between Bonifacio and Ajaccio, the road felt a little less safe as the drivers would not be as mindful on the highway. We then decided to take a country road to avoid the business of the highway, but we then had to deal with endless sections of potholes. 
-
-The East coast's road was fast and easy to ride but monotonous and boring.
-
-Expect to climb up many hills on the way. We had to push our bike a few times as we were riding a loaded tandem. It should be more manageable if you ride a standard bicycle.
-
-
-
-
+While the roads are generally well-maintained, it is important to exercise caution when venturing off the tar road. Poisonous snakes often lurk in the shadows, so it is recommended that you use a stick to survey the ground and avoid any unwanted encounters. In the event that you are bitten, it is crucial that you identify the species of snake and seek medical attention immediately. Taking a picture of the culprit can help in identifying the correct antivenom required for treatment. Remember, identification is key to your survival in such a situation.
 
 ### {{< translate "accommodations" >}}
 {{< score 5 >}}
-We only stayed one night in a budget hotel at the end of our trip in Ajaccio, so we don't have much to say here.
-We noticed on the way that many accommodations were closed because of the winter season though.
+As a popular tourist destination, Okinawa offers a range of accommodations to suit every budget and preference. However, we found that staying in local guesthouses offered a unique and authentic experience. These guesthouses provide excellent facilities at an affordable price and give you the chance to immerse yourself in the local culture. One of our favorite aspects of staying in a guesthouse was the opportunity to partake in "yuntaku," a traditional social gathering similar to the French "apéro." This gave us the chance to interact with locals and learn more about their customs and way of life.
 
 
 ### {{< translate "freedom_camping" >}}
 {{< score 5 >}}
-We did freedom camping almost everyday.
-Since it was winter, most of the shops were closed, and we would use the empty facilities as one-night shelters near the towns.
-Otherwise, we would camp on the beach or near ruins.
-The locals didn't mind much, but it might have been because it was winter and there wasn't any tourists around.
-
-Don't leave any food or rubbish outside your tent. Farm and wild animals are free-roaming and might damage your belongings while foraging, although they are not aggressive.
-
+Please note that our experience of freedom camping in Okinawa was during winter, and the information provided here may not be applicable if you plan to visit during a different season. Nonetheless, we found that freedom camping was not difficult to arrange. In urban areas, we stayed close to parks and road stations, which typically provide shelter and public bathroom facilities. Road stations, or "michi no eki", are particularly convenient for overnight stays, as they offer a range of amenities. In more remote areas, we pitched our tent near beaches or community centers. Community centers are well-equipped for a one-night stay, but it's important to seek permission from the locals beforehand. Please be aware that communicating with locals may be challenging if you do not speak Japanese. When choosing a camping location, we recommend avoiding bushy areas as there may be poisonous snakes hidden there.
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Corsica is well equipped. The facilities are clean and well maintained.
-You can find supermarkets pretty much everywhere except in the "Cap Corse", where the local shops where closed in winter.
-We noticed that pizzerias were popular even though we couldn't try them much in this season.
+Facilities in Okinawa are generally of good quality, as one would expect in Japan. Convenience stores are well located throughout the island and offer public bathrooms and hot water for drinking. We found these stores especially useful when we were unable to find a gas canister for our hiking stove elsewhere in Okinawa. However, it's worth noting that public baths are not as common in Okinawa as they are in other parts of Japan. We had hoped to recommend the public bath on Kumejima, but unfortunately, we found out that it had closed down after our visit to Okinawa.
 
-Although most of the businesses will accept the credit card, they often require a minimum amount of purchase.
-
-Regarding the toilets, you can find inside the large supermarkets, or at any café, bar, restaurants...
-
-Refilling your water bottles is not a big challenge as you can find public water taps frequently.
-The water from the tap is fresh and tastes good. 
-In the most remote parts, the water might not be drinkable or there might not be any tap at all. 
-In this case, you can ask the locals and they will likely provide you water. 
-
-We only had to stop at a bike shop once for checking our tyres' pressure. 
-You can find them at least in the main towns, which are never to far from your current location.
-
-
+When it comes to payment methods, cash is the safest and most widely accepted option. While credit cards are accepted at many places, they may not be accepted everywhere, so it's best to have some cash on hand just in case. If you need to withdraw money, we recommend doing so during normal business hours in downtown areas to avoid extra fees that may be charged for using ATMs outside of working hours. With a little extra planning, managing your budget should not be a problem.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 4 >}}
-Most of the locals can speak French and the Corsican dialect.
-They were really helpful and will gladly tell you about the Corsican culture if requested.
-We asked them many times for tips and advice, such as the best restaurant or the tastiest local specialty around.
+The Okinawan people are known for their warmth and hospitality. They have been extremely helpful to us on numerous occasions by providing invaluable advice. It is customary in Okinawan culture to break the ice by sharing alcohol, and we have been graciously invited to partake in this tradition.
 
-As a proof of their friendliness, one night we were camping near the beach, a local brought us a blanket in case we would feel too cold. We thought it was a really thoughtful gesture from that person.
+While the locals predominantly speak Japanese, you may hear variations in dialects and accents. Communication may prove challenging for non-Japanese speakers, as English is only commonly used near American military bases. Nevertheless, the locals are enthusiastic about engaging with visitors and will make every effort to communicate effectively.
 
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
-Corsican cuisine is heavily based on goat cheese (brocciu) and pork delicatessen. 
-It's not normally part of our diet, but Mina had the opportunity try homemade sausages and she enjoyed it.
 
-We strongly recommend the brocciu cheese. It tastes fantastic. Once you start, you cannot stop.
-
-We were also lucky to be there during the orange season. The oranges were juicy and sweet.
-We encountered many fruit stalls on the side of the road where we could find them for a couple euros per kilogram.
-
-In general, Corsica produces a wide variety of fruits and vegetables, to our surprise.
-
-Beverage-wise, the Corsican coffee tastes more similar to the Italian brew, than the generic watery French coffee you would find on the mainland.
-
-Last but no least, pizzas seem to also be part of their culture. There were heaps of pizzerias on the way, but we couldn't try any of them as they were closed for winter. We only ate them once we were in Ajaccio and they were top notch.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
 Since pork-based delicatessen is the local specialty, it's not easy to find vegetarian food in the smaller shops.
