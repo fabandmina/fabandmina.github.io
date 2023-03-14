@@ -1,7 +1,7 @@
 ---
 title: "okinawa"
-subtitle: " A tropical archipelago in Japan, with a unique culture and history."
-introduction: "The birthplace of Karate!"
+subtitle: " Un archipel tropical au Japon, avec une culture et une histoire uniques."
+introduction: "Le lieux de naissance du karaté."
 date: 2020-01-16T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52471434823_5e09ab050a_c.jpg"
 tags: trip
@@ -69,46 +69,46 @@ Dans les zones plus isolées, nous avons planté notre tente près des plages ou
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Facilities in Okinawa are generally of good quality, as one would expect in Japan. Convenience stores are well located throughout the island and offer public bathrooms and hot water for drinking. We found these stores especially useful when we were unable to find a gas canister for our hiking stove elsewhere in Okinawa. However, it's worth noting that public baths are not as common in Okinawa as they are in other parts of Japan. We had hoped to recommend the public bath on Kumejima, but unfortunately, we found out that it had closed down after our visit to Okinawa.
+Les installations à Okinawa sont généralement de bonne qualité, comme on peut s'y attendre au Japon. Les magasins de proximité sont bien situés dans toute l'île et offrent des toilettes publiques et de l'eau chaude pour boire. Nous avons trouvé ces magasins particulièrement utiles lorsque nous n'avons pas pu trouver de cartouche de gaz pour notre réchaud de randonnée ailleurs à Okinawa. Cependant, il convient de noter que les bains publics ne sont pas aussi courants à Okinawa que dans d'autres parties du Japon. Nous avions espéré recommander le bain public de Kumejima, mais malheureusement, nous avons découvert qu'il avait fermé après notre visite à Okinawa.
 
-When it comes to payment methods, cash is the safest and most widely accepted option. While credit cards are accepted at many places, they may not be accepted everywhere, so it's best to have some cash on hand just in case. If you need to withdraw money, we recommend doing so during normal business hours in downtown areas to avoid extra fees that may be charged for using ATMs outside of working hours. With a little extra planning, managing your budget should not be a problem.
+En ce qui concerne les modes de paiement, l'argent liquide est l'option la plus sûre et la plus largement acceptée. Bien que les cartes de crédit soient utilisables dans de nombreux endroits, elles peuvent ne pas être acceptées partout, il est donc préférable d'avoir un peu d'argent liquide sur soi au cas où. Si vous avez besoin de retirer de l'argent, nous vous recommandons de le faire pendant les heures d'ouverture normales dans les zones du centre-ville pour éviter les frais supplémentaires qui peuvent être facturés pour l'utilisation des distributeurs automatiques de billets en dehors des heures de travail. Avec un peu de planification supplémentaire, la gestion de votre budget ne devrait pas poser de problème.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 4 >}}
-The Okinawan people are known for their warmth and hospitality. They have been extremely helpful to us on numerous occasions by providing invaluable advice. It is customary in Okinawan culture to break the ice by sharing alcohol, and we have been graciously invited to partake in this tradition.
+Les habitants d'Okinawa sont connus pour leur chaleur et leur hospitalité. Ils ont été extrêmement utiles pour nous à de nombreuses occasions en nous fournissant des conseils précieux. Dans la culture d'Okinawa, il est courant de briser la glace en partageant de l'alcool, et nous avons été gracieusement invités à participer à cette tradition.
 
-While the locals predominantly speak Japanese, you may hear variations in dialects and accents. Communication may prove challenging for non-Japanese speakers, as English is only commonly used near American military bases. Nevertheless, the locals are enthusiastic about engaging with visitors and will make every effort to communicate effectively.
+Bien que les habitants parlent principalement japonais, vous pourriez entendre des variations de dialectes et d'accents. La communication peut s'avérer difficile pour les non-japonais, car l'anglais est principalement utilisé qu'aux alentours des bases militaires américaines. Néanmoins, les habitants sont enthousiastes à l'idée d'interagir avec les visiteurs et feront tout leur possible pour communiquer efficacement.
 
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
-Okinawa boasts a distinctive cuisine that sets it apart from the specialties of the rest of Japan. It showcases notable influences from the United States and Eastern Asia. Throughout our stay, we frequented local shops to order our meals, and we were consistently satisfied. The portions were generously sized, especially compared to the typical Japanese serving sizes.
+Okinawa est fière de sa cuisine unique qui la distingue des spécialités du reste du Japon. Elle présente des influences notables des États-Unis et de l'Asie orientale. Tout au long de notre séjour, nous avons fréquenté les commerces locaux pour commander nos repas, et nous avons été systématiquement satisfaits. Les portions étaient généreusement dimensionnées, surtout par rapport aux portions typiques japonaises.
 
-In remote areas, locating grocery stores can be challenging. Instead, locals often rely on cooperative shops that offer a limited selection of high-quality products and produce. We made an effort to limit our purchases from these cooperatives to avoid depleting the food village's stocks.
+Dans les zones éloignées, il peut être difficile de trouver des épiceries. Au lieu de cela, les habitants comptent souvent sur des magasins coopératifs qui offrent une petite sélection de produits et de produits frais de bonne qualité. Nous avons fait un effort pour limiter nos achats dans ces coopératives afin d'éviter d'épuiser les stocks alimentaires du village.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-The cuisine of Okinawa heavily features pork-based dishes, which can make it challenging to find vegetarian options in local shops and restaurants. Even seemingly innocuous items like biscuits may contain pork grease, so it's crucial to carefully review the list of ingredients before making a purchase.
+La cuisine d'Okinawa met l'accent sur les plats à base de porc, ce qui peut rendre difficile la recherche d'options végétariennes dans les magasins et restaurants locaux. Même des produits apparemment anodins comme les biscuits peuvent contenir de la graisse de porc, il est donc crucial de vérifier attentivement la liste des ingrédients avant d'effectuer un achat.
 
-One of Okinawa's distinctive specialties is black sugar, or "kokutou," which involves using cow bones in the sugar processing. However, for vegetarians, there are plenty of other options to enjoy, such as the local tofu and readily available root vegetables.
+L'une des spécialités distinctives d'Okinawa est le sucre noir, ou "kokutou", qui implique l'utilisation d'os de vache dans le processus de fabrication du sucre. Cependant, pour les végétariens, il existe de nombreuses autres options à savourer, telles que le tofu local et les légumes-racines facilement disponibles.
 #### {{< translate what_we_eat >}} 
 
-- Peanuts & soy tofu
-- Juicy (pork rice)
-- Purple sweet potatoes
-- Stir fried goya
-- Okinawan Soba
-- Fu (wheat gluten)
-- Coffee
-- Half-priced bento from the supermarket
+- Tofu de cacahouètes et soja
+- Juicy (riz au porc)
+- Patates douces mauves
+- Sauté de goya
+- Soba d'Okinawa
+- Fu (gluten de blé)
+- Café
+- Bento du supermarché à moitié 
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-Tofu soup from [Tofu Higa, Ishigaki](https://goo.gl/maps/rGCE7KA5KXjJKFA26)
+La soupe de tofu de [Tofu Higa, Ishigaki](https://goo.gl/maps/rGCE7KA5KXjJKFA26)
 
 #### ⭐{{< translate mina_favourite >}}
 
-[Izakaya restaurant](https://goo.gl/maps/qmrTj5bnKzj3kzjK6) in Kumejima with good food and nice owner
+[Izakaya restaurant](https://goo.gl/maps/qmrTj5bnKzj3kzjK6) à Kumejima, bonne cuisine et propriétaire sympathique
 
 
 
@@ -117,9 +117,9 @@ Tofu soup from [Tofu Higa, Ishigaki](https://goo.gl/maps/rGCE7KA5KXjJKFA26)
 
 |             |             |
 |-------------|-------------|
-|   [Yonaguni Monument](https://goo.gl/maps/JbcMCutub26vcj3F7)    |   The Japanese Atlantis City, under the sea   |
-|   [Bade Haus](https://goo.gl/maps/2dBKVf7LMtxKU9sb7)    |   Hot bath facility using deep sea water, unfortunately closed at the time of writing     |
-|   [Dr Koto's Clinic](https://goo.gl/maps/iKLakxiQSUA8Mx468)    |   The real movie set used for the Japanese drama of the same name   |
-|   [Mape](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  Panoramic view from the top of the second highest mountain in Ishigaki    |
-|   [CamCam Guesthouse](https://goo.gl/maps/Z7rXSA1ToueKyVLg6)    |   Cheap accommodation that will give you a frugal but authentic experience    |
+|   [Monument de Yonaguni](https://goo.gl/maps/JbcMCutub26vcj3F7)    |   L'Atlantide Japonais sous la mer   |
+|   [Bade Haus](https://goo.gl/maps/2dBKVf7LMtxKU9sb7)    |   Bain public utilisant les eaux marines profondes, malheureusement fermé à l'heure où j'écris    |
+|   [Dr Koto's Clinic](https://goo.gl/maps/iKLakxiQSUA8Mx468)    |   Le véritable lieu de tournage de la série japonaise du même nom   |
+|   [Mape](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  Vue panoramique du haut de la deuxième montagne la plus élevée d'Ishigaki    |
+|   [CamCam Guesthouse](https://goo.gl/maps/Z7rXSA1ToueKyVLg6)    |   Un hébergement bon marché qui vous offrira une expérience frugale mais authentique    |
 
