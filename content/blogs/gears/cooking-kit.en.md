@@ -16,7 +16,7 @@ Additionally, we ordered an extra plate and a fuel bottle for storing the spirit
 ## Why this cooking kit?
 For years, we relied on a hiking gas stove that never failed us and was easy to carry. However, we often struggled to find compatible cartridges, especially when flying, and started thinking about upgrading our cooking system.
 
-We considered two options: a fuel burner or a spirit burner. The fuel system had the advantage of being widely available and inexpensive, but the smell was quite strong, and not every petrol station sold small amounts of fuel. After weighing the pros and cons, we decided to go with a spirit burner, which had a more bearable smell, was easier to purchase in small amounts, and could be found at hardware stores or supermarkets, at least in Europe.
+We considered two options: a fuel burner or a spirit burner. Fuel had the advantage of being widely available and inexpensive, but the smell was quite strong, and not every petrol station sold small amounts of fuel. After weighing the pros and cons, we decided to go with a spirit burner, which had a more bearable smell, was easier to purchase in small amounts, and could be found at hardware stores or supermarkets, at least in Europe.
 
 Mina researched the spirit stove market extensively and discovered that Trangia had been selling the same design of spirit burners for almost a century. They offered many different configurations to suit every need, and we ultimately chose their lightest version sized for two people. 
 
