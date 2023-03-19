@@ -85,6 +85,9 @@ defaultContentLanguage = 'en'
     languageName = "🇯🇵 日本語"
     weight = 3
   
+### Search bar parameters
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 ### Other parametres ###
 [params]
