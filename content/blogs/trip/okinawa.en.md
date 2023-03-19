@@ -39,6 +39,7 @@ Our journey was an unforgettable one, one that will forever hold a place in our 
 - **{{< translate way_of_travelling >}}** Walking and public transports
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 21 days
+- **{{< translate distance >}}** 229 km
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 4 >}}

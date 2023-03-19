@@ -1,7 +1,7 @@
 ---
 title: "okinawa"
-subtitle: " A tropical archipelago in Japan, with a unique culture and history."
-introduction: "The birthplace of Karate!"
+subtitle: " ユニークな文化と歴史を持つ日本の熱帯群島"
+introduction: "空手発祥の地！"
 date: 2020-01-16T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52471434823_5e09ab050a_c.jpg"
 tags: trip
@@ -10,105 +10,110 @@ map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&
 author: fab
 ---
 ## {{< translate "travel_story" >}}
-Exploring the sunken monument of Yonaguni had been a long-awaited adventure on our bucket list. We had planned this trip at the beginning of our relationship, while we were still in New Zealand. Our plan consisted of island-hopping through the Okinawan islands until we reached our final destination. We routed our journey across Okinawa's main island, Kumejima, Tonaki, Ishigaki, and finally Yonaguni.
+海底に沈んだ与那国島の遺跡を探検することは、私達のウィッシュリストに載せて以来、大望の冒険でした。ニュージーランドにいた時(私達の関係の始まりの頃)この旅行を計画していました。私達は沖縄諸島の島々、沖縄本島,久米島,渡名喜島,石垣島と巡り、最終目的地である与那国島へ向かう旅程を計画しました。
 
-To prepare for this unique experience, we had to consider a few extra precautions. The Yonaguni monument is a massive rock formation located about 30 meters deep under the sea, with strong currents. Despite its ancient city-like shape, it is unclear whether it was built by our ancestors between 2000 and 3000 years ago. If it were, it would be Japan's Atlantis city.
+このユニークな体験に備え、私達はいくつかの追加の注意を払う必要がありました。与那国島海底地形は、強い海流のある海底約30mに位置する巨大な岩石の形成物です。古代都市のような形をしていますが、約2000年から3000年前に人間によって建てられたかどうかは不明です。もしそうであれば、これは日本のアトランティス都市になるでしょう。
 
-My partner, Mina, was already a confirmed scuba diver and ready to dive. As for me, I had to start from the bottom and earn two levels on my scuba diving license in just a couple of months. Fortunately, I was able to complete this achievement in New Caledonia, where the weather was ideal for diving.
+私は既にスキューバダイビングのライセンスを取得しており、このポイントに潜る準備ができていました。私のパートナーであるFabは、ゼロからダイビングライセンスの2つのレベル(オープンウォーターとアドバンス)をわずか数か月で取得する必要がありました。
 
-Our journey was an unforgettable one, one that will forever hold a place in our hearts. For the Okinawan islands left a lasting mark on us, and the memories we made were like precious pearls, to be cherished for eternity.
+この沖縄諸島を巡る旅での思い出や経験は、ずっと大切にする貴重な真珠のようで、私達の心に永遠に残るでしょう
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- Landscapes
-- Laid back atmosphere
-- Exotic culture, different from the Japanese mainland
+- 美しい風景
+- のんびりとした雰囲気
+- 本土とは異なるエキゾチックな文化
   
 #### {{< translate what_we_dislike >}}
 
-- Poisonous snakes in the bushes
-- Unstable weather
+- 茂みにいる毒蛇
+- 不安定な天候
 
 
 ## {{< translate "in_details" >}}
 
 #### {{< translate stats >}}
 
-- **{{< translate way_of_travelling >}}** Walking and public transports
+- **{{< translate way_of_travelling >}}** 徒歩と公共交通機関
 - **{{< translate starting_date >}}** {{< article_date >}} 
-- **{{< translate duration >}}** 21 days
+- **{{< translate duration >}}** 21日間
+- **{{< translate distance >}}** 229 km
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 4 >}}
-We flew from Tokyo to Naha via a low-cost carrier before connecting to various islands via ferries and domestic flights. Please note that weather conditions can be unpredictable and may affect transport schedules. Additionally, some ferry companies may not offer online booking options, so it is advisable to visit their offices on the day of departure.
+私達は、格安航空会社を利用して東京から那覇に飛び、その後フェリーや国内線を利用して様々な島を訪れました。交通機関のスケジュールは、予測不可能な天候の影響を受けやすいことに注意が必要です。また、一部のフェリー会社はオンライン予約等に対応していないので、出発当日(又は前日)にフェリー乗り場に直接行くことをお勧めします。
 
 #### {{< translate fab >}} 🇫🇷
-French passports' holders can stay 90 days as a visitor in Japan (Okinawan islands included)
+フランスのパスポート所有者は、（沖縄諸島を含む）日本を観光目的で90日間滞在することができます。
 
 #### {{< translate mina >}} 🇯🇵
-As a Japanese national, you just need to present your passport for entering Japan.
-For domestic flights, it is not even required.
+日本国民として、日本に入国するためにはパスポートの提示のみで十分です。国内線利用の場合、それすら必要ありません。
 
 
 ### {{< translate "road_condition" >}}
 {{< score 5 >}}
-While the roads are generally well-maintained, it is important to exercise caution when venturing off the tar road. Poisonous snakes often lurk in the shadows, so it is recommended that you use a stick to survey the ground and avoid any unwanted encounters. In the event that you are bitten, it is crucial that you identify the species of snake and seek medical attention immediately. Taking a picture of the culprit can help in identifying the correct antivenom required for treatment. Remember, identification is key to your survival in such a situation.
+一般的に道路はとても良く整備されていますが、舗装されていない道を探索する場合にはハブ(毒蛇)に注意が必要です。彼らは草むらに潜んでいるため、長い棒などを使って前方の地面を調べながら歩き、望ましくない出会いを避けることをお勧めします。もし運悪く咬まれてしまった場合、蛇の種類を特定し、直ちに医療機関を受診することが非常に重要です。なるべく、加害者であるヘビを撮影して下さい！治療に必要な正しい対毒血清の種類を特定することに役立ちます。このような状況において、ヘビの種類の特定は生き残るために大切な鍵です。
 
 ### {{< translate "accommodations" >}}
 {{< score 5 >}}
-As a popular tourist destination, Okinawa offers a range of accommodations to suit every budget and preference. However, we found that staying in local guesthouses offered a unique and authentic experience. These guesthouses provide excellent facilities at an affordable price and give you the chance to immerse yourself in the local culture. One of our favorite aspects of staying in a guesthouse was the opportunity to partake in "yuntaku," a traditional social gathering similar to the French "apéro." This gave us the chance to interact with locals and learn more about their customs and way of life.
+人気の観光地である沖縄には、予算や好みに合わせた宿泊施設が幅広く用意されています。私達は主に地元のゲストハウスに滞在し、より沖縄っぽい体験を楽しみました。これらのゲストハウスは、手頃な価格で必要最低限の設備を提供し、地元の文化に浸ることができる機会を与えてくれます。
+
+私達が特に気に入ったのは、『ゆんたく』と呼ばれる伝統的な集会に参加できることでした。これは、簡単に説明すると緩い雰囲気の語らいの場で、フランスの『アペロ』文化ととても似ており、現地の人や他の宿泊客とお茶やお酒を片手におしゃべりを楽しみました。これは、沖縄の習慣や生活様式について学ぶことができる貴重な機会を提供してくれます。
 
 
 ### {{< translate "freedom_camping" >}}
 {{< score 5 >}}
-Please note that our experience of freedom camping in Okinawa was during winter, and the information provided here may not be applicable if you plan to visit during a different season. Nonetheless, we found that freedom camping was not difficult to arrange. In urban areas, we stayed close to parks and road stations, which typically provide shelter and public bathroom facilities. Road stations, or "michi no eki", are particularly convenient for overnight stays, as they offer a range of amenities. 
+私達が今回沖縄を訪れたのは冬季だったので他のシーズン中は分かりませんが、沖縄で野宿をするのは難しくありません。栄えた街では東屋やトイレを備えた公園や道の駅にテントを張りました。都心から離れた地域では、ビーチや公民館の近くに滞在しました。公民館の敷地内で野宿を行いたい場合、地域の方の許可を取ることは大切です。
 
-In more remote areas, we pitched our tent near beaches or community centers. Community centers are well-equipped for a one-night stay, but it's important to seek permission from the locals beforehand. Please be aware that communicating with locals may be challenging if you do not speak Japanese. When choosing a camping location, we recommend avoiding bushy areas as there may be poisonous snakes hidden there.
+キャンプ地を選ぶ際、毒蛇が潜んでいる可能性のある茂みは避けることをお勧めします。
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Facilities in Okinawa are generally of good quality, as one would expect in Japan. Convenience stores are well located throughout the island and offer public bathrooms and hot water for drinking. We found these stores especially useful when we were unable to find a gas canister for our hiking stove elsewhere in Okinawa. However, it's worth noting that public baths are not as common in Okinawa as they are in other parts of Japan. We had hoped to recommend the public bath on Kumejima, but unfortunately, we found out that it had closed down after our visit to Okinawa.
+ここは日本ですし、一般的に期待されるように設備は整っています。コンビニは島全体に配置されており、公共トイレやお湯の提供も行われています。私達はこの旅行中、ハイキングストーブ用のガス缶を沖縄で入手することが出来なかったので、コンビニに置いてある給湯器に何度も助けられました。
 
-When it comes to payment methods, cash is the safest and most widely accepted option. While credit cards are accepted at many places, they may not be accepted everywhere, so it's best to have some cash on hand just in case. If you need to withdraw money, we recommend doing so during normal business hours in downtown areas to avoid extra fees that may be charged for using ATMs outside of working hours. With a little extra planning, managing your budget should not be a problem.
+沖縄には、いわゆる銭湯の文化がないので、他の日本の地域を野宿を基本とした旅をする時と比べ、入浴の機会を得ることが難しくなりがちです。私達は久米島の温浴施設(キャンプ場併設)を紹介しようとしましたが、残念ながら執筆現在、閉館中だと判明しました。
+
+支払い方法に関しては、現金が最もよく受け入れられています。カード払いは全ての場所で可能なわけではないため、幾分か現金を手元に用意することをお勧めします。現金は郵便局かコンビニにあるATMで引き出す事ができます。
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 4 >}}
-The Okinawan people are known for their warmth and hospitality. They have been extremely helpful to us on numerous occasions by providing invaluable advice. It is customary in Okinawan culture to break the ice by sharing alcohol, and we have been graciously invited to partake in this tradition.
+沖縄の人々は、温かさとおもてなしの精神を持ち合わせています。彼らは、何度も役立つアドバイスをくれ、私達の旅に不可欠な存在でした。沖縄の文化では、お酒を共有することで互いに打ち解けることが一般的なのか、私達は頻繁に、レストラン，宿，道端，公園などでお酒のオファーを受けました。
 
-While the locals predominantly speak Japanese, you may hear variations in dialects and accents. Communication may prove challenging for non-Japanese speakers, as English is only commonly used near American military bases. Nevertheless, the locals are enthusiastic about engaging with visitors and will make every effort to communicate effectively.
+ほとんどの人は日本語や沖縄の方言(島や地域によって異なる)を話します。私は個人的に、沖縄アクセントの日本語が大好きです。英語は、アメリカの軍事基地周辺や観光地でしか一般的に話されないため、非日本語話者にとってはコミュニケーションが難しい場合もあるでしょう。それでも、地元の人々は訪問者との交流に熱心で、効果的なコミュニケーションを図るためのあらゆる努力をします。
 
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
-Okinawa boasts a distinctive cuisine that sets it apart from the specialties of the rest of Japan. It showcases notable influences from the United States and Eastern Asia. Throughout our stay, we frequented local shops to order our meals, and we were consistently satisfied. The portions were generously sized, especially compared to the typical Japanese serving sizes.
+ここは日本の他の地域の特産品とは異なる、沖縄独自の料理を誇っています。アメリカや東アジアの影響を受けた独特な料理があります。私達は滞在中、地元のお店に頻繁に足を運び、沖縄料理に毎回大満足しました。なお、一般的な日本の食事と比較して、量が多いと感じました。
 
-In remote areas, locating grocery stores can be challenging. Instead, locals often rely on cooperative shops that offer a limited selection of high-quality products and produce. We made an effort to limit our purchases from these cooperatives to avoid depleting the village's food stocks.
+また、遠隔地では、食料品店を見つけることが困難な場合があります。その代わり、地元の人は基本的に宅配便を利用、又は協同組合のお店(コープ)にて買物をするようです。私達は、その村の食糧ストックをなるべく減らさないように、これらの食料品店からの購入を制限するように努めました。
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-The cuisine of Okinawa heavily features pork-based dishes, which can make it challenging to find vegetarian options in local shops and restaurants. Even seemingly innocuous items like biscuits may contain pork grease, so it's crucial to carefully review the list of ingredients before making a purchase.
+沖縄の料理は豚肉ベースの料理が多く、地元の店舗やレストランでベジタリアン向けの食べ物を見つけることが難しい場合があります。沖縄土産として有名なちんすこうをはじめ、お菓子類にも豚脂が含まれていることがあるため、購入前に原材料名を注意深く確認することが大切です。
 
-One of Okinawa's distinctive specialties is black sugar, or "kokutou," which involves using cow bones in the sugar processing. However, for vegetarians, there are plenty of other options to enjoy, such as the local tofu and readily available root vegetables.
+また、沖縄名物の一つである黒糖は、砂糖の加工に牛骨が使用されているので気をつけて下さい。
 #### {{< translate what_we_eat >}} 
 
-- Peanuts & soy tofu
-- Juicy (pork rice)
-- Purple sweet potatoes
-- Stir fried goya
-- Okinawan Soba
-- Fu (wheat gluten)
-- Coffee
-- Half-priced bento from the supermarket
+- 主に食べたもの
+- ジーマーミー豆腐と島豆腐
+- ジューシー
+- 紫いも
+- ゴーヤチャンプルー
+- 沖縄そば
+- 車麩
+- コーヒー
+- スーパーの半額弁当
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-Tofu soup from [Tofu Higa, Ishigaki](https://goo.gl/maps/rGCE7KA5KXjJKFA26)
+石垣島にある、食堂 [とうふの比嘉 ](https://goo.gl/maps/rGCE7KA5KXjJKFA26)の豆腐定食(ぶっかけ)
 
 #### ⭐{{< translate mina_favourite >}}
 
-[Izakaya restaurant](https://goo.gl/maps/qmrTj5bnKzj3kzjK6) in Kumejima with good food and nice owner
+久米島にある、経営者が優しく美味しい地元料理を提供する[居酒屋](https://goo.gl/maps/qmrTj5bnKzj3kzjK6)
 
 
 
@@ -117,9 +122,9 @@ Tofu soup from [Tofu Higa, Ishigaki](https://goo.gl/maps/rGCE7KA5KXjJKFA26)
 
 |             |             |
 |-------------|-------------|
-|   [Yonaguni Monument](https://goo.gl/maps/JbcMCutub26vcj3F7)    |   The Japanese Atlantis City, under the sea   |
-|   [Bade Haus](https://goo.gl/maps/2dBKVf7LMtxKU9sb7)    |   Hot bath facility using deep sea water, unfortunately closed at the time of writing     |
-|   [Dr Koto's Clinic](https://goo.gl/maps/iKLakxiQSUA8Mx468)    |   The real movie set used for the Japanese drama of the same name   |
-|   [Mape](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  Panoramic view from the top of the second highest mountain in Ishigaki    |
-|   [CamCam Guesthouse](https://goo.gl/maps/Z7rXSA1ToueKyVLg6)    |   Cheap accommodation that will give you a frugal but authentic experience    |
+|   [与那国島海底地形](https://goo.gl/maps/JbcMCutub26vcj3F7)    |   日本のアトランティス(かも？)   |
+|   [バーデハウス](https://goo.gl/maps/2dBKVf7LMtxKU9sb7)    |   久米島の海洋深層水を使った温浴施設。残念ながら現在閉館中     |
+|   [Dr.コトー診療所ロケ地](https://goo.gl/maps/iKLakxiQSUA8Mx468)    |   ドラマの撮影のために造られたセット   |
+|   [野底マーペー](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  P山と海を同時に見渡せる石垣島で2番目に高い山(丘？)    |
+|   [ゲストハウスCamCam沖縄](https://goo.gl/maps/Z7rXSA1ToueKyVLg6)    |   シンプルで必要最低限の設備を全て備えた素晴らしい宿。価格が異常に低い。    |
 

@@ -39,6 +39,7 @@ Notre voyage a été inoubliable, un voyage qui restera à jamais gravé dans no
 - **{{< translate way_of_travelling >}}** Marche et transports publics
 - **{{< translate starting_date >}}** {{< article_date >}} 
 - **{{< translate duration >}}** 21 jours
+- **{{< translate distance >}}** 229 km
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 4 >}}
