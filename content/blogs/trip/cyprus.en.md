@@ -125,7 +125,7 @@ From the supermarkets, we found local tomatoes and cucumbers, and from the trees
 The most popular street food is gyros, the local kebab sandwich. And it tastes fabulous thanks to the fresh ingredients and the typical halloumi and feta cheeses.
 
 If you feel more like going to the restaurant, we would recommend to order mezze. Mezze is a full course menu that includes a numerous sets of local dishes. Each dish does not look copious, but all combined, it will make you full for the rest of the day.
-In the North part, we found an excellent Turkish restaurant that we included in our [{{< translate top_5_locations >}}](#hahahugoshortcode-s3-hbhb).
+In the North part, we found an [excellent Turkish restaurant](https://goo.gl/maps/iKQDHXXu1BBug7vT7).
 
 Last but not least, Cyprus is also known as the "Coffee Island" for a reason. Every shop can serve, at least, a decent coffee. Plus, there are a few typical variations to be drunk for diverse occasions:
 - Cypriot coffee: the ground coffee is brewed directly in your cup and tates a little bit green

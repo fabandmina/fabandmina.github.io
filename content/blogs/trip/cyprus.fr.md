@@ -120,7 +120,7 @@ Dans les supermarchés, nous avons trouvé des tomates et des concombres locaux,
 
 La nourriture de rue la plus populaire est le gyros, le kebab local. Et il a un goût fabuleux grâce aux ingrédients frais et aux fromages halloumi et feta typiques.
 
-Si vous avez plutôt envie d'aller au restaurant, nous vous recommandons de commander des mezze. Mezze est un menu complet qui comprend de nombreux ensembles de plats locaux. Chaque plat n'a pas l'air copieux, mais tous réunis, il vous rassasiera pour le reste de la journée. Dans la partie nord, nous avons trouvé un excellent restaurant turc que nous avons inclus dans nos [{{< translate top_5_locations >}}](#hahahugoshortcode-s3-hbhb).
+Si vous avez plutôt envie d'aller au restaurant, nous vous recommandons de commander des mezze. Mezze est un menu complet qui comprend de nombreux ensembles de plats locaux. Chaque plat n'a pas l'air copieux, mais tous réunis, il vous rassasiera pour le reste de la journée. Dans la partie nord, nous avons trouvé un [excellent restaurant turc](https://goo.gl/maps/iKQDHXXu1BBug7vT7).
 
 Enfin et surtout, Chypre est également connue sous le nom de "l'île du café", et ce pour bonne une raison. Partout vous pourrez trouver un café au moins décent. De plus, il existe quelques variantes typiques à boire pour diverses occasions :
 
