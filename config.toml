@@ -90,6 +90,10 @@ defaultContentLanguage = 'en'
 [params]
   css = true
 
+  # Enable search bar
+  search = true
+  search_minify = false
+
   ### privacy_policy ###
   privacy_policy_page = "privacy_policy"
 
