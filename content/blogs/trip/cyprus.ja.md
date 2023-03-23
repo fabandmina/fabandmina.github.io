@@ -141,7 +141,7 @@ album: https://ik.imagekit.io/fabanmina/Cyprus
 
 #### ⭐{{< translate fab_favourite >}}
 
-[キプロス珈琲](https://www.gcharalambous.com/).
+[キプロス珈琲](https://www.gcharalambous.com/)
 
 #### ⭐{{< translate mina_favourite >}}
 
