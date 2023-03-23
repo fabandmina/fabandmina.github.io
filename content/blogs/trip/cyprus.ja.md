@@ -22,7 +22,6 @@ album: https://ik.imagekit.io/fabanmina/Cyprus
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- 良かったこと
 - コーヒー文化
 - 快適な天候
 - 優しい地元民
