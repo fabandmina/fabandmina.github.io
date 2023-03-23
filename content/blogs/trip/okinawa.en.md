@@ -99,6 +99,7 @@ One of Okinawa's distinctive specialties is black sugar, or "kokutou," which inv
 - Stir fried goya
 - Okinawan Soba
 - Fu (wheat gluten)
+- Sanpincha (jasmin tea)
 - Coffee
 - Half-priced bento from the supermarket
 
