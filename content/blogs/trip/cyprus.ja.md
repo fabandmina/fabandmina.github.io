@@ -7,7 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52655326460_ea85a8a023_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720305588577"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2568117#8/35.0615/33.2007"
-author: fab
+author: mina
 album: https://ik.imagekit.io/fabanmina/Cyprus
 ---
 ## {{< translate "travel_story" >}}
