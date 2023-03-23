@@ -7,7 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52471434823_5e09ab050a_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720302708434"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&&datalayers=2484874#7/25.3/125.937"
-author: fab
+author: mina
 ---
 ## {{< translate "travel_story" >}}
 海底に沈んだ与那国島の遺跡を探検することは、私達のウィッシュリストに載せて以来、大望の冒険でした。ニュージーランドにいた時(私達の関係の始まりの頃)この旅行を計画していました。私達は沖縄諸島の島々、沖縄本島,久米島,渡名喜島,石垣島と巡り、最終目的地である与那国島へ向かう旅程を計画しました。
