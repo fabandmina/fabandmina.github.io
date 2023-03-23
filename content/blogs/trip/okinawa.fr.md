@@ -99,6 +99,7 @@ L'une des spécialités distinctives d'Okinawa est le sucre noir, ou "kokutou", 
 - Sauté de goya
 - Soba d'Okinawa
 - Fu (gluten de blé)
+- Sanpincha (thé au jasmin)
 - Café
 - Bento du supermarché à moitié 
 

@@ -96,13 +96,13 @@ author: mina
 また、沖縄名物の一つである黒糖は、砂糖の加工に牛骨が使用されているので気をつけて下さい。
 #### {{< translate what_we_eat >}} 
 
-- 主に食べたもの
 - ジーマーミー豆腐と島豆腐
 - ジューシー
 - 紫いも
 - ゴーヤチャンプルー
 - 沖縄そば
 - 車麩
+- さんぴん茶
 - コーヒー
 - スーパーの半額弁当
 
@@ -125,6 +125,6 @@ author: mina
 |   [与那国島海底地形](https://goo.gl/maps/JbcMCutub26vcj3F7)    |   日本のアトランティス(かも？)   |
 |   [バーデハウス](https://goo.gl/maps/2dBKVf7LMtxKU9sb7)    |   久米島の海洋深層水を使った温浴施設。残念ながら現在閉館中     |
 |   [Dr.コトー診療所ロケ地](https://goo.gl/maps/iKLakxiQSUA8Mx468)    |   ドラマの撮影のために造られたセット   |
-|   [野底マーペー](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  P山と海を同時に見渡せる石垣島で2番目に高い山(丘？)    |
+|   [野底マーペー](https://goo.gl/maps/amwpx5cqTWutTTTu9)    |  山と海を同時に見渡せる石垣島で2番目に高い山(丘？)    |
 |   [ゲストハウスCamCam沖縄](https://goo.gl/maps/Z7rXSA1ToueKyVLg6)    |   シンプルで必要最低限の設備を全て備えた素晴らしい宿。価格が異常に低い。    |
 
