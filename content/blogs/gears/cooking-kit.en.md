@@ -41,6 +41,7 @@ All in all, this valuable addition has made our long-distance tours all the more
 - Totally silent
 - Affordable price
 - Reactive customers service
+- Spare parts are easy to find
   
 ### Things to improve
 - Rough edges and finitions

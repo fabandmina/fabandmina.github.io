@@ -41,6 +41,7 @@ Dans l'ensemble, cette précieuse addition a rendu nos voyages longue distance e
 - Complètement silencieux
 - Prix abordable
 - Service Après-Vente réactif
+- Pièces de rechange faciles à trouver
   
 ### Ce qui pourrait être amélioré
 - Bords rugueux et finitions perfectibles
