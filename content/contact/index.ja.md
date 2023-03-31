@@ -7,5 +7,6 @@ thumbnail:
 
 ---
 {{< contact_form >}}
-### または、インスタグラムのDMでお気軽にお問い合わせ下さい。皆さまからのご連絡をお待ちしております。[**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}})
+
+または、インスタグラムのDMでお気軽にお問い合わせ下さい。皆さまからのご連絡をお待ちしております。[**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}})
 

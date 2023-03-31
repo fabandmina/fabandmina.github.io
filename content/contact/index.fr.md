@@ -7,4 +7,5 @@ thumbnail:
 
 ---
 {{< contact_form >}}
-### Ou envoyez-nous un MD Instagram à [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
+
+Ou envoyez-nous un MD Instagram à [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
