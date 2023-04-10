@@ -54,7 +54,7 @@ All in all, this valuable addition has made our long-distance tours all the more
 
 |         General Information                                                        |
 |--------------------|---------------------------------------------------------------|
-| Vendor        | [Trangia](https://https://trangia.se/)                                |
+| Vendor        | [Trangia](https://trangia.se/)                                |
 | Model         | Trangia Stove 27-2 UL                                                     |
 | Size          | Ø185mm x 100mm    |
 | Saucepans        | 1L                                                              |

@@ -56,7 +56,7 @@ draft: false
 
 |         General Information                                                        |
 |--------------------|---------------------------------------------------------------|
-| Vendor        | [Trangia](https://https://trangia.se/)                                |
+| Vendor        | [Trangia](https://trangia.se/)                                |
 | Model         | Trangia Stove 27-2 UL                                                     |
 | Size          | Ø185mm x 100mm    |
 | Saucepans        | 1L                                                              |

@@ -54,7 +54,7 @@ Dans l'ensemble, cette précieuse addition a rendu nos voyages longue distance e
 
 |         General Information                                                        |
 |--------------------|---------------------------------------------------------------|
-| Vendor        | [Trangia](https://https://trangia.se/)                                |
+| Vendor        | [Trangia](https://trangia.se/)                                |
 | Modèle         | Trangia Stove 27-2 UL                                                     |
 | Taille          | Ø185mm x 100mm    |
 | Pots        | 1L                                                              |
