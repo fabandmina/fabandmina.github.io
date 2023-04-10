@@ -1,8 +1,8 @@
 ---
 title: "cooking-kit"
 subtitle: " Test du Kit de Cuisine Trangia : Un Kit de Cuisine pour les Aventuriers Gourmets ! "
-introduction: 'Hase Pino Allround 2021 on this picture.'
-date: 2022-10-02T16:36:59+02:00
+introduction: "Utilisation discrète de notre kit pour la préparation d'un petit-déjeuner sur la plage ensoleillée."
+date: 2023-04-10T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52808085238_3ee511d039_k.jpg"
 tags: gears
 author: fab

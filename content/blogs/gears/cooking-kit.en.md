@@ -1,8 +1,8 @@
 ---
 title: "cooking-kit"
 subtitle: " Cook Like a Pro with Trangia Stove: The Best-Selling Swedish Outdoor Cooking Set!"
-introduction: 'Hase Pino Allround 2021 on this picture.'
-date: 2022-10-02T16:36:59+02:00
+introduction: 'Secretly boiling water for our breakfast on the sunny beach!'
+date: 2023-04-10T16:36:59+02:00
 thumbnail: "https://live.staticflickr.com/65535/52808085238_3ee511d039_k.jpg"
 tags: gears
 author: fab
