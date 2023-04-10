@@ -3,10 +3,10 @@ title: "cooking-kit"
 subtitle: " スウェーデン発のアウトドア料理セット : トランギアストーブはプロのような調理を可能にする屋外キッチン！"
 introduction: 'Hase Pino Allround 2021 on this picture.'
 date: 2022-10-02T16:36:59+02:00
-thumbnail: "https://live.staticflickr.com/65535/52648835781_c8895a3c58_k.jpg"
+thumbnail: "https://live.staticflickr.com/65535/52808085238_3ee511d039_k.jpg"
 tags: gears
 author: mina
-draft: true
+draft: false
 ---
 
 ## このセットについて
