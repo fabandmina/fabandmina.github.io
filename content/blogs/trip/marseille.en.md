@@ -77,8 +77,26 @@ Finally, hitchhiking, although not as common as it once was, is a personal favor
 ### Settling in Marseille
 {{< score 3 >}}
 
+In France, the process of settling down is no simple feat. Such was our experience, Mina and I. Mina, lacking French citizenship, and myself, registered in the distant land of New Caledonia - a peculiar status, akin to that of an immigrant.
+
+The initial hurdle one must surmount is obtaining a visa - a necessity for entry into France and the Schengen area. As a French national, I faced no significant obstacles, but Mina arrived with a mere working holiday visa for Spain, later converting it into a visitor visa through border crossings with the UK. For a lengthier stay, we resolved to unite in Marseille, affording us eligibility for a partner visa.
+
+The bureaucratic ordeal of marrying in France is quite cumbersome in the present day. The constraints imposed upon marriage vary by the city council of the betrothal. The principal prerequisite is to officiate the ceremony in the town hall of one's official residence, or that of one's parents. In view of this, we chose Marseille as the optimal location for our nuptials.
+
+However, proving our residency in Marseille necessitated much exertion. We were obliged to establish official residence in the city, precluding short-term lodging as a viable option. We had to procure a long-term apartment, a tedious process we explain in the following section.
 
 
+### Finding an apartment
+{{< score 2 >}}
+Marseille has become a popular destination for French families looking for a more comfortable life. Thus, the real estate market does not favour the rental seekers.
+The best offers do not stay online for long, and when you finally find your crush, you need to compete against numerous applicants with various profiles.
+
+Renting from a real estate agency and renting directly from the owners are the two main ways of procuring such an accommodation. They differ by many points, but they share a few common requirements.
+
+First, you need to provide the usual documents to prove your identity (ID card, passport). Next, they will require you to prove your ability to sustainably pay the rent. That is the most difficult part to justify if you have freshly arrived in the country.
+The most common requirement is to prove that you are employed with a long-term work contract, out of your trial period (which can be up to 6 months), and that your salary is at least 3 times higher than the actual rent. Needless to say, at this stage, it is a consequent hurdle.
+
+Tax number
 
 ### Finding a job
 {{< score 5 >}}
