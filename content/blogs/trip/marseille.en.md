@@ -85,23 +85,22 @@ The bureaucratic ordeal of marrying in France is quite cumbersome in the present
 
 However, proving our residency in Marseille necessitated much exertion. We were obliged to establish official residence in the city, precluding short-term lodging as a viable option. We had to procure a long-term apartment, a tedious process we explain in the following section.
 
+Finally, it should be noted that a gratuity enrolment in the French healthcare system, also referred to as *Caisse Primaire d'Allocation Maladie*, is awarded to all those residing in France for an extended period. It permits the beneficiaries to receive a refund of up to 70% on their medical expenses in most instances. Nonetheless, the process of acquiring it is, to put it mildly, chaotic. The regulations seem to be altered every other year, and the public servants' information is inconsistent. As daunting as it may seem, we made headway when we decided to handle the situation by persistently harassing the officials on the phone. We had initially believed that our situation was an unfortunate exception, but we later discovered that several of our acquaintances had encountered similar experiences.
 
 ### Finding an apartment
 {{< score 2 >}}
-Marseille has become a popular destination for French families looking for a more comfortable life. Thus, the real estate market does not favour the rental seekers.
-The best offers do not stay online for long, and when you finally find your crush, you need to compete against numerous applicants with various profiles.
+In the bustling city of Marseille, many French families seek refuge in search of a more comfortable life. However, this surge in demand for accommodation has led to a highly competitive real estate market that is unfavourable for rental seekers. The most desirable properties are snapped up quickly, leaving many prospective tenants to compete against a sea of applicants from various backgrounds.
 
-Renting from a real estate agency and renting directly from the owners are the two main ways of procuring such an accommodation. They differ by many points, but they share a few common requirements.
+In Marseille, one can either rent from a real estate agency or directly from the property owners. Though these two methods differ in several aspects, they share some common requirements. Potential tenants must provide the usual identification documents, such as an ID card or passport, and demonstrate their ability to pay rent sustainably. This often proves to be a daunting task for newcomers to the country who may struggle to meet the strict financial criteria, such as having a long-term employment contract and a salary at least three times higher than the rent. Even, when those conditions were met, you would need to provide French payslips or tax invoices, items you might not possess if you had not been in France for while.
 
-First, you need to provide the usual documents to prove your identity (ID card, passport). Next, they will require you to prove your ability to sustainably pay the rent. That is the most difficult part to justify if you have freshly arrived in the country.
-The most common requirement is to prove that you are employed with a long-term work contract, out of your trial period (which can be up to 6 months), and that your salary is at least 3 times higher than the actual rent. Needless to say, at this stage, it is a consequent hurdle.
+Our experience with real estate agencies in Marseille left much to be desired. We encountered frequent cancellations of appointments mere hours before the scheduled meeting, and the required documentation was often difficult to provide. Despite our solid financial situation, we were repeatedly turned down.
 
-Tax number
+Determined to find a solution, we turned to directly contacting property owners. Unfortunately, such offers are scarce and are often posted by scammers looking to steal personal information. To avoid such traps, it is best to meet the landlord in person. We were fortunate enough to find our dream apartment through a marketplace for individuals called [leboncoin.fr](https://leboncoin.fr). Though sifting through the numerous offers posted by older users was a bit challenging, we eventually secured a beautiful apartment in a quiet neighbourhood between the city center and the seaside. To secure the deal, we agreed to pay three months' rent in advance after some negotiations.
+
+To facilitate the application process, some mechanisms can be helpful. [Dossierfacile.fr](https://dossierfacile.fr) is a government-run platform that improves the legitimacy of your application by reviewing each document uploaded by a public officer. Additionally, [visale.fr](https://visale.fr) offers the option for those with weaker applications to use public services as guarantors, but this system is often rejected by most real estate agencies and may be overlooked by property owners as it demande to be accustomed to using online services.
 
 ### Finding a job
 {{< score 5 >}}
-
-
 
 ### Living costs
 {{< score 4 >}}
