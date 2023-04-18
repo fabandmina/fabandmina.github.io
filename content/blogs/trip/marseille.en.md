@@ -102,8 +102,14 @@ To facilitate the application process, some mechanisms can be helpful. [Dossierf
 ### Finding a job
 {{< score 5 >}}
 
+Luckily, my profession in IT has granted me the privilege of securing employment with ease, wherever I roam. Nevertheless, fellow migrants have attested that seeking occupation in Marseille does not pose a great challenge. To augment the likelihood of success, refreshing one's LinkedIn profile is imperative. A proper portrait and an up-to-date curriculum vitae do make a difference. Opportunities may be discovered online or by communicating directly with the establishments.
+
+Yet, there exist certain obstacles that must be surmounted. In general, the wages in France are comparatively low when juxtaposed with the cost of living. However, this discrepancy is compensated by a generous allotment of holidays. Additionally, particularly in Marseille, the style of work is rather relaxed.
+
+It is prudent to prepare the following documents to facilitate the recruitment process: your bank account number, your French tax identification number, which may be obtained from [impots.gouv.fr](https://www.impots.gouv.fr/), and your healthcare serial.
+
 ### Living costs
-{{< score 4 >}}
+{{< score 3 >}}
 
 
 
