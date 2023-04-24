@@ -111,12 +111,25 @@ It is prudent to prepare the following documents to facilitate the recruitment p
 ### Living costs
 {{< score 3 >}}
 
+France is a costly country compared to its neighbours, and especially at the time of writing as the conflict between Ukraine and Russia caused a surge in prices.
 
+For our household of two, we spent between 500 and 600 euro per month for our food. We prepared our meals most of the time. We do not have meat or fishes, but we tried to shop fresh and organic products whenever possible.
+
+Regarding our accommodation, it was a studio of about 25 square meters and the rent was about 550 euros per month, water and rubbish collection was included. Additionally, we paid 10 euros per month, for the house insurance. The apartment was conveniently located in the middle of many businesses and at the junction of several bus lines. As a bonus, the beach was a 30 second walk away from our doorstep. You can expect similar prices for this kind of accommodations inside Marseille in average.
+
+Electricity cost us 30 euros per month. However, we probably use much less power than the average household. For instance, we do not turn on the heater in winter.
+
+During our stay, we also subscribed to internet. The bundle for a fiber optics connection and a 4G/5G subscription was 40 euros per month. However, the telecommunication offers are changing every year, and depending on your needs, you might be good with just a smartphone data plan.
+
+Commuting can be cheap if you decide to subscribe to a frequent public transport plan. I paid 480 euros for a yearly subscription that gave me access to buses, metros, trams, rental bicycles and even local trains. Half of it was charged to my employer directly, as it is common practice in France. I would not recommend using your personal car in Marseille. Fuel and tolls are pricy and it is difficult to park downtown. The city council is also trying to reduce the air pollution by only allowing a certain category of cars inside the city.
 
 
 ### Fitting in with the locals
 {{< score 5 >}}
 
+People in Marseille are friendly and outgoing. They engage with strangers easily and do not mind the language barriers. Also, the city is really cosmopolitan and the sight of foreigners is nothing uncommon. We have never encountered any troubles with the inhabitants of any sorts. It was rather the opposite as they often spontaneously offer assistance whenever you seem in difficulty. As everywhere in France, you need to be aware of pickpockets and thieves and although a few areas are to avoid, the city is mostly secure.
+
+### Weather in Marseille
 
 ### {{< translate "food" >}}
 {{< score 4 >}}
