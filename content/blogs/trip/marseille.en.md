@@ -57,10 +57,10 @@ For those who yearn to cross waters, ferries are often overlooked as a convenien
 Although planes are a swift means of travel for longer distances, we often try to avoid them due to their huge carbon footprint and inconvenience when travelling with bicycles. In addition, reaching the airport can be time-consuming, as can checking in. We reserve air travel for longer distances when time is of the essence. Domestic flights can sometimes be cheaper than trains.
 
 #### Trains
-Local transports, managed by localities, such as buses, trams, rental bikes, and subways, offer a cost-effective means of travel with a standard fare of around 2 euros for up to 100 kilometers. Although limited in schedule, these modes of transport can be utilized for travel throughout most of France. In Marseille, rental bikes were particularly affordable, costing only 5 euros per year upon our arrival. It is worth noting that employees in France can request their company to refund half of their monthly public transport subscription.
+France boasts a decent train network, though often at a higher cost than other options. Comfort is assured, though we have yet to try transporting bicycles on board. We have heard, however, that it is possible with minimal hassle.
 
 #### Coaches
-For long distances, coaches are the most affordable option, allowing travelers to traverse hundreds of kilometers for just a few euros. Comfort levels vary greatly between each coach, and in peak season, they can be quite packed. If carrying numerous bags, it is wise to embark first. As coaches depend on the road network, delays and traffic jams are common. The main operators in France are Flixbus and Blablabus.
+For long distances, coaches are the most affordable option, allowing travelers to traverse hundreds of kilometers for just a few euros. Comfort levels vary greatly between each coach, and in peak season, they can be quite packed. If carrying numerous bags, it is wise to embark first. As coaches depend on the road network, delays and traffic jams are common. The main operators in France are *Flixbus* and *Blablabus*.
 
 #### Local transports
 Local transports, managed by localities, such as buses, trams, rental bikes, and subways, offer a cost-effective means of travel with a standard fare of around 2 euros for up to 100 kilometers. Although limited in schedule, these modes of transport can be utilized for travel throughout most of France. In Marseille, rental bikes were particularly affordable, costing only 5 euros per year upon our arrival. It is worth noting that employees in France can request their company to refund half of their monthly public transport subscription.
@@ -69,7 +69,7 @@ Local transports, managed by localities, such as buses, trams, rental bikes, and
 Cabs on demand, such as Uber, are convenient for specific situations but are not our preferred method of transportation. These apps are available 24/7 and can even be used to plan a trip for someone else.
 
 #### Car pooling
-Car pooling, a popular practice in France, offers a simple and affordable means of travel. We use blablacar.com, a website that allows us to plan trips with just a few clicks. The driver's profile can be checked to reduce the risk of an undesirable ride, and car pooling is a great way to meet people and gain insight into places to visit.
+Car pooling, a popular practice in France, offers a simple and affordable means of travel. We use [blablacar.com](https://blablacar.com/), a website that allows us to plan trips with just a few clicks. The driver's profile can be checked to reduce the risk of an undesirable ride, and car pooling is a great way to meet people and gain insight into places to visit.
 
 #### Hitchhiking
 Finally, hitchhiking, although not as common as it once was, is a personal favorite of ours. While it may take some social skills to approach drivers parked at petrol stations, hitchhiking provides an exciting adventure with each new ride, and the chance to meet fascinating people. Although it was more difficult to find rides in the aftermath of the Covid crisis, our advice is to ask drivers directly, for it is the most effective way.
