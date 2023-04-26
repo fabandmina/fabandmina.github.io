@@ -7,7 +7,8 @@ thumbnail: "https://live.staticflickr.com/65535/52818754201_aa22a806ba_k.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720307525823"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2743490#6/44.487/2.664"
-author: fab
+author: mina
+draft: true
 ---
 ## {{< translate "travel_story" >}}
 2021年、スペイン・サンティアゴへの巡礼を終えた私たちは、知恵とヒッチハイクの親指だけを頼りに、フランスへの危険な旅に出た。私たちの最終目標は、パリを経由して日出ずる国、日本へ帰ることだった。しかし、コヴィッド19はまだ世界を支配しており、私たちの旅を複雑なものにしていた。
