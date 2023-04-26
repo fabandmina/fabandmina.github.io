@@ -110,46 +110,44 @@ It is prudent to prepare the following documents to facilitate the recruitment p
 
 ### Living costs
 {{< score 3 >}}
+In the fair country of France, where we presently reside, one cannot deny that the cost of living is steep, particularly in light of recent events. The tensions between Russia and Ukraine have given rise to a surge in prices that has affected even the humble household of my companion and me, who dwell in the coastal town of Marseille.
 
-France is a costly country compared to its neighbours, and especially at the time of writing as the conflict between Ukraine and Russia caused a surge in prices.
+For our sustenance, we rely mainly on the fruits and vegetables of the land, as we eschew the consumption of meat and fish. Despite our preference for organic fare, we spend between 500 and 600 euros per month on food, as we prepare most of our meals at home. Should we choose to dine out at a typical Mediterranean restaurant in our city, we would expect to pay around 30 euros per person. However, we have found that we can procure a similar menu at a lower cost in the neighboring towns.
 
-For our household of two in Marseille, we spent between 500 and 600 euro per month for our food. We prepared our meals most of the time. We do not have meat or fishes, but we tried to shop fresh and organic products whenever possible. Going to a French Mediterranean style restaurant in Marseille will cost 30 euros per person in average. But it is possible to have a Mediterranean menu at a lower price if you visit the neighbouring towns.
+As for our dwelling, we inhabit a cozy studio that spans approximately 25 square meters. Our monthly rent, which includes water and waste collection, amounts to 550 euros. In addition, we pay a meager 10 euros per month for insurance. Our abode is advantageously situated amidst a bustling commercial district, with several bus routes intersecting nearby. Moreover, the sandy shores of the Mediterranean are a mere thirty seconds' walk from our doorstep. Comparable lodgings may be found throughout Marseille for a similar price.
 
-Regarding our accommodation, it was a studio of about 25 square meters and the rent was about 550 euros per month, water and rubbish collection was included. Additionally, we paid 10 euros per month, for the house insurance. The apartment was conveniently located in the middle of many businesses and at the junction of several bus lines. As a bonus, the beach was a 30 second walk away from our doorstep. You can expect similar prices for this kind of accommodations inside Marseille in average.
+Our monthly electricity bill comes to a modest sum of 30 euros, owing in part to our frugal use of energy. In winter, for instance, we do not employ the heater. For our internet access, we have subscribed to a package that combines fiber optics and 4G/5G connectivity, which costs us 40 euros per month. However, one should note that the telecommunications market is ever-changing, and one may find that a mere smartphone data plan suffices for one's needs.
 
-Electricity cost us 30 euros per month. However, we probably use much less power than the average household. For instance, we did not turn on the heater in winter.
-
-During our stay, we also subscribed to the internet. The bundle for a fiber optics connection and a 4G/5G subscription was 40 euros per month. However, the telecommunication offers are changing every year, and depending on your needs, you might be good with just a smartphone data plan.
-
-Commuting can be cheap if you decide to subscribe to a frequent public transport plan. I paid 480 euros for a yearly subscription that gave me access to buses, metros, trams, rental bicycles and even local trains. Half of it was charged to my employer directly, as it is common practice in France. I would not recommend using your personal car in Marseille. Fuel and tolls are pricy and it is difficult to park in the downtown. The city council is also trying to reduce the air pollution by only allowing certain categories of cars inside the city.
+When it comes to transportation, we have opted for a public transport pass that grants us unlimited access to buses, subways, trams, rental bicycles, and local trains. The cost of our yearly subscription was 480 euros, with half of the sum being borne by our employer, as is customary in France. I would caution against using a personal vehicle in Marseille, as fuel and tolls are dear, and parking is scarce in the city center. The municipal authorities have also implemented measures to curtail air pollution by restricting the entry of certain types of cars into the city.
 
 
 ### Fitting in with the locals
 {{< score 5 >}}
 
-People in Marseille are friendly and outgoing. They engage with strangers easily and do not mind the language barriers. Also, the city is really cosmopolitan and the sight of foreigners is nothing uncommon. We have never encountered any troubles with the inhabitants of any sorts. It was rather the opposite as they often spontaneously offer assistance whenever you seem in difficulty. As everywhere in France, you need to be aware of pickpockets and thieves and although a few areas are to avoid, the city is mostly secure.
+In the bustling metropolis of Marseille, one cannot help but be struck by the cordiality and open-heartedness of its denizens. They possess an innate ability to strike up a conversation with a stranger, disregarding any linguistic barriers that may be present. Furthermore, the city is a veritable melting pot of cultures, and the sight of foreigners is nothing out of the ordinary. In all our time here, Mina and I have never encountered any unpleasantness at the hands of the locals. On the contrary, they are wont to offer their aid freely to any who may appear to be in need. It is true, however, that one must be wary of pickpockets and thieves, as is the case throughout France. Certain areas ought to be avoided, but on the whole, the city is a safe haven for those who traverse its streets.
 
 ### Weather of Marseille
 {{< score 5 >}}
 
- What stood out as we arrived in Marseille was its sunshine. The city is dry and sunny most of the year. The temperature does not drop in the negative in winter, and in summer, the hot weather encouraged us to bathe inside the Mediterranean Sea. The only downside is its wind, named *Le Mistral*, that sporadically blows its violent gusts several days a month. In that situation, it's safer to stay indoor and enjoy the comfort of sheltered place.    
+As we arrived in Marseille, one of the first things that struck us was the abundance of sunshine. The city basks in a dry and warm climate for most of the year, with mild winters that rarely dip below freezing, and hot summers that invite a refreshing dip in the Mediterranean Sea. However, on occasion, a blustery wind known as *Le Mistral* can blow fiercely for several days at a time, making it more comfortable to seek refuge indoors until it passes.
 
 ### {{< translate "food" >}}
 {{< score 4 >}}
-Marseille's most famous specialty is *La Bouillabaisse*, which is a copious fish soup served with aïoli, a mayonnaise-like sauce filled with garlic. It used to be a meal prepared by fishermen to avoid wasting the unsold catch of the day. It has become an attraction that you can find at a rather high price at restaurants popular among tourists.
+In Marseille, the most renowned delicacy is undoubtedly *La Bouillabaisse,* a rich fish soup served with an exquisite garlic-infused aïoli sauce. It originated as a humble dish prepared by fishermen to avoid letting any unsold catch go to waste. However, it has since evolved into a sought-after specialty that can be enjoyed in restaurants popular among tourists, albeit at a premium price.
 
-But Marseille has a lot more to offer! Pizzas, for instance, are preferred by the locals. The craft of pizzas has reached great standards, with influences from Italy and Turkey, which give their unique flavours. It's a common sight to witness pizzas getting delivered directly to people chilling on the beaches after the apéro time.
+Yet, Marseille's culinary offerings extend far beyond its famous fish soup. The locals' preference for pizza is evident throughout the city, where the craft of pizza-making has reached new heights thanks to Italian and Turkish influences that impart unique and delightful flavors. It is not uncommon to spot pizza deliverymen zipping down to the beach to serve sunbathers enjoying their apéro time.
 
-North African and Middle-Eastern cuisine restaurants are also notably widespread in the city. Although these are often overlooked because of their nonchalant appearance, we found satisfaction with the exotic flavours they offered.
+In addition, the city boasts a wide range of North African and Middle Eastern restaurants that are often unassuming in appearance but offer exotic and flavorful dishes that we found to be quite satisfying.
 
-Plenty of other types of foreign cuisine can be found, such as Asian or South American ones, to accommodate all kinds of tastes and preferences. But in general, expect to have large portions as people in the South of France do not compromise quality and quantity.
+But the gastronomic adventure does not stop there. Marseille offers an array of foreign cuisine, such as Asian and South American, to cater to all palates and preferences. One can expect generous portions as the people of the South of France value both quality and quantity.
 
-Regarding the beverages, we could find excellent coffee at specialized shops in the South East of France. It contrasted with the rather watery coffee we had had in the rest of the country. 
+As for beverages, we discovered exceptional coffee at specialized shops in the Southeast, which contrasted with the watery brews we had encountered elsewhere in the country.
 
 
 
-#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-As pretty much everywhere in France, the vegetarian diet is a little bit disregarded as French are really proud of their cuisine, which is heavily based on meat. It is a little less the case in the cosmopolitan city of Marseille. However, the vegetarian options at the restaurants are often limited and less elaborated than the rest of the menu.
+#### {{< translate vegetarian_friendly >}} 
+{{< score 3 >}}
+As it is the case throughout much of France, vegetarianism is not given much attention, as the French take great pride in their cuisine, which prominently features meat. Nonetheless, in the cosmopolitan city of Marseille, vegetarianism is somewhat more accepted. Still, when it comes to dining out, vegetarian options are usually limited and less complex than the other offerings on the menu.
 
 #### Our recommendations
 |   Restaurants    |  Description  |
