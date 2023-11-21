@@ -6,7 +6,7 @@ date: 2023-06-15T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693117"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
 author: fab
 draft: true
 ---
