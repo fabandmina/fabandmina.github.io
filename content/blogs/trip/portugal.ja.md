@@ -1,50 +1,38 @@
 ---
-title: "camino_spain"
-subtitle: " キリスト教三代巡礼地の一つサンティアゴ・デ・コンポステラを目指し、フランス人の道を歩く"
-introduction: "心を癒すロングトレイル"
-date: 2021-08-23T16:12:33+01:00
-thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
+title: "Portugal"
+subtitle: " Cycling the Westernmost country of the Eurasian continent."
+introduction: "At the Westernmost point of Eurasia."
+date: 2023-06-15T16:12:33+01:00
+thumbnail: "https://live.staticflickr.com/65535/53347004546_9b4c22a001_c.jpg"
 tags: trip
-flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693117"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
-author: mina
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
+author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-この記事は、フランスから始まった巡礼の続編です。まだフランス編を読んでいない場合は、[こちら]({{< link_to "camino-france" >}})を先にどうぞ。
+Embarking on a bicycle journey through Portugal marked the initial phase of our extensive endeavor to [traverse Eurasia]({{< link_to "wish_eurasia" >}}). Positioned as the westernmost country on our itinerary, Portugal served as the launching point for this grand adventure.
 
-ここでは、フランスのサン・ジャン・ピエ・ド・ポ－(Saint Jean Pied de Port)からスペインのフィステ－ラ(Fisterra)への旅に焦点を当てています。
+Both Mina and I were novices in exploring the land of Francisco Xavier, entering with an open mind devoid of preconceptions or specific expectations. For Mina, Portugal held a unique significance in Japan's history, as it had been among the select few permitted to trade with the Japanese over many centuries. As for me, it was the nation responsible for introducing the celebrated pasteis de nata to South East Asia and Oceania.
 
-フランスのカミノ・デ・サンティアゴを歩いてる間、私達は別の国を訪れることを楽しみにしていました。
-
-当初、スペインの北海岸を辿るルートである北の道(Camino del Norte)を歩くことを検討していました。しかし最終的に、様々な理由からフランス人の道(Camino Francés)を歩く事にしました。これはサンティアゴ巡礼路で最も人気があり巡礼者の多い道ですが、私達が歩いた時は、コロナ危機のおかげで通常より人はかなり少なかったようです。
-
-サンティアゴ大聖堂はこの巡礼の公式終着地ですが、最初の巡礼者によると「世界の終わり」であるフィステーラまで足を延ばしたかったので、80日間の長い巡礼の後、さらに数日歩くことにしました。
-
-旅の終盤にかけて、この巡礼を達成することは、体力的なものよりも精神的な挑戦であると気付きました。例えば、この旅を始めた時からずっと、サンティアゴ大聖堂を巡礼旅のゴールとしていたので、私達はサンティアゴからフィステーラまで歩くのに、大きな困難を経験しました。
-
-とにかく、一歩。また一歩と前に進み続ければ、最終的には自分の目的地にたどり着く事ができます。私達にもできたので、あなたもきっとそこに辿り着くでしょう。
-
-道は、これを達成した人々によって維持されているので、あなたも彼らのステップに辿って下さい。
-
-Ultreïa! (ウルトレイア！)
-
+Portugal, however, surpassed our initial understanding, captivating us with its breathtaking landscapes, warm-hearted people, delectable cuisine, diverse beverages, and unpredictable yet delightful weather. Consequently, our stay in the country extended beyond our original plans, as Portugal unfolded its wonders, far exceeding the limited knowledge we initially possessed.
 
 
 ## {{< translate "overall_feel" >}} 
-{{< score 4 >}}
+{{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- 世界中から集まった巡礼者
-- 巡礼者歓迎ムード
-- 清潔な施設
+- Sunny weather
+- Fierce Atlantic waves
+- Dramatic mountains and cliffs
+- Coffee times
+- The people
   
 #### {{< translate what_we_dislike >}}
 
-- 14〜16時の間の全国的休憩時間(シエスタ)
-- 巡礼者のための水道が除去・断水されていた
-- 無断で私達の写真を撮り続ける他の巡礼者
-- この巡礼路はかなり観光化されている
+- Cobble-stoned roads
+- Steep ups and downs
+- Strong headwind
 
 
 
@@ -52,111 +40,105 @@ Ultreïa! (ウルトレイア！)
 
 #### {{< translate stats >}}
 
-- **{{< translate way_of_travelling >}}** 徒歩
+- **{{< translate way_of_travelling >}}** Cycling
 - **{{< translate starting_date >}}** {{< article_date >}} 
-- **{{< translate duration >}}** 41日間
-- **{{< translate distance >}}** 890 km
+- **{{< translate duration >}}** 30 days
+- **{{< translate distance >}}** 1,182 km
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
-フランスとスペインの国境を越えるには、標高差約1,200mのピレネー山脈を登り降りしました。明確な境界線がなかったので、実際にいつ国境を通過したのかはわかりませんでした。スペイン内カミーノ最初の町、ロンセバレス(Roncesvalles)に到着した時、私達は初めてスペインに入国したことに気付きました。
-
-当時、スペイン入国者は新型コロナウイルスのチェックを国境付近で受ける決まりでしたが、この国境にはそれをコントロールする警察官が居ませんでした。
+Crossing the border between Spain and Portugal consisted in crossing the Rio Guadiana by ferry. We did not get checked by any border officer.
 
 #### {{< translate fab >}} 🇫🇷
-フランス国民として、もちろんスペインに好きなだけ滞在できます。
+As a French national, you can of course stay as long as you want in Portugal.
 
 #### {{< translate mina >}} 🇯🇵
-ワーキングホリデービザを持っていたので、シェンゲン圏に1年間滞在することができました。
+Mina had a partner visa which allowed her to stay inside the Schengen area for one year.
 
-そうでなければ、日本のパスポート保持者はシェンゲン圏内に6ヶ月間で合計90日間ビザなし滞在可能。
+Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
 
 
 
 ### {{< translate "road_condition" >}}
-{{< score 5 >}}
-道はよく整備され維持されています。フランスパートと比較して、特にサンティアゴに近づくにつれ、はるかに巡礼者が多く混んでいます。私達は、巡礼中に通過する町の経済が、主に巡礼者に依存していると感じました。また、スペインは領土が広く、各村間の距離が長いです。次の町まで、平均10〜15km歩くことを覚悟して下さい。
+{{< score 4 >}}
+Our journey through Portugal unfolded in a meticulously planned route. Beginning in Algarve, the southern region, we pedaled from East to West until Sagres. Then, tracing the Atlantic coastline, we headed North to Porto. From there, our route took a slight inland detour to Vila Real before exiting the country via the *ecovia do Tamega e Corgo*, concluding our cycling adventure in the municipality of Chaves.
 
-天気に関して、最初のパートは暑くて乾燥していました。その後ガリシア(Galicia)に入ってからは、ほぼ毎日雨が降り続き風もありました。面白いことに、どちらも同じ天気・地理・ケルト文化を共有しているフランスのフィニステレ(Finisterre)に似ています。
+Navigating Portugal, we quickly recognized the undeniable topography of the country, characterized by rolling hills that presented countless ascents and descents. Given our goal to traverse the nation from one end to the other, these undulations were an inevitable part of our journey.
 
+As cyclists seeking efficient connections between towns, we often relied on the national roads, identifiable by codes starting with the letter "N" followed by a number (such as the "N2"). While these well-maintained roads offered smoother climbs compared to alternative routes, they occasionally posed challenges with their narrow and bustling nature. However, the congestion never reached a point where it compromised our safety.
 
+Another option at our disposal was the *ecovia*, also known as *ecopista* or *cyclopista*. Frequently repurposed railways, these roads provided a safer passage designed explicitly for pedestrians and cyclists. Despite their safety benefits, many were either incomplete or still under construction, and information regarding their accessibility and condition was often scarce online and virtually nonexistent at local i-sites.
+
+The flexibility of crafting our own route by navigating side streets and local roads presented itself as the third option. These less-traveled paths offered solitude outside major cities and provided a closer connection to scenic locales. However, their unpredictable conditions ranged from perfectly smooth tar to rocky gravel within a mere ten kilometers. Additionally, the prevalence of cobble-stoned roads, a distinctive Portuguese feature, proved to be challenging for our bike's bearings and bolts.
 
 ### {{< translate "accommodations" >}}
-{{< score 4 >}}
-宿泊施設は3回利用したのみなので、あまりこの項目に関する経験がありません。しかし、他の巡礼者によると、宿の予約はすぐに埋まるようです。そのため多くの巡礼者は、事前に旅の計画を綿密にし、スタートする時には、最終日まで既に宿の予約を全日していました。
-
-他には、ドナティーボ(寄付に基づく宿泊施設)または公営のアルベルゲ(巡礼宿)に滞在することもでき、こちらは事前予約は受け付けていません。そのため、確実にベッドを手に入れるには、シエスタ（だいたい14〜16時）の前にそこに着く必要があります。チェックイン時間の何時間も前に多くの巡礼者が宿の前に並んでいるのを、私達は何度も目撃しました。
-
-何にせよ、スペインの宿泊施設はどこも本当に清潔な施設が期待できます。
+We did not stay or even search any accommodation in Portugal. We are literally unable to provide any information on this matter.
 
 
 
 
 ### {{< translate "freedom_camping" >}}
-{{< score 4 >}}
-野宿をする事はフランス国内ほど簡単ではなく、またやっている人も少なかったですが、できます。
-地元の人々はあまり私達を気にしていませんでしたが、フリーダムキャンパーを見かけるとは思っていなかったと思います。出来れば、村から少し離れた野宿スポットを見つけたほうがいいです。(宿オーナーはあまりいい顔はせず、自分の宿に泊まるよう営業してくる場合がある。)また、巡礼路付近にテントを張ると、日の出前にハイクを始める多くの巡礼者によって、目を覚ます可能性があります。基本的に彼らはそれほど騒がしくありませんが、明るいヘッドランプと規則的な足音が、あなたの睡眠を妨げる可能性があります。
+{{< score 5 >}}
+Freedom camping became an effortless and enjoyable experience, reaching new levels of ease and comfort. Optimal locations for this purpose were the public picnic areas situated just beyond the villages, striking a perfect balance between proximity to the centers and a serene atmosphere. These areas typically offered benches, tables, running water, rubbish bins, and designated BBQ corners. Notably, these tranquil spots remained cool and shaded most of the time, a valuable attribute during the scorching summer months when temperatures soared above 35°C.
 
-私達がこれからスペインで野宿をしようと考える人にすべきアドバイスは、テントを張る前に周辺のスプリンクラーをチェックすることです。スペイン人はガーデニングが本当に好きなようで、どこにでもスプリンクラー(飛行距離未知数)が設置されています。午前3時にテントが突然水で攻撃される経験を私達は何度か得ました。
- 
+In addition to these well-appointed areas, we occasionally chose to set up our tent on beaches, by riversides, or around picturesque lakes, seizing the opportunity to embrace different scenic backdrops.
 
+In the rare instances where finding suitable tent sites posed a challenge, we took the initiative to approach locals. On these few occasions, we sought permission to camp within their fields, a request they invariably welcomed without hesitation. This collaborative spirit with the locals added a unique and heartening dimension to our camping experience.
 
 ### {{< translate "facilities" >}}
-{{< score 4 >}}
-既に述べたとおり、各村間は平均10〜15km離れています。更に、通過する全ての村にお店やトイレ，水道，ベンチなどの公共施設があるわけではありません。
+{{< score 5 >}}
+During our visit, Portugal showcased a commendable commitment to promoting ecotourism, evident in the construction and refurbishment of numerous tracks that granted us free access to the splendors of national parks. The opportunity to marvel at the breathtaking natural scenery without incurring any costs was truly appreciated.
 
-しかし、これらの施設を見つけることができた時はいつでも、とても整った状態なのは良いことでした。ですが、シエスタのスケジュールに注意してください。公共トイレも例外ではありません。
+Beyond the captivating landscapes, Portugal provided all the essential elements for a premium cycling tour experience. Easily accessible and impeccably clean bathrooms, water taps delivering fresh and flavorful water at high pressure, and an abundance of cafés, restaurants, grocery stores, and supermarkets offering quality products were integral to our journey.
 
-全てのスーパーマーケットには、水筒に水を補充できるトイレがあることを知っておくといいと思います。また、ここではフランスのスーパーよりも低価格で新鮮な品を見つけることが出来ました。
+For the tech-savvy among us, Free Wi-Fi hotspots generously provided by supermarkets, petrol stations, and select city centers facilitated seamless connectivity throughout our travels.
 
-飲料水に関して、水を補給するのはかなり難しかったです。巡礼路上のほぼ全ての公衆水栓が取り除かれていた又は断水されていたためです。私達は大きな街では、巡礼路から数百メートル離れた所で公共水栓を見つけることができました。(スペイン政府は、何らかの理由でわざと巡礼者用の水を取り除いた？)
+Navigating payment methods was remarkably convenient, with debit card acceptance for our purchases being the norm around ninety percent of the time. We reserved our cash exclusively for the charming fruit and vegetable stalls lining the roadside.
 
-水道水を闇雲に探すよりも、地元の人に『水が必要です』(Necessito agua, por favor＝ネセシート アクア プレファボール) といって自分の水筒を渡すほうが簡単です。このフレーズがちゃんとしたスペイン語なのかは知りませんが、何度も通じました。
-
-
-
+While our cycling adventure did encounter more mechanical hiccups than anticipated, leading us to frequent bike shops, there was a silver lining. These visits unveiled the remarkable professionalism of Portuguese bike mechanics. Patient and possessing an excellent grasp of their craft, they would skillfully diagnose issues upon sight, proceeding with careful repairs or, when necessary, recommending a peer better suited for the task. This unexpected aspect added a unique and positive dimension to our exploration of the country.
 
 ### {{< translate "communication_with_the_locals" >}}
-{{< score 4 >}}
-スペイン人は主にスペイン語を話します。私達は二人ともスペイン語を話せないので、最初の頃は少し大変でした。英語よりも、スペイン語に近いフランス語の単語を(ちょっとスペイン風発音にして)使いました。
+{{< score 5 >}}
+Fortuitously for us, the vast majority of the population demonstrated proficiency in either impeccable English or excellent French, and quite possibly a myriad of other languages. For those less versed in these, the melodic tones of the Portuguese language bore a striking resemblance to both French and Spanish, facilitating seamless communication for speakers of Romance languages.
 
-スペイン人はとても親切でフレンドリーですが、彼らのコミュニケーション方法は攻撃的だと感じるかもしれません。私達はこれに慣れるのに少し時間が必要でした。あなたがより大声で話すと、スペイン人は何故かあなたをより理解するでしょう。
-
-私達が気付いたもう1つの事は、特に19〜22時の間、スペイン人はかなり活動的だという点です。地元の人々は、この時間帯に長い散歩をしながら、私たち旅行者との会話を楽しみます。
-
+Beyond linguistic ease, the Portuguese people exhibited remarkable mindfulness. They unfailingly acknowledged our presence, exemplified by considerate gestures such as creating ample space for us to navigate through narrow passages. Moreover, their willingness to impart accurate advice and extend helpful assistance added a welcoming dimension to our journey. What made this experience truly exceptional was the delicate balance struck between careful consideration and a liberating, free-spirited approach to societal norms—a testament to the Portuguese knack for harmonizing a vigilant mindset with an open and accepting spirit.
 
 
 ### {{< translate "food" >}}
-{{< score 3 >}}
-私の身体は何故か、スペイン産パプリカを消化できませんでした。パプリカはスペイン料理の中心的食材なので、地元の調理済み食品の約90%を避けなければなりませんでした。さらに、Fabはベジタリアンで、スペイン料理には肉や魚がたくさん含まれています。
+{{< score 5 >}}
+Portuguese culinary prowess shines brightly, particularly in the realm of pastries. Beyond the renowned *pasteis de nata*, each region boasts its own delectable sweets, seamlessly complementing a steaming cup of coffee. Our culinary exploration in Algarve led us to a noteworthy discovery—the *folar de Olhao*, a sweet delicacy generously infused with the warm notes of cinnamon.
 
-こんな私達に残された唯一の選択肢は、「ポテトオムレツ」(tortilla de patata＝トルティーヤ・デ・パタータ)でした。ほぼ毎日ランチはこれでした。もしあなたがこの国を訪れることに決めたら、地元の特産品を私達よりも楽しむことができることを願っています。
+In the art of coffee brewing, Portugal is a maestro, offering a dazzling array of a dozen variations for the discerning palate. A handy chart detailing the diverse possibilities proved invaluable in navigating this rich coffee culture.
 
-オムレツ以外では、私達は安い価格でその土地の新鮮な果物や野菜を見つけることができ、特にスイカを堪能しました。
+Refreshing beverages in Portugal are as diverse as they are delightful. Our taste buds reveled in local specialties such as the classic Sagres Beer in Sagres, white and red Port wine in Porto, and Pedras sparkling water sourced directly from the spring in Pedras.
+
+In the savory department, oversized sardines, the versatile and fantastic potato-based dishes (stews, fried, baked, boiled), and the extraordinary *francesinha* stand out. Resembling a French croque-madame, the *francesinha* bathed in a savory sauce surprises with its delicate and delicious taste, despite its unconventional appearance.
+
+On the whole, Portuguese cuisine, though seemingly uncomplicated, dazzles the palate with its wonderful flavors, owing much to the use of fresh and aromatic ingredients. Each dish is a testament to the culinary finesse that elevates simplicity to an exquisite art form.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-フランス同様、ベジタリアン食はスペイン文化の一部ではありません。ですが、私達は地元の農産物で簡単に食事を準備することができました。また、スペインのオリーブオイルは最高だということを言及させて下さい。
+The traditional Portuguese diet, regrettably, doesn't align seamlessly with what one might consider vegetarian-friendly. In tourist hubs, limited vegetarian options were occasionally presented on the menu. However, in other locales, we found it necessary to engage with the staff directly, kindly requesting their assistance in crafting a special vegetarian meal tailored to our dietary preferences.
 #### {{< translate what_we_eat >}} 
 
-- アロス(地元の米)
-- トマト
-- スイカ
-- トルティーヤ・デ・パタータ
-- オリーブオイル
-- チョコレート
-- 全粒ビスケット
-- ガスパチョ(パプリカなし！)
-- ケフィア
+- Local rice
+- Tomatoes
+- Potatoes
+- Cucumbers
+- Watermelons
+- Olive oil
+- Pasteis de nata
+- Salame
+- Coffee
 
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-新鮮なスイカ
+Sical Espresso Coffee, expertly crafted and richly aromatic coffee, offering a delightful blend of quality beans with a distinct and satisfying taste.
 
 #### ⭐{{< translate mina_favourite >}}
 
-ホットチョコレートとチュロスのコンボ
+Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its luscious flavor infused with a generous amount of cinnamon.
 
 
 
@@ -164,9 +146,9 @@ Ultreïa! (ウルトレイア！)
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [サンティアゴ・デ・コンポステラ](https://goo.gl/maps/CuEFTBwv5bcyBhwZ9)    |   全ての巡礼者にとって公式な終着地    |
-|   [サリキエグイ](https://goo.gl/maps/3jYf1H4us8KPHWwL9)    |   乾燥した谷から眺める美しく平和な景色    |
-|   [イラチェ](https://goo.gl/maps/oU6jz67GSb7WM6CZ7)    |   赤ワインがでる無料の蛇口    |
-|   [カーサ・デ・ロス・ディオセス](https://goo.gl/maps/3SZCLmzkz5J3GnAW6)    |   ボランティアによって管理されている、食べ物，シェルター，他の巡礼者を見つけられる場所    |
-|   [フィステーラ](https://goo.gl/maps/4vqornucBQCS1uvJ7)    |   私達がこの巡礼を終えた地    |
+|   [Cape Saint-Vincent, Sagres](https://maps.app.goo.gl/pNWMaRQ2A88v8ec66)    |   The south-westernmost place in Eurasia    |
+|   [Cape Roca](https://maps.app.goo.gl/23My5eq3rxKzvwwE8)    |   The westernmost place in Eurasia    |
+|   [Porto](https://maps.app.goo.gl/RiqEry5zu5GbNALa6)    |   Bustling but enjoyable city    |
+|   [Amarante](https://maps.app.goo.gl/SpqECc9GbPzwcmm97)    |   Old-fashioned city with excellent local sweets    |
+|   [Peniche](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Fishermen village with a fantastic view on gigantic waves    |
 
