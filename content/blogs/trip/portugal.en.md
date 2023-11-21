@@ -152,9 +152,9 @@ Folar de Olhao
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [Cape Saint-Vincent, Sagres](https://goo.gl/maps/CuEFTBwv5bcyBhwZ9)    |   The south-westernmost place in Eurasia    |
-|   [Cape Roca](https://goo.gl/maps/3jYf1H4us8KPHWwL9)    |   The westernmost place in Eurasia    |
-|   [Porto](https://goo.gl/maps/oU6jz67GSb7WM6CZ7)    |   Bustling but enjoyable city    |
-|   [Amarante](https://goo.gl/maps/3SZCLmzkz5J3GnAW6)    |   Old-fashioned city with excellent local sweets    |
-|   [Peniche](https://goo.gl/maps/4vqornucBQCS1uvJ7)    |   Fishermen village with a fantastic view on gigantic waves    |
+|   [Cape Saint-Vincent, Sagres](https://maps.app.goo.gl/pNWMaRQ2A88v8ec66)    |   The south-westernmost place in Eurasia    |
+|   [Cape Roca](https://maps.app.goo.gl/23My5eq3rxKzvwwE8)    |   The westernmost place in Eurasia    |
+|   [Porto](https://maps.app.goo.gl/RiqEry5zu5GbNALa6)    |   Bustling but enjoyable city    |
+|   [Amarante](https://maps.app.goo.gl/SpqECc9GbPzwcmm97)    |   Old-fashioned city with excellent local sweets    |
+|   [Peniche](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Fishermen village with a fantastic view on gigantic waves    |
 
