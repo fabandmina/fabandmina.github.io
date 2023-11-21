@@ -13,7 +13,7 @@ draft: true
 ## {{< translate "travel_story" >}}
 Embarking on a bicycle journey through Portugal marked the initial phase of our extensive endeavor to [traverse Eurasia]({{< link_to "wish_eurasia" >}}). Positioned as the westernmost country on our itinerary, Portugal served as the launching point for this grand adventure.
 
-Both Mina and I were novices in exploring the land of Francisco Xavier, entering with an open mind devoid of preconceptions or specific expectations. For Mina, Portugal held a unique significance in Japan's history, as it had been among the select few permitted to trade with the Japanese over many centuries. As for me, it was the nation responsible for introducing the celebrated pasteis de nata to South East Asia and Oceania.
+Both Mina and I were novices in exploring the land of Francisco Xavier, entering with an open mind devoid of preconceptions or specific expectations. For Mina, Portugal held a unique significance in Japan's history, as it had been among the select few permitted to trade with the Japanese over many centuries. As for me, it was the nation responsible for introducing the celebrated *pasteis de nata* to South East Asia and Oceania.
 
 Portugal, however, surpassed our initial understanding, captivating us with its breathtaking landscapes, warm-hearted people, delectable cuisine, diverse beverages, and unpredictable yet delightful weather. Consequently, our stay in the country extended beyond our original plans, as Portugal unfolded its wonders, far exceeding the limited knowledge we initially possessed.
 
