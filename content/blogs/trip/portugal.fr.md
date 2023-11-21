@@ -1,48 +1,37 @@
 ---
-title: "camino_spain"
-subtitle: " Suivez les pas des premiers pèlerins sur les Chemins de Compostelle, via francés."
-introduction: "Une longue marche qui guérira soignera votre âme."
-date: 2021-08-23T16:12:33+01:00
-thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
+title: "Portugal"
+subtitle: " Pédaler le pays le plus à l'Ouest de l'Eurasie!"
+introduction: "Au point le plus à l'Ouest de l'Eurasie."
+date: 2023-06-15T16:12:33+01:00
+thumbnail: "https://live.staticflickr.com/65535/53347004546_9b4c22a001_c.jpg"
 tags: trip
-flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693117"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#6/43/-5.0338"
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
 author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-Cet article est la suite du pèlerinage commencé en France. Si vous ne l'avez pas encore lu, vous pouvez le consulter en détail [ici >>]({{< link_to "camino-france" >}}).
+L'embarquement pour un voyage à vélo à travers le Portugal a marqué la phase initiale de notre vaste projet de [traversée de l'Eurasie] ({{< link_to "wish_eurasia" >}}). Pays le plus à l'ouest de notre itinéraire, le Portugal a servi de point de départ à cette grande aventure.
 
-Dans cet article, nous nous concentrons sur notre voyage de Saint-Jean-Pied-de-Port, en France, à Fisterra en Espagne.
+Mina et moi étions des novices dans l'exploration du pays de Francisco Xavier, et nous sommes entrés avec un esprit ouvert, sans idées préconçues ni attentes spécifiques. Pour Mina, le Portugal revêtait une importance unique dans l'histoire du Japon, car il avait été l'un des rares pays autorisés à commercer avec les Japonais pendant de nombreux siècles. Quant à moi, c'est le pays qui a introduit les célèbres *pasteis de nata* en Asie du Sud-Est et en Océanie.
 
-Nous étions ravis de visiter un pays différent tout en suivant le Camino de Santiago.
-
-Au début, nous avions envisagé de marcher sur la côte nord de l'Espagne via le Camino del Norte. Mais au final, nous avons décidé d'emprunter le Camino Frances car nous savions qu'au moment de ce voyage, le chemin serait moins fréquenté à cause de la crise du Covid.
-
-Saint-Jacques est la ligne d'arrivée officielle du pèlerinage, mais nous voulions prolonger ce pélerinage jusqu'à Finisterre, le « bout du monde » selon les premiers pèlerins.
-
-Pour conclure, vers la fin de ce voyage, nous avons réalisé qu'accomplir ce pèlerinage était plus un défi mental que physique. Par exemple, nous avons eu beaucoup de mal à marcher entre Santiago et Fisterra car nous sentions que Santiago marquait la fin de notre périple.
-
-Quoi qu'il en soit, si vous continuez à faire un pas après l'autre, vous finirez par atteindre votre destination. Si nous avons pu le faire, vous aussi vous le pouvez.
-
-La voie a été tracée par ceux qui y sont parvenus auparavant, et nous vous souhaitons de pouvoir suivre leurs pas également.
-
-Ultreïa !
+Cependant, le Portugal a dépassé notre compréhension initiale, nous captivant avec ses paysages à couper le souffle, son peuple chaleureux, sa cuisine délectable, ses boissons variées et son climat imprévisible mais délicieux. Par conséquent, notre séjour dans le pays s'est prolongé au-delà de nos plans initiaux, car le Portugal nous a dévoilé ses merveilles, dépassant de loin les attentes limitées que nous possédions au départ.
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- Les pèlerins venant du monde entier
-- Ambiance chaleureuse envers les pèlerins
-- Installations propres
+- Temps ensoleillé
+- Vagues féroces de l'Atlantique
+- Montagnes et falaises spectaculaires
+- L'heure du café
+- Les gens
   
 #### {{< translate what_we_dislike >}}
 
-- Pause nationale entre 14h00 et 16h00, appelée "siesta"
-- Les robinets d'eau publics pour les pèlerins ont été enlevés ou coupés
-- Des pèlerins étrangers nous prenant en photo sans nous demander notre permission
-- La partie espagnole était beaucoup plus touristique
+- Routes pavées
+- Montées et descentes abruptes
+- Fort vent de face
 
 
 
@@ -50,131 +39,114 @@ Ultreïa !
 
 #### {{< translate stats >}}
 
-- **{{< translate way_of_travelling >}}** Randonnée
+- **{{< translate way_of_travelling >}}** Vélo
 - **{{< translate starting_date >}}** {{< article_date >}} 
-- **{{< translate duration >}}** 41 jours
-- **{{< translate distance >}}** 890 km
+- **{{< translate duration >}}** 30 jours
+- **{{< translate distance >}}** 1 182 km
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
-
-Franchir la frontière entre la France et l'Espagne consistait à monter et descendre les Pyrénées. Il n'y avait pas de démarcation claire, donc nous ne pouvons dire avec certitude quand nous avons réellement passé la frontière officielle. Nous ne l'avons réalisé qu'à l'entrée de Roncevaux, la première ville du Camino espagnol.
-
-A cette époque, nous étions censés nous faire tester pour le Covid, mais il n'y avait pas de contrôleurs auxalentours de la frontière.
+Le passage de la frontière entre l'Espagne et le Portugal consistait à traverser le Rio Guadiana en ferry. Nous n'avons été contrôlés par aucun agent frontalier.
 
 #### {{< translate fab >}} 🇫🇷
-
-En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez en Espagne.
+En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez au Portugal.
 
 #### {{< translate mina >}} 🇯🇵
+Mina avait un visa de partenaire qui lui permettait de rester dans l'espace Schengen pendant un an.
 
-Mina avait un visa vacances-travail qui lui permettait de rester dans l'espace Schengen pendant un an.
-
-Sinon, les détenteurs de passeports japonais peuvent séjourner 90 jours sur 6 mois à l'intérieur de l'espace Schengen.
-
+Sinon, les titulaires d'un passeport japonais peuvent séjourner 90 jours en 6 mois dans l'espace Schengen.
 
 
 ### {{< translate "road_condition" >}}
-{{< score 5 >}}
+{{< score 4 >}}
+Notre voyage à travers le Portugal s'est déroulé selon un itinéraire méticuleusement planifié. En commençant par l'Algarve, la région méridionale, nous avons pédalé d'est en ouest jusqu'à Sagres. Ensuite, en suivant la côte atlantique, nous nous sommes dirigés vers le nord jusqu'à Porto. De là, notre itinéraire a fait un léger détour à l'intérieur des terres jusqu'à Vila Real avant de sortir du pays par l'*ecovia do Tamega e Corgo*, concluant notre aventure cycliste dans la municipalité de Chaves.
 
-La route est toujours bien entretenue. Comparé à la partie française, c'est beaucoup plus fréquenté, surtout à l'approche de Santiago. Nous pouvions sentir sur notre chemin que l'économie des villes reposait principalement sur les pèlerins. De plus, comme l'Espagne est un territoire plus large, la distance entre chaque village est plus grande. Attendez-vous à marcher 10 à 15 km en moyenne pour atteindre la prochaine ville.
+En naviguant au Portugal, nous avons rapidement reconnu la topographie indéniable du pays, caractérisée par des collines ondulantes qui présentaient d'innombrables montées et descentes. Étant donné notre objectif de traverser le pays d'un bout à l'autre, ces ondulations faisaient inévitablement partie de notre voyage.
 
-Concernant le temps, il faisait chaud et sec jusqu'à notre entrée en Galice. À partir de là, c'était pluvieux et venteux la plupart du temps.
+En tant que cyclistes à la recherche de liaisons efficaces entre les villes, nous nous sommes souvent appuyés sur les routes nationales, identifiables par des codes commençant par la lettre "N" suivie d'un chiffre (comme la "N2"). Bien que ces routes bien entretenues offrent des montées plus douces que les autres itinéraires, elles posent parfois des problèmes en raison de leur étroitesse et de la densité de la circulation qui y règne. Cependant, la congestion n'a jamais atteint un point tel qu'elle ait compromis notre sécurité.
 
-Ce qui est drôle, c'est que la Finisterre espagnole ressemble au Finisterre français car les deux partagent le même climat, la même géographie et la même culture celtique.
+Une autre option à notre disposition était la *ecovia*, également connue sous le nom de *ecopista* ou *cyclopista*. Souvent des voies ferrées réaffectées, ces routes offrent un passage plus sûr, conçu explicitement pour les piétons et les cyclistes. Malgré leurs avantages en termes de sécurité, nombre d'entre elles étaient incomplètes ou encore en construction. Les informations concernant leur accessibilité et leur état étaient souvent rares.
 
-
+Élaborer notre propre itinéraire en empruntant des rues secondaires et des routes locales s'est présentée comme la troisième option. Ces chemins moins fréquentés offraient une certaine solitude en dehors des grandes villes et permettaient de se rapprocher des sites pittoresques. Cependant, leurs conditions imprévisibles allaient du goudron parfaitement lisse au gravier rocailleux en l'espace d'à peine dix kilomètres. De plus, la prédominance des routes pavées, une caractéristique portugaise distinctive, s'est avérée être un défi pour les roulements à billes et les boulons de notre vélo.
 
 ### {{< translate "accommodations" >}}
-{{< score 4 >}}
+Nous n'avons pas séjourné ni même cherché de logement au Portugal. Nous sommes littéralement incapables de fournir la moindre information à ce sujet.
 
-Nous avons peu d'expérience car nous n'avons séjourné que trois fois dans des hébergements normaux. Mais selon les autres pèlerins, la plupart d'entre eux sont vite complets. Ils devaient planifier leur voyage à l'avance et faire des réservations pour chaque jour.
-
-Alternativement, vous pouvez choisir de séjourner dans un donativo (hébergement basé sur des dons) ou dans une albergue publique (auberge) gérée par le conseil local. Dans les deux cas, ils n'acceptent pas les réservations. Il faut arriver avant la siesta (14h00~16h00) pour pouvoir avoir un lit. Nous avons pu voir de nombreux pèlerins faire la queue plusieurs heures avant l'enregistrement.
-
-Quoi qu'il en soit, vous pouvez vous attendre à des installations vraiment propres où que vous décidiez de séjourner en Espagne.
 
 
 
 ### {{< translate "freedom_camping" >}}
-{{< score 4 >}}
+{{< score 5 >}}
+Le camping sauvage fut une expérience agréable, atteignant de nouveaux niveaux de facilité et de confort. Les aires de pique-nique publiques situées juste à l'extérieur des villages constituaient l'endroit idéal pour ce faire. Elles offraient en effet un équilibre parfait entre la proximité des centres et une atmosphère sereine. Ces aires avaient généralement à disposition des bancs, des tables, de l'eau courante, des poubelles et des coins barbecue. Ces endroits tranquilles étaient frais et ombragés la plupart du temps, un luxe précieux pendant les mois d'été torrides où les températures dépassent les 35°C.
 
-Le camping sauvage n'est pas aussi facile et populaire qu'il l'était en France, mais il est toujours possible de le faire. Même si les habitants ne s'en souciaient pas vraiment, ils ne s'attendaient pas non plus à voir des gens bivouaquer. On essayait de trouver un bon endroit un peu en dehors des villages si possible. Si vous plantez votre tente près du chemin principal, vous pourriez être réveillé par les autres pèlerins, car ils ont tendance à commencer leur marche avant le lever du soleil. En général, ils ne sont pas bruyants, mais ils utilisent des lampes frontales lumineuses et peuvent potentiellement perturber votre sommeil.
+En plus de ces endroits bien aménagés, nous avons parfois choisi de monter notre tente sur des plages, au bord de rivières ou de lacs pittoresques, saisissant ainsi l'occasion d'admirer différents paysages.
 
-Un autre conseil que nous devrions vous donner est de faire attention aux arroseurs automatiques. Les Espagnols semblent vraiment aimer le jardinage et ils ont tendance à les utiliser partout. Nous nous sommes levés plusieurs fois car notre tente était soudainement mouillée à 3 heures du matin.
-
-
+Dans les rares cas où il nous a été difficile de trouver des emplacements convenables pour notre tente, nous avons pris l'initiative d'approcher les habitants. À ces rares occasions, nous avons demandé la permission de camper dans leurs champs, une requête qu'ils ont invariablement accueillie sans hésitation. Cet esprit de collaboration avec les habitants a ajouté une dimension unique et réconfortante à notre expérience du camping.
 
 ### {{< translate "facilities" >}}
-{{< score 4 >}}
+{{< score 5 >}}
+Au cours de notre visite, le Portugal a fait preuve d'un engagement louable dans la promotion de l'écotourisme, comme en témoignent la construction et la rénovation de nombreuses pistes qui nous ont permis d'accéder gratuitement aux splendeurs des parcs nationaux. La possibilité de s'émerveiller devant des paysages naturels à couper le souffle sans avoir à débourser le moindre centime a été très appréciée.
 
-Comme nous l'avons mentionné plus tôt, nous avons dû parcourir de plus longues distances entre chaque village. De plus, tous les villages n'avaient pas de magasins ou d'équipements publics, tels que des toilettes, des robinets d'eau ou des bancs…
+Au-delà des paysages captivants, le Portugal offrait tous les éléments essentiels à une expérience de cyclotourisme de premier ordre. Des toilettes facilement accessibles et d'une propreté irréprochable, des robinets délivrant de l'eau fraîche et savoureuse à haute pression, ainsi qu'une abondance de cafés, de restaurants, d'épiceries et de supermarchés proposant des produits de qualité ont fait partie intégrante de notre voyage.
 
-Cependant, chaque fois que vous pouvez les trouver, ils sont en bon état. Restez quand même attentif à l'horaire de la sieste.
+Pour les plus technophiles d'entre nous, les points d'accès Wi-Fi gratuits généreusement mis à disposition par les supermarchés, les stations-service et certains centres-villes ont facilité la connectivité tout au long de nos voyages.
 
-Il est bon de savoir que chaque supermarché a un coin toilettes où il est possible de remplir ses bouteilles d'eau. Nous avons apprécié de pouvoir y trouver des produits frais à un prix moins élevé qu'en France.
+Le libre choix dans les modes de paiement a été pratique, la carte de débit étant acceptée pour nos achats dans près de 90 % des cas. Nous avons réservé notre argent liquide exclusivement aux charmants étals de fruits et légumes qui bordent les routes.
 
-Concernant l'eau potable, il était effectivement difficile d'y avoir accès. Il semble que tous les robinets d'eau publics du Camino aient été supprimés (exprès ?). On peut en trouver en service à quelques centaines de mètres du chemin principal, dans les grandes villes.
-
-Sinon, il est plus simple de demander aux locaux de remplir vos bouteilles avec la phrase suivante : « Necessito agua, por favor ». À tous les hispanophones, veuillez nous pardonner notre mauvaise prononciation.
-
-
+Bien que notre aventure à vélo ait connu plus de problèmes mécaniques que prévu, ce qui nous a amenés à fréquenter les magasins de vélos, il y a eu un côté positif. Ces visites nous ont permis de découvrir le remarquable professionnalisme des mécaniciens portugais. Patients et maîtrisant parfaitement leur métier, ils diagnostiquaient habilement les problèmes à vue, procédaient à des réparations minutieuses ou, le cas échéant, recommandaient un confrère mieux à même de s'acquitter de la tâche. Cet aspect inattendu a ajouté une dimension unique et positive à notre exploration du pays.
 
 ### {{< translate "communication_with_the_locals" >}}
-{{< score 4 >}}
+{{< score 5 >}}
+Fort heureusement pour nous, la grande majorité de la population maîtrisait soit un anglais impeccable, soit un excellent français, et très probablement une myriade d'autres langues. Pour ceux qui sont moins à l'aise dans l'une de ces deux langues, les tons mélodiques de la langue portugaise ressemblent étrangement au français et à l'espagnol, ce qui facilite une communication sans faille pour les locuteurs de langues latines.
 
-Les Espagnols parlent principalement l'espagnol. Nous ne parlions pas espagnol tous les deux, donc c'était un peu difficile au début. J'ai dû utiliser des mots français car cela se rapproche plus à la langue espagnoles.
-
-Même si les Espagnols sont serviables et amicaux, leur façon de communiquer peut sembler agressive. Nous avons dû nous y habituer. Si vous parlez fort, ils vous comprendront mieux, d'une manière ou d'une autre.
-
-Quelque chose que nous avons remarqué, c'est que les Espagnols sont des gens très actifs, surtout entre 19h00 et 22h00. Les habitants se feront un plaisir de discuter avec vous tout en faisant leurs longues promenades dans ce laps de temps.
-
+Au-delà de l'aisance linguistique, les Portugais ont fait preuve d'une remarquable attention envers les personnes alentour, comme en témoignent des gestes prévenants tels que la création d'un espace suffisant pour nous permettre de pédaler dans des passages étroits. En outre, leur volonté de nous donner des conseils précis et de nous apporter une aide utile nous ont fait preuves de leur bienveillance envers les visiteurs. Ce qui a rendu cette expérience vraiment exceptionnelle, c'est l'équilibre délicat trouvé entre une attention minutieuse et une approche libérée et libre des normes sociétales - un témoignage du talent des Portugais pour harmoniser un état d'esprit vigilant avec un esprit ouvert et acceptant.
 
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
+Les prouesses culinaires portugaises brillent de mille feux, en particulier dans le domaine de la pâtisserie. Au-delà des célèbres *pasteis de nata*, chaque région possède ses propres sucreries délectables, qui s'accordent parfaitement avec une tasse de café fumante. Notre exploration culinaire en Algarve nous a conduits à une découverte remarquable : le *folar de Olhao*, un délice sucré généreusement infusé de notes chaudes de cannelle.
 
-Mina a eu du mal à digérer le poivron espagnol. Puisqu'il s'agit d'un ingrédient central de la cuisine espagnole, nous avons dû éviter 90% des plats préparés locaux. De plus, je suis végétarien et les plats espagnols comprennent beaucoup de viande et de poisson.
+Dans l'art de la préparation du café, le Portugal est un maestro, offrant un éventail éblouissant d'une douzaine de variations pour les palais les plus exigeants. Une charte iconographique détaillant ces diverses variations s'est avéré indispensable pour naviguer dans ce vaste sélection de cafés.
 
-Notre seule option restante était la "tortilla de patata", l'omelette espagnole aux pommes de terre, que nous mangions tous les jours.
+Au Portugal, les boissons rafraîchissantes sont aussi diverses que délicieuses. Nos papilles se sont délectées de spécialités locales telles que la classique bière de Sagres à Sagres, le vin de Porto blanc et rouge à Porto, et l'eau pétillante de Pedras provenant directement de la source de Pedras.
 
-Espérons que si vous décidez de visiter ce pays, vous pourrez mieux apprécier ses spécialités locales.
+Au rayon salé, les sardines surdimensionnées, les plats polyvalents et fantastiques à base de pommes de terre (ragoûts, frites, au four, bouillies) et l'extraordinaire *francesinha* se distinguent. Ressemblant à un croque-madame français, la *francesinha* baignant dans une sauce savoureuse surprend par son goût délicat et délicieux, malgré son apparence peu conventionnelle.
 
-Sinon, nous avons pu trouver de nombreux fruits et légumes frais pour une bonne affaire. Nous avons particulièrement apprécié les pastèques.
+Dans l'ensemble, la cuisine portugaise, apparemment simple, éblouit le palais par ses merveilleuses saveurs, grâce à l'utilisation d'ingrédients frais et aromatiques. Chaque plat témoigne de la finesse culinaire qui élève la simplicité au rang d'art exquis.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-
-Comme en France, le régime végétarien ne fait pas partie de la culture espagnole. Cependant, nous avons pu préparer nos propres repas facilement avec les produits locaux. Mention spéciale à l'huile d'olive locale qui était la meilleure que nous ayons jamais eue jusqu'à présent.
+Malheureusement, le régime traditionnel portugais ne correspond pas parfaitement à ce que l'on pourrait considérer comme un régime végétarien. Dans les centres touristiques, des options végétariennes limitées sont parfois proposées au menu. Toutefois, dans d'autres endroits, nous avons dû nous adresser directement au personnel, en lui demandant de nous préparer un repas végétarien.
 
 #### {{< translate what_we_eat >}} 
 
-- Arroz (riz local)
+- Riz local
 - Tomates
+- Pommes de terre
+- Concombres
 - Pastèques
-- Tortilla de patata
 - Huile d'olive
-- Chocolat
-- Biscuits digestifs
-- Gaspacho
-- Kéfir
+- Pasteis de nata
+- Salame
+- Café
+
+
 
 #### ⭐{{< translate fab_favourite >}}
 
-Pastèques fraîches
+Sical Espresso Coffee, un café richement aromatique qui offre un délicieux mélange de grains de qualité au goût distinct et satisfaisant.
 
 #### ⭐{{< translate mina_favourite >}}
 
-Chocolat chaud avec des churros
-
+Folar de Olhao, un délice sucré de la région de l'Algarve, caractérisé par sa saveur succulente infusée d'une généreuse quantité de cannelle.
 
 
 
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [Santiago de Compostela](https://goo.gl/maps/CuEFTBwv5bcyBhwZ9)    |   La ligne d'arrivée officielle pour tous les pèlerins    |
-|   [Zariquiegui](https://goo.gl/maps/3jYf1H4us8KPHWwL9)    |   Calme et belle vue sur la vallée arride    |
-|   [Irache](https://goo.gl/maps/oU6jz67GSb7WM6CZ7)    |   Robinet de vin gratuit    |
-|   [La Casa de los Dioses](https://goo.gl/maps/3SZCLmzkz5J3GnAW6)    |   Camp géré par des bénévoles où vous pourrez trouver de la nourriture, des abris et des autres pèlerins    |
-|   [Fisterra](https://goo.gl/maps/4vqornucBQCS1uvJ7)    |   La véritable fin de Camino the Santiago pour nous   |
+|   [Cape Saint-Vincent, Sagres](https://maps.app.goo.gl/pNWMaRQ2A88v8ec66)    |   L'endroit le plus au sud-ouest de l'Eurasie    |
+|   [Cape Roca](https://maps.app.goo.gl/23My5eq3rxKzvwwE8)    |   L'endroit le plus à l'ouest de l'Eurasie    |
+|   [Porto](https://maps.app.goo.gl/RiqEry5zu5GbNALa6)    |   Ville animée mais agréable à vivre    |
+|   [Amarante](https://maps.app.goo.gl/SpqECc9GbPzwcmm97)    |   Ville à l'ancienne avec d'excellentes sucreries locales    |
+|   [Peniche](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Village de pêcheurs avec une vue fantastique sur des vagues gigantesques    |
 
