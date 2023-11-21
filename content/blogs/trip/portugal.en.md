@@ -3,9 +3,9 @@ title: "Portugal"
 subtitle: " Cycling the Westernmost country of the Eurasian continent."
 introduction: "At the Westernmost point of Eurasia."
 date: 2023-06-15T16:12:33+01:00
-thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
+thumbnail: "https://live.staticflickr.com/65535/53347004546_9b4c22a001_c.jpg"
 tags: trip
-flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720304693117"
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
 author: fab
 draft: true
@@ -134,11 +134,11 @@ The traditional Portuguese diet, regrettably, doesn't align seamlessly with what
 
 #### ⭐{{< translate fab_favourite >}}
 
-Sical Espresso
+Sical Espresso Coffee, expertly crafted and richly aromatic coffee, offering a delightful blend of quality beans with a distinct and satisfying taste.
 
 #### ⭐{{< translate mina_favourite >}}
 
-Folar de Olhao
+Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its luscious flavor infused with a generous amount of cinnamon.
 
 
 
