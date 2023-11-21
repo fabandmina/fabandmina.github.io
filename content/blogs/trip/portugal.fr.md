@@ -11,7 +11,7 @@ author: fab
 draft: false
 ---
 ## {{< translate "travel_story" >}}
-L'embarquement pour un voyage à vélo à travers le Portugal a marqué la phase initiale de notre vaste projet de [traversée de l'Eurasie] ({{< link_to "wish_eurasia" >}}). Pays le plus à l'ouest de notre itinéraire, le Portugal a servi de point de départ à cette grande aventure.
+L'embarquement pour un voyage à vélo à travers le Portugal a marqué la phase initiale de notre vaste projet de [traversée de l'Eurasie]({{< link_to "wish_eurasia" >}}). Pays le plus à l'ouest de notre itinéraire, le Portugal a servi de point de départ à cette grande aventure.
 
 Mina et moi étions des novices dans l'exploration du pays de Francisco Xavier, et nous sommes entrés avec un esprit ouvert, sans idées préconçues ni attentes spécifiques. Pour Mina, le Portugal revêtait une importance unique dans l'histoire du Japon, car il avait été l'un des rares pays autorisés à commercer avec les Japonais pendant de nombreux siècles. Quant à moi, c'est le pays qui a introduit les célèbres *pasteis de nata* en Asie du Sud-Est et en Océanie.
 
