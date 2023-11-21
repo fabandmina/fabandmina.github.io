@@ -8,7 +8,7 @@ tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
 author: fab
-draft: true
+draft: false
 ---
 ## {{< translate "travel_story" >}}
 L'embarquement pour un voyage à vélo à travers le Portugal a marqué la phase initiale de notre vaste projet de [traversée de l'Eurasie] ({{< link_to "wish_eurasia" >}}). Pays le plus à l'ouest de notre itinéraire, le Portugal a servi de point de départ à cette grande aventure.
