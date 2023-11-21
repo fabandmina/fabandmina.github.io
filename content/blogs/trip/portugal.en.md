@@ -1,7 +1,7 @@
 ---
 title: "Portugal"
 subtitle: " Cycling the Westernmost country of the Eurasian continent."
-introduction: ""
+introduction: "At the Westernmost point of Eurasia."
 date: 2023-06-15T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/52582922516_fab4c04cc3_c.jpg"
 tags: trip
@@ -11,13 +11,11 @@ author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-Travelling Portugal by bicycle was part of our bigger project to cross [Eurasia by bicycle]({{< link_to "wish_eurasia" >}}).
-More precisely, it was the Westernmost country on our plan, and thus, represented the start point of this long adventure.  
+Embarking on a bicycle journey through Portugal marked the initial phase of our extensive endeavor to [traverse Eurasia]({{< link_to "wish_eurasia" >}}). Positioned as the westernmost country on our itinerary, Portugal served as the launching point for this grand adventure.
 
-It was our first time, both Mina and I, to explore the country of Francisco Xavier, and had no prejudice nor expectation of this part of the world.
-For Mina, Portugal was deeply bound to Japan's history for it had been one of a few that were allowed to trade with the Japanese for many centuries. For me, it was the country that brought the renown *pasteis de nata* to South East Asia and Oceania.
+Both Mina and I were novices in exploring the land of Francisco Xavier, entering with an open mind devoid of preconceptions or specific expectations. For Mina, Portugal held a unique significance in Japan's history, as it had been among the select few permitted to trade with the Japanese over many centuries. As for me, it was the nation responsible for introducing the celebrated pasteis de nata to South East Asia and Oceania.
 
-Of course, Portugal delighted us with much more than the little knowledge we had of it. Its landscapes, people, food, beverages and weather were astounding and kept us in the country a little bit longer than expected. 
+Portugal, however, surpassed our initial understanding, captivating us with its breathtaking landscapes, warm-hearted people, delectable cuisine, diverse beverages, and unpredictable yet delightful weather. Consequently, our stay in the country extended beyond our original plans, as Portugal unfolded its wonders, far exceeding the limited knowledge we initially possessed.
 
 
 ## {{< translate "overall_feel" >}} 
@@ -63,16 +61,15 @@ Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the S
 
 ### {{< translate "road_condition" >}}
 {{< score 4 >}}
-We first rode Algarve, the Southern region, from East to West until Sagres, and then headed North until Porto by following the Atlantic coastline. From there, we went a little bit inland until Vila Real, and left the country via the *ecovia do Tamega e Corgo*, that ended in the municipality of Chaves.
+Our journey through Portugal unfolded in a meticulously planned route. Beginning in Algarve, the southern region, we pedaled from East to West until Sagres. Then, tracing the Atlantic coastline, we headed North to Porto. From there, our route took a slight inland detour to Vila Real before exiting the country via the *ecovia do Tamega e Corgo*, concluding our cycling adventure in the municipality of Chaves.
 
-Portugal is a hilly country. There was only little we could do to avoid the numerous ups and downs as our plan was to cross the country from end to end.
+Navigating Portugal, we quickly recognized the undeniable topography of the country, characterized by rolling hills that presented countless ascents and descents. Given our goal to traverse the nation from one end to the other, these undulations were an inevitable part of our journey.
 
-For us cyclists, the fastest way to connect between two towns was by taking the national roads. They could be recognized by their code names that started with the letter "N" followed by a number (For example, the "N2"). These roads were tarred and well-maintained. They also offered more "gentle" climbs than the other options. The main trade-off was that they were sometimes busy and narrow, but never to the point it endangered our ride.
+As cyclists seeking efficient connections between towns, we often relied on the national roads, identifiable by codes starting with the letter "N" followed by a number (such as the "N2"). While these well-maintained roads offered smoother climbs compared to alternative routes, they occasionally posed challenges with their narrow and bustling nature. However, the congestion never reached a point where it compromised our safety.
 
-One other option was the *ecovia*, also known as *ecopista* or *cyclopista*. Often repurposed railways, this kind of roads guaranteed an even safer route as they were built specifically for the pedestrians and the cyclists. However, many of them were either incomplete, or still under construction. The information on how to take them and their state was scarce on the internet and almost non-existent in the local i-sites.
+Another option at our disposal was the *ecovia*, also known as *ecopista* or *cyclopista*. Frequently repurposed railways, these roads provided a safer passage designed explicitly for pedestrians and cyclists. Despite their safety benefits, many were either incomplete or still under construction, and information regarding their accessibility and condition was often scarce online and virtually nonexistent at local i-sites.
 
-Last but not least, it was possible to make our own route by following the side streets and local roads. The main benefit was that they were rarely busy outside of the large cities and could bring you closer to the more scenic places. Their condition, though, was unpredictable as their surface could go from perfectly smooth tar to rocky gravel within the same ten kilometres. Cobble-stoned roads are also a Portuguese special that proved to be harmful to our bearings and bolts.
-
+The flexibility of crafting our own route by navigating side streets and local roads presented itself as the third option. These less-traveled paths offered solitude outside major cities and provided a closer connection to scenic locales. However, their unpredictable conditions ranged from perfectly smooth tar to rocky gravel within a mere ten kilometers. Additionally, the prevalence of cobble-stoned roads, a distinctive Portuguese feature, proved to be challenging for our bike's bearings and bolts.
 
 ### {{< translate "accommodations" >}}
 We did not stay or even search any accommodation in Portugal. We are literally unable to provide any information on this matter.
@@ -82,48 +79,45 @@ We did not stay or even search any accommodation in Portugal. We are literally u
 
 ### {{< translate "freedom_camping" >}}
 {{< score 5 >}}
-Freedom camping had never felt so easy and comfortable. The best places for this purpose were the public picnic areas located outside the villages, but not too far from their centers. They usually provided benches, tables, running water, rubbish bins and BBQ corners. Additionally, those quiet spots were fresh and shaded most of the time, ideal in summer when the temperatures peak at over 35°C.
+Freedom camping became an effortless and enjoyable experience, reaching new levels of ease and comfort. Optimal locations for this purpose were the public picnic areas situated just beyond the villages, striking a perfect balance between proximity to the centers and a serene atmosphere. These areas typically offered benches, tables, running water, rubbish bins, and designated BBQ corners. Notably, these tranquil spots remained cool and shaded most of the time, a valuable attribute during the scorching summer months when temperatures soared above 35°C.
 
-Otherwise, we also pitched the tent on beaches, near the rivers or around the lakes at a few occasions.
+In addition to these well-appointed areas, we occasionally chose to set up our tent on beaches, by riversides, or around picturesque lakes, seizing the opportunity to embrace different scenic backdrops.
 
-For the extremely rare times we could not find any appropriate tent sites, we asked the locals if we could camp inside their fields, which they accepted without hesitation.
-
+In the rare instances where finding suitable tent sites posed a challenge, we took the initiative to approach locals. On these few occasions, we sought permission to camp within their fields, a request they invariably welcomed without hesitation. This collaborative spirit with the locals added a unique and heartening dimension to our camping experience.
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Portugal was working really hard to promote ecotourism when we visited it. It resulted in the construction and renovation of numerous tracks that allowed us to enjoy the national parks for free. We appreciated to be able to admire the magnificent nature at no cost.
+During our visit, Portugal showcased a commendable commitment to promoting ecotourism, evident in the construction and refurbishment of numerous tracks that granted us free access to the splendors of national parks. The opportunity to marvel at the breathtaking natural scenery without incurring any costs was truly appreciated.
 
-Asides the marvelous landscapes, the country had all the ingredients for a premium cycle tour experience! The bathrooms were easy to find and pristine clean; the water taps delivered fresh and tasty water at a high pressure; cafés, restaurants, grocery stores and supermarkets could be found everywhere and were selling quality products and produces.
+Beyond the captivating landscapes, Portugal provided all the essential elements for a premium cycling tour experience. Easily accessible and impeccably clean bathrooms, water taps delivering fresh and flavorful water at high pressure, and an abundance of cafés, restaurants, grocery stores, and supermarkets offering quality products were integral to our journey.
 
-For the more tech savvy of us, Free Wi-Fi hotspots were provided by supermarkets, petrol stations and some city centres. 
+For the tech-savvy among us, Free Wi-Fi hotspots generously provided by supermarkets, petrol stations, and select city centers facilitated seamless connectivity throughout our travels.
 
-Regarding the payment methods, it was possible to pay with our debit card for our shopping ninety percent of the time. We kept our cash for only the fruit and vegetable stales on the side of the road.
+Navigating payment methods was remarkably convenient, with debit card acceptance for our purchases being the norm around ninety percent of the time. We reserved our cash exclusively for the charming fruit and vegetable stalls lining the roadside.
 
-During our tour in the country, we stumbled on mechanical issues with our bike more often than expected, and thus had to visit the bike shops regularly. On the bright side, it gave us the opportunity to discover the incredible professionalism of the Portuguese bike mechanics. Really patient and with an excellent understanding of the job, they would first diagnose our trouble by sight before either operating carefully or recommending us to a peer when they think they would not be up to the task.
+While our cycling adventure did encounter more mechanical hiccups than anticipated, leading us to frequent bike shops, there was a silver lining. These visits unveiled the remarkable professionalism of Portuguese bike mechanics. Patient and possessing an excellent grasp of their craft, they would skillfully diagnose issues upon sight, proceeding with careful repairs or, when necessary, recommending a peer better suited for the task. This unexpected aspect added a unique and positive dimension to our exploration of the country.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
-The good news for us was that almost the entire population could speak either a perfect English or an excellent French, and probably many more languages. For the rest, the Portuguese language sounds close to both French and Spanish, making it easy for a latin speaker to communicate.
+Fortuitously for us, the vast majority of the population demonstrated proficiency in either impeccable English or excellent French, and quite possibly a myriad of other languages. For those less versed in these, the melodic tones of the Portuguese language bore a striking resemblance to both French and Spanish, facilitating seamless communication for speakers of Romance languages.
 
-Moreover, the Portuguese were formidably mindful people! They always acknowledged our presence (for instance, making enough room for us to pedal in narrow passages), and did their best to offer accurate advice and useful assistance. And at the same time, they were not too rigid with the rules. A great balance between a careful mind and a free spirit.
-
+Beyond linguistic ease, the Portuguese people exhibited remarkable mindfulness. They unfailingly acknowledged our presence, exemplified by considerate gestures such as creating ample space for us to navigate through narrow passages. Moreover, their willingness to impart accurate advice and extend helpful assistance added a welcoming dimension to our journey. What made this experience truly exceptional was the delicate balance struck between careful consideration and a liberating, free-spirited approach to societal norms—a testament to the Portuguese knack for harmonizing a vigilant mindset with an open and accepting spirit.
 
 
 ### {{< translate "food" >}}
 {{< score 5 >}}
-The Portuguese excel in the pastries department. Besides the well-known *pasteis de nata*, each region has their own special sweets that always combine perfectly with a cup of coffee. In Algarve, our most significant discovery was the *folar de Olhao*, a sweet delicacy flavoured with a fair amount of cinnamon.
+Portuguese culinary prowess shines brightly, particularly in the realm of pastries. Beyond the renowned *pasteis de nata*, each region boasts its own delectable sweets, seamlessly complementing a steaming cup of coffee. Our culinary exploration in Algarve led us to a noteworthy discovery—the *folar de Olhao*, a sweet delicacy generously infused with the warm notes of cinnamon.
 
-As for the beverages, Portugal is well-versed in the art of brewing coffee. There is a dozen variations available when the time comes to order you hot exlixir. We figured that having a chart of the different possibilities came handy. 
+In the art of coffee brewing, Portugal is a maestro, offering a dazzling array of a dozen variations for the discerning palate. A handy chart detailing the diverse possibilities proved invaluable in navigating this rich coffee culture.
 
-Regarding the fresh drinks, the country still have plenty to offer. We had a lot of fun sipping the most local specialties: the classic Sagres Beer in Sagres, white and red Port wine in Porto, or Pedras sparkling water straight from the spring in Pedras.
+Refreshing beverages in Portugal are as diverse as they are delightful. Our taste buds reveled in local specialties such as the classic Sagres Beer in Sagres, white and red Port wine in Porto, and Pedras sparkling water sourced directly from the spring in Pedras.
 
-In the savoury category, we can mention the oversized sardines, the fantastic potato-based cuisine (stew, fried, baked, boiled...) and the exceptional *francesinha*! The last one resembled a French croque-madame, marinated in a gravy-ish sauce. Despite an uncanny look, the taste was actually delicate and delicious.
+In the savory department, oversized sardines, the versatile and fantastic potato-based dishes (stews, fried, baked, boiled), and the extraordinary *francesinha* stand out. Resembling a French croque-madame, the *francesinha* bathed in a savory sauce surprises with its delicate and delicious taste, despite its unconventional appearance.
 
-Overall, the Portuguese cuisine looks simple, but tastes wonderful, thanks to fresh and flagrant ingredients.
+On the whole, Portuguese cuisine, though seemingly uncomplicated, dazzles the palate with its wonderful flavors, owing much to the use of fresh and aromatic ingredients. Each dish is a testament to the culinary finesse that elevates simplicity to an exquisite art form.
 
 #### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-The typical Portuguese diet is not what we would call vegetarian friendly. In the touristic areas, vegetarian options could be found directly on the menu, but otherwise, we had to ask the staff if they could prepare a special vegetarian meal.
-
+The traditional Portuguese diet, regrettably, doesn't align seamlessly with what one might consider vegetarian-friendly. In tourist hubs, limited vegetarian options were occasionally presented on the menu. However, in other locales, we found it necessary to engage with the staff directly, kindly requesting their assistance in crafting a special vegetarian meal tailored to our dietary preferences.
 #### {{< translate what_we_eat >}} 
 
 - Local rice
