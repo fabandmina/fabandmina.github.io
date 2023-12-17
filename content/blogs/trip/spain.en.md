@@ -1,12 +1,12 @@
 ---
-title: "Portugal"
-subtitle: " Cycling the Westernmost country of the Eurasian continent."
-introduction: "At the Westernmost point of Eurasia."
+title: "Spain"
+subtitle: " "
+introduction: ""
 date: 2023-06-15T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53347004546_9b4c22a001_c.jpg"
 tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#6/40.137/-8.712"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/39.137/-8.712"
 author: fab
 draft: false
 ---
@@ -41,8 +41,8 @@ Portugal, however, surpassed our initial understanding, captivating us with its 
 #### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Cycling
-- **{{< translate starting_date >}}** {{< article_date >}} 
-- **{{< translate duration >}}** 30 days
+- **{{< translate starting_date >}}** May 6, 2023 -- (*Second entry:* July 15, 2023)
+- **{{< translate duration >}}** 30 days (. + .)
 - **{{< translate distance >}}** 1,182 km
 
 ### {{< translate "crossing_the_border" >}}
