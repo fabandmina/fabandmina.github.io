@@ -3,9 +3,10 @@ title: "Spain"
 subtitle: " "
 introduction: ""
 date: 2023-06-15T16:12:33+01:00
-thumbnail: "https://live.staticflickr.com/65535/53347004546_9b4c22a001_c.jpg"
-tags: trip
-flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
+thumbnail: "https://live.staticflickr.com/65535/53403794995_b34e653976_c.jpg"
+tags: 
+    - trip
+flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720313460374"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/39.137/-8.712"
 author: fab
 draft: true
@@ -42,8 +43,8 @@ Portugal, however, surpassed our initial understanding, captivating us with its 
 
 - **{{< translate way_of_travelling >}}** Cycling
 - **{{< translate starting_date >}}** May 6, 2023 -- (*Second entry:* July 15, 2023)
-- **{{< translate duration >}}** 30 days (. + .)
-- **{{< translate distance >}}** 1,182 km
+- **{{< translate duration >}}** 56 days -- (39 days + 16 days)
+- **{{< translate distance >}}** 2,895 km -- (2,154 km + 741 km)
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
@@ -146,9 +147,9 @@ Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its l
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [Cape Saint-Vincent, Sagres](https://maps.app.goo.gl/pNWMaRQ2A88v8ec66)    |   The south-westernmost place in Eurasia    |
-|   [Cape Roca](https://maps.app.goo.gl/23My5eq3rxKzvwwE8)    |   The westernmost place in Eurasia    |
-|   [Porto](https://maps.app.goo.gl/RiqEry5zu5GbNALa6)    |   Bustling but enjoyable city    |
-|   [Amarante](https://maps.app.goo.gl/SpqECc9GbPzwcmm97)    |   Old-fashioned city with excellent local sweets    |
-|   [Peniche](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Fishermen village with a fantastic view on gigantic waves    |
+|   [Gorafe Desert](https://maps.app.goo.gl/XANu6a3BzVLJ1ozw8)    |   The south-westernmost place in Eurasia    |
+|   [Lanjarón](https://maps.app.goo.gl/EF3oWhWqgePrTgXWA)    |   The westernmost place in Eurasia    |
+|   [Fuengirola](https://maps.app.goo.gl/eScAzb6uAtnmQFkVA)    |   Bustling but enjoyable city    |
+|   [Tarifa](https://maps.app.goo.gl/pj3iuS2WXBrcxgUy7)    |   Old-fashioned city with excellent local sweets    |
+|   [Basque Country](https://maps.app.goo.gl/FoFDkfRyQadJhXk39)    |   Fishermen village with a fantastic view on gigantic waves    |
 
