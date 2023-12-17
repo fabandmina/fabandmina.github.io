@@ -8,7 +8,7 @@ tags: trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720312863264"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/39.137/-8.712"
 author: fab
-draft: false
+draft: true
 ---
 ## {{< translate "travel_story" >}}
 Embarking on a bicycle journey through Portugal marked the initial phase of our extensive endeavor to [traverse Eurasia]({{< link_to "wish_eurasia" >}}). Positioned as the westernmost country on our itinerary, Portugal served as the launching point for this grand adventure.
