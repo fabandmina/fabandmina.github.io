@@ -10,7 +10,7 @@ tags:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720313460374"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/39.137/-8.712"
 author: fab
-draft: true
+draft: false
 ---
 ## {{< translate "travel_story" >}}
 Our journey to cross Eurasia led us to pedal through Spain not once, but twice. The first spin served as a practice ride, taking us to the starting line in Portugal. The second entry marked the official start of our adventure toward Japan.
