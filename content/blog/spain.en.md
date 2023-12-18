@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-subtitle: " "
+subtitle: " Pedaling Spain Twice: From Warm-Up Trails to Eurasian Exploration."
 introduction: "Rough Rides and Desert Delights: Gorafe – Like Another Planet, Seriously!"
 date: 2023-06-15T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53403794995_b34e653976_c.jpg"
@@ -71,7 +71,20 @@ Our initial plan was to contour the whole Iberian Peninsula by sticking to the c
 Our feelings regarding cycling in Spain are mostly positive. The roads are in neat conditions and often contains multiple spacious lanes, sometimes including a dedicated one for the cyclists. Also the drivers are really considerate and left a massive space to pedal safely, even on narrower paths. The more adventurous tourers would also appreciate the numerous gravel tracks that expanded over countless kilometres and offering privileged spots to contemplate the landscapes.
 
 #### A commented recap of our itinerary
-- Route 1: addazdd
+##### Part I
+- *Col de Panissars ~ Mucia, following the Eurovélo 8*: The EuroVelo 8 is currently undergoing construction, providing a partially comfortable ride, primarily hampered by inadequate waymarking.
+- *Murcia ~ Granada, following the Via Verde del Campo de Cartagena,Carril Bici de La Torrecilla ,Via Verde del Valle de  Almanzora, and GR3201*: Scenic gravel cycle tracks across the mountains that lead to a stunning canyon.
+- *Granada ~ Motril, following the highway:* Mostly downhill and scenic, although a bit busy.
+- *Motril ~ Cadiz following Eurovélo 8*: Most of the route was fine, except the unavoidable segment between Malaga and Gibraltar where the national highway N340 suddenly turns into a motorway, without any optional detour built for the cyclists. Riding our bicycle there felt utterly dangerous because of the high-speed traffic.
+- *Cadiz ~ Rota, ferry*: Booking ferry tickets in advance was not required and bringing a bicycle onboard was free.
+- *Rota ~ Seville, following the Rio Guadalquivir:* Long flat gravel road. Not a single soul sighted during this crossing. We recommend to carry a lot of water.
+- *Seville ~ Ayamonte* following the local roads: Easy. 
+
+##### Part II
+- *Feces de Baixo ~ Pontferrada, following alternative Camino de Santiago routes:* Several ups and downs, but after Portugal, it felt relatively easy.
+- *Pontferrada ~ Burgos, following the Camino de Santiago Frances*: The second time for us travelling this route, but the first time on a bicycle. It felt overall easier, except the last two kilometres before Puerto Focebadon where the road's angle increases dramatically. Riding the same camino, but towards the opposite end, brought back good memories.
+- *Burgos ~ Vitoria Gasteiz, following the N1:* Large road with multiple lanes. Not a lot of cars on the way since the fast motorway runs just aside. Also, some parts of it carried a historical legacy and picturesque landscapes.
+- *Vitoria Gastei ~ Irun, following mountain cycle routes*: We rode through an extensive network of cycle routes that ran along lakes, rivers and through the mountains. A bit hilly but not steep, and offering great sceneries.
 
 ### {{< translate "accommodations" >}}
 {{< score 4 >}}
@@ -79,61 +92,60 @@ Spain caters to various budgets and preferences with a diverse range of accommod
 
 ### {{< translate "freedom_camping" >}}
 {{< score 4 >}}
-During our previous adventure tracing the Camino de Santiago in Spain, pitching our tent was a carefree affair. However, this time around, we adopted a more cautious approach. On a few occasions, the police gently reminded us that freedom camping wasn't their cup of tea, although the locals appeared more lenient. On the upside, the mountains generously presented numerous picturesque spots for overnight stays, while the beaches occasionally offered refreshing free showers.
+During our previous adventure tracing the Camino de Santiago in Spain, pitching our tent was a carefree affair. However, this time around, we adopted a more cautious approach. On a few occasions, the police gently reminded us that freedom camping wasn't their cup of tea, although the locals appeared more lenient. On the upside, the mountains generously presented numerous picturesque spots for overnight stays, while the beaches occasionally offered refreshing free showers. The vicinity of the lakes also presented a good option as this kind of areas were sufficiently remote and bushy to cover our presence from the police patrols.
 
 And, just as it was during our initial journey, a friendly reminder: beware of the sprinklers!
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Fantastic overall!
+Fantastic overall! Spain is easy to travel by bicycle.
 
-Abundant drinking water sources, numerous supermarkets with free Wi-Fi (also found at petrol stations and i-sites), several conveniently located bike shops, and well-situated picnic spots. Plus, credit/debit cards are universally accepted without any conditions.
+Abundant drinking water sources, numerous supermarkets with free Wi-Fi (also found at petrol stations and i-sites), several conveniently located bike shops/stations, and well-situated picnic spots. Plus, credit/debit cards are universally accepted without any conditions.
 
-As for restrooms, while public toilets were not abundant, it's widely accepted to request the use of facilities at cafes, bars, and petrol stations
+As for restrooms, while public toilets were not abundant, it's widely accepted to request the use of facilities at cafes, bars, and petrol stations.
 
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
 Being our second visit to the country, we had already become acquainted with the locals and nuances of their language. This time around, everything went exceptionally smoothly.
 
-In the larger cities, English is commonly spoken.
+Compared to our last time in Spain doing the Santiago pilgrimage, we felt more connected to the locals this time. We still pondered if it was because of the touristic nature of the camino itself, or because the Covid crisis that was still fresh in people's minds. 
+
+Otherwise, in the larger cities, English is commonly spoken.
 
 
 ### {{< translate "food" >}}
-{{< score 5 >}}
-Portuguese culinary prowess shines brightly, particularly in the realm of pastries. Beyond the renowned *pasteis de nata*, each region boasts its own delectable sweets, seamlessly complementing a steaming cup of coffee. Our culinary exploration in Algarve led us to a noteworthy discovery—the *folar de Olhao*, a sweet delicacy generously infused with the warm notes of cinnamon.
+{{< score 3 >}}
+Our upgraded [camping stove]({{< link_to "cooking-kit" >}}) elevated our cooking experience, thanks to the accessibility of affordable rubbing alcohol in most supermarkets.
 
-In the art of coffee brewing, Portugal is a maestro, offering a dazzling array of a dozen variations for the discerning palate. A handy chart detailing the diverse possibilities proved invaluable in navigating this rich coffee culture.
+However, this year brought about a noticeable increase in the prices of fresh produce and a decline in overall quality. For instance, in 2021, a kilogram of watermelon cost around 0.50€. This time, the same amount of watermelon ranged between 1€ and 1.50€. Moreover, organic food was both hard to come by and relatively expensive.
 
-Refreshing beverages in Portugal are as diverse as they are delightful. Our taste buds reveled in local specialties such as the classic Sagres Beer in Sagres, white and red Port wine in Porto, and Pedras sparkling water sourced directly from the spring in Pedras.
+On the culinary front, we treated ourselves to a few local specialties at restaurants and cafés. The hot chocolate and churros combo at the *Valor* café was not only generous but also absolutely delicious.
 
-In the savory department, oversized sardines, the versatile and fantastic potato-based dishes (stews, fried, baked, boiled), and the extraordinary *francesinha* stand out. Resembling a French croque-madame, the *francesinha* bathed in a savory sauce surprises with its delicate and delicious taste, despite its unconventional appearance.
+#### {{< translate vegetarian_friendly >}} {{< score 2 >}}
+No surprises in this department. Spanish cuisine maintains a strong emphasis on meat and seafood, bridging cultural differences between regions. While vegetarian options were more prevalent in larger cities, the choices were still somewhat limited and often fell short of providing a fully satisfying range.
 
-On the whole, Portuguese cuisine, though seemingly uncomplicated, dazzles the palate with its wonderful flavors, owing much to the use of fresh and aromatic ingredients. Each dish is a testament to the culinary finesse that elevates simplicity to an exquisite art form.
-
-#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-The traditional Portuguese diet, regrettably, doesn't align seamlessly with what one might consider vegetarian-friendly. In tourist hubs, limited vegetarian options were occasionally presented on the menu. However, in other locales, we found it necessary to engage with the staff directly, kindly requesting their assistance in crafting a special vegetarian meal tailored to our dietary preferences.
 #### {{< translate what_we_eat >}} 
 
 - Local rice
 - Tomatoes
-- Potatoes
+- Biwa
+- Cheese
 - Cucumbers
 - Watermelons
 - Olive oil
-- Pasteis de nata
-- Salame
+- Digestive biscuits
 - Coffee
 
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-Sical Espresso Coffee, expertly crafted and richly aromatic coffee, offering a delightful blend of quality beans with a distinct and satisfying taste.
+Hot chocolate and churros from Valor.
 
 #### ⭐{{< translate mina_favourite >}}
 
-Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its luscious flavor infused with a generous amount of cinnamon.
+Fresh biwa fruits self-harvested from the tree.
 
 
 
