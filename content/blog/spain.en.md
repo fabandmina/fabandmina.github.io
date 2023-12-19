@@ -2,7 +2,7 @@
 title: "Spain"
 subtitle: " Pedaling Spain Twice: From Warm-Up Trails to Eurasian Exploration."
 introduction: "Rough Rides and Desert Delights: Gorafe – Like Another Planet, Seriously!"
-date: 2023-06-15T16:12:33+01:00
+date: 2023-07-15T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53403794995_b34e653976_c.jpg"
 tags: 
     - trip
