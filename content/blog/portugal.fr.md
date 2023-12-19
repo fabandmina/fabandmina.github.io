@@ -54,7 +54,7 @@ Le passage de la frontière entre l'Espagne et le Portugal consistait à travers
 En tant que ressortissant français, vous pouvez bien sûr rester aussi longtemps que vous le souhaitez au Portugal.
 
 #### {{< translate mina >}} 🇯🇵
-Mina avait un visa de partenaire qui lui permettait de rester dans l'espace Schengen pendant un an.
+Mina avait un visa de rapprochement familial qui lui permettait de rester dans l'espace Schengen pendant un an.
 
 Sinon, les titulaires d'un passeport japonais peuvent séjourner 90 jours en 6 mois dans l'espace Schengen.
 
