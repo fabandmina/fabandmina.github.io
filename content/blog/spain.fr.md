@@ -69,8 +69,8 @@ Notre plan initial était de faire le tour de la péninsule ibérique en suivant
 
 Nos impressions concernant le cyclisme en Espagne sont plutôt positives. Les routes sont en bon état et contiennent souvent plusieurs voies spacieuses, dont certaines sont réservées aux cyclistes. Les conducteurs sont également très prévenants et laissent un large espace pour pédaler en toute sécurité, même sur les chemins les plus étroits. Les cyclotouristes plus aventureux apprécieront également les nombreuses pistes de gravier qui s'étendent sur d'innombrables kilomètres et offrent des endroits privilégiés pour contempler les paysages.
 
-#### A commented recap of our itinerary
-##### Part I
+#### Récapitulatif de notre itinéraire
+##### Partie I
 - *Col de Panissars ~ Mucia, en suivant l'Eurovélo 8* : L'Eurovélo 8 est en cours de construction, ce qui permet un trajet partiellement confortable, principalement entravé par un balisage inadéquat.
 - *Murcia ~ Granada, en suivant la Via Verde del Campo de Cartagena, le Carril Bici de La Torrecilla, la Via Verde del Valle de Almanzora, et le GR3201* : Pistes cyclables pittoresques à travers les montagnes qui mènent à un magnifique canyon.
 - *Granada ~ Motril, en suivant l'autoroute:* La plupart du temps en descente et pittoresque, bien qu'un peu fréquenté.
@@ -79,7 +79,7 @@ Nos impressions concernant le cyclisme en Espagne sont plutôt positives. Les ro
 - *Rota ~ Seville, en suivant le Rio Guadalquivir:* Longue route de gravier plate. Pas une seule âme aperçue pendant cette traversée. Nous recommandons d'emporter beaucoup d'eau.
 - *Séville ~ Ayamonte* en suivant les routes locales : Facile.
 
-##### Part II
+##### Partie II
 - *Feces de Baixo ~ Pontferrada, en suivant des itinéraires alternatifs du Camino de Santiago:* Plusieurs montées et descentes, mais après le Portugal, c'était relativement facile.
 - Pontferrada ~ Burgos, en suivant le Camino de Santiago Frances* : C'est la deuxième fois que nous parcourons cet itinéraire, mais la première fois à vélo. Il nous a semblé globalement plus facile, à l'exception des deux derniers kilomètres avant Puerto Focebadon, où l'inclinaison de la route augmente considérablement. Parcourir le même camino, mais vers l'extrémité opposée, nous a rappelé de bons souvenirs.
 - Burgos ~ Vitoria Gasteiz, en suivant la N1:* Grande route à plusieurs voies. Il n'y a pas beaucoup de voitures sur le chemin car l'autoroute rapide passe juste à côté. De plus, certaines parties de la route ont un héritage historique et des paysages pittoresques.
