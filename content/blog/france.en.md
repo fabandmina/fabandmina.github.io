@@ -13,9 +13,7 @@ author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-Our journey to cross Eurasia led us to pedal through Spain not once, but twice. The first spin served as a practice ride, taking us to the starting line in Portugal. The second entry marked the official start of our adventure toward Japan.
 
-Although we had visited some places before, the experience felt refreshingly different on a bicycle, especially when retracing the familiar paths of the [Camino de Santiago]({{< link_to "camino-spain" >}}). Having previously explored Spain on foot, the landscape took on a new perspective, becoming the perfect testing ground for our novel bicycle and revealing both its strengths and weaknesses along the way.
 
 
 ## {{< translate "overall_feel" >}} 
@@ -87,32 +85,28 @@ On a positive note, we found solace in official cycle routes, offering serene ri
 - *Vitoria Gastei ~ Irun, following mountain cycle routes*: We rode through an extensive network of cycle routes that ran along lakes, rivers and through the mountains. A bit hilly but not steep, and offering great sceneries.
 
 ### {{< translate "accommodations" >}}
-{{< score 4 >}}
-Navigating France in the height of summer presented a challenge in securing affordable accommodations, as booking well in advance proved nearly essential. The sole occasion we opted for paid lodging was at an official campsite, where securing a tent spot required arriving near office opening hours. Fortunately, our chosen campsite turned out to be a peaceful exception, given that they typically host lively events with loud music and fireworks until 5:00 AM each night – an amusing spectacle for most vacationers but suboptimal for weary tourers after a long day on the road.
+{{< score 3 >}}
+Navigating France in the height of summer presented a challenge in securing affordable accommodations, as booking well in advance proved nearly essential. The sole occasion we opted for paid lodging was at an official campsite, where securing a tent spot required arriving near office opening hours. Fortunately, our chosen campsite turned out to be a peaceful exception, given that they typically host lively events with loud music and fireworks until 5:00 AM each night – an amusing spectacle for most vacationers but suboptimal for weary tourers after a long day on the road. Additionally, the vast majority of the campsites we found on our way did not offer a specific pricing for hikers and cyclists that only need a narrower surface for their tents. Often, the lowest fare would be  for a couple travelling by car.
 
 ### {{< translate "freedom_camping" >}}
-{{< score 4 >}}
-During our previous adventure tracing the Camino de Santiago in Spain, pitching our tent was a carefree affair. However, this time around, we adopted a more cautious approach. On a few occasions, the police gently reminded us that freedom camping wasn't their cup of tea, although the locals appeared more lenient. On the upside, the mountains generously presented numerous picturesque spots for overnight stays, while the beaches occasionally offered refreshing free showers. The vicinity of the lakes also presented a good option as this kind of areas were sufficiently remote and bushy to cover our presence from the police patrols.
-
-And, just as it was during our initial journey, a friendly reminder: beware of the sprinklers!
+{{< score 5 >}}
+Freedom camping in France is a breeze! Abundant spots away from patrol sights make pitching your tent hassle-free. Generally, locals are indifferent or even welcoming toward freedom campers. However, exercise caution and steer clear of areas explicitly marked with no freedom camping signs, as the police may conduct checks on suspicious individuals. While we encountered this a few times, the police were friendly and simply provided a reminder of the regulations. Of course, we took no chances and promptly relocated to a more secluded spot.
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-Fantastic overall! Spain is easy to travel by bicycle.
+Great overall! Navigating France by bicycle is a breeze.
 
-Abundant drinking water sources, numerous supermarkets with free Wi-Fi (also found at petrol stations and i-sites), several conveniently located bike shops/stations, and well-situated picnic spots. Plus, credit/debit cards are universally accepted without any conditions.
+You'll find abundant drinking water sources, numerous free Wi-Fi access points (keep an eye out for Decathlon and i-sites), and well-placed picnic spots.
 
-As for restrooms, while public toilets were not abundant, it's widely accepted to request the use of facilities at cafes, bars, and petrol stations.
+While bike shops are conveniently located, we occasionally found the service provided by bike mechanics falling short of our expectations.
 
+On the bright side, credit/debit cards are universally accepted without any conditions.
+
+When it comes to restrooms, although public toilets are plentiful, they often leave something to be desired in terms of hygiene.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
-Being our second visit to the country, we had already become acquainted with the locals and nuances of their language. This time around, everything went exceptionally smoothly.
-
-Compared to our last time in Spain doing the Santiago pilgrimage, we felt more connected to the locals this time. We still pondered if it was because of the touristic nature of the camino itself, or because the Covid crisis that was still fresh in people's minds. 
-
-Otherwise, in the larger cities, English is commonly spoken.
-
+It's a bit challenging to provide a partial opinion, given that we had spent more than a year in France before embarking on our cycling journey. By now, we are both accustomed to the culture, and Mina has made significant progress with the language. For someone unfamiliar with France, it might seem that people appear unwelcoming, but it's more of a facade. Just remember to say "bonjour" and "bon appétit" when you sense uncomfortable stares; it can truly make a positive difference in your first impression!
 
 ### {{< translate "food" >}}
 {{< score 3 >}}
