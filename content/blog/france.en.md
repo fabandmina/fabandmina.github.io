@@ -64,11 +64,11 @@ Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the S
 
 ### {{< translate "road_condition" >}}
 {{< score 5 >}}
-Our itinerary broke down into two parts. The first one being from our former apartment in Marseille to the Spanish border near Le Perthus following the Mediterranean Coast, and the second part, from Hendaye to the Italian border near Menton following a customized itinerary.
+Our journey unfolded in two parts: the first from our former Marseille apartment to the Spanish border near Le Perthus, tracing the Mediterranean Coast, and the second from Hendaye to the Italian border near Menton, following a custom route.
 
-Overall, riding a bicycle in France is enjoyable. The roads are well-maintained and the country has a well-marked cycle route network, although sometimes a bit narrow. Compared to other European countries, the French drivers do not usually leave enough space on their right-hand side to cycle safely. It also happens that they manoeuvre impatiently around the bicycle and leave a few unpleasant comments. Most of the time we just ignored them, but it is totally accepted to respond in the same manner.
+Cycling in France proves enjoyable overall, thanks to well-maintained roads and a comprehensive cycle route network, albeit occasionally narrow. Unlike some European countries, French drivers may not consistently provide ample space on their right side for safe cycling, occasionally maneuvering impatiently with a few unpleasant comments. While we often chose to ignore such encounters, responding in kind is a culturally accepted option.
 
-Otherwise, we particularly appreciated the official cycle routes as they provided relaxing rides and ran through charming villages and picturesque nature. Many kinds of cyclists are using them and they often share good advice on the way.
+On a positive note, we found solace in official cycle routes, offering serene rides through charming villages and picturesque nature. Shared by a diverse community of cyclists, these routes became a source of valuable advice and camaraderie along the way.
 
 #### A commented recap of our itinerary
 ##### Part I
@@ -88,7 +88,7 @@ Otherwise, we particularly appreciated the official cycle routes as they provide
 
 ### {{< translate "accommodations" >}}
 {{< score 4 >}}
-Spain caters to various budgets and preferences with a diverse range of accommodations. During our journey, we made use of these options twice – once in Elxe and once in Granada. Concerned about the safety of our tandem, we consistently chose accommodations on the outskirts where hotels offered more space and proved to be more affordable than their centrally located counterparts. Notably, the hotels' staff was not only welcoming but also bicycle-friendly, adding an extra layer of comfort to our stay. Overall, the cost of accommodations tends to fall within the mid-to-upper tier for Europe, especially during the high-peak season.
+Navigating France in the height of summer presented a challenge in securing affordable accommodations, as booking well in advance proved nearly essential. The sole occasion we opted for paid lodging was at an official campsite, where securing a tent spot required arriving near office opening hours. Fortunately, our chosen campsite turned out to be a peaceful exception, given that they typically host lively events with loud music and fireworks until 5:00 AM each night – an amusing spectacle for most vacationers but suboptimal for weary tourers after a long day on the road.
 
 ### {{< translate "freedom_camping" >}}
 {{< score 4 >}}
