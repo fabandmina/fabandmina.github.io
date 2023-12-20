@@ -1,8 +1,8 @@
 ---
 title: "France"
 subtitle: " "
-introduction: ""
-date: 2023-06-15T16:12:33+01:00
+introduction: "A delightful journey through the Camargue, basking in the sunshine on a summer day."
+date: 2023-07-31T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53408917177_8fe65655ce_c.jpg"
 tags:
     - trip
@@ -13,28 +13,24 @@ author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-Embarking on a bicycle journey through Portugal marked the initial phase of our extensive endeavor to [traverse Eurasia]({{< link_to "wish_eurasia" >}}). Positioned as the westernmost country on our itinerary, Portugal served as the launching point for this grand adventure.
+Our journey to cross Eurasia led us to pedal through Spain not once, but twice. The first spin served as a practice ride, taking us to the starting line in Portugal. The second entry marked the official start of our adventure toward Japan.
 
-Both Mina and I were novices in exploring the land of Francisco Xavier, entering with an open mind devoid of preconceptions or specific expectations. For Mina, Portugal held a unique significance in Japan's history, as it had been among the select few permitted to trade with the Japanese over many centuries. As for me, it was the nation responsible for introducing the celebrated *pasteis de nata* to South East Asia and Oceania.
-
-Portugal, however, surpassed our initial understanding, captivating us with its breathtaking landscapes, warm-hearted people, delectable cuisine, diverse beverages, and unpredictable yet delightful weather. Consequently, our stay in the country extended beyond our original plans, as Portugal unfolded its wonders, far exceeding the limited knowledge we initially possessed.
+Although we had visited some places before, the experience felt refreshingly different on a bicycle, especially when retracing the familiar paths of the [Camino de Santiago]({{< link_to "camino-spain" >}}). Having previously explored Spain on foot, the landscape took on a new perspective, becoming the perfect testing ground for our novel bicycle and revealing both its strengths and weaknesses along the way.
 
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- Sunny weather
-- Fierce Atlantic waves
-- Dramatic mountains and cliffs
-- Coffee times
-- The people
+- Well-maintained roads, and well-marked cycle routes
+- Food! Affordable organic produce and fresh ingredients in general
+- A strong bicycle culture
+- Easy freedom camping
+- Cashless country
   
 #### {{< translate what_we_dislike >}}
 
-- Cobble-stoned roads
-- Steep ups and downs
-- Strong headwind
+- France is busy in summer, expect a bit of crowd on the roads, on the cycle ways and inside the campsites
 
 
 
@@ -43,13 +39,18 @@ Portugal, however, surpassed our initial understanding, captivating us with its 
 #### {{< translate stats >}}
 
 - **{{< translate way_of_travelling >}}** Cycling
-- **{{< translate starting_date >}}** {{< article_date >}} 
-- **{{< translate duration >}}** 30 days
-- **{{< translate distance >}}** 1,182 km
+- **{{< translate starting_date >}}** April 30, 2023 -- (*Second entry:* July 31, 2023)
+- **{{< translate duration >}}** 42 days -- (6 days + 36 days)
+- **{{< translate distance >}}** 1,844 km -- (399 km + 1,445 km)
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
-Crossing the border between Spain and France consisted in crossing Bidosoa river. We did not get checked by any border officer.
+We crossed the French border 3 times at the following places:
+- The Col de Panissars
+- The Bidasoa
+- The Rio San Luigi
+
+We passed the border without encountering any police officers.
 
 #### {{< translate fab >}} 🇫🇷
 As a French national, you can of course stay as long as you want in France.
@@ -62,85 +63,89 @@ Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the S
 
 
 ### {{< translate "road_condition" >}}
-{{< score 4 >}}
-Our journey through Portugal unfolded in a meticulously planned route. Beginning in Algarve, the southern region, we pedaled from East to West until Sagres. Then, tracing the Atlantic coastline, we headed North to Porto. From there, our route took a slight inland detour to Vila Real before exiting the country via the *ecovia do Tamega e Corgo*, concluding our cycling adventure in the municipality of Chaves.
+{{< score 5 >}}
+Our itinerary broke down into two parts. The first one being from our former apartment in Marseille to the Spanish border near Le Perthus following the Mediterranean Coast, and the second part, from Hendaye to the Italian border near Menton following a customized itinerary.
 
-Navigating Portugal, we quickly recognized the undeniable topography of the country, characterized by rolling hills that presented countless ascents and descents. Given our goal to traverse the nation from one end to the other, these undulations were an inevitable part of our journey.
+Overall, riding a bicycle in France is enjoyable. The roads are well-maintained and the country has a well-marked cycle route network, although sometimes a bit narrow. Compared to other European countries, the French drivers do not usually leave enough space on their right-hand side to cycle safely. It also happens that they manoeuvre impatiently around the bicycle and leave a few unpleasant comments. Most of the time we just ignored them, but it is totally accepted to respond in the same manner.
 
-As cyclists seeking efficient connections between towns, we often relied on the national roads, identifiable by codes starting with the letter "N" followed by a number (such as the "N2"). While these well-maintained roads offered smoother climbs compared to alternative routes, they occasionally posed challenges with their narrow and bustling nature. However, the congestion never reached a point where it compromised our safety.
+Otherwise, we particularly appreciated the official cycle routes as they provided relaxing rides and ran through charming villages and picturesque nature. Many kinds of cyclists are using them and they often share good advice on the way.
 
-Another option at our disposal was the *ecovia*, also known as *ecopista* or *cyclopista*. Frequently repurposed railways, these roads provided a safer passage designed explicitly for pedestrians and cyclists. Despite their safety benefits, many were either incomplete or still under construction, and information regarding their accessibility and condition was often scarce online and virtually nonexistent at local i-sites.
+#### A commented recap of our itinerary
+##### Part I
+- *Col de Panissars ~ Mucia, following the Eurovélo 8*: The EuroVelo 8 is currently undergoing construction, providing a partially comfortable ride, primarily hampered by inadequate waymarking.
+- *Murcia ~ Granada, following the Via Verde del Campo de Cartagena,Carril Bici de La Torrecilla ,Via Verde del Valle de  Almanzora, and GR3201*: Scenic gravel cycle tracks across the mountains that lead to a stunning canyon.
+- *Granada ~ Motril, following the highway:* Mostly downhill and scenic, although a bit busy.
+- *Motril ~ Cadiz following Eurovélo 8*: Most of the route was fine, except the unavoidable segment between Malaga and Gibraltar where the national highway N340 suddenly turns into a motorway, without any optional detour built for the cyclists. Riding our bicycle there felt utterly dangerous because of the high-speed traffic.
+- *Cadiz ~ Rota, ferry*: Booking ferry tickets in advance was not required and bringing a bicycle onboard was free.
+- *Rota ~ Seville, following the Rio Guadalquivir:* Long flat gravel road. Not a single soul sighted during this crossing. We recommend to carry a lot of water.
+- *Seville ~ Ayamonte* following the local roads: Easy. 
 
-The flexibility of crafting our own route by navigating side streets and local roads presented itself as the third option. These less-traveled paths offered solitude outside major cities and provided a closer connection to scenic locales. However, their unpredictable conditions ranged from perfectly smooth tar to rocky gravel within a mere ten kilometers. Additionally, the prevalence of cobble-stoned roads, a distinctive Portuguese feature, proved to be challenging for our bike's bearings and bolts.
+##### Part II
+- *Feces de Baixo ~ Pontferrada, following alternative Camino de Santiago routes:* Several ups and downs, but after Portugal, it felt relatively easy.
+- *Pontferrada ~ Burgos, following the Camino de Santiago Frances*: The second time for us travelling this route, but the first time on a bicycle. It felt overall easier, except the last two kilometres before Puerto Focebadon where the road's angle increases dramatically. Riding the same camino, but towards the opposite end, brought back good memories.
+- *Burgos ~ Vitoria Gasteiz, following the N1:* Large road with multiple lanes. Not a lot of cars on the way since the fast motorway runs just aside. Also, some parts of it carried a historical legacy and picturesque landscapes.
+- *Vitoria Gastei ~ Irun, following mountain cycle routes*: We rode through an extensive network of cycle routes that ran along lakes, rivers and through the mountains. A bit hilly but not steep, and offering great sceneries.
 
 ### {{< translate "accommodations" >}}
-We did not stay or even search any accommodation in Portugal. We are literally unable to provide any information on this matter.
-
-
-
+{{< score 4 >}}
+Spain caters to various budgets and preferences with a diverse range of accommodations. During our journey, we made use of these options twice – once in Elxe and once in Granada. Concerned about the safety of our tandem, we consistently chose accommodations on the outskirts where hotels offered more space and proved to be more affordable than their centrally located counterparts. Notably, the hotels' staff was not only welcoming but also bicycle-friendly, adding an extra layer of comfort to our stay. Overall, the cost of accommodations tends to fall within the mid-to-upper tier for Europe, especially during the high-peak season.
 
 ### {{< translate "freedom_camping" >}}
-{{< score 5 >}}
-Freedom camping became an effortless and enjoyable experience, reaching new levels of ease and comfort. Optimal locations for this purpose were the public picnic areas situated just beyond the villages, striking a perfect balance between proximity to the centers and a serene atmosphere. These areas typically offered benches, tables, running water, rubbish bins, and designated BBQ corners. Notably, these tranquil spots remained cool and shaded most of the time, a valuable attribute during the scorching summer months when temperatures soared above 35°C.
+{{< score 4 >}}
+During our previous adventure tracing the Camino de Santiago in Spain, pitching our tent was a carefree affair. However, this time around, we adopted a more cautious approach. On a few occasions, the police gently reminded us that freedom camping wasn't their cup of tea, although the locals appeared more lenient. On the upside, the mountains generously presented numerous picturesque spots for overnight stays, while the beaches occasionally offered refreshing free showers. The vicinity of the lakes also presented a good option as this kind of areas were sufficiently remote and bushy to cover our presence from the police patrols.
 
-In addition to these well-appointed areas, we occasionally chose to set up our tent on beaches, by riversides, or around picturesque lakes, seizing the opportunity to embrace different scenic backdrops.
-
-In the rare instances where finding suitable tent sites posed a challenge, we took the initiative to approach locals. On these few occasions, we sought permission to camp within their fields, a request they invariably welcomed without hesitation. This collaborative spirit with the locals added a unique and heartening dimension to our camping experience.
+And, just as it was during our initial journey, a friendly reminder: beware of the sprinklers!
 
 ### {{< translate "facilities" >}}
 {{< score 5 >}}
-During our visit, Portugal showcased a commendable commitment to promoting ecotourism, evident in the construction and refurbishment of numerous tracks that granted us free access to the splendors of national parks. The opportunity to marvel at the breathtaking natural scenery without incurring any costs was truly appreciated.
+Fantastic overall! Spain is easy to travel by bicycle.
 
-Beyond the captivating landscapes, Portugal provided all the essential elements for a premium cycling tour experience. Easily accessible and impeccably clean bathrooms, water taps delivering fresh and flavorful water at high pressure, and an abundance of cafés, restaurants, grocery stores, and supermarkets offering quality products were integral to our journey.
+Abundant drinking water sources, numerous supermarkets with free Wi-Fi (also found at petrol stations and i-sites), several conveniently located bike shops/stations, and well-situated picnic spots. Plus, credit/debit cards are universally accepted without any conditions.
 
-For the tech-savvy among us, Free Wi-Fi hotspots generously provided by supermarkets, petrol stations, and select city centers facilitated seamless connectivity throughout our travels.
+As for restrooms, while public toilets were not abundant, it's widely accepted to request the use of facilities at cafes, bars, and petrol stations.
 
-Navigating payment methods was remarkably convenient, with debit card acceptance for our purchases being the norm around ninety percent of the time. We reserved our cash exclusively for the charming fruit and vegetable stalls lining the roadside.
-
-While our cycling adventure did encounter more mechanical hiccups than anticipated, leading us to frequent bike shops, there was a silver lining. These visits unveiled the remarkable professionalism of Portuguese bike mechanics. Patient and possessing an excellent grasp of their craft, they would skillfully diagnose issues upon sight, proceeding with careful repairs or, when necessary, recommending a peer better suited for the task. This unexpected aspect added a unique and positive dimension to our exploration of the country.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
-Fortuitously for us, the vast majority of the population demonstrated proficiency in either impeccable English or excellent French, and quite possibly a myriad of other languages. For those less versed in these, the melodic tones of the Portuguese language bore a striking resemblance to both French and Spanish, facilitating seamless communication for speakers of Romance languages.
+Being our second visit to the country, we had already become acquainted with the locals and nuances of their language. This time around, everything went exceptionally smoothly.
 
-Beyond linguistic ease, the Portuguese people exhibited remarkable mindfulness. They unfailingly acknowledged our presence, exemplified by considerate gestures such as creating ample space for us to navigate through narrow passages. Moreover, their willingness to impart accurate advice and extend helpful assistance added a welcoming dimension to our journey. What made this experience truly exceptional was the delicate balance struck between careful consideration and a liberating, free-spirited approach to societal norms—a testament to the Portuguese knack for harmonizing a vigilant mindset with an open and accepting spirit.
+Compared to our last time in Spain doing the Santiago pilgrimage, we felt more connected to the locals this time. We still pondered if it was because of the touristic nature of the camino itself, or because the Covid crisis that was still fresh in people's minds. 
+
+Otherwise, in the larger cities, English is commonly spoken.
 
 
 ### {{< translate "food" >}}
-{{< score 5 >}}
-Portuguese culinary prowess shines brightly, particularly in the realm of pastries. Beyond the renowned *pasteis de nata*, each region boasts its own delectable sweets, seamlessly complementing a steaming cup of coffee. Our culinary exploration in Algarve led us to a noteworthy discovery—the *folar de Olhao*, a sweet delicacy generously infused with the warm notes of cinnamon.
+{{< score 3 >}}
+Our upgraded [camping stove]({{< link_to "cooking-kit" >}}) elevated our cooking experience, thanks to the accessibility of affordable rubbing alcohol in most supermarkets.
 
-In the art of coffee brewing, Portugal is a maestro, offering a dazzling array of a dozen variations for the discerning palate. A handy chart detailing the diverse possibilities proved invaluable in navigating this rich coffee culture.
+However, this year brought about a noticeable increase in the prices of fresh produce and a decline in overall quality. For instance, in 2021, a kilogram of watermelon cost around 0.50€. This time, the same amount of watermelon ranged between 1€ and 1.50€. Moreover, organic food was both hard to come by and relatively expensive.
 
-Refreshing beverages in Portugal are as diverse as they are delightful. Our taste buds reveled in local specialties such as the classic Sagres Beer in Sagres, white and red Port wine in Porto, and Pedras sparkling water sourced directly from the spring in Pedras.
+On the culinary front, we treated ourselves to a few local specialties at restaurants and cafés. The hot chocolate and churros combo at the *Valor* café was not only generous but also absolutely delicious.
 
-In the savory department, oversized sardines, the versatile and fantastic potato-based dishes (stews, fried, baked, boiled), and the extraordinary *francesinha* stand out. Resembling a French croque-madame, the *francesinha* bathed in a savory sauce surprises with its delicate and delicious taste, despite its unconventional appearance.
+#### {{< translate vegetarian_friendly >}} {{< score 2 >}}
+No surprises in this department. Spanish cuisine maintains a strong emphasis on meat and seafood, bridging cultural differences between regions. While vegetarian options were more prevalent in larger cities, the choices were still somewhat limited and often fell short of providing a fully satisfying range.
 
-On the whole, Portuguese cuisine, though seemingly uncomplicated, dazzles the palate with its wonderful flavors, owing much to the use of fresh and aromatic ingredients. Each dish is a testament to the culinary finesse that elevates simplicity to an exquisite art form.
-
-#### {{< translate vegetarian_friendly >}} {{< score 3 >}}
-The traditional Portuguese diet, regrettably, doesn't align seamlessly with what one might consider vegetarian-friendly. In tourist hubs, limited vegetarian options were occasionally presented on the menu. However, in other locales, we found it necessary to engage with the staff directly, kindly requesting their assistance in crafting a special vegetarian meal tailored to our dietary preferences.
 #### {{< translate what_we_eat >}} 
 
 - Local rice
 - Tomatoes
-- Potatoes
+- Biwa
+- Cheese
 - Cucumbers
 - Watermelons
 - Olive oil
-- Pasteis de nata
-- Salame
+- Digestive biscuits
 - Coffee
 
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-Sical Espresso Coffee, expertly crafted and richly aromatic coffee, offering a delightful blend of quality beans with a distinct and satisfying taste.
+Hot chocolate and churros from Valor.
 
 #### ⭐{{< translate mina_favourite >}}
 
-Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its luscious flavor infused with a generous amount of cinnamon.
+Fresh biwa fruits self-harvested from the tree.
 
 
 
@@ -148,9 +153,9 @@ Folar de Olhao, a sweet delicacy from the Algarve region, characterized by its l
 ### {{< translate top_5_locations >}}
 |             |             |
 |-------------|-------------|
-|   [Cape Saint-Vincent, Sagres](https://maps.app.goo.gl/pNWMaRQ2A88v8ec66)    |   The south-westernmost place in Eurasia    |
-|   [Cape Roca](https://maps.app.goo.gl/23My5eq3rxKzvwwE8)    |   The westernmost place in Eurasia    |
-|   [Porto](https://maps.app.goo.gl/RiqEry5zu5GbNALa6)    |   Bustling but enjoyable city    |
-|   [Amarante](https://maps.app.goo.gl/SpqECc9GbPzwcmm97)    |   Old-fashioned city with excellent local sweets    |
-|   [Peniche](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Fishermen village with a fantastic view on gigantic waves    |
+|   [La Vélodyssée](https://maps.app.goo.gl/jkTL9qLwWiadcP647)    |   Popular cycle route that runs along the Western coast of France, scenic and easy to ride.    |
+|   [Canal Entre Deux Mers](https://maps.app.goo.gl/rGCEaszMAPgEPNQ9A)    |    Historic waterway in southwestern France connecting the Atlantic Ocean to the Mediterranean Sea, offering a picturesque route lined with charming towns and scenic landscapes.    |
+|   [Le Ventoux](https://maps.app.goo.gl/NbWS4iaE5RQd1akr7)    |  Legendary climb Often featured in the Tour de France    |
+|   [Les Gorges du Verdon](https://maps.app.goo.gl/9s3ByG9JbieCmS5P8)    |   Breathtaking natural marvel, where turquoise waters carve through dramatic limestone cliffs   |
+|   [Les Calanques Rouges](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Striking red cliffs that plunge into the azure waters of the Mediterranean Sea along the French coastline   |
 
