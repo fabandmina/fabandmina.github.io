@@ -1,6 +1,6 @@
 ---
 title: "France"
-subtitle: " "
+subtitle: " Wheels in Motion: Tandem Adventures from Our Home in France to Our Next Home in Japan!"
 introduction: "A delightful journey through the Camargue, basking in the sunshine on a summer day."
 date: 2023-07-31T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53408917177_8fe65655ce_c.jpg"
@@ -13,7 +13,7 @@ author: fab
 draft: true
 ---
 ## {{< translate "travel_story" >}}
-
+This marks the thrilling kick-off to our Eurasian escapade! While Portugal claims the official starting point, it all began with pedal power in vibrant Marseille. Choosing a route less ordinary through France, we couldn't resist checking off some bucket list items, and the enchanting detour to Canal du Midi was an absolute gem. Cycling through France turned into a joyous adventure, filled with excitement and unforgettable moments, and we soaked up the last precious moments with friends and family before steering our tandem eastward.
 
 
 ## {{< translate "overall_feel" >}} 
@@ -70,19 +70,15 @@ On a positive note, we found solace in official cycle routes, offering serene ri
 
 #### A commented recap of our itinerary
 ##### Part I
-- *Col de Panissars ~ Mucia, following the Eurovélo 8*: The EuroVelo 8 is currently undergoing construction, providing a partially comfortable ride, primarily hampered by inadequate waymarking.
-- *Murcia ~ Granada, following the Via Verde del Campo de Cartagena,Carril Bici de La Torrecilla ,Via Verde del Valle de  Almanzora, and GR3201*: Scenic gravel cycle tracks across the mountains that lead to a stunning canyon.
-- *Granada ~ Motril, following the highway:* Mostly downhill and scenic, although a bit busy.
-- *Motril ~ Cadiz following Eurovélo 8*: Most of the route was fine, except the unavoidable segment between Malaga and Gibraltar where the national highway N340 suddenly turns into a motorway, without any optional detour built for the cyclists. Riding our bicycle there felt utterly dangerous because of the high-speed traffic.
-- *Cadiz ~ Rota, ferry*: Booking ferry tickets in advance was not required and bringing a bicycle onboard was free.
-- *Rota ~ Seville, following the Rio Guadalquivir:* Long flat gravel road. Not a single soul sighted during this crossing. We recommend to carry a lot of water.
-- *Seville ~ Ayamonte* following the local roads: Easy. 
+- *Marseille ~ Col de Panissars, following the Mediterranean Sea*: The segment in Camargue was flat but windy.
+
 
 ##### Part II
-- *Feces de Baixo ~ Pontferrada, following alternative Camino de Santiago routes:* Several ups and downs, but after Portugal, it felt relatively easy.
-- *Pontferrada ~ Burgos, following the Camino de Santiago Frances*: The second time for us travelling this route, but the first time on a bicycle. It felt overall easier, except the last two kilometres before Puerto Focebadon where the road's angle increases dramatically. Riding the same camino, but towards the opposite end, brought back good memories.
-- *Burgos ~ Vitoria Gasteiz, following the N1:* Large road with multiple lanes. Not a lot of cars on the way since the fast motorway runs just aside. Also, some parts of it carried a historical legacy and picturesque landscapes.
-- *Vitoria Gastei ~ Irun, following mountain cycle routes*: We rode through an extensive network of cycle routes that ran along lakes, rivers and through the mountains. A bit hilly but not steep, and offering great sceneries.
+- *Hendaye ~ Bordeaux, following the Vélodyssée*: Easy ride. Flat and shaded with a lot of facilites. Beware of the other cyclists who might ride recklessly and the young ones.
+- *Bordeaux ~ Agde, following the Canal Entre Deux Mers:* Easy as well, mainly flat and less busy than the Vélodyssée.
+- *Agde ~ Sault via Avignon*: Easy until Carpentras and then a bit hilly but scenic.
+- *Sault ~ Saint-Raphael via Le Verdon*: Mountainside, near the French Alps. Picturesque landscape. Sometimes a bit steep.
+- *Saint-Raphael ~ The Rio San Luigi, Menton, following the coast:* Ups and downs but beautiful. We avoided crossing Monaco though.
 
 ### {{< translate "accommodations" >}}
 {{< score 3 >}}
@@ -109,37 +105,35 @@ When it comes to restrooms, although public toilets are plentiful, they often le
 It's a bit challenging to provide a partial opinion, given that we had spent more than a year in France before embarking on our cycling journey. By now, we are both accustomed to the culture, and Mina has made significant progress with the language. For someone unfamiliar with France, it might seem that people appear unwelcoming, but it's more of a facade. Just remember to say "bonjour" and "bon appétit" when you sense uncomfortable stares; it can truly make a positive difference in your first impression!
 
 ### {{< translate "food" >}}
-{{< score 3 >}}
+{{< score 5 >}}
 Our upgraded [camping stove]({{< link_to "cooking-kit" >}}) elevated our cooking experience, thanks to the accessibility of affordable rubbing alcohol in most supermarkets.
 
-However, this year brought about a noticeable increase in the prices of fresh produce and a decline in overall quality. For instance, in 2021, a kilogram of watermelon cost around 0.50€. This time, the same amount of watermelon ranged between 1€ and 1.50€. Moreover, organic food was both hard to come by and relatively expensive.
+Following our travels in Spain and Portugal, we were pleasantly surprised to find that French produce and products were slightly more budget-friendly this year. We suspect this might be attributed to the abrupt surge in petrol prices that significantly elevated the costs of imported goods. Fortunately, this phenomenon appeared to be mitigated in France, thanks to its well-developed local food industry. This summer, we indulged in an abundance of delicious seasonal veggies and fruits at reasonable prices, including fresh organic melons for a mere 1.5€ per kilogram.
 
-On the culinary front, we treated ourselves to a few local specialties at restaurants and cafés. The hot chocolate and churros combo at the *Valor* café was not only generous but also absolutely delicious.
+While we opted not to visit any cafés, anticipating that the French blends might not suit our tastes, we thoroughly enjoyed lunches at a famous franchised bistro in Bordeaux and a more humble one in the village of Céreste. Both managed to satisfy our taste buds and satiate our hunger. In France, wherever you choose to dine, it's challenging to make the wrong choice.
 
-#### {{< translate vegetarian_friendly >}} {{< score 2 >}}
-No surprises in this department. Spanish cuisine maintains a strong emphasis on meat and seafood, bridging cultural differences between regions. While vegetarian options were more prevalent in larger cities, the choices were still somewhat limited and often fell short of providing a fully satisfying range.
+#### {{< translate vegetarian_friendly >}} {{< score 4 >}}
+As mentioned earlier, traditional French cuisine isn't typically known for being vegetarian-friendly. Nevertheless, we observed a growing popularity of vegetarian options, with many restaurants now offering well-considered choices. Additionally, the outstanding quality and variety of locally produced fruits and vegetables add an enjoyable dimension to shopping at the numerous marketplaces and grocery stores.
 
 #### {{< translate what_we_eat >}} 
 
-- Local rice
-- Tomatoes
-- Biwa
-- Cheese
-- Cucumbers
-- Watermelons
+- Camargue rice
+- Ancient tomatoes
+- Cheese!
+- Beans
+- Melons
 - Olive oil
-- Digestive biscuits
-- Coffee
+- Madeleines
 
 
 
 #### ⭐{{< translate fab_favourite >}}
 
-Hot chocolate and churros from Valor.
+[L'Auberge de Carluc, Céreste:](https://maps.app.goo.gl/WifC9s9GzeQykRz6A)fantastic French bistrot food with vegetarian options, lovely interior.
 
 #### ⭐{{< translate mina_favourite >}}
 
-Fresh biwa fruits self-harvested from the tree.
+Madeleines *Armor Délices*, available in many supermarkets.
 
 
 
