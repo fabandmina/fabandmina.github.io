@@ -145,5 +145,5 @@ Madeleines *Armor Délices*, available in many supermarkets.
 |   [Canal Entre Deux Mers](https://maps.app.goo.gl/rGCEaszMAPgEPNQ9A)    |    Historic waterway in southwestern France connecting the Atlantic Ocean to the Mediterranean Sea, offering a picturesque route lined with charming towns and scenic landscapes.    |
 |   [Le Ventoux](https://maps.app.goo.gl/NbWS4iaE5RQd1akr7)    |  Legendary climb Often featured in the Tour de France    |
 |   [Les Gorges du Verdon](https://maps.app.goo.gl/9s3ByG9JbieCmS5P8)    |   Breathtaking natural marvel, where turquoise waters carve through dramatic limestone cliffs   |
-|   [Les Calanques Rouges](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8)    |   Striking red cliffs that plunge into the azure waters of the Mediterranean Sea along the French coastline   |
+|   [Les Calanques Rouges](https://maps.app.goo.gl/pTX8kv8479CchV8t6)    |   Striking red cliffs that plunge into the azure waters of the Mediterranean Sea along the French coastline   |
 

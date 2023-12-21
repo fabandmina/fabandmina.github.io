@@ -140,4 +140,4 @@ Madeleines *Armor Délices*, disponibles dans de nombreux supermarchés.
 | [Canal Entre Deux Mers](https://maps.app.goo.gl/rGCEaszMAPgEPNQ9A) | Canal historique du sud-ouest de la France reliant l'océan Atlantique à la mer Méditerranée, offrant une route pittoresque bordée de villes charmantes et de paysages pittoresques.    |
 | [Le Ventoux](https://maps.app.goo.gl/NbWS4iaE5RQd1akr7) | Montée légendaire Souvent présentée dans le Tour de France.
 | [Les Gorges du Verdon](https://maps.app.goo.gl/9s3ByG9JbieCmS5P8) | Merveille naturelle à couper le souffle, où les eaux turquoises se frayent un chemin à travers de spectaculaires falaises de calcaire.
-| [Les Calanques Rouges](https://maps.app.goo.gl/jqovWYcpx8HZbUGc8) | Des falaises d'un rouge saisissant qui plongent dans les eaux azurées de la mer Méditerranée le long du littoral français. |
+| [Les Calanques Rouges](https://maps.app.goo.gl/pTX8kv8479CchV8t6) | Des falaises d'un rouge saisissant qui plongent dans les eaux azurées de la mer Méditerranée le long du littoral français. |
