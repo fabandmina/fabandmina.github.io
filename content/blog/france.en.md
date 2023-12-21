@@ -10,7 +10,7 @@ tags:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720313531009"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/43.137/5.712"
 author: fab
-draft: true
+draft: false
 ---
 ## {{< translate "travel_story" >}}
 This marks the thrilling kick-off to our Eurasian escapade! While Portugal claims the official starting point, it all began with pedal power in vibrant Marseille. Choosing a route less ordinary through France, we couldn't resist checking off some bucket list items, and the enchanting detour to Canal du Midi was an absolute gem. Cycling through France turned into a joyous adventure, filled with excitement and unforgettable moments, and we soaked up the last precious moments with friends and family before steering our tandem eastward.
