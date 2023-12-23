@@ -1,7 +1,7 @@
 ---
 title: "Italy"
-subtitle: " "
-introduction: ""
+subtitle: " Italy Unplanned: Navigating Gastronomy, Hot Springs, and Visa Realities"
+introduction: "A quintessential honeymoon snapshot: the typical couple pose on Ponte dell'Accademia, surrounded by the splendid panorama of Basilica di Santa Maria della Salute in Venice."
 date: 2023-07-31T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53411299667_7ac5a85202_c.jpg"
 tags:
@@ -13,13 +13,11 @@ author: fab
 draft: false
 ---
 ## {{< translate "travel_story" >}}
-We were both looking forward to visiting Italy and explore its gastronomic wonders. 
+Eagerly anticipating our visit to Italy as part of our [Eurasian crossing]({{< link_to "wish_eurasia" >}}), we were ready to delve into its rich gastronomic offerings, and it did not disappoint. The allure of natural hot springs unexpectedly extended our stay, providing a delightful and relaxing experience along the way.
 
-If our route through the country looks a bit unconventional, it is for one reason due to Mina's Schengen visa constrains. Additionally, we extended our stay as we found ourselves bathing in natural free hot springs along the way quite enjoyable.
+Our cycling route, while not exactly our initial plan, turned out to be the best compromise. We aimed to maximize our exploration of Italy within the constraints of Mina's Schengen visa validity. Although it altered our course, the journey surpassed our expectations.
 
-However, there were a few items left unchecked on our to-do list, such as exploring Sardinia, Sicily, and the Dolomites. These missed opportunities serve as a compelling reason for us to return and complete our bucket list of must-visit places in Italy.
-
-Reflecting on the journey, it far exceeded our expectations, resulting in a fantastic adventure.
+However, a few unchecked items on our to-do list, like exploring Sardinia, Sicily, and the Dolomites, beckon us back. These missed opportunities create the perfect motivation for a return trip, ensuring we complete our bucket list of must-visit places in Italy.
 
 *Ciao Ciao!*
 
