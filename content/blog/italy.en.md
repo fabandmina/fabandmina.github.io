@@ -47,7 +47,7 @@ However, a few unchecked items on our to-do list, like exploring Sardinia, Sicil
 
 ### {{< translate "crossing_the_border" >}}
 {{< score 5 >}}
-We crossed the French border 4 times at the following places:
+We crossed the Italian border 4 times at the following places:
 - The Rio San Luigi
 - Salerno (ferry)
 - Civitavecchia (ferry)
@@ -96,6 +96,13 @@ Great overall! Cycling through Italy is a piece of cake.
 Italy, as we pedaled through its landscapes, pleasantly surprised us with the abundance of amenities catering to bicycle travelers. The convenience of numerous supermarkets along the way eliminated the need to carry food over long distances. Moreover, access to water was consistently available, with cemeteries often featuring taps outside near the entrance, accessible even during closing hours. Securing a Wi-Fi connection was a breeze, whether at petrol stations or supermarkets. While public toilets were somewhat scarce, the generosity of petrol stations and cafes providing restroom facilities was a welcome relief. Additionally, the thoughtful provision of free bike stations near cycle paths, equipped with power plugs for e-bikes, added an extra layer of cyclist-friendly infrastructure throughout our journey.
 
 A notable drawback emerged during our journey. While we were accustomed to purchasing stamps from tobacco shops, in Italy, we strongly advise against it. It's better to head directly to the nearest post office. Unfortunately, certain businesses engage in dubious practices, selling stamps that are purportedly international but lack proper service. This means your postcard may never reach its intended destination. Surprisingly, the post office failed to caution us about these deceptive stamps, allowing us to send our letter without any warning.
+
+#### 3 Memorable Hot Springs
+Capturing the essence of Italy without highlighting the natural hot springs, or "terme," is quite a challenge. These ancient wonders, pioneered by the Romans, were ingeniously crafted to cater to the citizens of bygone eras. Integral to the country's culture, they continue to be cherished and utilized today. Below, we share a list of the rejuvenating hot springs we were fortunate enough to explore and indulge in:
+
+- [Bagni San Filippo](https://maps.app.goo.gl/PfV8h3edQYHg6ub97): Our absolute favorite! Undoubtedly bustling, yet incredibly relaxing. This gem boasts two locations: the first is the official tourist spot nestled in the village center, easily reached from the main road with a nominal entrance fee of two euros. The second, an abandoned facility lovingly maintained by local volunteers, operates on a donation basis. A bit of a hidden treasure, discovering this spot requires connecting with the locals to unveil its exact location. It's the haven where we savored a full day of relaxation, camping overnight in its tranquil surroundings.
+- [Viterbo](https://maps.app.goo.gl/3WJ5A1sTe48RHTk38): A freely accessible public hot spring, always buzzing with activity, even after nightfall, as both locals and visitors come together to unwind in its rejuvenating waters. The temperature is scalding near the source, yet ingenious basin designs cater to various preferences by offering cooling options at different temperatures. Complete with a spacious car park and a charming picnic spot nearby, it's a perfect destination for a shared, relaxing soak.
+- [Saturnia](https://maps.app.goo.gl/5sevtwbWNrp2gQK69): The renowned free *terme* in Italy, embodying the classic Roman hot spring archetype with its picturesque landscape and tiered basins. Although our visit was enjoyable, we opted for a shorter stay compared to other locations we've highlighted. The popularity of this spot brought in a crowd, yet not overwhelmingly so, allowing for a decent spot to unwind. However, it fell slightly below our expectations due to the water temperature peaking at 40°C, and we observed an abundance of red bugs in the water. While we didn't perceive them as harmful, we erred on the side of caution, limiting our time in the bath.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
@@ -149,7 +156,7 @@ As mentioned earlier, traditional French cuisine isn't typically known for being
 |             |             |
 |-------------|-------------|
 |   [Pisa](https://maps.app.goo.gl/c1qjUdeCcMrMdZCNA)    |   Posing for the classic tourist snapshot near the globally renowned leaning tower turned out to be way more entertaining than we had anticipated.  |
-|   [Bagni San Filippo](https://maps.app.goo.gl/PfV8h3edQYHg6ub97)    |   A hidden gem for the natural hot spring enthusiasts.    |
 |   [Roma](https://maps.app.goo.gl/FigbWSrK6WRTPn3m6)    | Describing Rome is an impossible task. Similar to Hannibal the Conqueror standing before the gates of this historic city, we found ourselves in awe, rendered speechless by its majestic grandeur.    |
 |   [Vesuvio](https://maps.app.goo.gl/tZ1oBgvU6f62qjhQ9)    |   Majestic volcano! Although still active, we didn't reach its summit but lingered on its slopes. The surrounding areas, including Naples, offered a plethora of captivating sights and exploration opportunities.   |
+|   [Argine Degli Angeli](https://maps.app.goo.gl/kQ23gPqequzwWmgy8)    |    Scenic cycling path across a lake, offering a dream-like panorama.   |
 |   [Venice](https://maps.app.goo.gl/nZveLgSg4LxzoCCD6)    |   Despite its popularity among tourists, it's the type of place that appears and feels even more impressive in person.  |
