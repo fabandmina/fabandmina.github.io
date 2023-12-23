@@ -125,8 +125,8 @@ On the occasions we decided to prepare our own meals, we found rubbing alcohol f
 
 Regrettably, our quest for a good risotto remained unfulfilled. It stands as our sole culinary lament.
 
-#### {{< translate vegetarian_friendly >}} {{< score 4 >}}
-As mentioned earlier, traditional French cuisine isn't typically known for being vegetarian-friendly. Nevertheless, we observed a growing popularity of vegetarian options, with many restaurants now offering well-considered choices. Additionally, the outstanding quality and variety of locally produced fruits and vegetables add an enjoyable dimension to shopping at the numerous marketplaces and grocery stores.
+#### {{< translate vegetarian_friendly >}} {{< score 5 >}}
+The local cuisine is remarkably accommodating for vegetarians, featuring a plethora of options crafted from fresh, local produce. Regardless of your location, you'll consistently find something delectable that aligns with the traditional local diet.
 
 #### {{< translate what_we_eat >}} 
 
