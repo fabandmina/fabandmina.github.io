@@ -19,6 +19,8 @@ Now, let's talk real talk for a moment. Sure, paying for insurance upfront might
 
 Here's the lowdown for all you fellow wanderers considering the insurance debate:
 
+if you have travel for a long time overseas.
+
 ######
 
 - **Well-being First:** Prioritize your health; it's the key to unlocking your dreams and conquering your goals.
@@ -35,6 +37,16 @@ Here's the lowdown for all you fellow wanderers considering the insurance debate
 
 ※ *So, get this—Mina actually met her life partner thanks to that incident! But hey, even with those unexpected love twists, we still say having insurance is a smart move.*
 
+
+### When you might decide not to subscribe to an insurance
+
+Sometimes people have a travel insurance on their payment card covering medical expanses for overseas stays limited two a few months and costs.
+
+Sometimes your national health insurance covers your medical expanses overseas, under the same conditions as if you were in your home country.
+
+maybe enough for your case 
+
+
 ## Genki
 
 ### What is Genki
@@ -45,19 +57,6 @@ The term *genki* finds its roots in the Japanese kanji "元気," translating to 
 ######
 
 ※ *We love this name!*
-
-### Who could be interested?
-Sometimes people have a travel insurance on their payment card covering medical expanses for overseas stays limited two a few months.
-
-Sometimes your national health insurance covers your medical expanses overseas, under the same conditions as if you were in your home country.
-
-
-
-We think that the service provided by health insurance could benefit people travelling for a long term. Some of us long tourers might already have an existing travel insurance on their payment cards or a national insurance covering their overseas travels, but these often come with many limitations such as:
-- limited stay overseas
-- limited refunded amounts
-- complicated procedures with a lot of paperwork
-
 
 ### What plan we chose
 
