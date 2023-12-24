@@ -38,12 +38,26 @@ Here's the lowdown for all you fellow wanderers considering the insurance debate
 ## Genki
 
 ### What is Genki
-- health insurance
-- who is involved
+**Genki** stands out as a German company specializing in health insurance crafted explicitly for Digital Nomads and World Residents. This unique product is backed by the reputable names of *Dr. Walter* and *Allianz*, well-known entities in the European insurance realm.
 
-### For who
-- NOT for people staying a long time in one country ()
-- FOR People visiting countries for a short period of time
+The term *genki* finds its roots in the Japanese kanji "元気," translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
+
+######
+
+※ *We love this name!*
+
+### Who could be interested?
+Sometimes people have a travel insurance on their payment card covering medical expanses for overseas stays limited two a few months.
+
+Sometimes your national health insurance covers your medical expanses overseas, under the same conditions as if you were in your home country.
+
+
+
+We think that the service provided by health insurance could benefit people travelling for a long term. Some of us long tourers might already have an existing travel insurance on their payment cards or a national insurance covering their overseas travels, but these often come with many limitations such as:
+- limited stay overseas
+- limited refunded amounts
+- complicated procedures with a lot of paperwork
+
 
 ### What plan we chose
 
