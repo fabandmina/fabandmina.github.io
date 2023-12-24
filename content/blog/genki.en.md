@@ -11,13 +11,15 @@ draft: false
 ---
 
 ## A health insurance is important
-Meet Mina, our adventurous globetrotter, embarking on a bike tour through the breathtaking landscapes of New Zealand. Picture this: middle of nowhere, a mountain trail, and a sudden, sharp pain in her left foot. No one in sight, no phone signal, and the nearest village a daunting thirteen kilometers away. Limping with her bike in tow, she finally reaches the village, only to find a basic clinic with no fancy gadgets like an X-ray scanner.
+Meet Mina in 2019, our adventurous globetrotter, embarking on a bike tour through the breathtaking landscapes of New Zealand. Picture this: middle of nowhere, a mountain trail, and a sudden, sharp pain in her left foot. No one in sight, no phone signal, and the nearest village a daunting thirteen kilometers away. Limping with her bike in tow, she finally reaches the village, only to find a basic clinic with no fancy gadgets like an X-ray scanner.
 
 Fast forward a week, and Mina is still in pain. Hesitating due to her expired travel insurance and worries about potential costs, she eventually seeks further medical help. Lucky for her, the local healthcare system covers the aftermath of her accident.
 
 Now, let's talk real talk for a moment. Sure, paying for insurance upfront might feel like a spend, especially when everything's smooth sailing. But, take it from Mina – when the unexpected hits during a year-long adventure, it's worth every penny.
 
 Here's the lowdown for all you fellow wanderers considering the insurance debate:
+
+######
 
 - **Well-being First:** Prioritize your health; it's the key to unlocking your dreams and conquering your goals.
 
@@ -28,6 +30,10 @@ Here's the lowdown for all you fellow wanderers considering the insurance debate
 - **Financial Peace of Mind:** Imagine having a safety net; with insurance, you can rush to the doctor without hesitating, ensuring your well-being comes first, not financial worries.
 
 - **Travel Savvy:** Before you set out on your adventures, be proactive – check out the extent of your coverage in the local healthcare system of your destination. It's a savvy move for a smooth and worry-free journey.
+
+#####
+
+※ *So, get this—Mina actually met her life partner thanks to that incident! But hey, even with those unexpected love twists, we still say having insurance is a smart move.*
 
 ## Genki
 
