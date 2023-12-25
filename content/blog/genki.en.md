@@ -82,6 +82,8 @@ We opted for the *Genki Explorer* insurance plan for our Eurasian journey, antic
 <li>❌ Vehicles
 </ul>
 
+<hr>
+
 The lists above are not exhaustive but are meant to give you a clear overview of what you can expect from this insurance.
 
 **: items covered by Genki Residents.*
