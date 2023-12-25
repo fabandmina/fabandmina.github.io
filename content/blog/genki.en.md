@@ -31,48 +31,80 @@ if you have travel for a long time overseas.
 
 - **Financial Peace of Mind:** Imagine having a safety net; with insurance, you can rush to the doctor without hesitating, ensuring your well-being comes first, not financial worries.
 
-- **Travel Savvy:** Before you set out on your adventures, be proactive – check out the extent of your coverage in the local healthcare system of your destination. It's a savvy move for a smooth and worry-free journey.
+- **Travel Savvy:** Before you set out on your adventures, be proactive – check out the extent of your coverage in the local healthcare system of your destination. Sometimes, your payment card subscription also includes a travel insurance with conditional coverage. It's a savvy move for a smooth and worry-free journey.
 
 #####
 
 ※ *So, get this—Mina actually met her life partner thanks to that incident! But hey, even with those unexpected love twists, we still say having insurance is a smart move.*
 
-
-### When you might decide not to subscribe to an insurance
-
-Sometimes people have a travel insurance on their payment card covering medical expanses for overseas stays limited two a few months and costs.
-
-Sometimes your national health insurance covers your medical expanses overseas, under the same conditions as if you were in your home country.
-
-maybe enough for your case 
-
-
-## Genki
+## Why we chose Genki insurance
+Thanks to our myriad adventures, we've gained some experience with insurances for travellers. With a plethora of options catering to diverse needs, selecting the right one can be challenging. Here's why we opted for Genki on our journey across Eurasia:
 
 ### What is Genki
 **Genki** stands out as a German company specializing in health insurance crafted explicitly for Digital Nomads and World Residents. This unique product is backed by the reputable names of *Dr. Walter* and *Allianz*, well-known entities in the European insurance realm.
 
+Genki provides two distinct plans: *Genki Explorer* and *Genki Residents*. The latter encompasses all the features of the first plan and offers enhanced overall coverage along with a host of additional features.
+
 The term *genki* finds its roots in the Japanese kanji "元気," translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
 
-######
 
 ※ *We love this name!*
 
 ### What plan we chose
+We opted for the *Genki Explorer* insurance plan for our Eurasian journey, anticipating that we would not participate in high-risk sports or activities like skydiving or bungee jumping, and judging that our health (eyes,teeth and mental) was a in great condition before starting our adventure. This plan perfectly met all our specific requirements.
 
-### What is covered
+### What is covered by Genki Explorer
+<ul style="list-style: none;display: inline-block;">
+<li>🗸 Any citizen, any country, aged from 0 to 69.</li>
+<li>🗸 Emergencies in your home country 42 days per half year</li>
+<li>🗸 Inpatient & outpatient treatment</li>
+<li>🗸 Any hospital & doctor</li>
+<li>🗸 Medication & materials</li>
+<li>🗸 Medical transport</li>
+<li>🗸 COVID-19 treatment</li>
+<li>🗸 Sexually transmitted diseases</li>
+<li>🗸 No overall cost limits</li>
+<li>🗸 All sports except the high-risk activities listed below</li>
+<li>🗸 Dental health (pain relief & accident treatment)</li>
+<li>🗸 Mental health (emergency & outpatient primary care)</li>
+<li>🗸 Pregnancy</li>
 
-### What is not covered
+</ul>
 
-### Covered where
 
-### How to subscribe
-- when to subscribe (waiting period)
-- online subscription
-- cancel anytime
-- Required documents
+### What is NOT covered by Genki Explorer
+<ul style="list-style: none;display: inline-block;">
+<li>❌ Pre-existing conditions*
+<li>❌ High-risk sports: base jumping, bungee jumping, diving, parachuting & -gliding, racing, skydiving and professional sports.*
+<li>❌ Rehabilitation*
+<li>❌ Manual therapy*
+<li>❌ Eye health*
+<li>❌ Vaccination*
+<li>❌ Pre-existing pregnancy
+<li>❌ Liability
+<li>❌ Belongings
+<li>❌ Vehicles
+</ul>
 
-### Payment
+The lists above are not exhaustive but are meant to give you a clear overview of what you can expect from this insurance.
+
+**: items covered by Genki Residents.*
+
+### Additional features
+The following features are also included in the *Genki Explorer* plan:	
+- 24/7 emergency assistance	
+- Direct billing (any hospital)
+- Repatriation to your home country
+- Connectivity with Air Doctor application to organize your medical appointments all around the world, offers the possibility to bill the insurance directly
+
+### Signing Up
+You can subscribe online by following our referral link.
+
+The process is fairly simple as you can complete it online without any additional paperwork. For instance, providing a proof of residency is not required.
+
+The subscription process is flexible, allowing you to join or interrupt your subscription anytime and anywhere, even while on your journey. However, please be aware of the 14-day waiting period after signing up, during which coverage is partial. Once this period concludes, you enjoy full 100% coverage.
+
+Regarding the payment method, we provided our debit cards details and proceeded to be charged monthly. The process was also seamless.
 
 
 ## Our impressions on Genki
