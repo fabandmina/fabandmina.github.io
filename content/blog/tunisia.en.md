@@ -13,26 +13,21 @@ author: fab
 draft: false
 ---
 ## {{< translate "travel_story" >}}
-Eagerly anticipating our visit to Italy as part of our [Eurasian crossing]({{< link_to "wish_eurasia" >}}), we were ready to delve into its rich gastronomic offerings, and it did not disappoint. The allure of natural hot springs unexpectedly extended our stay, providing a delightful and relaxing experience along the way.
 
-Our cycling route, while not exactly our initial plan, turned out to be the best compromise. We aimed to maximize our exploration of Italy within the constraints of Mina's Schengen visa validity. Although it altered our course, the journey surpassed our expectations.
-
-However, a few unchecked items on our to-do list, like exploring Sardinia, Sicily, and the Dolomites, beckon us back. These missed opportunities create the perfect motivation for a return trip, ensuring we complete our bucket list of must-visit places in Italy.
-
-*Ciao Ciao!*
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
 #### {{< translate what_we_appreciate >}}
 
-- Laid-back atmosphere
-- Friendly (and romantic!) people
-- Strong bicycle culture
-- A profound sense of ancient history
+- Marble-like road surface almost everywhere
+- Welcoming and friendly people
+- Felt safe
+- Impressive mosaic art
   
 #### {{< translate what_we_dislike >}}
 
-- Overcrowding with tourists at the most frequented destinations.
+- Water is scarce
+- The sunshine is very strong
 
 
 
@@ -46,22 +41,24 @@ However, a few unchecked items on our to-do list, like exploring Sardinia, Sicil
 - **{{< translate distance >}}** 576 km
   
 ### {{< translate "crossing_the_border" >}}
-{{< score 5 >}}
-We crossed the Italian border 4 times at the following places:
-- The Rio San Luigi
-- Salerno (ferry)
-- Civitavecchia (ferry)
-- Pesek
+{{< score 2 >}}
+We embarked on our journey to Tunisia via a 24-hour ferry operated by *Grimaldi Lines* from [Italy]({{< link_to italy >}}). The vessel was good enough, and acting swiftly, we secured prime spots on the main deck, avoiding the crowded floor where most passengers settled with inflated mattresses. Due to the priority granted to bicycle travelers, we snagged a deluxe space near the restaurant, while our trusty two-wheeler found secure lodgings in a specially designated storage room.
 
-Passport checks were only required when entering and leaving Italy via ferry, and the process was straightforward.
+Arriving at the port, we were directed to the pedestrian gates on the third floor, accessible only by taking a lengthy and winding ramp, as motorized vehicle gates were off-limits. Following a thorough screening, including our bicycle, by the border police officer, a swift check of our belongings ensued, and we were promptly on our way.
+
+Exiting the country proved to be a more cumbersome process. Initially, we underwent a scan of our belongings upon entering the port facility. Subsequently, we faced multiple inquiries about our medications. While having a prescription might have facilitated the process, we hadn't considered obtaining one, as all our medicines could be purchased without a prescription in France. Following extended negotiations with several officers, we finally received permission to have our bicycle scanned and proceed to embarkation, navigating the same long and winding staircase.
+
+We also observed a Tunisian passenger undergoing intense questioning due to carrying cash, even though the amount was only equivalent to 10 euros. The officer thoroughly scrutinized him, causing a significant delay. Fortunately, we had already spent all our Tunisian dinars before reaching the gates.
+
+In total, each border check took about an hour.
 
 #### {{< translate fab >}} 🇫🇷
-As a French national, you can of course stay as long as you want in Italy.
+As a French national, you can stay 3 months inside the country. You just need to present a valid passport upon arrival.
 
 #### {{< translate mina >}} 🇯🇵
-Mina had a partner visa which allowed her to stay inside the Schengen area for one year.
+As a Japanese national, you can stay 3 months inside the country. You just need to present a valid passport upon arrival.
 
-Otherwise, Japanese passports' holders can stay 90 days in 6 months inside the Schengen area.
+Additionally, an outbound ferry or flight ticket reservation is required to be able to enter Tunisia.
 
 
 
@@ -143,11 +140,11 @@ The local cuisine is remarkably accommodating for vegetarians, featuring a pleth
 
 #### ⭐{{< translate fab_favourite >}}
 
-[La Focaccina di Serafina, Roma:](https://maps.app.goo.gl/sq29qDjZDZLGNcBN7)the best focacce in world for a really low price.
+Tunisian *lablabi:* a spiced chickpea soup, rich and comforting.
 
 #### ⭐{{< translate mina_favourite >}}
 
-*Sorpassino:* Dessert made of *granite*, whip cream and rum. Only found at [Il Sorpasso, Roma](https://maps.app.goo.gl/fcCkmtLgDLzm3Jqh6).
+The Tunisian *makroud* from Kairouan is a delectable pastry, featuring a delicate blend of dates and semolina, meticulously handcrafted to perfection. With its irresistible taste, it's no wonder that a kilo of makroud can disappear in no time, leaving a sweet and aromatic memory that lingers on the palate.
 
 
 
