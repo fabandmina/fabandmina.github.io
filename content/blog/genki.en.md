@@ -2,7 +2,7 @@
 title: "Health Insurance"
 subtitle: " Genki"
 introduction: "Disclaimer: This page includes advertisements and affiliate links. Clicking on these links will not affect the prices you encounter, but it will contribute a small commission to us as a gesture of your support."
-date: 2023-07-31T16:12:33+01:00
+date: 2023-12-26T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
     - health
@@ -113,12 +113,4 @@ Regarding the payment method, we provided our debit cards details and proceeded 
 - Coverage in your home country (limited in time), good for nomads! Rare option
 - No liability insurance included, would feel safer with
 
-## Specs
-
-|         General Information                                                        |
-|--------------------|---------------------------------------------------------------|
-| Vendor        | [Hase Bikes](https://hasebikes.com)                                |
-| Model         | Pino Tour 2021                                                     |
-| Size          | 184-245 cm x 60-80  cm x 83-125  cm, 118-154.5 cm wheelbase (telescoping)    |
-| Weight        | 30 kg                                                              |
 
