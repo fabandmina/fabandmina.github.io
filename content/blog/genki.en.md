@@ -1,7 +1,7 @@
 ---
 title: "Health Insurance"
 subtitle: " Genki: The Perfect Health Insurance for Nomadic People!"
-introduction: "Disclaimer: This page includes advertisements and affiliate links. Clicking on these links will not affect the prices you encounter, but it will contribute a small commission to us as a gesture of your support. <hr><div style=''>※ If you decide to go with this insurance, please support us by using our affiliate link <a href='https://www.genki.world/with/fabandmina'><b>here >>.</b></a></div>"
+introduction: "Disclaimer: This page includes advertisements and affiliate links. Clicking on these links will not affect the prices you encounter, but it will contribute a small commission to us as a gesture of your support. <hr><div style=''>※ If you decide to go with this insurance, <p>please support us by using our affiliate link <a href='https://www.genki.world/with/fabandmina'><b>here >>.</b></a></p></div>"
 date: 2023-12-26T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
@@ -40,7 +40,7 @@ Thanks to our myriad adventures, we've gained some experience with insurances fo
 ### What is Genki
 **Genki** stands out as a German company specializing in health insurance crafted explicitly for Digital Nomads and World Residents. This unique product is backed by the reputable names of *Dr. Walter* and *Allianz*, well-known entities in the European insurance realm.
 
-Genki provides two distinct plans: *Genki Explorer* and *Genki Residents*. The latter encompasses all the features of the first plan and offers enhanced overall coverage along with a host of additional features.
+Genki provides two distinct plans: *Genki Explorer* and *Genki Resident*. The latter encompasses all the features of the first plan and offers enhanced overall coverage along with a host of additional features.
 
 The term *genki* finds its roots in the Japanese kanji "元気," translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
 
@@ -71,23 +71,23 @@ We opted for the *Genki Explorer* insurance plan for our Eurasian journey, antic
 
 ### What is NOT covered by Genki Explorer
 <ul style="list-style: none;display: inline-block;">
-<li>❌ Pre-existing conditions*
-<li>❌ High-risk sports: base jumping, bungee jumping, diving, parachuting & -gliding, racing, skydiving and professional sports.*
-<li>❌ Rehabilitation*
-<li>❌ Manual therapy*
-<li>❌ Eye health*
-<li>❌ Vaccination*
-<li>❌ Pre-existing pregnancy
-<li>❌ Liability
-<li>❌ Belongings
-<li>❌ Vehicles
+<li>❌ Pre-existing conditions*</li>
+<li>❌ High-risk sports: base jumping, bungee jumping, diving, parachuting & -gliding, racing and skydiving*</li>
+<li>❌ Rehabilitation*</li>
+<li>❌ Manual therapy*</li>
+<li>❌ Eye health*</li>
+<li>❌ Vaccination*</li>
+<li>❌ Pre-existing pregnancy</li>
+<li>❌ Liability</li>
+<li>❌ Belongings</li>
+<li>❌ Vehicles</li>
 </ul>
 
 <hr>
 
 The lists above are not exhaustive but are meant to give you a clear overview of what you can expect from this insurance.
 
-**: items covered by Genki Residents.*
+**: items covered by Genki Resident.*
 
 ### Additional features
 The following features are also included in the *Genki Explorer* plan:	
@@ -108,7 +108,7 @@ Regarding the payment method, we provided our debit cards details and proceeded 
 
 ## Our impressions on Genki
 {{< score 5 >}}
-Genki stands out as an exceptional insurance provider, particularly tailored for avid travelers seeking comprehensive coverage for their journeys.
+Genki stands out as an exceptional insurance provider, particularly tailored for avid travelers seeking comprehensive health coverage for their journeys.
 
 First and foremost, the ease of signing up is noteworthy. The entire process is conveniently conducted online, demanding only a mere ten minutes of your time. Unlike some competitors, Genki doesn't burden you with additional documentation, such as intricate travel plans or proof of residency.
 
@@ -118,7 +118,7 @@ The quality of service is evident across the board, from customer support to the
 
 Genki also shines through their responsiveness in situations like customizing insurance certificates to meet specific visa application requirements for various meticulous countries.
 
-Where's the catch? 
+*Where's the catch?* 
 
 Well, the only thing that we wished they had was a liability insurance. Genki focuses solely on health insurance for travelers, excluding liability coverage and coverage for personal belongings. Actually, this absence aligns with our preferences, resulting in more cost-effective plans compared to standard travel insurance. 
 
