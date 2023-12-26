@@ -106,11 +106,20 @@ Regarding the payment method, we provided our debit cards details and proceeded 
 
 
 ## Our impressions on Genki
-- Good customer support
-- Connected to Air Doctor
-- Can provide special documents for visa applications quickly
-- Flexibility: no need to provide a detailed travel plan (where and when)
-- Coverage in your home country (limited in time), good for nomads! Rare option
-- No liability insurance included, would feel safer with
+{{< score 5 >}}
+Genki seems to be a great insurance provider that offers a fantastic solution for globe-trotters that are looking to mitigate the risks of their journeys.
+
+The first thing that should be mentioned is how easy it is to sign up. Everything can be done online and requires a mere ten minutes of your time. We were not requested to provide any further documents such as a detailed planning of our route or a proof of residency, as it is sometimes the case with other companies. To finalize the sign up process, you are requested to pay for the first insured month. From there, you will be charged the same day monthly. No need to pay the total cost for a year upfront, but avoid delays in your payment as it might affect the benefits of your plans. What adds to the flexibility of the plan is that you can interrupt it at any time and it will take effect at the end of the ongoing month.
+
+Regarding the quality of service, from their customer support to their insurance plans, everything feels like it has been crafted with benevolence and care for the client. For example, if you stay at the hospital for five days or more, even the first-price plan will not only cover your stay and treatment without any limit, but also the transportation fees for one of your relatives until the premises.
+Another instance of their great support is when we requested to rephrase our insurance certificates to meet the visa application requirements for several picky countries. They reacted quickly and with efficiency.
+
+Where's the catch? 
+
+Well, the only thing that we wished they had was a liability insurance. Genki does not pretend to offer complete travel insurances but **health** insurances for travellers. So it makes sense that liability is not part of their offers. We were not interested in insuring our belongings either, as typically bundled by travel insurances, thus we are actually satisfied with this missing option. As result, their pricing is also reduced compared to the one of a standard travel insurance.
+
+Other great features that can be mentioned are coverage in your home country (for a limited amount of time), connected to Air Doctor (application to schedule your medical appointments worldwide), direct billing to the hospital... and so on.
+
+To conclude, we are currently touring across Eurasia by tandem bicycle, and chose *Genki Explorer* to power our safety on the way. Our experience with them has been tremendously positive so far. After this adventure finishes, we might consider to upgrade our plan to *Genki Resident*, which seems to align with our lifestyle and personalities. 
 
 
