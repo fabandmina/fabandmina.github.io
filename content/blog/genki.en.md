@@ -5,7 +5,8 @@ introduction: "Disclaimer: This page includes advertisements and affiliate links
 date: 2023-12-26T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
-    - health
+    - lifestyle
+    - eurasia
 author: fab
 draft: false
 ---
