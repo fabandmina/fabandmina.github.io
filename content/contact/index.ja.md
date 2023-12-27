@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "コンタクト"
 subtitle: " 連絡を取ろう！ "
 introduction: "以下のお問い合わせフォームに必要事項をご記入の上、「Fab & Minaへ送信」ボタンをクリックしてください。"
 date: 2022-10-01T20:33:03+02:00

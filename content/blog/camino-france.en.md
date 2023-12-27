@@ -1,5 +1,5 @@
 ---
-title: "camino_france"
+title: "Compostela - France"
 subtitle: " Follow the steps of the early pilgrims on the Routes of Camino de Compostela."
 introduction: "A long walk that will heal your soul"
 date: 2021-07-14T16:12:33+01:00

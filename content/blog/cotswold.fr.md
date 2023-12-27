@@ -1,5 +1,5 @@
 ---
-title: "cotswold_way"
+title: "Le Cotswold Way - Royaume-Uni"
 subtitle: " Randonnée sur les sentiers de campagne d'Angleterre."
 introduction: "Une promenade à travers un champ de blé aux allures de mer dorée."
 date: 2022-06-25T16:12:33+01:00

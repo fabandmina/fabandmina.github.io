@@ -1,5 +1,5 @@
 ---
-title: "okinawa"
+title: "沖縄"
 subtitle: " ユニークな文化と歴史を持つ日本の熱帯群島"
 introduction: "空手発祥の地！"
 date: 2020-01-16T16:12:33+01:00

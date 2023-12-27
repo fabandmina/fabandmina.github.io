@@ -1,5 +1,5 @@
 ---
-title: "cyprus"
+title: "Chypre"
 subtitle: " Visitons une somptueuse île méditerranéenne, aux influences grecques et turques."
 introduction: "Une randonnée à travers le mythique Mont Olympe chypriote en automne."
 date: 2022-11-06T16:12:33+01:00

@@ -1,5 +1,5 @@
 ---
-title: "camino_france"
+title: "Compostelle - France"
 subtitle: " Suivez les traces des premiers pèlerins sur les Chemins de Compostelle."
 introduction: "Une longue marche qui guérira soignera votre âme."
 date: 2021-07-14T16:12:33+01:00

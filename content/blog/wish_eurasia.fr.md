@@ -1,5 +1,5 @@
 ---
-title: wish_eurasia
+title: L'Eurasie en tandem
 subtitle: " Notre plan de route de l'Ouest à l'Est à travers l'Eurasie."
 introduction: "Retour au Japon par les terres."
 date: 2023-01-01T16:12:33+01:00

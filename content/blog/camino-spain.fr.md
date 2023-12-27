@@ -1,5 +1,5 @@
 ---
-title: "camino_spain"
+title: "Compostela - Espagne"
 subtitle: " Suivez les pas des premiers pèlerins sur les Chemins de Compostelle, via francés."
 introduction: "Une longue marche qui guérira soignera votre âme."
 date: 2021-08-23T16:12:33+01:00

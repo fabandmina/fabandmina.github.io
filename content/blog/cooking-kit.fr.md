@@ -1,5 +1,5 @@
 ---
-title: "cooking-kit"
+title: "Kit De Cuisine"
 subtitle: " Test du Kit de Cuisine Trangia : Un Kit de Cuisine pour les Aventuriers Gourmets ! "
 introduction: "Utilisation discrète de notre kit pour la préparation d'un petit-déjeuner sur la plage ensoleillée."
 date: 2023-04-10T16:36:59+02:00

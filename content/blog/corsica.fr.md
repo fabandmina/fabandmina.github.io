@@ -1,5 +1,5 @@
 ---
-title: "corsica"
+title: "La Corse"
 subtitle: " Un tour en bikepacking autour de l'Ile de Beauté."
 introduction: "Une île de la mer Méditerranée avec une culture unique et une vue spectaculaire créée par Mère Nature."
 date: 2022-12-03T16:12:33+01:00

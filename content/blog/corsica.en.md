@@ -1,5 +1,5 @@
 ---
-title: "corsica"
+title: "Corsica"
 subtitle: " A bikepacking tour around the Isle of Beauty."
 introduction: "An island in the Mediterranean sea with a unique culture and a spectacular view created by Mother Nature."
 date: 2022-12-03T16:12:33+01:00

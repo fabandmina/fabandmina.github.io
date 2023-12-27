@@ -1,5 +1,5 @@
 ---
-title: wish_eurasia
+title: "タンデムでユーラシア大陸をサイクリング"
 subtitle: " ユーラシア大陸を西から東へ移動する計画"
 introduction: "陸路で日本に戻ります！"
 date: 2023-01-01T16:12:33+01:00

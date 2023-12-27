@@ -1,5 +1,5 @@
 ---
-title: "bicycle"
+title: "自転車"
 subtitle: " ドイツ製のセミリカンベントタンデム自転車"
 introduction: 'この写真はハセ ピノ オールラウンド 2021(Hase Pino Allround)'
 date: 2022-10-02T16:36:59+02:00

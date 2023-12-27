@@ -1,5 +1,5 @@
 ---
-title: "cyprus"
+title: "Cyprus"
 subtitle: " Visit a sumptuous Mediterranean island with Greek and Turkish influences."
 introduction: "A hike across the mythical Cypriot Mount Olympus in autumn."
 date: 2022-11-06T16:12:33+01:00

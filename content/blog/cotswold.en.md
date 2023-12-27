@@ -1,5 +1,5 @@
 ---
-title: "cotswold_way"
+title: "The Cotswold Way - UK"
 subtitle: " Hiking the countryside footpaths of England."
 introduction: "A walk through a golden-sea-looking wheat field."
 date: 2022-06-25T16:12:33+01:00

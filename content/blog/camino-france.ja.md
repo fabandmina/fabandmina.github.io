@@ -1,5 +1,5 @@
 ---
-title: "camino_france"
+title: "camino_fコンポステーラ - フランスrance"
 subtitle: " キリスト教三代巡礼路の一つサンティアゴ・デ・コンポステラを目指し、過去の巡礼者の足跡を辿る"
 introduction: "心を癒すロングトレイル"
 date: 2021-07-14T16:12:33+01:00

@@ -1,5 +1,5 @@
 ---
-title: "okinawa"
+title: "Okinawa"
 subtitle: " A tropical archipelago in Japan, with a unique culture and history."
 introduction: "The birthplace of Karate!"
 date: 2020-01-16T16:12:33+01:00

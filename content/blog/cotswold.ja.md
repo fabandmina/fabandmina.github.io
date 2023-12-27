@@ -1,5 +1,5 @@
 ---
-title: "cotswold_way"
+title: "コッツウォルズウェイ - UK"
 subtitle: " イングランドの田園地帯を歩く旅"
 introduction: "黄金色の海のような麦畑を通るフットパス"
 date: 2022-06-25T16:12:33+01:00

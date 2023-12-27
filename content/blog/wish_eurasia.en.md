@@ -1,5 +1,5 @@
 ---
-title: wish_eurasia
+title: Eurasia by tandem bicycle
 subtitle: " Our planned route from West to East through Eurasia."
 introduction: "Going back to Japan by land."
 date: 2023-01-01T16:12:33+01:00

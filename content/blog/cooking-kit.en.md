@@ -1,5 +1,5 @@
 ---
-title: "cooking-kit"
+title: "Cooking Kit"
 subtitle: " Cook Like a Pro with Trangia Stove: The Best-Selling Swedish Outdoor Cooking Set!"
 introduction: 'Secretly boiling water for our breakfast on the sunny beach!'
 date: 2023-04-10T16:36:59+02:00
