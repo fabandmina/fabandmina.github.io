@@ -42,7 +42,7 @@ Thanks to our myriad adventures, we've gained some experience with insurances fo
 
 Genki provides two distinct plans: *Genki Explorer* and *Genki Resident*. The latter encompasses all the features of the first plan and offers enhanced overall coverage along with a host of additional features.
 
-The term *genki* finds its roots in the Japanese kanji "元気," translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
+The term *genki* finds its roots in the Japanese kanji "元気", translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
 
 
 ※ *We love this name!*
