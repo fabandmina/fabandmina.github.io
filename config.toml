@@ -11,6 +11,16 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
   unsafe = true
 
+### Override default taxonomies
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
+
+### Add permalinks to the taxonomies
+[permalinks]
+tags = '/blog/:slug/'
+topics = '/blog/:slug/'
+
 ### Menu configuration ###
 [menu]
     [[menu.main]]
@@ -19,33 +29,10 @@ enableRobotsTXT = true
       pageref ='/'
       weight = 1
     [[menu.main]]
-      identifier = 'blogs'
-      name = 'blogs'
-      pageref ='/blogs'
+      identifier = 'blog'
+      name = 'blog'
+      pageref ='/blog'
       weight = 2
-    [[menu.main]]
-      identifier = 'trip'
-      name = 'trip'
-      pageref ='/blogs/trip'
-      parent = 'blogs'
-      weight = 3
-    [[menu.main]]
-      identifier = 'gears'
-      name = 'gears'
-      pageref ='/blogs/gears'
-      parent = 'blogs'
-      weight = 2
-    [[menu.main]]
-      identifier = 'wishlist'
-      name = 'wishlist'
-      pageref ='/blogs/wishlist'
-      parent = 'blogs'
-      weight = 4
-    # [[menu.main]]
-    #   identifier = 'photos'
-    #   name = 'photos'
-    #   pageref ='/photos'
-    #   weight = 4
     [[menu.main]]
       identifier = 'contact'
       name = 'contact'

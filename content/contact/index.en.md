@@ -7,4 +7,5 @@ thumbnail:
 
 ---
 {{< contact_form >}}
-### Or DM us on Instagram at [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
+
+Or DM us on Instagram at [**fabandmina <i class="{{< param instagram_link.icon >}}"></i>**]({{< param instagram_link.url >}}).
