@@ -2,7 +2,7 @@
 title: "Assurance Santé"
 subtitle: " Genki : L'assurance santé idéale pour les nomades !"
 introduction: "Clause de non-responsabilité : Cette page contient des publicités et des liens d'affiliation. Le fait de cliquer sur ces liens n'aura aucune incidence sur les prix que vous rencontrerez, mais une petite commission nous sera versée en guise de remerciement. <hr><div style=''>※ Si vous décidez d'opter pour cette assurance, <p>soutenez-nous en utilisant notre lien d'affiliation <a href='https://www.genki.world/with/fabandmina'><b>ici >>.</b></a></p></div>"
-date: 2023-12-26T12:12:33+01:00
+date: 2023-12-30T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
     - lifestyle

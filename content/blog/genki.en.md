@@ -2,7 +2,7 @@
 title: "Health Insurance"
 subtitle: " Genki: The Perfect Health Insurance for Nomadic People!"
 introduction: "Disclaimer: This page includes advertisements and affiliate links. Clicking on these links will not affect the prices you encounter, but it will contribute a small commission to us as a gesture of your support. <hr><div style=''>※ If you decide to go with this insurance, <p>please support us by using our affiliate link <a href='https://www.genki.world/with/fabandmina'><b>here >>.</b></a></p></div>"
-date: 2023-12-26T12:12:33+01:00
+date: 2023-12-30T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
     - lifestyle
