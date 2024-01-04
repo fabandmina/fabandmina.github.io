@@ -52,19 +52,19 @@ Nous avons opté pour le plan d'assurance *Genki Explorer* pour notre voyage en 
 
 ### Ce qui est couvert par Genki Explorer
 <ul style="list-style: none;display: inline-block;">
-<li>🗸 Tout citoyen de  tout pays, âgé de 0 à 69 ans.</li>
-<li>🗸 Urgences dans votre pays d'origine 42 jours par semestre</li>
-<li>🗸 Traitement hospitalier et ambulatoire</li>
-<li>🗸 Tout hôpital et médecin</li>
-<li>🗸 Médicaments et matériel médical</li>
-<li>🗸 Transport médical</li>
-<li>🗸 Traitement COVID-19</li>
-<li>🗸 Maladies sexuellement transmissibles</li>
-<li>🗸 Aucune limite de coût global</li>
-<li>🗸 Tous les sports à l'exception des activités à haut risque énumérées ci-dessous</li>
-<li>🗸 Santé dentaire (soulagement de la douleur et traitement des accidents)</li>
-<li>🗸 Santé mentale (soins primaires d'urgence et ambulatoires)</li>
-<li>🗸 Grossesse</li>
+<li>✔ Tout citoyen de  tout pays, âgé de 0 à 69 ans.</li>
+<li>✔ Urgences dans votre pays d'origine 42 jours par semestre</li>
+<li>✔ Traitement hospitalier et ambulatoire</li>
+<li>✔ Tout hôpital et médecin</li>
+<li>✔ Médicaments et matériel médical</li>
+<li>✔ Transport médical</li>
+<li>✔ Traitement COVID-19</li>
+<li>✔ Maladies sexuellement transmissibles</li>
+<li>✔ Aucune limite de coût global</li>
+<li>✔ Tous les sports à l'exception des activités à haut risque énumérées ci-dessous</li>
+<li>✔ Santé dentaire (soulagement de la douleur et traitement des accidents)</li>
+<li>✔ Santé mentale (soins primaires d'urgence et ambulatoires)</li>
+<li>✔ Grossesse</li>
 
 </ul>
 

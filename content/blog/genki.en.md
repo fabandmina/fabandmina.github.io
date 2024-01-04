@@ -52,19 +52,19 @@ We opted for the *Genki Explorer* insurance plan for our Eurasian journey, antic
 
 ### What is covered by Genki Explorer
 <ul style="list-style: none;display: inline-block;">
-<li>🗸 Any citizen, any country, aged from 0 to 69.</li>
-<li>🗸 Emergencies in your home country 42 days per half year</li>
-<li>🗸 Inpatient & outpatient treatment</li>
-<li>🗸 Any hospital & doctor</li>
-<li>🗸 Medication & materials</li>
-<li>🗸 Medical transport</li>
-<li>🗸 COVID-19 treatment</li>
-<li>🗸 Sexually transmitted diseases</li>
-<li>🗸 No overall cost limits</li>
-<li>🗸 All sports except the high-risk activities listed below</li>
-<li>🗸 Dental health (pain relief & accident treatment)</li>
-<li>🗸 Mental health (emergency & outpatient primary care)</li>
-<li>🗸 Pregnancy</li>
+<li>✔ Any citizen, any country, aged from 0 to 69.</li>
+<li>✔ Emergencies in your home country 42 days per half year</li>
+<li>✔ Inpatient & outpatient treatment</li>
+<li>✔ Any hospital & doctor</li>
+<li>✔ Medication & materials</li>
+<li>✔ Medical transport</li>
+<li>✔ COVID-19 treatment</li>
+<li>✔ Sexually transmitted diseases</li>
+<li>✔ No overall cost limits</li>
+<li>✔ All sports except the high-risk activities listed below</li>
+<li>✔ Dental health (pain relief & accident treatment)</li>
+<li>✔ Mental health (emergency & outpatient primary care)</li>
+<li>✔ Pregnancy</li>
 
 </ul>
 
