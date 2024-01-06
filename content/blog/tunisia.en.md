@@ -2,7 +2,7 @@
 title: "Tunisia"
 subtitle: " "
 introduction: ""
-date: 2023-10-10T16:12:33+01:00
+date: 2024-01-06T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53419128085_ddf8192462_c.jpg"
 tags:
     - trip
@@ -63,14 +63,16 @@ Additionally, an outbound ferry or flight ticket reservation is required to be a
 
 
 ### {{< translate "road_condition" >}}
-{{< score 4 >}}
-We traced the *Via Francigena* to Rome and then journeyed to the Salerno region, where we caught a ferry to Tunisia. Upon returning to Italy through the port of Civitavecchia, we traversed the country from west to east via the *Passo dei Mandrioli*, making our way down to Ravenna. Continuing our pedal-powered adventure, we followed the Adriatic coastline until we reached the Slovenian border near Trieste.
+{{< score 3 >}}
+Upon our arrival in Tunis, we eagerly charted a course for the rejuvenating hot springs of Korbous in the North-Eastern reaches of the country. Our journey then unfolded southward, leading us to the captivating city of Kairouan, where we took a brief hiatus to savor the offerings of the region. Embarking on the return leg to the capital, we indulged in a detour through the enchanting locale of Hammam Bent Jidi, lingered around the North of Tunis and Carthage before concluding our adventure with a ferry ride back to Italy.
 
-In Italy, drivers demonstrate remarkable consideration for cyclists and motorcyclists, consistently allowing ample space on the right for the two-wheelers to navigate freely. Even amidst the bustling traffic of Naples, motorists made thoughtful maneuvers to accommodate us.
+Traversing the arid roads of Tunisia on our bicycles offered a distinctive experience, one that left us with a myriad of emotions. On the positive side, the road itself was nothing short of exceptional. Its surface, akin to polished marble, extended seamlessly for hundreds of kilometers, even in the remotest areas.
 
-Furthermore, the extensive cycleways resembled miniature highways for micromobility. These well-marked and well-maintained paths seamlessly connected cities, offering a smooth and safe journey over long distances.
+Conversely, the traffic proved to be somewhat tumultuous, particularly in the vicinity of bustling towns. Horizontal and vertical road markings were scarce, and encounters with unannounced roadworks were not uncommon. Despite these challenges, we adeptly navigated around obstacles, successfully evading most potential hazards.
 
-Yet, the experience was less than ideal. The asphalt roads consistently exhibited poor conditions. Our assessment pointed towards the likelihood of the issue being tied to the brief cooling time of freshly laid tar after recent renovations—a observation we made while passing through several road construction sites.
+Another factor contributing to the complexity of our journey was the behavior of car drivers. Beyond urban areas, they exhibited a considerate driving demeanor, providing ample space for our safety. However, within city limits, their actions became unpredictable, frequently ignoring the road direction and having a tendency to disregard traffic priorities and signals. Regrettably, we found ourselves on the receiving end of a rear-end collision, though the circumstances remain a mystery. We were progressively coming to a stop and the driver behind us had been following our slow pace over a hundred metres, and yet, managed to ram our bicycle and throw us onto the floor. Miraculously, the incident bore no lasting consequences.
+
+A final note of caution pertains to the various living beings sharing the roads. Expect encounters with camels, horses, donkeys, and sheep, navigating alongside other vehicles, even in the bustling capital. Surprisingly, these animals are accustomed to the traffic and rarely pose complications. Additionally, stray dogs, while not aggressive, may express discomfort if you linger within their territory for an extended period.
 
 ### {{< translate "accommodations" >}}
 {{< score 3 >}}
