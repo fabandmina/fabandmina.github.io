@@ -2,7 +2,7 @@
 title: "Health Insurance"
 subtitle: " Genki: The Perfect Health Insurance for Nomadic People!"
 introduction: "Disclaimer: This page includes advertisements and affiliate links. Clicking on these links will not affect the prices you encounter, but it will contribute a small commission to us as a gesture of your support. <hr><div style=''>※ If you decide to go with this insurance, <p>please support us by using our affiliate link <a href='https://www.genki.world/with/fabandmina'><b>here >>.</b></a></p></div>"
-date: 2023-12-26T12:12:33+01:00
+date: 2023-12-30T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
     - lifestyle
@@ -42,7 +42,7 @@ Thanks to our myriad adventures, we've gained some experience with insurances fo
 
 Genki provides two distinct plans: *Genki Explorer* and *Genki Resident*. The latter encompasses all the features of the first plan and offers enhanced overall coverage along with a host of additional features.
 
-The term *genki* finds its roots in the Japanese kanji "元気," translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
+The term *genki* finds its roots in the Japanese kanji "元気", translating to "good health," "lively," and "energetic." It perfectly encapsulates the essence of what their health insurance aims to promote for the dynamic and on-the-go lifestyle of digital nomads.
 
 
 ※ *We love this name!*
@@ -52,19 +52,19 @@ We opted for the *Genki Explorer* insurance plan for our Eurasian journey, antic
 
 ### What is covered by Genki Explorer
 <ul style="list-style: none;display: inline-block;">
-<li>🗸 Any citizen, any country, aged from 0 to 69.</li>
-<li>🗸 Emergencies in your home country 42 days per half year</li>
-<li>🗸 Inpatient & outpatient treatment</li>
-<li>🗸 Any hospital & doctor</li>
-<li>🗸 Medication & materials</li>
-<li>🗸 Medical transport</li>
-<li>🗸 COVID-19 treatment</li>
-<li>🗸 Sexually transmitted diseases</li>
-<li>🗸 No overall cost limits</li>
-<li>🗸 All sports except the high-risk activities listed below</li>
-<li>🗸 Dental health (pain relief & accident treatment)</li>
-<li>🗸 Mental health (emergency & outpatient primary care)</li>
-<li>🗸 Pregnancy</li>
+<li>✔ Any citizen, any country, aged from 0 to 69.</li>
+<li>✔ Emergencies in your home country 42 days per half year</li>
+<li>✔ Inpatient & outpatient treatment</li>
+<li>✔ Any hospital & doctor</li>
+<li>✔ Medication & materials</li>
+<li>✔ Medical transport</li>
+<li>✔ COVID-19 treatment</li>
+<li>✔ Sexually transmitted diseases</li>
+<li>✔ No overall cost limits</li>
+<li>✔ All sports except the high-risk activities listed below</li>
+<li>✔ Dental health (pain relief & accident treatment)</li>
+<li>✔ Mental health (emergency & outpatient primary care)</li>
+<li>✔ Pregnancy</li>
 
 </ul>
 

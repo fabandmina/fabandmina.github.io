@@ -2,7 +2,7 @@
 title: "Assurance Santé"
 subtitle: " Genki : L'assurance santé idéale pour les nomades !"
 introduction: "Clause de non-responsabilité : Cette page contient des publicités et des liens d'affiliation. Le fait de cliquer sur ces liens n'aura aucune incidence sur les prix que vous rencontrerez, mais une petite commission nous sera versée en guise de remerciement. <hr><div style=''>※ Si vous décidez d'opter pour cette assurance, <p>soutenez-nous en utilisant notre lien d'affiliation <a href='https://www.genki.world/with/fabandmina'><b>ici >>.</b></a></p></div>"
-date: 2023-12-26T12:12:33+01:00
+date: 2023-12-30T12:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53416526386_89eed8e024_c.jpg"
 tags:
     - lifestyle
@@ -52,19 +52,19 @@ Nous avons opté pour le plan d'assurance *Genki Explorer* pour notre voyage en 
 
 ### Ce qui est couvert par Genki Explorer
 <ul style="list-style: none;display: inline-block;">
-<li>🗸 Tout citoyen de  tout pays, âgé de 0 à 69 ans.</li>
-<li>🗸 Urgences dans votre pays d'origine 42 jours par semestre</li>
-<li>🗸 Traitement hospitalier et ambulatoire</li>
-<li>🗸 Tout hôpital et médecin</li>
-<li>🗸 Médicaments et matériel médical</li>
-<li>🗸 Transport médical</li>
-<li>🗸 Traitement COVID-19</li>
-<li>🗸 Maladies sexuellement transmissibles</li>
-<li>🗸 Aucune limite de coût global</li>
-<li>🗸 Tous les sports à l'exception des activités à haut risque énumérées ci-dessous</li>
-<li>🗸 Santé dentaire (soulagement de la douleur et traitement des accidents)</li>
-<li>🗸 Santé mentale (soins primaires d'urgence et ambulatoires)</li>
-<li>🗸 Grossesse</li>
+<li>✔ Tout citoyen de  tout pays, âgé de 0 à 69 ans.</li>
+<li>✔ Urgences dans votre pays d'origine 42 jours par semestre</li>
+<li>✔ Traitement hospitalier et ambulatoire</li>
+<li>✔ Tout hôpital et médecin</li>
+<li>✔ Médicaments et matériel médical</li>
+<li>✔ Transport médical</li>
+<li>✔ Traitement COVID-19</li>
+<li>✔ Maladies sexuellement transmissibles</li>
+<li>✔ Aucune limite de coût global</li>
+<li>✔ Tous les sports à l'exception des activités à haut risque énumérées ci-dessous</li>
+<li>✔ Santé dentaire (soulagement de la douleur et traitement des accidents)</li>
+<li>✔ Santé mentale (soins primaires d'urgence et ambulatoires)</li>
+<li>✔ Grossesse</li>
 
 </ul>
 
