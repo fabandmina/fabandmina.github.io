@@ -93,13 +93,13 @@ If you're in need of a camping spot, don't hesitate to approach locals – feel 
 
 ### {{< translate "facilities" >}}
 {{< score 3 >}}
-Navigating essentials while traveling in this region requires a bit of local insight. When it comes to staying hydrated, bottled water is readily available, making it simple to quench your thirst. However, be prepared to encounter limited access to public toilets. In such situations, petrol stations or cafés can be your go-to spots for restroom facilities.
+Navigating essentials while traveling in this region requires a bit of local insight. When it comes to staying hydrated, although bottled water is readily available, finding drinkable tap water is impossible, except in a handful of villages built around natural springs. 
 
-Financial transactions also have their nuances here. Supermarkets generally accept cards, but it's advisable to keep some cash handy, especially in smaller establishments. Upon checkout at supermarkets, fixed fees may apply, so be mindful of this during your shopping excursions.
+Public toilets are not a common sight. Petrol stations or cafés can be your go-to spots for restroom facilities.
+
+When it comes to shopping, supermarkets offer the convenience of card payments but include additional extra fixed fees. Local grocery stores may not have price tags and will only accept cash. For unique finds and attractive prices, exploring local marketplaces is a must. The absence of fixed price tags allows for a more dynamic and interactive shopping experience. Embrace the opportunity to haggle and discover hidden gems in these vibrant markets.
 
 Connectivity is a breeze, as free Wi-Fi access points are easy to come by. Whether you're in a café or public space, staying connected won't pose a challenge.
-
-When it comes to shopping, supermarkets offer the convenience of card payments and fixed fees, while local grocery stores may not have price tags, requiring a bit of negotiation. For unique finds and attractive prices, exploring local marketplaces is a must. The absence of fixed price tags allows for a more dynamic and interactive shopping experience. Embrace the opportunity to haggle and discover hidden gems in these vibrant markets.
 
 ### {{< translate "communication_with_the_locals" >}}
 {{< score 5 >}}
@@ -113,10 +113,10 @@ Outside the capital, the culinary landscape may not boast as much diversity, but
 
 The vibrant spice market adds a flavorful dimension to the culinary experience, with an array of tasty spices that elevate the local dishes. Additionally, the coffee culture is noteworthy, with good coffee being a staple part of the gastronomic scene.
 
-However, it's worth noting that street shops and restaurants often serve similar fare, diminishing the novelty of dining at most establishments. To truly savor distinct flavors, seeking out hidden gems or local specialties is recommended for a more authentic and memorable culinary adventure.
+However, it's worth noting that street shops and restaurants often serve similar fare, diminishing the novelty of dining at most establishments. 
 
 #### {{< translate vegetarian_friendly >}} {{< score 4 >}}
-While the overall dining options may be somewhat limited, there's always something available to accommodate a vegetarian diet. The local market, in particular, emerges as a treasure trove for delectable and incredibly affordable options. The tomatoes and dates sourced from these markets are not only tasty but also come at unbelievably low prices, making it a delightful experience for those embracing a vegetarian lifestyle.
+While the overall dining options may be somewhat limited, there's always something available to accommodate a vegetarian diet. 
 
 #### {{< translate what_we_eat >}} 
 
@@ -126,7 +126,6 @@ While the overall dining options may be somewhat limited, there's always somethi
 - Cucumbers
 - Tunisian salad
 - Tunisian savory crepes
-- Olive oil
 - Dates
 - Makroud
 - Coffee
