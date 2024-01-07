@@ -2,7 +2,7 @@
 title: "Tunisia"
 subtitle: " Unexpected Turns: Navigating Tunisia's Rich Heritage"
 introduction: "Contemporary Carthage from a relaxing viewpoint."
-date: 2024-01-06T16:12:33+01:00
+date: 2023-10-10T16:12:33+01:00
 thumbnail: "https://live.staticflickr.com/65535/53419128085_ddf8192462_c.jpg"
 tags:
     - trip
@@ -15,7 +15,7 @@ draft: false
 ## {{< translate "travel_story" >}}
 Our journey through Tunisia unfolded unexpectedly during our Eurasian crossing. Initially not part of our planned route, it became essential when Croatia joined the Schengen area in 2023, limiting our options to renew Mina's visa. Despite the unforeseen detour, exploring Tunisia turned out to be a fantastic and refreshing experience.
 
-The country's rich history added an extra layer of fascination to our travels. Engaging with the Tunisian people enriched our trip, providing unique insights and making our journey even more interesting. The spontaneity of our detour only added to the richness of our overall travel experience.
+The country's great history added an extra layer of fascination to our travels. Engaging with the Tunisian people enriched our trip, providing unique insights and making our journey even more interesting. 
 
 ## {{< translate "overall_feel" >}} 
 {{< score 5 >}}
@@ -60,7 +60,7 @@ As a French national, you can stay 3 months inside the country. You just need to
 #### {{< translate mina >}} 🇯🇵
 As a Japanese national, you can stay 3 months inside the country. You just need to present a valid passport upon arrival.
 
-Additionally, an outbound ferry or flight ticket reservation is required to be able to enter Tunisia.
+Additionally, an outbound ferry or flight ticket reservation is required to be able to enter Tunisia. Providing a proof of hotel reservation for the whole length of our stay made the screening process even smoother.
 
 
 
@@ -135,7 +135,7 @@ While the overall dining options may be somewhat limited, there's always somethi
 
 #### ⭐{{< translate fab_favourite >}}
 
-Tunisian *lablabi:* a spiced chickpea soup, rich and comforting.
+Tunisian *lablabi:* a spiced chickpea soup.
 
 #### ⭐{{< translate mina_favourite >}}
 
