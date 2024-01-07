@@ -13,7 +13,7 @@ author: fab
 draft: false
 ---
 ## {{< translate "travel_story" >}}
-Our journey through Tunisia unfolded unexpectedly during our Eurasian crossing. Initially not part of our planned route, it became essential when Croatia joined the Schengen area in 2023, limiting our options to renew Mina's visa. Despite the unforeseen detour, exploring Tunisia turned out to be a fantastic and refreshing experience.
+Our journey through Tunisia unfolded unexpectedly during our Eurasian crossing. Initially not part of our planned route, it became essential when Croatia joined the Schengen area in 2023, limiting our options to reset Mina's visa. Despite the unforeseen detour, exploring Tunisia turned out to be a fantastic and refreshing experience.
 
 The country's great history added an extra layer of fascination to our travels. Engaging with the Tunisian people enriched our trip, providing unique insights and making our journey even more interesting. 
 
