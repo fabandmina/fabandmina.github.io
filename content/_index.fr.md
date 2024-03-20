@@ -3,7 +3,7 @@ title: "Home"
 subtitle: " Voyagez avec nous "
 introduction: "Explorez le monde avec nous ! Visitons cette merveilleuse planète en réduisant notre empreinte carbone. Suivez-nous en vélo et à pieds (et parfois en autostop)."
 date: 2022-10-01T19:37:02+02:00
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/40.112/6.272"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981%2C3237690#5/40.112/6.272"
 ---
 
 # Fab et Mina: Voyagez avec nous

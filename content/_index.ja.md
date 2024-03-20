@@ -3,7 +3,7 @@ title: "Home"
 subtitle: "Fab and Mina: Travel with us"
 introduction: "さあ、私達と一緒に世界を探検しよう！自転車や徒歩(時にはヒッチハイク)といった、なるべく二酸化炭素排出量の少ない移動方法で、この美しい星を旅しましょう。"
 date: 2022-10-01T19:37:02+02:00
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#5/40.112/6.272"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981%2C3237690#5/40.112/6.272"
 ---
 
 # Fab and Mina: Travel with us
