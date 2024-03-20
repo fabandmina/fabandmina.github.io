@@ -10,7 +10,7 @@ tags:
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720313591087"
 map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#7/36.137/10.712"
 author: fab
-draft: false
+draft: true
 ---
 ## {{< translate "travel_story" >}}
 Our journey through Tunisia unfolded unexpectedly during our Eurasian crossing. Initially not part of our planned route, it became essential when Croatia joined the Schengen area in 2023, limiting our options to reset Mina's visa. Despite the unforeseen detour, exploring Tunisia turned out to be a fantastic and refreshing experience.
