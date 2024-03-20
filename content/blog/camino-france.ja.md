@@ -7,7 +7,7 @@ thumbnail: "https://live.staticflickr.com/65535/52518424392_540ae080c8_c.jpg"
 tags:
     - trip
 flickr_album: "https://www.flickr.com/photos/196589873@N03/albums/72177720303923005"
-map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2797981#7/44.3/2.5338"
+map: "//umap.openstreetmap.fr/en/map/around_the_world_814763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2484864#7/44.3/2.5338"
 author: mina
 ---
 ## {{< translate "travel_story" >}}
